@@ -2,11 +2,11 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US" page-range-format="expanded" demote-non-dropping-particle="sort-only">
   <info>
     <title>地球科学（英文版）</title>
-    <title-short>Journal of Earth Science / JES</title-short>
-    <id>https://zotero-chinese.com/styles/%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6%EF%BC%88%E8%8B%B1%E6%96%87%E7%89%88%EF%BC%89</id>
-    <link href="https://zotero-chinese.com/styles/%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6%EF%BC%88%E8%8B%B1%E6%96%87%E7%89%88%EF%BC%89" rel="self"/>
-    <link href="https://media.springer.com/full/springer-instructions-for-authors-assets/pdf/643998_173839904_IFA_12583_Journal%20of%20Earth%20Science.pdf" rel="documentation"/>
+    <title-short>JES</title-short>
+    <id>https://zotero-chinese.com/styles/地球科学（英文版）</id>
+    <link href="https://zotero-chinese.com/styles/地球科学（英文版）" rel="self"/>
     <link href="https://mc03.manuscriptcentral.com/jes" rel="documentation"/>
+    <link href="https://media.springer.com/full/springer-instructions-for-authors-assets/pdf/643998_173839904_IFA_12583_Journal%20of%20Earth%20Science.pdf" rel="documentation"/>
     <author>
       <name>RenXiaokai1999</name>
     </author>
@@ -15,7 +15,7 @@
     <issn>1674-487X</issn>
     <eissn>1867-111X</eissn>
     <summary>依据 Journal of Earth Science GUIDE FOR AUTHORS 制作，覆盖期刊论文、图书、专著析出文献、期刊专题/特刊析出文献和学位论文。</summary>
-    <updated>2026-06-29T10:13:12+08:00</updated>
+    <updated>2026-07-02T21:15:05+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
 

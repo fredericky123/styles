@@ -117,7 +117,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">谭其骧（1982）：《中国历史地图集》第2册，地图出版社。</div>
   <div class="csl-entry">汤万金、杨跃翔、刘文、郑建国、王赟松（2013）：《人体安全重要技术标准研制最终报告》。</div>
   <div class="csl-entry">童世亨（1926）：《京兆直隶图》，商务印书馆。</div>
-  <div class="csl-entry">図書館用語辞典編集委員会 (ed.) (2004): 最新図書館用語大辞典, 柏書房株式会社.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会 (ed.) (2004): 最新図書館用語大辭典, 柏書房株式會社.</div>
   <div class="csl-entry">汪学军（2005）：《中国农业转基因生物研发进展与安全管理》，载于《中国国家生物安全框架实施国际合作项目研讨会论文集》（国家环境保护总局生物安全管理办公室主编），中国环境科学出版社。</div>
   <div class="csl-entry">王夫之（1865）：《宋论》（刻本），湘乡曾国荃。</div>
   <div class="csl-entry">王夫之主编（2011）：《周易外传：卷5》，载于《船山全书》（修订版）第1册，岳麓书社，第983—1029页。</div>
@@ -179,9 +179,9 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">Kinchy, A. (2012): <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, MIT Press.</div>
   <div class="csl-entry">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C. Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar and J. Schmutz (2014): “The Genome of <i>Eucalyptus grandis</i>”, <i>Nature</i>, 510, 356-362.</div>
   <div class="csl-entry">Park, J. R. and Y. Tosaka (2010): “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, <i>Cataloging &#38; Classification Quarterly</i>, 48, 696-715.</div>
-  <div class="csl-entry">Peebles, P. Z., Jr. (2001): <i>Probability, Random Variable, and Random Signal Principles</i>, McGraw-Hill.</div>
+  <div class="csl-entry">Peebles, P. Z., Jr. (2001): <i>Probability, Random Variables, and Random Signal Principles</i>, McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A. (2011): <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc.</div>
-  <div class="csl-entry">Roberson, J. A. and E. G. Burneson (2011): “Drinking Water Standards, Regulations and Goals”, In: American Water Works Association, <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, McGraw-Hill.</div>
+  <div class="csl-entry">Roberson, J. A. and E. G. Burneson (2011): “Drinking Water Quality Standards, Regulations and Goals”, In: American Water Works Association, <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, McGraw-Hill.</div>
   <div class="csl-entry">Sadock, B. J., V. A. Sadock, P. Ruiz and H. I. Kaplan (eds.) (2009): <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>, vol. 1, Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito, M. and K. Miyazaki (2006): “Jadeite-Bearing Metagabbro in Serpentinite Melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu”, <i>Bulletin of the Geological Survey of Japan</i>, 57, 169-176.</div>
   <div class="csl-entry">Santer, R. D. and O. Akanyeti (2025): “Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps”, <i>Insect Science</i>.</div>
@@ -200,7 +200,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">Zhong, X., Q. Yan and G. Li (2022): <i>Long Time Series Nighttime Light Dataset of China: 2000–2020</i>.</div>
   <div class="csl-entry">Zotero: <i>[Zotero Download]</i>, <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>, April 8, 2024.</div>
   <div class="csl-entry">（1949）：《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》。</div>
-  <div class="csl-entry">（1962）：《康熙字典》（同文书局影印本）巳集上 水部，中华书局。</div>
+  <div class="csl-entry">（1962）：《康熙字典》（影印本）巳集上 水部，中华书局。</div>
   <div class="csl-entry">(1979): <i>Public Library Quarterly</i>, 1979，1（1）—, Taylor &#38; Francis.</div>
   <div class="csl-entry">(2020): <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>, IEEE.</div>
   <div class="csl-entry">（2022）：《《庄子》读不懂？看完这一篇“导读”就明白了》。</div>

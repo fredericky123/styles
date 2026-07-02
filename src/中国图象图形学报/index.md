@@ -60,7 +60,7 @@ Qian 等 （2009a）<br>
   <div class="csl-entry">American Association for the Advancement of Science. 1883. Science. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). 2022. Guide to lithium battery safety for space applications: AIAA G-136-2022.</div>
   <div class="csl-entry">1949. 武汉: 武汉大学档案馆 (佚名. 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告. 武汉: 武汉大学档案馆)</div>
-  <div class="csl-entry">1962. 50 (佚名. 1962. 康熙字典: 巳集上 水部. 同文书局影印本. 北京: 中华书局: 50)</div>
+  <div class="csl-entry">1962. 50 (佚名. 1962. 康熙字典: 巳集上 水部. 影印本. 北京: 中华书局: 50)</div>
   <div class="csl-entry">Anon. 1979. Public library quarterly. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">2011. 983-1029 (佚名. 2011. 周易外传：卷5. 王夫之. 船山全书: 第1册. 修订版. 长沙: 岳麓书社: 983-1029)</div>
   <div class="csl-entry">2020. 24-25 (佚名. 2020. 大黄. 国家药典委员会. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社: 24-25)</div>
@@ -96,9 +96,9 @@ Qian 等 （2009a）<br>
   <div class="csl-entry">Ljungqvist L和Sargent T J. 2010. Recursive macroeconomic theory. Beijing: China Renmin University Press: 798 (扬奎斯特, 萨金特. 2010. 递归宏观经济理论. 杨斌, 王忠玉, 陈彦斌, 严高剑, 译. 2 版. 北京: 中国人民大学出版社: 798)</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, Hellsten U, Hayes R D, Grimwood J, et al. 2014. The genome of <i>Eucalyptus grandis</i>. Nature, 510: 356-362 [DOI: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>].</div>
   <div class="csl-entry">Park J R and Tosaka Y. 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. Cataloging &#38; Classification Quarterly, 48(8): 696-715.</div>
-  <div class="csl-entry">Peebles P Z Jr. 2001. Probability, random variable, and random signal principles. 4th ed. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Peebles P Z Jr. 2001. Probability, random variables, and random signal principles. 4th ed. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis A. 2011. Death by theory: a tale of mystery and archaeological theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
-  <div class="csl-entry">Roberson J A and Burneson E G. 2011. Drinking water standards, regulations and goals. American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
+  <div class="csl-entry">Roberson J A and Burneson E G. 2011. Drinking water quality standards, regulations and goals. American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
   <div class="csl-entry">Sadock B J, Sadock V A, Ruiz P and Kaplan H I. 2009. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry: Vol. 1. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito M and Miyazaki K. 2006. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bulletin of the Geological Survey of Japan, 57(5/6): 169-176.</div>
   <div class="csl-entry">Santer R D and Akanyeti O. 2025. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. Insect science [DOI: <a href="https://doi.org/10.1111/1744-7917.13496">10.1111/1744-7917.13496</a>].</div>
@@ -145,7 +145,7 @@ Qian 等 （2009a）<br>
   <div class="csl-entry">2019 (吴自银, 温珍河. 2019. 中国南部海域海底地形图. 北京: 科学出版社)</div>
   <div class="csl-entry">2023 (周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松,  等. 2023. 天宫二号遥感图像自然景物分类数据集. 国家基础学科公共科学数据中心) <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a></div>
   <div class="csl-entry">2012. 235-236 (哈里森, 沃尔德伦. 2012. 经济数学与金融数学. 谢远涛, 译. 北京: 中国人民大学出版社: 235-236)</div>
-  <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辞典. 東京: 柏書房株式会社: 154.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辭典. 東京: 柏書房株式會社: 154.</div>
   <div class="csl-entry">[2025] (国家测绘地理信息局. [2025]. 一带一路经济走廊及其途经城市分布地势图)</div>
   <div class="csl-entry">2020. NB/T 10386—2020 (国家能源局. 2020. 水电工程水温实时监测系统技术规范: NB/T 10386—2020)</div>
   <div class="csl-entry">2022. GB 18030—2022 (工业和信息化部. 2022. 信息技术  中文编码字符集: GB 18030—2022)</div>

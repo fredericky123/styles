@@ -128,11 +128,11 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   <div class="csl-entry">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z/OL].</div>
   <div class="csl-entry">佚名. 图书馆学通讯[Z]. 北京: 北京图书馆, 1957/1990.</div>
-  <div class="csl-entry">佚名. 康熙字典[M]. 同文书局影印本 版. 北京: 中华书局, 1962: 50.</div>
+  <div class="csl-entry">佚名. 康熙字典[M]. 影印本 版. 北京: 中华书局, 1962: 50.</div>
   <div class="csl-entry">Anonymous. Public library quarterly[Z/OL]. Philadelphia: Taylor &#38; Francis, 1979.</div>
   <div class="csl-entry">佚名. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会, 1984.</div>
   <div class="csl-entry">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000.</div>
-  <div class="csl-entry">佚名. 最新図書館用語大辞典[M]. 図書館用語辞典編集委員会, 编. 東京: 柏書房株式会社, 2004: 154.</div>
+  <div class="csl-entry">佚名. 最新図書館用語大辭典[M]. 図書館用語辞典編集委員会, 编. 東京: 柏書房株式會社, 2004: 154.</div>
   <div class="csl-entry">Anonymous. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Sadock B J, Sadock V A, Ruiz P, et al., eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   <div class="csl-entry">佚名. 周易外传：卷5[M]. 王夫之, 编//船山全书. 修订版 版. 长沙: 岳麓书社, 2011a: 983-1029.</div>
   <div class="csl-entry">佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M/OL]. 陈志勇, 编. 北京: 经济科学出版社, 2011b.</div>
@@ -191,9 +191,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M/OL]. Cambridge, Mass.: MIT Press, 2012: 50.</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of <i>Eucalyptus grandis</i>[J/OL]. <i>Nature</i>, 2014, 510: 356-362.</div>
   <div class="csl-entry">Park J-R, Tosaka Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J/OL]. <i>Cat. Classif. Q.</i>, 2010, 48(8): 696-715.</div>
-  <div class="csl-entry">Peebles P Z Jr. Probability, random variable, and random signal principles[M]. 4 edition. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">Peebles P Z Jr. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
-  <div class="csl-entry">Roberson J A, Burneson E G. Drinking water standards, regulations and goals[M/OL]. American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+  <div class="csl-entry">Roberson J A, Burneson E G. Drinking water quality standards, regulations and goals[M/OL]. American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. <i>Bull. Geol. Surv. Jpn.</i>, 2006, 57(5/6): 169-176.</div>
   <div class="csl-entry">Santer R D, Akanyeti O. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps[J/OL]. <i>Insect Sci.</i>, 2025.</div>
   <div class="csl-entry">Shinotsuka H, Nagata K, Siriwardana M, et al. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator[J/OL]. <i>J. Electron Spectrosc. Relat. Phenom.</i>, 2023, 267.</div>

@@ -114,7 +114,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">. 地图出版社, 北京: 6.</div>
   <div class="csl-entry"><b>汤万金, 杨跃翔, 刘文, 郑建国, 王赟松</b> (2013). 人体安全重要技术标准研制最终报告.</div>
   <div class="csl-entry">. 商务印书馆, 上海.</div>
-  <div class="csl-entry"><b>図書館用語辞典編集委員会</b> (2004). 最新図書館用語大辞典. 柏書房株式会社, 東京: 154.</div>
+  <div class="csl-entry"><b>図書館用語辞典編集委員会</b> (2004). 最新図書館用語大辭典. 柏書房株式會社, 東京: 154.</div>
   <div class="csl-entry"><b>汪学军</b> (2005). 中国农业转基因生物研发进展与安全管理. .</div>
   <div class="csl-entry"><b>王夫之</b> (1865). 宋论. 刻本 版. 湘乡曾国荃, 金陵.</div>
   <div class="csl-entry"><b>王夫之</b> (2011). 周易外传：卷5. In: 船山全书. 修订版 版. 岳麓书社, 长沙. pp. 983-1029.</div>
@@ -174,9 +174,9 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Kinchy, A.</b> (2012). Seeds, sciences, and struggle: the global politics of transgenic crops. MIT Press, Cambridge, Mass.: 50.</div>
   <div class="csl-entry"><b>Myburg, A.A., Grattapaglia, D., Tuskan, G.A., Hellsten, U., Hayes, R.D., Grimwood, J., Jenkins, J., Lindquist, E., Tice, H., Bauer, D., Goodstein, D.M., Dubchak, I., Poliakov, A., Mizrachi, E., Kullan, A.R.K., Hussey, S.G., Pinard, D., van der Merwe, K., Singh, P., van Jaarsveld, I., Silva-Junior, O.B., Togawa, R.C., Pappas, M.R., Faria, D.A., Sansaloni, C.P., Petroli, C.D., Yang, X., Ranjan, P., Tschaplinski, T.J., Ye, C.-Y., Li, T., Sterck, L., Vanneste, K., Murat, F., Soler, M., Clemente, H.S., Saidi, N., Cassan-Wang, H., Dunand, C., Hefer, C.A., Bornberg-Bauer, E., Kersting, A.R., Vining, K., Amarasinghe, V., Ranik, M., Naithani, S., Elser, J., Boyd, A.E., Liston, A., Spatafora, J.W., Dharmwardhana, P., Raja, R., Sullivan, C., Romanel, E., Alves-Ferreira, M., Külheim, C., Foley, W., Carocha, V., Paiva, J., Kudrna, D., Brommonschenkel, S.H., Pasquali, G., Byrne, M., Rigault, P., Tibbits, J., Spokevicius, A., Jones, R.C., Steane, D.A., Vaillancourt, R.E., Potts, B.M., Joubert, F., Barry, K., Pappas, G.J., Strauss, S.H., Jaiswal, P., Grima-Pettenati, J., Salse, J., Van de Peer, Y., Rokhsar, D.S., Schmutz, J.</b> (2014). The genome of <i>Eucalyptus grandis</i>. Nature, <b>510</b>: 356-362.</div>
   <div class="csl-entry"><b>Park, J.-R., Tosaka, Y.</b> (2010). Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. Cat. Classif. Q., <b>48</b>: 696-715.</div>
-  <div class="csl-entry"><b>Peebles, P.Z., Jr.</b> (2001). Probability, random variable, and random signal principles. 4th. McGraw-Hill, New York.</div>
+  <div class="csl-entry"><b>Peebles, P.Z., Jr.</b> (2001). Probability, random variables, and random signal principles. 4th. McGraw-Hill, New York.</div>
   <div class="csl-entry"><b>Praetzellis, A.</b> (2011). Death by theory: a tale of mystery and archaeological theory. Rev. ed. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
-  <div class="csl-entry"><b>Roberson, J.A., Burneson, E.G.</b> (2011). Drinking water standards, regulations and goals. In: <i>Water quality &#38; treatment: a handbook on drinking water</i>.  6th edn. McGraw-Hill, New York. pp. 1.1-1.36.</div>
+  <div class="csl-entry"><b>Roberson, J.A., Burneson, E.G.</b> (2011). Drinking water quality standards, regulations and goals. In: <i>Water quality &#38; treatment: a handbook on drinking water</i>.  6th edn. McGraw-Hill, New York. pp. 1.1-1.36.</div>
   <div class="csl-entry"><b>Sadock, B.J., Sadock, V.A., Ruiz, P., Kaplan, H.I.</b> (2009). Kaplan &#38; Sadock’s comprehensive textbook of psychiatry. 9th. Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, Philadelphia.</div>
   <div class="csl-entry"><b>Saito, M., Miyazaki, K.</b> (2006). Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bull. Geol. Surv. Jpn., <b>57</b>: 169-176.</div>
   <div class="csl-entry"><b>Santer, R.D., Akanyeti, O.</b> (2025). Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. Insect Sci.</div>
@@ -193,7 +193,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Yu, Y., Pan, E., Wang, X., Wu, Y., Mei, X., Ma, J.</b> (2024). Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis In: <i>CVPR</i>, Seattle.</div>
   <div class="csl-entry"><b>Yufin, S.A.</b> (2000). Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000. A. A. Balkema, Rotterdam.</div>
   <div class="csl-entry">. Global Change Research Data Publishing &#38; Repository.</div>
-  <div class="csl-entry">(1962). 康熙字典. 同文书局影印本 版. 中华书局, 北京: 50.</div>
+  <div class="csl-entry">(1962). 康熙字典. 影印本 版. 中华书局, 北京: 50.</div>
   <div class="csl-entry">. Taylor &#38; Francis, Philadelphia.</div>
   <div class="csl-entry">(2020). IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation. IEEE, New York.</div>
   <div class="csl-entry">(2022-10-26).</div>

@@ -224,7 +224,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline">童世亨，《京兆直隶图》。上海：商务印书馆，1926年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">図書館用語辞典編集委員会, 最新図書館用語大辞典. 東京: 柏書房株式会社, 2004.</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">図書館用語辞典編集委員会, 最新図書館用語大辭典. 東京: 柏書房株式會社, 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[51]</div><div class="csl-right-inline">汪学军，“中国农业转基因生物研发进展与安全管理”，载国家环境保护总局生物安全管理办公室主编《中国国家生物安全框架实施国际合作项目研讨会论文集》。北京：中国环境科学出版社，2005年。</div>
@@ -440,13 +440,13 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[121]</div><div class="csl-right-inline">Park, J.-R., and Y. Tosaka, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, Cataloging &#38; Classification Quarterly, 2010, 48(8), 696-715.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">Peebles, P. Z., Jr., Probability, Random Variable, and Random Signal Principles. New York: McGraw-Hill, 2001.</div>
+    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">Peebles, P. Z., Jr., Probability, Random Variables, and Random Signal Principles. New York: McGraw-Hill, 2001.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[123]</div><div class="csl-right-inline">Praetzellis, A., Death by Theory: A Tale of Mystery and Archaeological Theory. Rowman &#38; Littlefield Publishing Group, Inc., 2011.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">Roberson, J. A., and E. G. Burneson, “Drinking Water Standards, Regulations and Goals”, in American Water Works Association, ed., Water Quality &#38; Treatment: A Handbook on Drinking Water. New York: McGraw-Hill, 2011.</div>
+    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">Roberson, J. A., and E. G. Burneson, “Drinking Water Quality Standards, Regulations and Goals”, in American Water Works Association, ed., Water Quality &#38; Treatment: A Handbook on Drinking Water. New York: McGraw-Hill, 2011.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[125]</div><div class="csl-right-inline">Sadock, B. J., V. A. Sadock, P. Ruiz, and H. I. Kaplan, Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>

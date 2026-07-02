@@ -93,9 +93,9 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">Kinchy, A., 2012. Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops. MIT Press, Cambridge, Mass. 50</div>
   <div class="csl-entry">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., et al., 2014. The Genome of <i>Eucalyptus grandis</i>. <i>Nature</i>, 510: 356–362. <a href="https://doi.org/10.1038/nature13308">https://doi.org/10.1038/nature13308</a></div>
   <div class="csl-entry">Park, J.-R., Tosaka, Y., 2010. Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms. <i>Cataloging &#38; Classification Quarterly</i>, 48(8): 696–715.</div>
-  <div class="csl-entry">Peebles, P. Z., Jr., 2001. Probability, Random Variable, and Random Signal Principles. McGraw-Hill, New York.</div>
+  <div class="csl-entry">Peebles, P. Z., Jr., 2001. Probability, Random Variables, and Random Signal Principles. McGraw-Hill, New York.</div>
   <div class="csl-entry">Praetzellis, A., 2011. Death by Theory: A Tale of Mystery and Archaeological Theory. Rowman &#38; Littlefield Publishing Group, Inc. 13</div>
-  <div class="csl-entry">Roberson, J. A., Burneson, E. G., 2011. Drinking Water Standards, Regulations and Goals. In: American Water Works Association, eds., Water Quality &#38; Treatment: A Handbook on Drinking Water. McGraw-Hill, New York. 1.1-1.36</div>
+  <div class="csl-entry">Roberson, J. A., Burneson, E. G., 2011. Drinking Water Quality Standards, Regulations and Goals. In: American Water Works Association, eds., Water Quality &#38; Treatment: A Handbook on Drinking Water. McGraw-Hill, New York. 1.1-1.36</div>
   <div class="csl-entry">Sadock, B. J., Sadock, V. A., Ruiz, P., et al., eds., 2009. Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry. Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, Philadelphia.</div>
   <div class="csl-entry">Saito, M., Miyazaki, K., 2006. Jadeite-Bearing Metagabbro in Serpentinite Melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu. <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6): 169–176. 10.9795/bullgsj.57.169</div>
   <div class="csl-entry">Santer, R. D., Akanyeti, O., 2025. Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps. <i>Insect science</i>,  <a href="https://doi.org/10.1111/1744-7917.13496">https://doi.org/10.1111/1744-7917.13496</a></div>
@@ -145,7 +145,7 @@ tex.number: JP2021578120A</div>
   <div class="csl-entry">吴自银, 温珍河, 2019. 中国南部海域海底地形图. tex.entrytype: map</div>
   <div class="csl-entry">周壮, 李盛阳, 吴薇, et al., 2023. 天宫二号遥感图像自然景物分类数据集. tex.cstr: 16666.11.nbsdc.tfpbwtqf</div>
   <div class="csl-entry">哈里森, 沃尔德伦, 2012. 经济数学与金融数学. 中国人民大学出版社, 北京. 235–236</div>
-  <div class="csl-entry">図書館用語辞典編集委員会, eds., 2004. 最新図書館用語大辞典. 柏書房株式会社, 東京. 154</div>
+  <div class="csl-entry">図書館用語辞典編集委員会, eds., 2004. 最新図書館用語大辭典. 柏書房株式會社, 東京. 154</div>
   <div class="csl-entry">国家测绘地理信息局, n.d. 一带一路经济走廊及其途经城市分布地势图. tex.entrytype: map</div>
   <div class="csl-entry">国家能源局, 2020. 水电工程水温实时监测系统技术规范. </div>
   <div class="csl-entry">国家药典委员会, eds., 2020. 大黄. In: 中华人民共和国药典. 中国医药科技出版社, 北京. 24–25</div>

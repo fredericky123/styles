@@ -132,7 +132,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Anonymous. Public library quarterly. Philadelphia: Taylor &#38; Francis</div>
   <div class="csl-entry">佚名. 临床内科杂志. 武汉: 中华医学会湖北分会</div>
   <div class="csl-entry">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema, 2000</div>
-  <div class="csl-entry">佚名. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社, 2004</div>
+  <div class="csl-entry">佚名. 最新図書館用語大辭典[M]. 東京: 柏書房株式會社, 2004</div>
   <div class="csl-entry">Anonymous. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009</div>
   <div class="csl-entry">佚名. 周易外传：卷5[M]//船山全书. 长沙: 岳麓书社, 2011a: 983-1029</div>
   <div class="csl-entry">佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011b</div>
@@ -191,9 +191,9 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012</div>
   <div class="csl-entry">Myburg A. A., Grattapaglia D., Tuskan G. A., Hellsten U., Hayes R. D., Grimwood J., Jenkins J., Lindquist E., Tice H., Bauer D., Goodstein D. M., Dubchak I., Poliakov A., Mizrachi E., Kullan A. R. K., Hussey S. G., Pinard D., van der Merwe K., Singh P., van Jaarsveld I., Silva-Junior O. B., Togawa R. C., Pappas M. R., Faria D. A., Sansaloni C. P., Petroli C. D., Yang X., Ranjan P., Tschaplinski T. J., Ye C.-Y., Li T., Sterck L., Vanneste K., Murat F., Soler M., Clemente H. S., Saidi N., Cassan-Wang H., Dunand C., Hefer C. A., Bornberg-Bauer E., Kersting A. R., Vining K., Amarasinghe V., Ranik M., Naithani S., Elser J., Boyd A. E., Liston A., Spatafora J. W., Dharmwardhana P., Raja R., Sullivan C., Romanel E., Alves-Ferreira M., Külheim C., Foley W., Carocha V., Paiva J., Kudrna D., Brommonschenkel S. H., Pasquali G., Byrne M., Rigault P., Tibbits J., Spokevicius A., Jones R. C., Steane D. A., Vaillancourt R. E., Potts B. M., Joubert F., Barry K., Pappas G. J., Strauss S. H., Jaiswal P., Grima-Pettenati J., Salse J., Van de Peer Y., Rokhsar D. S., Schmutz J. The genome of <i>Eucalyptus grandis</i>[J]. Nature, 2014, 510: 356–362</div>
   <div class="csl-entry">Park J.-R., Tosaka Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696–715</div>
-  <div class="csl-entry">Peebles P. Z. Jr. Probability, random variable, and random signal principles[M]. New York: McGraw-Hill, 2001</div>
+  <div class="csl-entry">Peebles P. Z. Jr. Probability, random variables, and random signal principles[M]. New York: McGraw-Hill, 2001</div>
   <div class="csl-entry">Praetzellis A. Death by theory: a tale of mystery and archaeological theoryRowman &#38; Littlefield Publishing Group, Inc., 2011</div>
-  <div class="csl-entry">Roberson J. A., Burneson E. G. Drinking water standards, regulations and goals[M]//Water quality &#38; treatment: a handbook on drinking water. New York: McGraw-Hill, 2011: 1.1-1.36</div>
+  <div class="csl-entry">Roberson J. A., Burneson E. G. Drinking water quality standards, regulations and goals[M]//Water quality &#38; treatment: a handbook on drinking water. New York: McGraw-Hill, 2011: 1.1-1.36</div>
   <div class="csl-entry">Saito M., Miyazaki K. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the Geological Survey of Japan, 2006, 57(5/6): 169–176</div>
   <div class="csl-entry">Santer R. D., Akanyeti O. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps[J]. Insect science, 2025</div>
   <div class="csl-entry">Shinotsuka H., Nagata K., Siriwardana M., Yoshikawa H., Shouno H., Okada M. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator[J]. Journal of electron spectroscopy and related phenomena, 2023, 267</div>

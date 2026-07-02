@@ -69,7 +69,7 @@
   <div class="csl-entry">[7]	冯友兰. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.
     <div class="csl-block">2008: 第1版自序</div>
   </div>
-  <div class="csl-entry">[8]	巳集上 水部. 同文书局影印本. 北京: 中华书局, 1962: 50.
+  <div class="csl-entry">[8]	巳集上 水部. 影印本. 北京: 中华书局, 1962: 50.
     <div class="csl-block">巳集上 水部. 1962: 50</div>
   </div>
   <div class="csl-entry">[9]	战德臣, 张丽杰. 3 版. 北京: 高等教育出版社, 2019.
@@ -96,7 +96,7 @@
   <div class="csl-entry">[16]	博伯尔. 徐超, 译. 北京: 清华大学出版社, 2023: 35.
     <div class="csl-block">2023: 35</div>
   </div>
-  <div class="csl-entry">[17]	図書館用語辞典編集委員会. 東京: 柏書房株式会社, 2004: 154.
+  <div class="csl-entry">[17]	図書館用語辞典編集委員会. 東京: 柏書房株式會社, 2004: 154.
     <div class="csl-block">2004: 154</div>
   </div>
   <div class="csl-entry">[18]	PEEBLES P Z Jr. 4th ed. New York: McGraw-Hill, 2001.</div>

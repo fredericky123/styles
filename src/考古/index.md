@@ -105,10 +105,10 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">博伯尔：《银行业的未来与人工智能》，清华大学出版社，2023年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">図書館用語辞典編集委員会, ed., 2004, 最新図書館用語大辞典, 東京: 柏書房株式会社.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">図書館用語辞典編集委員会, ed., 2004, 最新図書館用語大辭典, 東京: 柏書房株式會社.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Peebles, P. Z., Jr., 2001, <i>Probability, Random Variable, and Random Signal Principles</i>, New York: McGraw-Hill.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Peebles, P. Z., Jr., 2001, <i>Probability, Random Variables, and Random Signal Principles</i>, New York: McGraw-Hill.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Sadock, B. J. et al., eds., 2009, <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>, Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
@@ -159,7 +159,7 @@
     <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Weinstein, L. and Swartz, M. N., 1974, “Pathogenic Properties of Invading Microorganisms”, in Sodeman, W. A., Jr. and W. A. Sodeman, eds: <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Roberson, J. A. and Burneson, E. G., 2011, “Drinking Water Standards, Regulations and Goals”, in American Water Works Association, ed: <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill.</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Roberson, J. A. and Burneson, E. G., 2011, “Drinking Water Quality Standards, Regulations and Goals”, in American Water Works Association, ed: <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">中华医学会湖北分会主编：《临床内科杂志》，中华医学会湖北分会，1984年。</div>

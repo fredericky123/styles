@@ -55,7 +55,7 @@
 <sup>5</sup> 顾炎武：《昌平山水记；京东考古录》，北京古籍出版社1980年版。<br>
 <sup>6</sup> 钱学森：《创建系统学》，山西科学技术出版社2001年版。<br>
 <sup>7</sup> 冯友兰：《冯友兰自选集》2，首都师范大学出版社2008年版。<br>
-<sup>8</sup> 《康熙字典》同文书局影印本第巳集上 水部卷，中华书局1962年版。<br>
+<sup>8</sup> 《康熙字典》影印本第巳集上 水部卷，中华书局1962年版。<br>
 <sup>9</sup> 战德臣、张丽杰：《大学计算机：计算思维与信息素养》3，高等教育出版社2019年版。<br>
 <sup>10</sup> 哈里森、沃尔德伦：《经济数学与金融数学》，谢远涛译，中国人民大学出版社2012年版。<br>
 <sup>11</sup> 牛永敢等主编：《鼻整形应用解剖学》，人民卫生出版社2019年版。<br>
@@ -64,8 +64,8 @@
 <sup>14</sup> 赵学功：《当代美国外交》，社会科学文献出版社2001年版。<br>
 <sup>15</sup> 中国造纸学会：《中国造纸年鉴：2003》，中国轻工业出版社2003年版。<br>
 <sup>16</sup> 博伯尔：《银行业的未来与人工智能》，徐超译，清华大学出版社2023年版。<br>
-<sup>17</sup> 図書館用語辞典編集委員会主编：《最新図書館用語大辞典》，柏書房株式会社2004年版。<br>
-<sup>18</sup> Peyton Z. Peebles, Jr., <i>Probability, random variable, and random signal principles</i>, New York: McGraw-Hill, 2001.<br>
+<sup>17</sup> 図書館用語辞典編集委員会主编：《最新図書館用語大辭典》，柏書房株式會社2004年版。<br>
+<sup>18</sup> Peyton Z. Peebles, Jr., <i>Probability, random variables, and random signal principles</i>, New York: McGraw-Hill, 2001.<br>
 <sup>19</sup> Benjamin J. Sadock et al. eds., <i>Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</i>, Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.<br>
 <sup>20</sup> Institute for Art and Architecture, Academy of Fine Arts Vienna, <i>Wiener Hitze: architecture and storytelling in times of heat</i>, Zürich: Park Books, 2023.<br>
 <sup>21</sup> Abby Kinchy, <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>, Cambridge, Mass.: MIT Press, 2012.<br>
@@ -82,7 +82,7 @@
 <sup>32</sup> 《大黄》，载国家药典委员会主编：《中华人民共和国药典》2020版第一部卷，中国医药科技出版社2020年版，第24～25页。<br>
 <sup>33</sup> 楼梦麟、杨燕：《汶川地震基岩地震动特征分析》，载同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，同济大学出版社2011年版，第11～12页。<br>
 <sup>34</sup> L. Weinstein and M. N. Swartz, “Pathogenic properties of invading microorganisms,” in William A. Sodeman Jr. and William A. Sodeman eds., <i>Pathologic physiology: mechanisms of disease</i>, Philadelphia: Saunders, 1974, pp. 457～472.<br>
-<sup>35</sup> J. Alan Roberson and Eric G. Burneson, “Drinking water standards, regulations and goals,” in American Water Works Association ed., <i>Water quality &#38; treatment: a handbook on drinking water</i>, New York: McGraw-Hill, 2011, p. 1.1-1.36.<br>
+<sup>35</sup> J. Alan Roberson and Eric G. Burneson, “Drinking water quality standards, regulations and goals,” in American Water Works Association ed., <i>Water quality &#38; treatment: a handbook on drinking water</i>, New York: McGraw-Hill, 2011, p. 1.1-1.36.<br>
 <sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》，第1984，1（1）—卷，武汉：中华医学会湖北分会，1984年。<br>
 <sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》，第1957（1）—1990（4）卷，北京：北京图书馆，1957—1990年。<br>
 <sup>38</sup> American Association for the Advancement of Science ed., <i>Science</i>, Washington, D.C.: American Association for the Advancement of Science, 1883.<br>

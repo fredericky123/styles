@@ -78,7 +78,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline"><b>2008</b>. 第1版自序. (冯友兰. 冯友兰自选集. 2 版. 北京: 首都师范大学出版社, <b>2008</b>. 第1版自序.)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline"><b>1962</b>. 50. (康熙字典. 同文书局影印本. 北京: 中华书局, <b>1962</b>. 50.)</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline"><b>1962</b>. 50. (康熙字典. 影印本. 北京: 中华书局, <b>1962</b>. 50.)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline"><b>2019</b>. (战德臣, 张丽杰. 大学计算机：计算思维与信息素养. 3 版. 北京: 高等教育出版社, <b>2019</b>.)</div>
@@ -105,10 +105,10 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline"><b>2023</b>. 35. (博伯尔. 银行业的未来与人工智能. 译: 徐超. 北京: 清华大学出版社, <b>2023</b>. 35.)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">最新図書館用語大辞典. Ed.: 図書館用語辞典編集委員会. 東京: 柏書房株式会社, <b>2004</b>. 154.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">最新図書館用語大辭典. Ed.: 図書館用語辞典編集委員会. 東京: 柏書房株式會社, <b>2004</b>. 154.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Peebles P Z Jr. <i>Probability, Random Variable, and Random Signal Principles</i>. 4th ed. New York: McGraw-Hill, <b>2001</b>.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Peebles P Z Jr. <i>Probability, Random Variables, and Random Signal Principles</i>. 4th ed. New York: McGraw-Hill, <b>2001</b>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline"><i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>. Eds.: Sadock B J, Sadock V A, Ruiz P, Kaplan H I. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, <b>2009</b>.</div>
@@ -159,7 +159,7 @@
     <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Weinstein L, Swartz M N. Pathogenic properties of invading microorganisms. Eds.: Sodeman W A Jr, Sodeman W A. <i>Pathologic Physiology: Mechanisms of Disease</i>. 5th ed. Philadelphia: Saunders, <b>1974</b>. 457-472.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Roberson J A, Burneson E G. Drinking water standards, regulations and goals. Ed.: American Water Works Association. <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>. 6th ed. New York: McGraw-Hill, <b>2011</b>. 1.1-1.36.</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Roberson J A, Burneson E G. Drinking water quality standards, regulations and goals. Ed.: American Water Works Association. <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>. 6th ed. New York: McGraw-Hill, <b>2011</b>. 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">1984, 1984，1（1）—. <b>1984</b>. (临床内科杂志. 1984, 1984，1（1）—. 武汉: 中华医学会湖北分会, <b>1984</b>.)</div>

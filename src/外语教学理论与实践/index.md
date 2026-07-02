@@ -94,9 +94,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Kinchy A. 2012. <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>. Cambridge, Mass.: MIT Press.</div>
   <div class="csl-entry">Myburg A. A., D. Grattapaglia, G. A. Tuskan et al. 2014. “The genome of <i>Eucalyptus grandis</i>”. <i>Nature</i> 510.</div>
   <div class="csl-entry">Park J. R. &#38; Y. Tosaka. 2010. “Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms”. <i>Cataloging &#38; Classification Quarterly</i> 48.</div>
-  <div class="csl-entry">Peebles P. Z. Jr. 2001. <i>Probability, Random Variable, and Random Signal Principles</i>. 4th ed. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Peebles P. Z. Jr. 2001. <i>Probability, Random Variables, and Random Signal Principles</i>. 4th ed. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis A. 2011. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.</div>
-  <div class="csl-entry">Roberson J. A. &#38; E. G. Burneson. 2011. “Drinking water standards, regulations and goals”. In American Water Works Association (ed.). <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>. 6th ed. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Roberson J. A. &#38; E. G. Burneson. 2011. “Drinking water quality standards, regulations and goals”. In American Water Works Association (ed.). <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>. 6th ed. New York: McGraw-Hill.</div>
   <div class="csl-entry">Sadock B. J., V. A. Sadock, P. Ruiz et al. (eds.). 2009. <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito M. &#38; K. Miyazaki. 2006. “Jadeite-bearing metagabbro in serpentinite melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu”. <i>Bulletin of the Geological Survey of Japan</i> 57.</div>
   <div class="csl-entry">Santer R. D. &#38; O. Akanyeti. 2025. “Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps”. <i>Insect science</i>.</div>
@@ -119,7 +119,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">“Library of Congress”. <a href="https://www.loc.gov/">https://www.loc.gov/</a> (June 12, 2020).</div>
   <div class="csl-entry">ISO. 2016b. <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>.</div>
   <div class="csl-entry">史国华, 樊金宇, 何益 et al. 2022. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法. JP, JP2022539784A.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会 (ed.). 2004. 最新図書館用語大辞典. 東京: 柏書房株式会社.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会 (ed.). 2004. 最新図書館用語大辭典. 東京: 柏書房株式會社.</div>
   <div class="csl-entry">António M. &#38; L. Pepper. 2019. “Histórias de Portugal: livros caídos”. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a> (January 2, 2025).</div>
   <div class="csl-entry">阿扬，2023，谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答，见《环球科学》杂志社（编），《认识记忆力：关于学习、思考与遗忘的脑科学》，北京：机械工业出版社。</div>
   <div class="csl-entry">北京鲁迅博物馆，2021，北京鲁迅博物馆志愿服务章程，<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>（2023.5.2）。</div>
@@ -203,7 +203,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">周壮、李盛阳、吴薇等，2023，《天宫二号遥感图像自然景物分类数据集》，国家基础学科公共科学数据中心，<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>（2025.7.15）。</div>
   <div class="csl-entry">訾冬梅、高秀静，2006，《内蒙古自治区地图册》（新版），北京：中国地图出版社。</div>
   <div class="csl-entry">1949，《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》，武汉：武汉大学档案馆。</div>
-  <div class="csl-entry">1962，《康熙字典》（同文书局影印本巳集上 水部），北京：中华书局。</div>
+  <div class="csl-entry">1962，《康熙字典》（影印本巳集上 水部），北京：中华书局。</div>
   <div class="csl-entry">2011，周易外传：卷5（修订版），见王夫之（编），《船山全书》（修订版第1册），长沙：岳麓书社。</div>
   <div class="csl-entry">2020，大黄（2020版），见国家药典委员会（编），《中华人民共和国药典》（2020版一部），北京：中国医药科技出版社。</div>
   <div class="csl-entry">2023a，《[《昨日之歌》图书封面]》。</div>

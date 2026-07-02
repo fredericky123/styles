@@ -144,7 +144,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">谭其骧，1982，《中国历史地图集》第2册，北京：地图出版社。</div>
   <div class="csl-entry">汤万金、杨跃翔、刘文、郑建国、王赟松，2013，《人体安全重要技术标准研制最终报告》。</div>
   <div class="csl-entry">童世亨，1926，《京兆直隶图》，上海：商务印书馆。</div>
-  <div class="csl-entry">図書館用語辞典編集委員会 2004, 最新図書館用語大辞典. 東京: 柏書房株式会社.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会 2004, 最新図書館用語大辭典. 東京: 柏書房株式會社.</div>
   <div class="csl-entry">汪学军，2005，《中国农业转基因生物研发进展与安全管理》，国家环境保护总局生物安全管理办公室主编《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社。</div>
   <div class="csl-entry">王夫之，1865，《宋论》刻本，金陵：湘乡曾国荃。</div>
   <div class="csl-entry">王继民、罗鹏程、赵常煜、郭鑫、王世奇、高正，2025，《人文社会科学数据集检索方法研究的数据集》，北京大学开放研究数据平台。</div>
@@ -181,7 +181,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">American Association for the Advancement of Science 1883, <i>Science</i>. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA) 2022, <i>Guide to Lithium Battery Safety for Space Applications</i>.</div>
   <div class="csl-entry">佚名，1949，《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》。</div>
-  <div class="csl-entry">佚名，1962，《康熙字典》同文书局影印本巳集上 水部，北京：中华书局。</div>
+  <div class="csl-entry">佚名，1962，《康熙字典》影印本巳集上 水部，北京：中华书局。</div>
   <div class="csl-entry">Anon 1979, <i>Public Library Quarterly</i>. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">佚名，2011，《周易外传：卷5》，王夫之主编《船山全书》第1册，长沙：岳麓书社。</div>
   <div class="csl-entry">佚名，2020，《大黄》，国家药典委员会主编《中华人民共和国药典》一部，北京：中国医药科技出版社。</div>
@@ -216,9 +216,9 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Kinchy, Abby 2012, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>. Cambridge, Mass.: MIT Press.</div>
   <div class="csl-entry">Myburg, Alexander A., Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar &#38; Jeremy Schmutz 2014, “The Genome of <i>Eucalyptus grandis</i>.” <i>Nature</i> 510.</div>
   <div class="csl-entry">Park, Jung-Ran &#38; Yuji Tosaka 2010, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms.” <i>Cataloging &#38; Classification Quarterly</i> 48(8).</div>
-  <div class="csl-entry">Peebles, Peyton Z., Jr. 2001, <i>Probability, Random Variable, and Random Signal Principles</i>. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Peebles, Peyton Z., Jr. 2001, <i>Probability, Random Variables, and Random Signal Principles</i>. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, Adrian 2011, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>. Rowman &#38; Littlefield Publishing Group, Inc.</div>
-  <div class="csl-entry">Roberson, J. Alan &#38; Eric G. Burneson 2011, “Drinking Water Standards, Regulations and Goals.” In American Water Works Association (ed.), <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Roberson, J. Alan &#38; Eric G. Burneson 2011, “Drinking Water Quality Standards, Regulations and Goals.” In American Water Works Association (ed.), <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>. New York: McGraw-Hill.</div>
   <div class="csl-entry">Sadock, Benjamin J., Virginia Alcott Sadock, Pedro Ruiz &#38; Harold I. Kaplan 2009, <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito, Makoto &#38; Kazuhiro Miyazaki 2006, “Jadeite-Bearing Metagabbro in Serpentinite Melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu.” <i>Bulletin of the Geological Survey of Japan</i> 57(5/6).</div>
   <div class="csl-entry">Santer, Roger D. &#38; Otar Akanyeti 2025, “Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps.” <i>Insect Science</i>.</div>

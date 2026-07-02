@@ -104,7 +104,7 @@ Qian et al (2009b)<br>
   <div class="csl-entry">许振超, 2025. “好好干，当一个好工人”[EB/OL]. (2025-02-17)[2025-06-22]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>.</div>
   <div class="csl-entry">何筱梅, 2016. 新媒体时代原生广告的策略与发展研究[D]. 武汉: 武汉大学: 24-25.</div>
   <div class="csl-entry">吴自银, 温珍河, 2019. 中国南部海域海底地形图[CM]. 北京: 科学出版社.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会, 2004. 最新図書館用語大辞典 [M]. 東京: 柏書房株式会社: 154.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会, 2004. 最新図書館用語大辭典 [M]. 東京: 柏書房株式會社: 154.</div>
   <div class="csl-entry">张伯伟, 2002. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社: 288.</div>
   <div class="csl-entry">张凯军, 赵永杰, 陈朝岗, 2013. 轨道火车及高速轨道火车紧急安全制动辅助装置: CN202827616U[P]. 2013-03-27.</div>
   <div class="csl-entry">张群, 程志宝, 石志飞, 2024a. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J]. 铁道学报.</div>
@@ -153,7 +153,7 @@ Qian et al (2009b)<br>
   <div class="csl-entry">American Association for the Advancement of Science, 1883. Science [J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), 2022. Guide to lithium battery safety for space applications: AIAA G-136-2022 [S].</div>
   <div class="csl-entry">佚名, 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆.</div>
-  <div class="csl-entry">佚名, 1962. 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局: 50.</div>
+  <div class="csl-entry">佚名, 1962. 康熙字典: 巳集上 水部[M]. 影印本. 北京: 中华书局: 50.</div>
   <div class="csl-entry">Anon, 1979. Public library quarterly [J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">佚名, 2011. 周易外传：卷5[M] //王夫之. 船山全书: 第1册. 修订版. 长沙: 岳麓书社: 983-1029.</div>
   <div class="csl-entry">佚名, 2020. 大黄[M] //国家药典委员会. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社: 24-25.</div>
@@ -188,9 +188,9 @@ Qian et al (2009b)<br>
   <div class="csl-entry">KINCHY A, 2012. Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops [M]. Cambridge, Mass.: MIT Press: 50.</div>
   <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, <i>et al</i>, 2014. The genome of <i>Eucalyptus grandis</i> [J]. Nature, 510: 356-362.</div>
   <div class="csl-entry">PARK J R, TOSAKA Y, 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms [J]. Cataloging &#38; Classification Quarterly, 48(8): 696-715.</div>
-  <div class="csl-entry">PEEBLES P Z Jr, 2001. Probability, Random Variable, and Random Signal Principles [M]. 4th ed. New York: McGraw-Hill.</div>
+  <div class="csl-entry">PEEBLES P Z Jr, 2001. Probability, Random Variables, and Random Signal Principles [M]. 4th ed. New York: McGraw-Hill.</div>
   <div class="csl-entry">PRAETZELLIS A, 2011. Death by Theory: A Tale of Mystery and Archaeological Theory [M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
-  <div class="csl-entry">ROBERSON J A, BURNESON E G, 2011. Drinking water standards, regulations and goals [M] // American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
+  <div class="csl-entry">ROBERSON J A, BURNESON E G, 2011. Drinking water quality standards, regulations and goals [M] // American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
   <div class="csl-entry">SADOCK B J, SADOCK V A, RUIZ P, <i>et al</i>, 2009. Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry: Vol. 1 [M]. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">SAITO M, MIYAZAKI K, 2006. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu [J]. Bulletin of the Geological Survey of Japan, 57(5/6): 169-176.</div>
   <div class="csl-entry">SANTER R D, AKANYETI O, 2025. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps [J]. Insect science.</div>

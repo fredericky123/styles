@@ -164,9 +164,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Ljungqvist L, Sargent TJ. Recursive macroeconomic theory[M]. Beijing: China Renmin University Press, 2010: 798.［扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798］</div>
   <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, <i>et al.</i> The genome of <i>Eucalyptus grandis</i>[J]. <i>Nature</i>, 2014, 510: 356-362.</div>
   <div class="csl-entry">Park JR, Tosaka Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]. <i>Cataloging &#38; Classification Quarterly</i>, 2010, 48(8): 696-715.</div>
-  <div class="csl-entry">Peebles PZ Jr. Probability, random variable, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">Peebles PZ Jr. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
-  <div class="csl-entry">Roberson JA, Burneson EG. Drinking water standards, regulations and goals[M]. In: American Water Works Association, ed. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+  <div class="csl-entry">Roberson JA, Burneson EG. Drinking water quality standards, regulations and goals[M]. In: American Water Works Association, ed. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. <i>Bulletin of the Geological Survey of Japan</i>, 2006, 57(5/6): 169-176.</div>
   <div class="csl-entry">Santer RD, Akanyeti O. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps[J]. <i>Insect science</i>, 2025.</div>
   <div class="csl-entry">Shinotsuka H, Nagata K, Siriwardana M, <i>et al.</i> Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator[J]. <i>Journal of electron spectroscopy and related phenomena</i>, 2023, 267: 147370.</div>
@@ -187,11 +187,11 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">American Association for the Advancement of Science. Science[J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   <div class="csl-entry">[Z]. 武汉: 武汉大学档案馆, 1949.［佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆, 1949］</div>
   <div class="csl-entry">[J]. 1957/1990, 1957（1）—1990（4）. 1957/1990.［中国图书馆学会. 图书馆学通讯[J]. 1957/1990, 1957（1）—1990（4）. 北京: 北京图书馆, 1957/1990］</div>
-  <div class="csl-entry">巳集上 水部[M]. 1962: 50.［佚名. 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50］</div>
+  <div class="csl-entry">巳集上 水部[M]. 1962: 50.［佚名. 康熙字典: 巳集上 水部[M]. 影印本. 北京: 中华书局, 1962: 50］</div>
   <div class="csl-entry">Anon. Public library quarterly[J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis, 1979.</div>
   <div class="csl-entry">[J]. 1984, 1984，1（1）—. 1984.［中华医学会湖北分会. 临床内科杂志[J]. 1984, 1984，1（1）—. 武汉: 中华医学会湖北分会, 1984］</div>
   <div class="csl-entry">Yufin SA. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社, 2004: 154.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会. 最新図書館用語大辭典[M]. 東京: 柏書房株式會社, 2004: 154.</div>
   <div class="csl-entry">Sadock BJ, Sadock VA, Ruiz P, <i>et al.</i> Kaplan &#38; Sadock’s comprehensive textbook of psychiatry: Vol. 1[M]. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   <div class="csl-entry">[M]. In. 2011: 983-1029.［佚名. 周易外传：卷5[M]. 见: 王夫之, 主编. 船山全书: 第1册. 修订版. 长沙: 岳麓书社, 2011: 983-1029］</div>
   <div class="csl-entry">[M]. 2011.［陈志勇. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011］</div>

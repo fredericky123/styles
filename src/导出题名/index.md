@@ -56,8 +56,8 @@
   <div class="csl-entry">当代美国外交</div>
   <div class="csl-entry">中国造纸年鉴：2003</div>
   <div class="csl-entry">银行业的未来与人工智能</div>
-  <div class="csl-entry">最新図書館用語大辞典</div>
-  <div class="csl-entry">Probability, random variable, and random signal principles</div>
+  <div class="csl-entry">最新図書館用語大辭典</div>
+  <div class="csl-entry">Probability, random variables, and random signal principles</div>
   <div class="csl-entry">Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</div>
   <div class="csl-entry">Wiener Hitze: architecture and storytelling in times of heat</div>
   <div class="csl-entry">Seeds, sciences, and struggle: the global politics of transgenic crops</div>
@@ -74,7 +74,7 @@
   <div class="csl-entry">大黄</div>
   <div class="csl-entry">汶川地震基岩地震动特征分析</div>
   <div class="csl-entry">Pathogenic properties of invading microorganisms</div>
-  <div class="csl-entry">Drinking water standards, regulations and goals</div>
+  <div class="csl-entry">Drinking water quality standards, regulations and goals</div>
   <div class="csl-entry">临床内科杂志</div>
   <div class="csl-entry">图书馆学通讯</div>
   <div class="csl-entry">Science</div>

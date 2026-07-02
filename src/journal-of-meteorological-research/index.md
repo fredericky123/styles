@@ -95,9 +95,9 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Kinchy, A., 2012: <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>. MIT Press,.</div>
   <div class="csl-entry">Myburg, A. A., et al., 2014: The genome of <i>Eucalyptus grandis</i>. <i>Nature</i>, <b>510</b>, 356–362, <a href="https://doi.org/10.1038/nature13308">https://doi.org/10.1038/nature13308</a>.</div>
   <div class="csl-entry">Park, J.-R., and Y. Tosaka, 2010: Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. <i>Cat. Classif. Q.</i>, <b>48</b>, 696–715.</div>
-  <div class="csl-entry">Peebles, P. Z., Jr., 2001: <i>Probability, random variable, and random signal principles</i>. 4th ed. McGraw-Hill,.</div>
+  <div class="csl-entry">Peebles, P. Z., Jr., 2001: <i>Probability, random variables, and random signal principles</i>. 4th ed. McGraw-Hill,.</div>
   <div class="csl-entry">Praetzellis, A., 2011: <i>Death by theory: a tale of mystery and archaeological theory</i>. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.,.</div>
-  <div class="csl-entry">Roberson, J. A., and E. G. Burneson, 2011: Drinking water standards, regulations and goals. <i>Water quality &#38; treatment: a handbook on drinking water</i>, American Water Works Association, Ed., McGraw-Hill, p. 1.1-1.36.</div>
+  <div class="csl-entry">Roberson, J. A., and E. G. Burneson, 2011: Drinking water quality standards, regulations and goals. <i>Water quality &#38; treatment: a handbook on drinking water</i>, American Water Works Association, Ed., McGraw-Hill, p. 1.1-1.36.</div>
   <div class="csl-entry">Sadock, B. J., V. A. Sadock, P. Ruiz, and H. I. Kaplan, eds., 2009: <i>Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</i>. 9th ed. Wolters Kluwer Health/Lippincott Williams &#38; Wilkins,.</div>
   <div class="csl-entry">Saito, M., and K. Miyazaki, 2006: Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. <i>Bull. Geol. Surv. Jpn.</i>, <b>57</b>, 169–176.</div>
   <div class="csl-entry">Santer, R. D., and O. Akanyeti, 2025: Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. <i>Insect Sci.</i>, <a href="https://doi.org/10.1111/1744-7917.13496">https://doi.org/10.1111/1744-7917.13496</a>.</div>
@@ -142,7 +142,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">吴自银 and 温珍河, 2019: 中国南部海域海底地形图.</div>
   <div class="csl-entry">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, and 赵子飞, 2023: 天宫二号遥感图像自然景物分类数据集. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> (Accessed July 15, 2025).</div>
   <div class="csl-entry">哈里森 and 沃尔德伦, 2012: 经济数学与金融数学. 中国人民大学出版社,.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会, ed., 2004: 最新図書館用語大辞典. 柏書房株式会社,.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会, ed., 2004: 最新図書館用語大辭典. 柏書房株式會社,.</div>
   <div class="csl-entry">国家测绘地理信息局, 一带一路经济走廊及其途经城市分布地势图.</div>
   <div class="csl-entry">国家能源局, 2020: 水电工程水温实时监测系统技术规范.</div>
   <div class="csl-entry">国家药典委员会, ed., 2020: 大黄. 中华人民共和国药典, Vol. 一部 of, 中国医药科技出版社, 24–25.</div>
@@ -200,7 +200,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">高等教育文献保障系统, 馆际互借与文献传递服务. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a> (Accessed June 21, 2025).</div>
   <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）, 2024: 青海省县域教育、卫生发展指标（2001—2022年）. <a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a>.</div>
   <div class="csl-entry">1949: 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告.</div>
-  <div class="csl-entry">1962: 康熙字典. 同文书局影印本. 中华书局,.</div>
+  <div class="csl-entry">1962: 康熙字典. 影印本. 中华书局,.</div>
   <div class="csl-entry">1979: Public library quarterly. <b>1979，1（1）—</b>.</div>
   <div class="csl-entry">2020: IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation.</div>
   <div class="csl-entry">2022: 《庄子》读不懂？看完这一篇“导读”就明白了.</div>

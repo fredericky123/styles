@@ -70,7 +70,7 @@
     <div class="csl-block">冯友兰. <i>冯友兰自选集</i>. 2 版. 首都师范大学出版社, 2008, pp. 第1版自序.</div>
   </div>
   <div class="csl-entry">8	1962, pp. 50 (in Chinese)
-    <div class="csl-block"><i>康熙字典</i>: 巳集上 水部. 同文书局影印本. 中华书局, 1962, pp. 50.</div>
+    <div class="csl-block"><i>康熙字典</i>: 巳集上 水部. 影印本. 中华书局, 1962, pp. 50.</div>
   </div>
   <div class="csl-entry">9	2019 (in Chinese)
     <div class="csl-block">战德臣, 张丽杰. <i>大学计算机：计算思维与信息素养</i>. 3 版. 高等教育出版社, 2019.</div>
@@ -97,9 +97,9 @@
     <div class="csl-block">博伯尔. <i>银行业的未来与人工智能</i>. 徐超, 译. 清华大学出版社, 2023, pp. 35.</div>
   </div>
   <div class="csl-entry">17	2004, pp. 154 (in Chinese)
-    <div class="csl-block">図書館用語辞典編集委員会. <i>最新図書館用語大辞典</i>. 柏書房株式会社, 2004, pp. 154.</div>
+    <div class="csl-block">図書館用語辞典編集委員会. <i>最新図書館用語大辭典</i>. 柏書房株式會社, 2004, pp. 154.</div>
   </div>
-  <div class="csl-entry">18	Peebles P Z Jr. <i>Probability, random variable, and random signal principles</i>. 4th ed. McGraw-Hill, New York, 2001.</div>
+  <div class="csl-entry">18	Peebles P Z Jr. <i>Probability, random variables, and random signal principles</i>. 4th ed. McGraw-Hill, New York, 2001.</div>
   <div class="csl-entry">19	Sadock B J, Sadock V A, Ruiz P, et al. <i>Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</i>: Vol. 1. 9th ed. Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, Philadelphia, 2009.</div>
   <div class="csl-entry">20	Institute for Art and Architecture, Academy of Fine Arts Vienna. <i>Wiener Hitze: architecture and storytelling in times of heat</i>. Park Books, Zürich, 2023, pp. 78.</div>
   <div class="csl-entry">21	Kinchy A. <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>. MIT Press, Cambridge, Mass., 2012, pp. 50.</div>
@@ -132,7 +132,7 @@
     <div class="csl-block">楼梦麟, 杨燕. 汶川地震基岩地震动特征分析. 见: 汶川地震震害研究. 同济大学出版社, 2011, pp. 11-12.</div>
   </div>
   <div class="csl-entry">34	Weinstein L, Swartz M N. Pathogenic properties of invading microorganisms. In: Pathologic physiology: mechanisms of disease. 5th ed. Saunders, Philadelphia, 1974, pp. 457-472.</div>
-  <div class="csl-entry">35	Roberson J A, Burneson E G. Drinking water standards, regulations and goals. In: Water quality &#38; treatment: a handbook on drinking water. 6th ed. McGraw-Hill, New York, 2011, pp. 1.1-1.36.</div>
+  <div class="csl-entry">35	Roberson J A, Burneson E G. Drinking water quality standards, regulations and goals. In: Water quality &#38; treatment: a handbook on drinking water. 6th ed. McGraw-Hill, New York, 2011, pp. 1.1-1.36.</div>
   <div class="csl-entry">36	1984, 1984，1（1）—. 1984 (in Chinese)
     <div class="csl-block">中华医学会湖北分会. 临床内科杂志. 1984, 1984，1（1）—. 中华医学会湖北分会, 1984.</div>
   </div>

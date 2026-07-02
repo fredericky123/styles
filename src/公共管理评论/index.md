@@ -117,7 +117,7 @@ Qian, et al (2009b)<br>
   <div class="csl-entry">谭其骧. 1982. 中国历史地图集[Z]. 北京: 地图出版社.</div>
   <div class="csl-entry">汤万金, 杨跃翔, 刘文, , 等. 2013. 人体安全重要技术标准研制最终报告[R].</div>
   <div class="csl-entry">童世亨. 1926. 京兆直隶图[Z]. 上海: 商务印书馆.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辭典[M]. 東京: 柏書房株式會社.</div>
   <div class="csl-entry">汪学军. 2005. 中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 22-25.</div>
   <div class="csl-entry">王夫之. 1865. 宋论[M]. 金陵: 湘乡曾国荃.</div>
   <div class="csl-entry">王夫之. 2011. 周易外传：卷5[M]//. 船山全书. 长沙: 岳麓书社, 983-1029.</div>
@@ -179,9 +179,9 @@ Qian, et al (2009b)<br>
   <div class="csl-entry">Kinchy A. 2012. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press.</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, , et al. 2014. The genome of <i>Eucalyptus grandis</i>[J]. <i>Nature</i>, 510: 356-362.</div>
   <div class="csl-entry">Park J-R, Tosaka Y. 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]. <i>Cataloging &#38; Classification Quarterly</i>, 48(8): 696-715.</div>
-  <div class="csl-entry">Peebles P Z Jr. 2001. Probability, random variable, and random signal principles[M]. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Peebles P Z Jr. 2001. Probability, random variables, and random signal principles[M]. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis A. 2011. Death by theory: a tale of mystery and archaeological theory[M]. Rowman &#38; Littlefield Publishing Group, Inc.</div>
-  <div class="csl-entry">Roberson J A, Burneson E G. 2011. Drinking water standards, regulations and goals[M]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. New York: McGraw-Hill, 1.1-1.36.</div>
+  <div class="csl-entry">Roberson J A, Burneson E G. 2011. Drinking water quality standards, regulations and goals[M]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. New York: McGraw-Hill, 1.1-1.36.</div>
   <div class="csl-entry">Sadock B J, Sadock V A, Ruiz P, , et al. 2009. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito M, Miyazaki K. 2006. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6): 169-176.</div>
   <div class="csl-entry">Santer R D, Akanyeti O. 2025. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps[J]. <i>Insect science</i>.</div>

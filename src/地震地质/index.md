@@ -228,7 +228,7 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">童世亨，1926. 京兆直隶图. <a href="http://gdt-lib-whu-edu-cn.vpn.whu.edu.cn:8118/imginfo.html?ty%3Dmap%26id%3D4861">http://gdt-lib-whu-edu-cn.vpn.whu.edu.cn:8118/imginfo.html?ty%3Dmap%26id%3D4861</a>.
     <div class="csl-block">1926. <a href="http://gdt-lib-whu-edu-cn.vpn.whu.edu.cn:8118/imginfo.html?ty%3Dmap%26id%3D4861">http://gdt-lib-whu-edu-cn.vpn.whu.edu.cn:8118/imginfo.html?ty%3Dmap%26id%3D4861</a> (in Chinese).</div>
   </div>
-  <div class="csl-entry">図書館用語辞典編集委員会，2004. 最新図書館用語大辞典[M]. 東京：柏書房株式会社，154.
+  <div class="csl-entry">図書館用語辞典編集委員会，2004. 最新図書館用語大辭典[M]. 東京：柏書房株式會社，154.
     <div class="csl-block">2004. [M]. 154 (in Chinese).</div>
   </div>
   <div class="csl-entry">汪学军，2005. 中国农业转基因生物研发进展与安全管理[A]. 见：国家环境保护总局生物安全管理办公室 编. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京：中国环境科学出版社，22～25.
@@ -377,10 +377,10 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">Library of Congress, n.d. [EB/OL]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al., 2014. The genome of <i>Eucalyptus grandis</i>[J]. Nature, 510:356～362. doi: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
   <div class="csl-entry">Park J-R, Tosaka Y, 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]. Cataloging &#38; Classification Quarterly, 48(8):696～715. <a href="https://www.tandfonline.com/doi/full/10.1080/01639374.2010.508711">https://www.tandfonline.com/doi/full/10.1080/01639374.2010.508711</a>.</div>
-  <div class="csl-entry">Peebles P Z Jr, 2001. Probability, random variable, and random signal principles[M]. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Peebles P Z Jr, 2001. Probability, random variables, and random signal principles[M]. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis A, 2011. Death by theory: a tale of mystery and archaeological theory[M]. Rowman &#38; Littlefield Publishing Group, Inc., 13. <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a>.</div>
   <div class="csl-entry">Public library quarterly, 1979. 1979，1（1）—. <a href="http://www.tandfonline.com/loi/wplq">http://www.tandfonline.com/loi/wplq</a>.</div>
-  <div class="csl-entry">Roberson J A, Burneson E G, 2011. Drinking water standards, regulations and goals[A]. In: American Water Works Association eds. Water quality &#38; treatment: a handbook on drinking water. New York: McGraw-Hill, 1.1-1.36. <a href="http://lib.myilibrary.com/Open.aspx?id=291430">http://lib.myilibrary.com/Open.aspx?id=291430</a>.</div>
+  <div class="csl-entry">Roberson J A, Burneson E G, 2011. Drinking water quality standards, regulations and goals[A]. In: American Water Works Association eds. Water quality &#38; treatment: a handbook on drinking water. New York: McGraw-Hill, 1.1-1.36. <a href="http://lib.myilibrary.com/Open.aspx?id=291430">http://lib.myilibrary.com/Open.aspx?id=291430</a>.</div>
   <div class="csl-entry">Sadock B J, Sadock V A, Ruiz P, et al., 2009. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito M, Miyazaki K, 2006. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the Geological Survey of Japan, 57(5/6):169～176.</div>
   <div class="csl-entry">Santer R D, Akanyeti O, 2025. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps[J]. Insect science. doi: <a href="https://doi.org/10.1111/1744-7917.13496">10.1111/1744-7917.13496</a>.</div>

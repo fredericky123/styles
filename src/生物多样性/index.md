@@ -95,9 +95,9 @@ Qian et al (2009a)<br>
   <div class="csl-entry">Ljungqvist L, Sargent TJ (2010) Recursive macroeconomic Theory, p. 798. China Renmin University Press, Beijing. (in Chinese) [杨斌, 王忠玉, 陈彦斌, 严高剑 (译) (2010) 递归宏观经济理论, 2 版, p. 798. 中国人民大学出版社, 北京.]</div>
   <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, Hellsten U, Hayes RD, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein DM, Dubchak I, Poliakov A, Mizrachi E, Kullan ARK, Hussey SG, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior OB, Togawa RC, Pappas MR, Faria DA, Sansaloni CP, Petroli CD, Yang X, Ranjan P, Tschaplinski TJ, Ye CY, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente HS, Saidi N, Cassan-Wang H, Dunand C, Hefer CA, Bornberg-Bauer E, Kersting AR, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd AE, Liston A, Spatafora JW, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel SH, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones RC, Steane DA, Vaillancourt RE, Potts BM, Joubert F, Barry K, Pappas GJ, Strauss SH, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar DS, Schmutz J (2014) The genome of <i>Eucalyptus grandis</i>. Nature, 510, 356–362.</div>
   <div class="csl-entry">Park JR, Tosaka Y (2010) Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. Cataloging &#38; Classification Quarterly, 48(8), 696–715.</div>
-  <div class="csl-entry">Peebles PZ Jr (2001) Probability, Random Variable, and Random Signal Principles, 4th edn. McGraw-Hill, New York.</div>
+  <div class="csl-entry">Peebles PZ Jr (2001) Probability, Random Variables, and Random Signal Principles, 4th edn. McGraw-Hill, New York.</div>
   <div class="csl-entry">Praetzellis A (2011) Death by Theory: A Tale of Mystery and Archaeological Theory, Rev. ed., p. 13. Rowman &#38; Littlefield Publishing Group, Inc.</div>
-  <div class="csl-entry">Roberson JA, Burneson EG (2011) Drinking water standards, regulations and goals. In: Water Quality &#38; Treatment: A Handbook on Drinking Water (ed American Water Works Association), 1.1-1.36. McGraw-Hill, New York.</div>
+  <div class="csl-entry">Roberson JA, Burneson EG (2011) Drinking water quality standards, regulations and goals. In: Water Quality &#38; Treatment: A Handbook on Drinking Water (ed American Water Works Association), 1.1-1.36. McGraw-Hill, New York.</div>
   <div class="csl-entry">Saito M, Miyazaki K (2006) Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bulletin of the Geological Survey of Japan, 57(5/6), 169–176.</div>
   <div class="csl-entry">Santer RD, Akanyeti O (2025) Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. Insect science.</div>
   <div class="csl-entry">Shinotsuka H, Nagata K, Siriwardana M, Yoshikawa H, Shouno H, Okada M (2023) Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator. Journal of electron spectroscopy and related phenomena, 267.</div>
@@ -189,11 +189,11 @@ Qian et al (2009a)<br>
   <div class="csl-entry">(1883) Science. American Association for the Advancement of Science, Washington, D.C.</div>
   <div class="csl-entry">(1949) (in Chinese) [(1949) 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告.]</div>
   <div class="csl-entry">(1957–1990) (in Chinese) [(1957–1990) 图书馆学通讯. 北京图书馆, 北京.]</div>
-  <div class="csl-entry">(1962) p. 50. (in Chinese) [(1962) 康熙字典, 同文书局影印本, p. 50. 中华书局, 北京.]</div>
+  <div class="csl-entry">(1962) p. 50. (in Chinese) [(1962) 康熙字典, 影印本, p. 50. 中华书局, 北京.]</div>
   <div class="csl-entry">(1979) Public Library Quarterly. Taylor &#38; Francis, Philadelphia.</div>
   <div class="csl-entry">(1984) (in Chinese) [(1984) 临床内科杂志. 中华医学会湖北分会, 武汉.]</div>
   <div class="csl-entry">(2000) Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000. A. A. Balkema, Rotterdam.</div>
-  <div class="csl-entry">(2004) 最新図書館用語大辞典, p. 154. 柏書房株式会社, 東京.</div>
+  <div class="csl-entry">(2004) 最新図書館用語大辭典, p. 154. 柏書房株式會社, 東京.</div>
   <div class="csl-entry">(2009) Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry, 9th edn. Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, Philadelphia.</div>
   <div class="csl-entry">(2011a) (in Chinese) [(2011a) 周易外传：卷5. 收入: 船山全书 (编 王夫之), pp. 983–1029. 岳麓书社, 长沙.]</div>
   <div class="csl-entry">(2011b) (in Chinese) [(2011b) 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集. 经济科学出版社, 北京.]</div>

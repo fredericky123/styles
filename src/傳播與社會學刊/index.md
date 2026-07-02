@@ -97,7 +97,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">许振超（2025年2月17日）。〈“好好干，当一个好工人”〉。上網日期：2025年6月22日，取自<a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a></div>
   <div class="csl-entry">何筱梅（2016）。《新媒体时代原生广告的策略与发展研究》 （頁24–25）。武汉大学博士学位论文。</div>
   <div class="csl-entry">吴自银、温珍河（2019）。《中国南部海域海底地形图》 ［Map］。北京：科学出版社。</div>
-  <div class="csl-entry">図書館用語辞典編集委員会（編）（2004）。《最新図書館用語大辞典》 （頁154）。東京：柏書房株式会社。</div>
+  <div class="csl-entry">図書館用語辞典編集委員会（編）（2004）。《最新図書館用語大辭典》 （頁154）。東京：柏書房株式會社。</div>
   <div class="csl-entry">张伯伟（2002）。《全唐五代诗格汇考》 （頁288）。南京：江苏古籍出版社。</div>
   <div class="csl-entry">张凯军、赵永杰、陈朝岗（2013）。《轨道火车及高速轨道火车紧急安全制动辅助装置》 （国家知识产权局 Patent No. CN202827616U）。</div>
   <div class="csl-entry">张群、程志宝、石志飞（2024a）。〈惯性增强动力吸振器-浮置板轨道低频减振性能研究〉。《铁道学报》。</div>
@@ -134,7 +134,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">钱学森（2001）。《创建系统学》 （頁序2-3）。太原：山西科学技术出版社。</div>
   <div class="csl-entry">顾炎武（1980）。《昌平山水记；京东考古录》。北京：北京古籍出版社。</div>
   <div class="csl-entry">高等教育文献保障系统（不詳）。〈馆际互借与文献传递服务〉。上網日期：2025年6月21日，取自<a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a></div>
-  <div class="csl-entry">《康熙字典：卷 巳集上 水部》 （同文书局影印本，頁50）（1962）。北京：中华书局。</div>
+  <div class="csl-entry">《康熙字典：卷 巳集上 水部》 （影印本，頁50）（1962）。北京：中华书局。</div>
   <div class="csl-entry">曹凌（2011）。《中国佛教疑伪经综录》 （頁19）。上海：上海古籍出版社。</div>
   <div class="csl-entry">博伯尔（2023）。《银行业的未来与人工智能》 （徐超譯；頁35）。北京：清华大学出版社。</div>
   <div class="csl-entry">彭守璋（2024）。《1901—2023年中国1km分辨率逐月降水量数据集》 ［dataset］。西北农林科技大学水土保持研究所。上網日期：2024年11月25日，取自<a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a></div>
@@ -177,10 +177,10 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry"><i>Library of Congress</i>. (n.d.). Retrieved June 12, 2020, from <a href="https://www.loc.gov/">https://www.loc.gov/</a></div>
   <div class="csl-entry">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Hayes, R. D., Grimwood, J., Jenkins, J., Lindquist, E., Tice, H., Bauer, D., Goodstein, D. M., Dubchak, I., Poliakov, A., Mizrachi, E., Kullan, A. R. K., Hussey, S. G., Pinard, D., van der Merwe, K., Singh, P., … Schmutz, J. (2014). The genome of <i>Eucalyptus grandis</i>. <i>Nature</i>, <i>510</i>, 356–362. <a href="https://doi.org/10.1038/nature13308">https://doi.org/10.1038/nature13308</a></div>
   <div class="csl-entry">Park, J.-R., &#38; Tosaka, Y. (2010). Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. <i>Cataloging &#38; Classification Quarterly</i>, <i>48</i>(8), 696–715.</div>
-  <div class="csl-entry">Peebles, P. Z., Jr. (2001). <i>Probability, random variable, and random signal principles</i> (4th ed.). New York: McGraw-Hill.</div>
+  <div class="csl-entry">Peebles, P. Z., Jr. (2001). <i>Probability, random variables, and random signal principles</i> (4th ed.). New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A. (2011). <i>Death by theory: a tale of mystery and archaeological theory</i> (Rev. ed., p. 13). Rowman &#38; Littlefield Publishing Group, Inc.</div>
   <div class="csl-entry"><i>Public library quarterly: Vol. 1979，1（1）—</i>. (1979). Philadelphia: Taylor &#38; Francis.</div>
-  <div class="csl-entry">Roberson, J. A., &#38; Burneson, E. G. (2011). Drinking water standards, regulations and goals. In American Water Works Association (Ed.), <i>Water quality &#38; treatment: a handbook on drinking water</i> (6th ed., p. 1.1-1.36). New York: McGraw-Hill.</div>
+  <div class="csl-entry">Roberson, J. A., &#38; Burneson, E. G. (2011). Drinking water quality standards, regulations and goals. In American Water Works Association (Ed.), <i>Water quality &#38; treatment: a handbook on drinking water</i> (6th ed., p. 1.1-1.36). New York: McGraw-Hill.</div>
   <div class="csl-entry">Sadock, B. J., Sadock, V. A., Ruiz, P., &#38; Kaplan, H. I. (eds.). (2009). <i>Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</i> (9th ed., Vol. 1). Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito, M., &#38; Miyazaki, K. (2006). Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. <i>Bulletin of the Geological Survey of Japan</i>, <i>57</i>(5/6), 169–176.</div>
   <div class="csl-entry">Santer, R. D., &#38; Akanyeti, O. (2025). Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. <i>Insect science</i>. <a href="https://doi.org/10.1111/1744-7917.13496">https://doi.org/10.1111/1744-7917.13496</a></div>

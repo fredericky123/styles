@@ -101,9 +101,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012. 50.</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. <span style="font-style:normal;">The genome of <i>Eucalyptus grandis</i></span>[J]. <i><span style="font-style:normal;">Nature</span></i>, 2014, 510: 356-362.</div>
   <div class="csl-entry">Park J-R, Tosaka Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]. <i><span style="font-style:normal;">Cataloging &#38; Classification Quarterly</span></i>, 2010, 48(8): 696-715.</div>
-  <div class="csl-entry">Peebles P Z Jr. Probability, random variable, and random signal principles[M]. 4 edition. New York: McGraw-Hill, 2001. .</div>
+  <div class="csl-entry">Peebles P Z Jr. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill, 2001. .</div>
   <div class="csl-entry">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011. 13.</div>
-  <div class="csl-entry">Roberson J A, Burneson E G. Drinking water standards, regulations and goals[M]. American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water. 6 edition. New York: McGraw-Hill, 2011. 1.1-1.36.</div>
+  <div class="csl-entry">Roberson J A, Burneson E G. Drinking water quality standards, regulations and goals[M]. American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water. 6 edition. New York: McGraw-Hill, 2011. 1.1-1.36.</div>
   <div class="csl-entry">Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. <i><span style="font-style:normal;">Bulletin of the Geological Survey of Japan</span></i>, 2006, 57(5/6): 169-176.</div>
   <div class="csl-entry">Santer R D, Akanyeti O. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps[J]. <i><span style="font-style:normal;">Insect science</span></i>, 2025.</div>
   <div class="csl-entry">Shinotsuka H, Nagata K, Siriwardana M, et al. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator: 147370[J]. <i><span style="font-style:normal;">Journal of electron spectroscopy and related phenomena</span></i>, 2023, 267.</div>
@@ -119,7 +119,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Zotero. [Zotero download][EB].</div>
   <div class="csl-entry">ISO. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S]. .</div>
   <div class="csl-entry">史国华，樊金宇，何益，等. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A[P]. 2022-09-13.</div>
-  <div class="csl-entry">佚名. 最新図書館用語大辞典[M]. 図書館用語辞典編集委員会, 编. 東京: 柏書房株式会社，2004. 154.</div>
+  <div class="csl-entry">佚名. 最新図書館用語大辭典[M]. 図書館用語辞典編集委員会, 编. 東京: 柏書房株式會社，2004. 154.</div>
   <div class="csl-entry">António M，Pepper L. Histórias de Portugal: livros caídos[EB](2019-07-13).</div>
   <div class="csl-entry">阿扬. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]. 《环球科学》杂志社, 编. 姜海伦, 译//认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社，2023. 15-18.</div>
   <div class="csl-entry">北京鲁迅博物馆. 北京鲁迅博物馆志愿服务章程[EB](2021-04-21).</div>
@@ -180,7 +180,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.</div>
   <div class="csl-entry">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z].</div>
   <div class="csl-entry">佚名. 图书馆学通讯[Z]. 北京: 北京图书馆，1957/1990. .</div>
-  <div class="csl-entry">佚名. 康熙字典[M]. 同文书局影印本 版. 北京: 中华书局，1962. 50.</div>
+  <div class="csl-entry">佚名. 康熙字典[M]. 影印本 版. 北京: 中华书局，1962. 50.</div>
   <div class="csl-entry">佚名. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会，1984. .</div>
   <div class="csl-entry">佚名. 周易外传：卷5[M]. 王夫之, 编//船山全书. 修订版 版. 长沙: 岳麓书社，2011a. 983-1029.</div>
   <div class="csl-entry">佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 陈志勇, 编. 北京: 经济科学出版社，2011b. .</div>

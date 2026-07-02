@@ -99,7 +99,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">冯友兰. 冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典: 巳集上 水部[M]. 影印本. 北京: 中华书局, 1962: 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社, 2019.</div>
@@ -126,10 +126,10 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">博伯尔. 银行业的未来与人工智能[M]. 徐超, 译. 北京: 清华大学出版社, 2023: 35.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">図書館用語辞典編集委員会 (Ed.). (2004). <i>最新図書館用語大辞典</i> (p. 154). 柏書房株式会社.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">図書館用語辞典編集委員会 (Ed.). (2004). <i>最新図書館用語大辭典</i> (p. 154). 柏書房株式會社.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Peebles, P. Z., Jr. (2001). <i>Probability, Random Variable, and Random Signal Principles</i> (4th ed.). McGraw-Hill.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Peebles, P. Z., Jr. (2001). <i>Probability, Random Variables, and Random Signal Principles</i> (4th ed.). McGraw-Hill.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Sadock, B. J., Sadock, V. A., Ruiz, P., et al. (Eds.). (2009). <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i> (9th ed., Vol. 1). Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
@@ -180,7 +180,7 @@
     <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Weinstein, L., &#38; Swartz, M. N. (1974). Pathogenic Properties of Invading Microorganisms. In W. A. Sodeman Jr. &#38; W. A. Sodeman (Eds.), <i>Pathologic physiology: mechanisms of disease</i> (5th ed., pp. 457-472). Saunders.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Roberson, J. A., &#38; Burneson, E. G. (2011). Drinking Water Standards, Regulations and Goals. In American Water Works Association (Ed.), <i>Water quality &#38; treatment: a handbook on drinking water</i> (6th ed., p. 1.1-1.36). McGraw-Hill.</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Roberson, J. A., &#38; Burneson, E. G. (2011). Drinking Water Quality Standards, Regulations and Goals. In American Water Works Association (Ed.), <i>Water quality &#38; treatment: a handbook on drinking water</i> (6th ed., p. 1.1-1.36). McGraw-Hill.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">中华医学会湖北分会. 临床内科杂志[J]. 1984, 1984，1（1）—. 武汉: 中华医学会湖北分会, 1984.</div>

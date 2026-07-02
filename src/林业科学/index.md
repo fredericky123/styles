@@ -220,7 +220,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">童世亨. 1926. 京兆直隶图. 上海: 商务印书馆.
     <div class="csl-block">(1926.［in Chinese］)</div>
   </div>
-  <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辞典. 東京: 柏書房株式会社: 154.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辭典. 東京: 柏書房株式會社: 154.</div>
   <div class="csl-entry">汪学军. 2005. 中国农业转基因生物研发进展与安全管理//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社: 22-25.
     <div class="csl-block">(Wang X J. 2005. Progress and safety management of genetically modified organism research and development in China//Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar. Beijing: China Environmental Science Press: 22-25.［in Chinese］)</div>
   </div>
@@ -325,7 +325,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名. 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告. 武汉: 武汉大学档案馆.
     <div class="csl-block">(1949. 武汉: 武汉大学档案馆.［in Chinese］)</div>
   </div>
-  <div class="csl-entry">佚名. 1962. 康熙字典: 巳集上 水部. 同文书局影印本. 北京: 中华书局: 50.
+  <div class="csl-entry">佚名. 1962. 康熙字典: 巳集上 水部. 影印本. 北京: 中华书局: 50.
     <div class="csl-block">(1962. 50.［in Chinese］)</div>
   </div>
   <div class="csl-entry">Anon. 1979. Public library quarterly. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis.</div>
@@ -370,9 +370,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Kinchy A. 2012. Seeds, sciences, and struggle: the global politics of transgenic crops. Cambridge, Mass.: MIT Press: 50.</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, <i>et al.</i> 2014. The genome of <i>Eucalyptus grandis</i>. Nature, 510: 356-362.</div>
   <div class="csl-entry">Park J R, Tosaka Y. 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. Cataloging &#38; Classification Quarterly, 48(8): 696-715.</div>
-  <div class="csl-entry">Peebles P Z Jr. 2001. Probability, random variable, and random signal principles. 4th ed. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Peebles P Z Jr. 2001. Probability, random variables, and random signal principles. 4th ed. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis A. 2011. Death by theory: a tale of mystery and archaeological theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
-  <div class="csl-entry">Roberson J A, Burneson E G. 2011. Drinking water standards, regulations and goals//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
+  <div class="csl-entry">Roberson J A, Burneson E G. 2011. Drinking water quality standards, regulations and goals//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
   <div class="csl-entry">Sadock B J, Sadock V A, Ruiz P, <i>et al.</i> 2009. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry: Vol. 1. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito M, Miyazaki K. 2006. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bulletin of the Geological Survey of Japan, 57(5/6): 169-176.</div>
   <div class="csl-entry">Santer R D, Akanyeti O. 2025. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. Insect science.</div>

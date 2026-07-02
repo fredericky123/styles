@@ -105,10 +105,10 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">博伯尔. 银行业的未来与人工智能[M]. 北京: 清华大学出版社, 2023.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">佚名. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社, 2004.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">佚名. 最新図書館用語大辭典[M]. 東京: 柏書房株式會社, 2004.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">PZ Peebles, Jr. Probability, random variable, and random signal principles[M]. New York: McGraw-Hill, 2001.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">PZ Peebles, Jr. Probability, random variables, and random signal principles[M]. New York: McGraw-Hill, 2001.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Anonymous. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
@@ -159,7 +159,7 @@
     <div class="csl-left-margin">[34]</div><div class="csl-right-inline">L Weinstein, MN Swartz. Pathogenic properties of invading microorganisms[M]//Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 457-472.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">JA Roberson, EG Burneson. Drinking water standards, regulations and goals[M]//Water quality &#38; treatment: a handbook on drinking water. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">JA Roberson, EG Burneson. Drinking water quality standards, regulations and goals[M]//Water quality &#38; treatment: a handbook on drinking water. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">佚名. 临床内科杂志. 武汉: 中华医学会湖北分会1984.</div>

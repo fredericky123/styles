@@ -130,7 +130,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">谭其骧. 1982. 中国历史地图集: 第2册[CM]. 北京: 地图出版社: 6.</div>
   <div class="csl-entry">汤万金, 杨跃翔, 刘文等. 2013. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R].</div>
   <div class="csl-entry">童世亨. 1926. 京兆直隶图[CM]. 上海: 商务印书馆.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社: 154.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辭典[M]. 東京: 柏書房株式會社: 154.</div>
   <div class="csl-entry">汪学军. 2005. 中国农业转基因生物研发进展与安全管理[A]. 国家环境保护总局生物安全管理办公室主编. 中国国家生物安全框架实施国际合作项目研讨会论文集[C]. 北京: 中国环境科学出版社: 22-25.</div>
   <div class="csl-entry">王夫之. 1865. 宋论[M]. 刻本. 金陵: 湘乡曾国荃.</div>
   <div class="csl-entry">王继民, 罗鹏程, 赵常煜等. 2025. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>, 2025年7月10日.</div>
@@ -167,7 +167,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">American Association for the Advancement of Science. 1883. Science[J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). 2022. Guide to Lithium Battery Safety for Space Applications: AIAA G-136-2022[S].</div>
   <div class="csl-entry">佚名. 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆.</div>
-  <div class="csl-entry">佚名. 1962. 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局: 50.</div>
+  <div class="csl-entry">佚名. 1962. 康熙字典: 巳集上 水部[M]. 影印本. 北京: 中华书局: 50.</div>
   <div class="csl-entry">Anon. 1979. Public Library Quarterly[J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">佚名. 2011. 周易外传：卷5[A]. 王夫之主编. 船山全书: 第1册[C]. 修订版. 长沙: 岳麓书社: 983-1029.</div>
   <div class="csl-entry">佚名. 2020. 大黄[A]. 国家药典委员会主编. 中华人民共和国药典: 一部[C]. 2020版. 北京: 中国医药科技出版社: 24-25.</div>
@@ -202,9 +202,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Kinchy A. 2012. <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>[M]. Cambridge, Mass.: MIT Press: 50.</div>
   <div class="csl-entry">Myburg A. A., D. Grattapaglia, G. A. Tuskan, <i>et al.</i> 2014. The Genome of <i>Eucalyptus grandis</i>[J]. <i>Nature</i>, 510: 356-362.</div>
   <div class="csl-entry">Park J. R., Y. Tosaka. 2010. Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms[J]. <i>Cataloging &#38; Classification Quarterly</i>, 48(8): 696-715.</div>
-  <div class="csl-entry">Peebles P. Z. Jr. 2001. <i>Probability, Random Variable, and Random Signal Principles</i>[M]. 4th ed. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Peebles P. Z. Jr. 2001. <i>Probability, Random Variables, and Random Signal Principles</i>[M]. 4th ed. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis A. 2011. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
-  <div class="csl-entry">Roberson J. A., E. G. Burneson. 2011. Drinking Water Standards, Regulations and Goals[A]. In American Water Works Association ed. <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>[C]. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
+  <div class="csl-entry">Roberson J. A., E. G. Burneson. 2011. Drinking Water Quality Standards, Regulations and Goals[A]. In American Water Works Association ed. <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>[C]. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
   <div class="csl-entry">Sadock B. J., V. A. Sadock, P. Ruiz, <i>et al.</i> 2009. <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>: Vol. 1[M]. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito M., K. Miyazaki. 2006. Jadeite-Bearing Metagabbro in Serpentinite Melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu[J]. <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6): 169-176.</div>
   <div class="csl-entry">Santer R. D., O. Akanyeti. 2025. Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps[J]. <i>Insect science</i>.</div>

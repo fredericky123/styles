@@ -146,11 +146,11 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Anonymous, 1883, “Science”. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">佚名，1949：《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》1949。</div>
   <div class="csl-entry">佚名，1957/1990：《图书馆学通讯》. 北京: 北京图书馆1957/1990。</div>
-  <div class="csl-entry">佚名，1962：《康熙字典》. 同文书局影印本 版. 北京: 中华书局，1962年。</div>
+  <div class="csl-entry">佚名，1962：《康熙字典》. 影印本 版. 北京: 中华书局，1962年。</div>
   <div class="csl-entry">Anonymous, 1979, “Public Library Quarterly”. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">佚名，1984：《临床内科杂志》. 武汉: 中华医学会湖北分会1984。</div>
   <div class="csl-entry">Anonymous, 2000, “Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000”. Yufin, S. A., ed.. Rotterdam: A. A. Balkema.</div>
-  <div class="csl-entry">Anonymous, 2004, “最新図書館用語大辞典”. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式会社: 154.</div>
+  <div class="csl-entry">Anonymous, 2004, “最新図書館用語大辭典”. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式會社: 154.</div>
   <div class="csl-entry">Anonymous, 2009, “Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry”. Sadock, B. J., V. A. Sadock, P. Ruiz, H. I. Kaplan, eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">佚名，2011a：《周易外传：卷5》. 王夫之, 编//《船山全书》修订版 版. 长沙: 岳麓书社，2011年。</div>
   <div class="csl-entry">佚名，2011b：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》. 陈志勇, 编. 北京: 经济科学出版社，2011年。</div>
@@ -191,9 +191,9 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Kinchy, A., 2012, “Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops”. Cambridge, Mass.: MIT Press: 50.</div>
   <div class="csl-entry">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, and J. Schmutz, 2014, “The Genome of <i>Eucalyptus grandis</i>”, <i>Nature</i>, 510, 356—362.</div>
   <div class="csl-entry">Park, J.-R., and Y. Tosaka, 2010, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, <i>Cataloging &#38; Classification Quarterly</i>, 48(8), 696—715.</div>
-  <div class="csl-entry">Peebles, P. Z., Jr., 2001, “Probability, Random Variable, and Random Signal Principles”. 4 edition. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Peebles, P. Z., Jr., 2001, “Probability, Random Variables, and Random Signal Principles”. 4 edition. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A., 2011, “Death by Theory: A Tale of Mystery and Archaeological Theory”. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
-  <div class="csl-entry">Roberson, J. A., and E. G. Burneson, 2011, “Drinking Water Standards, Regulations and Goals”. American Water Works Association, ed.//, <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>6 edition. New York: McGraw-Hill: 1.1-1.36.</div>
+  <div class="csl-entry">Roberson, J. A., and E. G. Burneson, 2011, “Drinking Water Quality Standards, Regulations and Goals”. American Water Works Association, ed.//, <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>6 edition. New York: McGraw-Hill: 1.1-1.36.</div>
   <div class="csl-entry">Saito, M., and K. Miyazaki, 2006, “Jadeite-Bearing Metagabbro in Serpentinite Melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu”, <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6), 169—176.</div>
   <div class="csl-entry">Santer, R. D., and O. Akanyeti, 2025, “Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps”, <i>Insect Science</i>.</div>
   <div class="csl-entry">Shinotsuka, H., K. Nagata, M. Siriwardana, H. Yoshikawa, H. Shouno, and M. Okada, 2023, “Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator”, <i>Journal of Electron Spectroscopy and Related Phenomena</i>, 267.</div>

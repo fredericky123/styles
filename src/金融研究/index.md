@@ -321,7 +321,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">佚名，1957/1990，《图书馆学通讯》. 北京: 北京图书馆。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">佚名，1962，《康熙字典》. 同文书局影印本 版. 北京: 中华书局，1962年。</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">佚名，1962，《康熙字典》. 影印本 版. 北京: 中华书局，1962年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Anonymous. 1979. “Public Library Quarterly.” Philadelphia: Taylor &#38; Francis.</div>
@@ -333,7 +333,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">Anonymous. 2000. “Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000.” Yufin S A, ed.. Rotterdam: A. A. Balkema.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">Anonymous. 2004. “最新図書館用語大辞典.” 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式会社: 154.</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">Anonymous. 2004. “最新図書館用語大辭典.” 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式會社: 154.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">Anonymous. 2009. “Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry.” Sadock B J, V A Sadock, P Ruiz, H I Kaplan, eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
@@ -456,13 +456,13 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[124]</div><div class="csl-right-inline">Park, J.-R. and Y. Tosaka. 2010. “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms,” <i>Cataloging &#38; Classification Quarterly</i>, 48(8): pp.696~715.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">Peebles, P.Z., Jr. 2001. “Probability, Random Variable, and Random Signal Principles”. 4 edition. New York: McGraw-Hill.</div>
+    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">Peebles, P.Z., Jr. 2001. “Probability, Random Variables, and Random Signal Principles”. 4 edition. New York: McGraw-Hill.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[126]</div><div class="csl-right-inline">Praetzellis, A. 2011. “Death by Theory: A Tale of Mystery and Archaeological Theory”. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Roberson, J.A. and E.G. Burneson. 2011. “Drinking Water Standards, Regulations and Goals.” American Water Works Association, ed.//, <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>6 edition. New York: McGraw-Hill: 1.1-1.36.</div>
+    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Roberson, J.A. and E.G. Burneson. 2011. “Drinking Water Quality Standards, Regulations and Goals.” American Water Works Association, ed.//, <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>6 edition. New York: McGraw-Hill: 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Saito, M. and K. Miyazaki. 2006. “Jadeite-Bearing Metagabbro in Serpentinite Melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu,” <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6): pp.169~176.</div>

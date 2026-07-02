@@ -186,13 +186,13 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Park J-R, Tosaka Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Peebles P Z Jr. Probability, random variable, and random signal principles[M]. 4. New York: McGraw-Hill, 2001.</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Peebles P Z Jr. Probability, random variables, and random signal principles[M]. 4. New York: McGraw-Hill, 2001.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">Roberson J A, Burneson E G. Drinking water standards, regulations and goals[A]. Water quality &#38; treatment: a handbook on drinking water[C]. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">Roberson J A, Burneson E G. Drinking water quality standards, regulations and goals[A]. Water quality &#38; treatment: a handbook on drinking water[C]. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the Geological Survey of Japan, 2006, 57(5/6): 169-176.</div>
@@ -240,7 +240,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[52]</div><div class="csl-right-inline">史国华, 樊金宇, 何益, 等. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法[P]. . 2022-09-13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">佚名. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社, 2004.</div>
+    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">佚名. 最新図書館用語大辭典[M]. 東京: 柏書房株式會社, 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[54]</div><div class="csl-right-inline">António M, Pepper L. Histórias de Portugal: livros caídos[Z](2019-07-13).</div>
@@ -423,7 +423,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[113]</div><div class="csl-right-inline">佚名. 图书馆学通讯[Z]. 北京: 北京图书馆, 1957/1990.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">佚名. 康熙字典[M]. 同文书局影印本. 北京: 中华书局, 1962.</div>
+    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">佚名. 康熙字典[M]. 影印本. 北京: 中华书局, 1962.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[115]</div><div class="csl-right-inline">佚名. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会, 1984.</div>

@@ -78,7 +78,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">冯友兰. 冯友兰自选集[M].第2版 北京: 首都师范大学出版社, 2008: 第1版自序</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典[M].第同文书局影印本版 北京: 中华书局, 1962, 巳集上 水部: 50</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典[M].第影印本版 北京: 中华书局, 1962, 巳集上 水部: 50</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M].第3版 北京: 高等教育出版社, 2019</div>
@@ -105,10 +105,10 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">博伯尔. 银行业的未来与人工智能[M]. 北京: 清华大学出版社, 2023: 35</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">最新図書館用語大辞典[M]. 図書館用語辞典編集委員会. 東京: 柏書房株式会社, 2004: 154</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">最新図書館用語大辭典[M]. 図書館用語辞典編集委員会. 東京: 柏書房株式會社, 2004: 154</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Peebles P. Z. Jr. Probability, Random Variable, and Random Signal Principles[M]. 4 edn. New York: McGraw-Hill, 2001</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Peebles P. Z. Jr. Probability, Random Variables, and Random Signal Principles[M]. 4 edn. New York: McGraw-Hill, 2001</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry[M]. Sadock B. J., Sadock V. A., Ruiz P., et al. 9 edn. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009, 1</div>
@@ -159,7 +159,7 @@
     <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Weinstein L., Swartz M. N. Pathogenic Properties of Invading Microorganisms[M]. Sodeman W. A. Jr., Sodeman W. A. 5 edn. Philadelphia: Saunders, 1974</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Roberson J. A., Burneson E. G. Drinking Water Standards, Regulations and Goals[M]. American Water Works Association. 6 edn. New York: McGraw-Hill, 2011</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Roberson J. A., Burneson E. G. Drinking Water Quality Standards, Regulations and Goals[M]. American Water Works Association. 6 edn. New York: McGraw-Hill, 2011</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">临床内科杂志[J]. 武汉: 1984, 1984，1（1）—</div>

@@ -78,7 +78,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">冯友兰, 冯友兰自选集, 2 版. 北京: 首都师范大学出版社, 2008, 页 第1版自序.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典, 同文书局影印本., 卷 巳集上 水部. 北京: 中华书局, 1962, 页 50.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典, 影印本., 卷 巳集上 水部. 北京: 中华书局, 1962, 页 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">战德臣和张丽杰, 大学计算机：计算思维与信息素养, 3 版. 北京: 高等教育出版社, 2019.</div>
@@ -105,10 +105,10 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">博伯尔, 银行业的未来与人工智能. 北京: 清华大学出版社, 2023, 页 35.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">図書館用語辞典編集委員会, Ed., 最新図書館用語大辞典. 東京: 柏書房株式会社, 2004, p. 154.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">図書館用語辞典編集委員会, Ed., 最新図書館用語大辭典. 東京: 柏書房株式會社, 2004, p. 154.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">P. Z. Peebles, Jr., <i>Probability, random variable, and random signal principles</i>, 4th ed. New York: McGraw-Hill, 2001.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">P. Z. Peebles, Jr., <i>Probability, random variables, and random signal principles</i>, 4th ed. New York: McGraw-Hill, 2001.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">B. J. Sadock, V. A. Sadock, P. Ruiz, and H. I. Kaplan, Eds., <i>Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</i>, 9th ed., vol. 1. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
@@ -159,7 +159,7 @@
     <div class="csl-left-margin">[34]</div><div class="csl-right-inline">L. Weinstein and M. N. Swartz, “Pathogenic properties of invading microorganisms”, in <i>Pathologic physiology: mechanisms of disease</i>, 5th ed., W. A. Sodeman Jr. and W. A. Sodeman, Eds. Philadelphia: Saunders, 1974, pp. 457–472.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">J. A. Roberson and E. G. Burneson, “Drinking water standards, regulations and goals”, in <i>Water quality &#38; treatment: a handbook on drinking water</i>, 6th ed., American Water Works Association, Ed. New York: McGraw-Hill, 2011, p. 1.1-1.36. Accessed: Dec. 10, 2012. [Online]. Available: <a href="http://lib.myilibrary.com/Open.aspx?id=291430">http://lib.myilibrary.com/Open.aspx?id=291430</a></div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">J. A. Roberson and E. G. Burneson, “Drinking water quality standards, regulations and goals”, in <i>Water quality &#38; treatment: a handbook on drinking water</i>, 6th ed., American Water Works Association, Ed. New York: McGraw-Hill, 2011, p. 1.1-1.36. Accessed: Dec. 10, 2012. [Online]. Available: <a href="http://lib.myilibrary.com/Open.aspx?id=291430">http://lib.myilibrary.com/Open.aspx?id=291430</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">中华医学会湖北分会, 编, “临床内科杂志”, 卷 1984，1（1）—. 中华医学会湖北分会, 武汉, 1984.</div>

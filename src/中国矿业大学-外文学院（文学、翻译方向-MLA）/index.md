@@ -92,10 +92,10 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry"><i>Library of Congress</i>. <a href="https://www.loc.gov/">https://www.loc.gov/</a>. Accessed 12 June 2020.</div>
   <div class="csl-entry">Myburg, Alexander A., et al. “The Genome of <i>Eucalyptus grandis</i>.” <i>Nature</i> 510 (2014): 356–62.</div>
   <div class="csl-entry">Park, Jung-Ran, and Yuji Tosaka. “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms.” <i>Cataloging &#38; Classification Quarterly</i> 48. 8 (2010): 696–715.</div>
-  <div class="csl-entry">Peebles, Peyton Z., Jr. <i>Probability, Random Variable, and Random Signal Principles</i>. 4th ed., McGraw-Hill, 2001.</div>
+  <div class="csl-entry">Peebles, Peyton Z., Jr. <i>Probability, Random Variables, and Random Signal Principles</i>. 4th ed., McGraw-Hill, 2001.</div>
   <div class="csl-entry">Praetzellis, Adrian. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>. Rev. ed., Rowman &#38; Littlefield Publishing Group, Inc., 2011.</div>
   <div class="csl-entry"><i>Public Library Quarterly</i>. Vol. 1979，1（1）—, Taylor &#38; Francis, 1979.</div>
-  <div class="csl-entry">Roberson, J. Alan, and Eric G. Burneson. “Drinking Water Standards, Regulations and Goals.” <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, Ed. American Water Works Association, 6th ed., McGraw-Hill, 2011, 1.1-1.36.</div>
+  <div class="csl-entry">Roberson, J. Alan, and Eric G. Burneson. “Drinking Water Quality Standards, Regulations and Goals.” <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, Ed. American Water Works Association, 6th ed., McGraw-Hill, 2011, 1.1-1.36.</div>
   <div class="csl-entry">Sadock, Benjamin J., et al., eds. <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>. 9th ed., vol. 1, Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   <div class="csl-entry">Saito, Makoto, and Kazuhiro Miyazaki. “Jadeite-Bearing Metagabbro in Serpentinite Melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu.” <i>Bulletin of the Geological Survey of Japan</i> 57. 5/6 (2006): 169–76.</div>
   <div class="csl-entry">Santer, Roger D., and Otar Akanyeti. “Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps.” <i>Insect Science</i> (2025).</div>
@@ -141,13 +141,13 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">吴自银, 温珍河. 中国南部海域海底地形图[CM]. 北京: 科学出版社，2019.</div>
   <div class="csl-entry">周壮等. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心，2023[2025-07-15]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
   <div class="csl-entry">哈里森, 沃尔德伦. 经济数学与金融数学[M]. 谢远涛，译. 北京: 中国人民大学出版社，2012: 235–36.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会, ed. 最新図書館用語大辞典. 柏書房株式会社, 2004.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会, ed. 最新図書館用語大辭典. 柏書房株式會社, 2004.</div>
   <div class="csl-entry">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM].</div>
   <div class="csl-entry">国家能源局. 水电工程水温实时监测系统技术规范: NB/T 10386—2020[S]. 2020.</div>
   <div class="csl-entry">大黄[M]//国家药典委员会. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社，2020: 24–25.</div>
   <div class="csl-entry">工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S]. 2022.</div>
   <div class="csl-entry">杨立华. 《庄子》读不懂？看完这一篇“导读”就明白了[Z]. 2022.</div>
-  <div class="csl-entry">康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局，1962: 50.</div>
+  <div class="csl-entry">康熙字典: 巳集上 水部[M]. 影印本. 北京: 中华书局，1962: 50.</div>
   <div class="csl-entry">张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社，2002: 288.</div>
   <div class="csl-entry">张凯军等. 轨道火车及高速轨道火车紧急安全制动辅助装置: CN202827616U[P]. 2013-03-27.</div>
   <div class="csl-entry">张群等. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J]. 铁道学报，2024.</div>

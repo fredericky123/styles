@@ -115,8 +115,8 @@
 <sup>14</sup> 赵学功：《当代美国外交》（北京：社会科学文献出版社，2001年）。<br>
 <sup>15</sup> 中国造纸学会：《中国造纸年鉴：2003》（北京：中国轻工业出版社，2003年）。<br>
 <sup>16</sup> 博伯尔：《银行业的未来与人工智能》（北京：清华大学出版社，2023年）。<br>
-<sup>17</sup> <b>図書館用語辞典編集委員会, ed.</b>, 最新図書館用語大辞典 (東京: 柏書房株式会社, 2004), p.154.<br>
-<sup>18</sup> <b>Peyton Z. Peebles, Jr.</b>, <i>Probability, Random Variable, and Random Signal Principles</i> (New York: McGraw-Hill, 2001).<br>
+<sup>17</sup> <b>図書館用語辞典編集委員会, ed.</b>, 最新図書館用語大辭典 (東京: 柏書房株式會社, 2004), p.154.<br>
+<sup>18</sup> <b>Peyton Z. Peebles, Jr.</b>, <i>Probability, Random Variables, and Random Signal Principles</i> (New York: McGraw-Hill, 2001).<br>
 <sup>19</sup> <b>Benjamin J. Sadock, Virginia Alcott Sadock, Pedro Ruiz, and Harold I. Kaplan, eds.</b>, <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i> (Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009).<br>
 <sup>20</sup> <b>Institute for Art and Architecture, Academy of Fine Arts Vienna</b>, <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i> (Zürich: Park Books, 2023), p.78.<br>
 <sup>21</sup> <b>Abby Kinchy</b>, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i> (Cambridge, Mass.: MIT Press, 2012), p.50.<br>
@@ -133,7 +133,7 @@
 <sup>32</sup> 国家药典委员会编辑：〈大黄〉，《中华人民共和国药典》（北京：中国医药科技出版社，2020年，2020版），一部，頁24-25。<br>
 <sup>33</sup> 楼梦麟、杨燕：〈汶川地震基岩地震动特征分析〉，收錄於同济大学土木工程防灾国家重点实验室主編：《汶川地震震害研究》（上海：同济大学出版社，2011年），頁11-12。<br>
 <sup>34</sup> <b>L. Weinstein and M. N. Swartz</b>, “Pathogenic Properties of Invading Microorganisms” in William A. Sodeman Jr. and William A. Sodeman, eds., <i>Pathologic Physiology: Mechanisms of Disease</i> (Philadelphia: Saunders, 1974), pp.457-472.<br>
-<sup>35</sup> <b>J. Alan Roberson and Eric G. Burneson</b>, “Drinking Water Standards, Regulations and Goals” in American Water Works Association, ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i> (New York: McGraw-Hill, 2011), 1.1-1.36.<br>
+<sup>35</sup> <b>J. Alan Roberson and Eric G. Burneson</b>, “Drinking Water Quality Standards, Regulations and Goals” in American Water Works Association, ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i> (New York: McGraw-Hill, 2011), 1.1-1.36.<br>
 <sup>36</sup> 中华医学会湖北分会编辑：《临床内科杂志》（武汉：中华医学会湖北分会，1984年）。<br>
 <sup>37</sup> 中国图书馆学会编辑：《图书馆学通讯》（北京：北京图书馆，1957—1990年）。<br>
 <sup>38</sup> <b>American Association for the Advancement of Science, ed.</b>, <i>Science</i> (Washington, D.C.: American Association for the Advancement of Science, 1883).<br>

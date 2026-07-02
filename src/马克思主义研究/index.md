@@ -66,8 +66,8 @@
 <sup>14</sup> 赵学功：《当代美国外交》，北京：社会科学文献出版社，2001年。<br>
 <sup>15</sup> 中国造纸学会：《中国造纸年鉴：2003》，北京：中国轻工业出版社，2003年。<br>
 <sup>16</sup> 博伯尔：《银行业的未来与人工智能》，徐超译，北京：清华大学出版社，2023年。<br>
-<sup>17</sup> 図書館用語辞典編集委員会主编：《最新図書館用語大辞典》，東京：柏書房株式会社，2004年。<br>
-<sup>18</sup> Peyton Z. Peebles, Jr.：《Probability, random variable, and random signal principles》，New York：McGraw-Hill，2001年。<br>
+<sup>17</sup> 図書館用語辞典編集委員会主编：《最新図書館用語大辭典》，東京：柏書房株式會社，2004年。<br>
+<sup>18</sup> Peyton Z. Peebles, Jr.：《Probability, random variables, and random signal principles》，New York：McGraw-Hill，2001年。<br>
 <sup>19</sup> Benjamin J. Sadock、Virginia Alcott Sadock、Pedro Ruiz、Harold I. Kaplan主编：《Kaplan &#38; Sadock’s comprehensive textbook of psychiatry》第1卷，Philadelphia：Wolters Kluwer Health/Lippincott Williams &#38; Wilkins，2009年。<br>
 <sup>20</sup> Institute for Art and Architecture, Academy of Fine Arts Vienna：《Wiener Hitze: architecture and storytelling in times of heat》，Zürich：Park Books，2023年。<br>
 <sup>21</sup> Abby Kinchy：《Seeds, sciences, and struggle: the global politics of transgenic crops》，Cambridge, Mass.：MIT Press，2012年。<br>
@@ -84,7 +84,7 @@
 <sup>32</sup> 国家药典委员会主编：《大黄》（一部），《中华人民共和国药典》，北京：中国医药科技出版社，2020年。<br>
 <sup>33</sup> 楼梦麟、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社，2011年。<br>
 <sup>34</sup> L. Weinstein、M. N. Swartz：《Pathogenic properties of invading microorganisms》，William A. Sodeman Jr.、William A. Sodeman主编：《Pathologic physiology: mechanisms of disease》，Philadelphia：Saunders，1974年。<br>
-<sup>35</sup> J. Alan Roberson、Eric G. Burneson：《Drinking water standards, regulations and goals》，American Water Works Association主编：《Water quality &#38; treatment: a handbook on drinking water》，New York：McGraw-Hill，2011年。<br>
+<sup>35</sup> J. Alan Roberson、Eric G. Burneson：《Drinking water quality standards, regulations and goals》，American Water Works Association主编：《Water quality &#38; treatment: a handbook on drinking water》，New York：McGraw-Hill，2011年。<br>
 <sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》（1984，1（1）—），武汉：中华医学会湖北分会，1984年。<br>
 <sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》（1957（1）—1990（4）），北京：北京图书馆，1957—1990年。<br>
 <sup>38</sup> American Association for the Advancement of Science主编：《Science》（1883，1（1）—），Washington, D.C.：American Association for the Advancement of Science，1883年。<br>

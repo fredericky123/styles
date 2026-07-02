@@ -64,8 +64,8 @@
 <sup>14</sup> 赵学功：《当代美国外交》北京：社会科学文献出版社，2001年<br>
 <sup>15</sup> 中国造纸学会：《中国造纸年鉴：2003》北京：中国轻工业出版社，2003年<br>
 <sup>16</sup> 博伯尔：《银行业的未来与人工智能》，徐超译，北京：清华大学出版社，2023年<br>
-<sup>17</sup> 図書館用語辞典編集委員会主编：《最新図書館用語大辞典》東京：柏書房株式会社，2004年<br>
-<sup>18</sup> Peyton Z. Peebles, Jr., <i>Probability, random variable, and random signal principles</i>, New York: McGraw-Hill, 2001<br>
+<sup>17</sup> 図書館用語辞典編集委員会主编：《最新図書館用語大辭典》東京：柏書房株式會社，2004年<br>
+<sup>18</sup> Peyton Z. Peebles, Jr., <i>Probability, random variables, and random signal principles</i>, New York: McGraw-Hill, 2001<br>
 <sup>19</sup> in Benjamin J. Sadock et al., edt., <i>Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</i>, Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009<br>
 <sup>20</sup> Institute for Art and Architecture, Academy of Fine Arts Vienna, <i>Wiener Hitze: architecture and storytelling in times of heat</i>, Zürich: Park Books, 2023<br>
 <sup>21</sup> Abby Kinchy, <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>, Cambridge, Mass.: MIT Press, 2012<br>
@@ -82,7 +82,7 @@
 <sup>32</sup> ：《大黄》，载国家药典委员会主编：《中华人民共和国药典》，北京：中国医药科技出版社，2020年，第24—25页。<br>
 <sup>33</sup> 楼梦麟、杨燕：《汶川地震基岩地震动特征分析》，载同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社，2011年，第11—12页。<br>
 <sup>34</sup> L. Weinstein and M. N. Swartz, “Pathogenic properties of invading microorganisms,” in William A. Sodeman Jr. and William A. Sodeman, edt., <i>Pathologic physiology: mechanisms of disease</i>, Philadelphia: Saunders, 1974, pp. 457—472.<br>
-<sup>35</sup> J. Alan Roberson and Eric G. Burneson, “Drinking water standards, regulations and goals,” in American Water Works Association, edt., <i>Water quality &#38; treatment: a handbook on drinking water</i>, New York: McGraw-Hill, 2011, p. 1.1-1.36.<br>
+<sup>35</sup> J. Alan Roberson and Eric G. Burneson, “Drinking water quality standards, regulations and goals,” in American Water Works Association, edt., <i>Water quality &#38; treatment: a handbook on drinking water</i>, New York: McGraw-Hill, 2011, p. 1.1-1.36.<br>
 <sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》武汉：中华医学会湖北分会，1984年<br>
 <sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》北京：北京图书馆，1957—1990年<br>
 <sup>38</sup> “Science,” Vol. 1883，1（1）—, (1883), <br>

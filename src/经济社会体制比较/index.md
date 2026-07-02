@@ -101,9 +101,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Kinchy A., 2012. “Seeds, sciences, and struggle: the global politics of transgenic crops.”. Cambridge, Mass.: MIT Press: 50[2013-07-14].</div>
   <div class="csl-entry">Myburg A.A., Grattapaglia D., Tuskan G.A., et al., 2014. “The genome of <i>Eucalyptus grandis</i>.” <i>Nature</i>. 510: 356–362[2014-06-25].</div>
   <div class="csl-entry">Park J.-R. &#38; Tosaka Y., 2010. “Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms.” <i>Cataloging &#38; Classification Quarterly</i>. 48(8): 696–715[2013-09-05].</div>
-  <div class="csl-entry">Peebles P.Z. Jr., 2001. “Probability, random variable, and random signal principles.”. 4 edition. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Peebles P.Z. Jr., 2001. “Probability, random variables, and random signal principles.”. 4 edition. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis A., 2011. “Death by theory: a tale of mystery and archaeological theory.”. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.: 13[2012-07-26].</div>
-  <div class="csl-entry">Roberson J.A. &#38; Burneson E.G., 2011. “Drinking water standards, regulations and goals.”. American Water Works Association, ed.//<i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>  6 edition. New York: McGraw-Hill: 1.1-1.36[2012-12-10].</div>
+  <div class="csl-entry">Roberson J.A. &#38; Burneson E.G., 2011. “Drinking water quality standards, regulations and goals.”. American Water Works Association, ed.//<i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>  6 edition. New York: McGraw-Hill: 1.1-1.36[2012-12-10].</div>
   <div class="csl-entry">Saito M. &#38; Miyazaki K., 2006. “Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu.” <i>Bulletin of the Geological Survey of Japan</i>. 57(5/6): 169–176.</div>
   <div class="csl-entry">Santer R.D. &#38; Akanyeti O., 2025. “Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps.” <i>Insect Science</i>[2025-02-28].</div>
   <div class="csl-entry">Shinotsuka H., Nagata K., Siriwardana M., et al., 2023. “Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator.” <i>Journal of Electron Spectroscopy and Related Phenomena</i>. 267[2025-02-28].</div>
@@ -119,7 +119,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Zotero, [no date]. “[Zotero download].”[2024-04-08].</div>
   <div class="csl-entry">ISO, 2016b. “Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles.”. .</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, et al., 2022. “光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法.”. 2022-09-13[2025-02-28].</div>
-  <div class="csl-entry">Anonymous, 2004. “最新図書館用語大辞典.”. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式会社: 154.</div>
+  <div class="csl-entry">Anonymous, 2004. “最新図書館用語大辭典.”. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式會社: 154.</div>
   <div class="csl-entry">António M. &#38; Pepper L., 2019. “Histórias de Portugal: livros caídos.”(2019-07-13)[2025-01-02].</div>
   <div class="csl-entry">阿扬, 2023：“谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答”. 《环球科学》杂志社, 编. 姜海伦, 译//《认识记忆力：关于学习、思考与遗忘的脑科学》北京: 机械工业出版社: 15–18。</div>
   <div class="csl-entry">北京鲁迅博物馆, 2021：“北京鲁迅博物馆志愿服务章程”(2021-04-21)[2023-05-02]。</div>
@@ -197,7 +197,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">訾冬梅、高秀静, 2006：“内蒙古自治区地图册”. 北京: 中国地图出版社。</div>
   <div class="csl-entry">佚名, 1949：“中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告”[2025-02-28]。</div>
   <div class="csl-entry">佚名, 1957/1990：“图书馆学通讯”. 北京: 北京图书馆。</div>
-  <div class="csl-entry">佚名, 1962：“康熙字典”. 同文书局影印本 版. 北京: 中华书局: 50。</div>
+  <div class="csl-entry">佚名, 1962：“康熙字典”. 影印本 版. 北京: 中华书局: 50。</div>
   <div class="csl-entry">佚名, 1984：“临床内科杂志”. 武汉: 中华医学会湖北分会。</div>
   <div class="csl-entry">佚名, 2011a：“周易外传：卷5”. 王夫之, 编//《船山全书》修订版 版. 长沙: 岳麓书社: 983–1029。</div>
   <div class="csl-entry">佚名, 2011b：“中国财税文化价值研究：‘中国财税文化国际学术研讨会’论文集”. 陈志勇, 编. 北京: 经济科学出版社[2013-10-14]。</div>

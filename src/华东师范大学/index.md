@@ -101,9 +101,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012: 50</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of <i>Eucalyptus grandis</i>[J]. Nature, 2014, 510: 356-362</div>
   <div class="csl-entry">Park J-R, Tosaka Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715</div>
-  <div class="csl-entry">Peebles P Z Jr. Probability, random variable, and random signal principles[M]. 4 edition. New York: McGraw-Hill, 2001</div>
+  <div class="csl-entry">Peebles P Z Jr. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill, 2001</div>
   <div class="csl-entry">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13</div>
-  <div class="csl-entry">Roberson J A, Burneson E G. Drinking water standards, regulations and goals[M]. American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water, 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36</div>
+  <div class="csl-entry">Roberson J A, Burneson E G. Drinking water quality standards, regulations and goals[M]. American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water, 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36</div>
   <div class="csl-entry">Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the Geological Survey of Japan, 2006, 57(5/6): 169-176</div>
   <div class="csl-entry">Santer R D, Akanyeti O. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps[J]. Insect science, 2025</div>
   <div class="csl-entry">Shinotsuka H, Nagata K, Siriwardana M, et al. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator[J]. Journal of electron spectroscopy and related phenomena, 2023, 267</div>
@@ -119,7 +119,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Zotero. [Zotero download][EB]</div>
   <div class="csl-entry">ISO. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S]. </div>
   <div class="csl-entry">史国华, 樊金宇, 何益, 等. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A[P]. 2022-09-13</div>
-  <div class="csl-entry">佚名. 最新図書館用語大辞典[M]. 図書館用語辞典編集委員会, 编. 東京: 柏書房株式会社, 2004: 154</div>
+  <div class="csl-entry">佚名. 最新図書館用語大辭典[M]. 図書館用語辞典編集委員会, 编. 東京: 柏書房株式會社, 2004: 154</div>
   <div class="csl-entry">António M, Pepper L. Histórias de Portugal: livros caídos[EB](2019-07-13)</div>
   <div class="csl-entry">阿扬. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]. 《环球科学》杂志社, 编. 姜海伦, 译//认识记忆力：关于学习、思考与遗忘的脑科学, 北京: 机械工业出版社, 2023: 15-18</div>
   <div class="csl-entry">北京鲁迅博物馆. 北京鲁迅博物馆志愿服务章程[EB](2021-04-21)</div>
@@ -178,7 +178,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">许振超. “好好干，当一个好工人”[EB](2025-02-17)</div>
   <div class="csl-entry">扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798</div>
   <div class="csl-entry">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75</div>
-  <div class="csl-entry">佚名. 康熙字典[M]. 同文书局影印本 版. 北京: 中华书局, 1962: 50</div>
+  <div class="csl-entry">佚名. 康熙字典[M]. 影印本 版. 北京: 中华书局, 1962: 50</div>
   <div class="csl-entry">佚名. 鼻整形应用解剖学[M]. 牛永敢, 孔晓, 王阳, 等, 编. 北京: 人民卫生出版社, 2019: 65-66</div>
   <div class="csl-entry">佚名. 周易外传：卷5[M]. 王夫之, 编//船山全书, 修订版 版. 长沙: 岳麓书社, 2011a: 983-1029</div>
   <div class="csl-entry">佚名. 大黄[M]. 国家药典委员会, 编//中华人民共和国药典, 2020版 版. 北京: 中国医药科技出版社, 2020: 24-25</div>

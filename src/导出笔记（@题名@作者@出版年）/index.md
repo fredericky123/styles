@@ -56,8 +56,8 @@
   <div class="csl-entry">@当代美国外交@赵学功. (@2001)</div>
   <div class="csl-entry">@中国造纸年鉴：2003@中国造纸学会. (@2003)</div>
   <div class="csl-entry">@银行业的未来与人工智能@博伯尔. (@2023)</div>
-  <div class="csl-entry">@最新図書館用語大辞典@佚名. (@2004)</div>
-  <div class="csl-entry">@Probability, random variable, and random signal principles@Peebles P Z Jr. (@2001)</div>
+  <div class="csl-entry">@最新図書館用語大辭典@佚名. (@2004)</div>
+  <div class="csl-entry">@Probability, random variables, and random signal principles@Peebles P Z Jr. (@2001)</div>
   <div class="csl-entry">@Kaplan &#38; Sadock’s comprehensive textbook of psychiatry@anonymous. (@2009)</div>
   <div class="csl-entry">@Wiener Hitze: architecture and storytelling in times of heat@Institute for Art and Architecture, Academy of Fine Arts Vienna. (@2023)</div>
   <div class="csl-entry">@Seeds, sciences, and struggle: the global politics of transgenic crops@Kinchy A. (@2012)</div>
@@ -74,7 +74,7 @@
   <div class="csl-entry">@大黄@佚名. (@2020)</div>
   <div class="csl-entry">@汶川地震基岩地震动特征分析@楼梦麟, 杨燕. (@2011)</div>
   <div class="csl-entry">@Pathogenic properties of invading microorganisms@Weinstein L, Swartz M N. (@1974)</div>
-  <div class="csl-entry">@Drinking water standards, regulations and goals@Roberson J A, Burneson E G. (@2011)</div>
+  <div class="csl-entry">@Drinking water quality standards, regulations and goals@Roberson J A, Burneson E G. (@2011)</div>
   <div class="csl-entry">@临床内科杂志@佚名. (@1984)</div>
   <div class="csl-entry">@图书馆学通讯@佚名. (@1957–1990)</div>
   <div class="csl-entry">@Science@anonymous. (@1883)</div>

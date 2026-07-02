@@ -86,9 +86,9 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Kinchy, A. 2012. <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i> [M]. Cambridge, Mass.: MIT Press. 50.</div>
   <div class="csl-entry">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, &#38; J. Schmutz. 2014. The genome of <i>Eucalyptus grandis</i> [J]. <i>Nature</i> 510: 356-362.</div>
   <div class="csl-entry">Park, J.-R. &#38; Y. Tosaka. 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms [J]. <i>Cataloging &#38; Classification Quarterly</i> 48 (8): 696-715.</div>
-  <div class="csl-entry">Peebles, P. Z., Jr. 2001. <i>Probability, Random Variable, and Random Signal Principles</i> (4th edition) [M]. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Peebles, P. Z., Jr. 2001. <i>Probability, Random Variables, and Random Signal Principles</i> (4th edition) [M]. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A. 2011. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i> (Rev. ed.) [M]. Rowman &#38; Littlefield Publishing Group, Inc. 13.</div>
-  <div class="csl-entry">Roberson, J. A. &#38; E. G. Burneson. 2011. Drinking water standards, regulations and goals, ed. American Water Works Association [A]. In <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>[C]. New York: McGraw-Hill. 1.1-1.36.</div>
+  <div class="csl-entry">Roberson, J. A. &#38; E. G. Burneson. 2011. Drinking water quality standards, regulations and goals, ed. American Water Works Association [A]. In <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>[C]. New York: McGraw-Hill. 1.1-1.36.</div>
   <div class="csl-entry">B. J. Sadock, V. A. Sadock, P. Ruiz, &#38; H. I. Kaplan (eds.). 2009. <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>: Vol. 1 (9th edition) [C]. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito, M. &#38; K. Miyazaki. 2006. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu [J]. <i>Bulletin of the Geological Survey of Japan</i> 57 (5/6): 169-176.</div>
   <div class="csl-entry">Santer, R. D. &#38; O. Akanyeti. 2025. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps [J]. <i>Insect science</i>.</div>
@@ -107,7 +107,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Zotero. n.d. [Zotero download] [OL]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a> (accessed 08/04/2024).</div>
   <div class="csl-entry">ISO. 2016b. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr) [S].</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, 邢利娜, &#38; 高峰. 2022. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A [P]. 2022-9-13.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会 (ed.). 2004. 最新図書館用語大辞典 [C]. 東京: 柏書房株式会社. 154.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会 (ed.). 2004. 最新図書館用語大辭典 [C]. 東京: 柏書房株式會社. 154.</div>
   <div class="csl-entry">António, M. &#38; L. Pepper. 2019. Histórias de Portugal: livros caídos [OL]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a> (accessed 02/01/2025).</div>
   <div class="csl-entry">阿扬，2023，谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[A]，姜海伦译。载《环球科学》杂志社（编）．《认识记忆力：关于学习、思考与遗忘的脑科学》[C]。北京：机械工业出版社。15-18。</div>
   <div class="csl-entry">北京鲁迅博物馆，2021，北京鲁迅博物馆志愿服务章程[OL]。<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> （2023年5月2日读取）。</div>
@@ -191,7 +191,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞，2023，天宫二号遥感图像自然景物分类数据集[DS]。<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> （2025年7月15日读取）。</div>
   <div class="csl-entry">訾冬梅、高秀静，2006，内蒙古自治区地图册（新版）[CM]。北京：中国地图出版社。</div>
   <div class="csl-entry">佚名，1949，中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]。武汉：武汉大学档案馆。</div>
-  <div class="csl-entry">佚名，1962，《康熙字典》：巳集上 水部（同文书局影印本）[M]。北京：中华书局。50。</div>
+  <div class="csl-entry">佚名，1962，《康熙字典》：巳集上 水部（影印本）[M]。北京：中华书局。50。</div>
   <div class="csl-entry">佚名，2011，周易外传：卷5[A]。载王夫之（编）．《船山全书》：第1册[C]。长沙：岳麓书社。983-1029。</div>
   <div class="csl-entry">佚名，2020，大黄[A]。载国家药典委员会（编）．《中华人民共和国药典》：一部[C]。北京：中国医药科技出版社。24-25。</div>
   <div class="csl-entry">佚名，2023a，[《昨日之歌》图书封面][Z]。</div>

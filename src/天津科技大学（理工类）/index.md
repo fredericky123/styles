@@ -105,10 +105,10 @@
     <div class="csl-left-margin">［16］</div><div class="csl-right-inline">博伯尔．银行业的未来与人工智能[M]．徐超，译．北京：清华大学出版社，2023：35．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">［17］</div><div class="csl-right-inline">図書館用語辞典編集委員会. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社, 2004: 154.</div>
+    <div class="csl-left-margin">［17］</div><div class="csl-right-inline">図書館用語辞典編集委員会. 最新図書館用語大辭典[M]. 東京: 柏書房株式會社, 2004: 154.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">［18］</div><div class="csl-right-inline">Peebles P Z Jr. Probability, random variable, and random signal principles[M]. New York: McGraw-Hill, 2001.</div>
+    <div class="csl-left-margin">［18］</div><div class="csl-right-inline">Peebles P Z Jr. Probability, random variables, and random signal principles[M]. New York: McGraw-Hill, 2001.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">［19］</div><div class="csl-right-inline">Sadock B J, Sadock V A, Ruiz P, et al. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry：Vol. 1[M]. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
@@ -159,7 +159,7 @@
     <div class="csl-left-margin">［34］</div><div class="csl-right-inline">Weinstein L, Swartz M N. Pathogenic properties of invading microorganisms[A]. In: Sodeman W A Jr, Sodeman W A, Pathologic physiology: mechanisms of disease[M]. Philadelphia: Saunders, 1974: 457-472.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">［35］</div><div class="csl-right-inline">Roberson J A, Burneson E G. Drinking water standards, regulations and goals[A]. In: American Water Works Association, Water quality &#38; treatment: a handbook on drinking water[M]. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+    <div class="csl-left-margin">［35］</div><div class="csl-right-inline">Roberson J A, Burneson E G. Drinking water quality standards, regulations and goals[A]. In: American Water Works Association, Water quality &#38; treatment: a handbook on drinking water[M]. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">［36］</div><div class="csl-right-inline">中华医学会湖北分会．临床内科杂志[J]．1984，1984，1（1）—．武汉：中华医学会湖北分会，1984．</div>

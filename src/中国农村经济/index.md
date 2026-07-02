@@ -104,7 +104,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">47.谭其骧，1982：《中国历史地图集》（第2册），北京：地图出版社，第6页。</div>
   <div class="csl-entry">48.汤万金、杨跃翔、刘文、郑建国、王赟松，2013：《人体安全重要技术标准研制最终报告》，<a href="http://www.nstrs.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.cn/xiangxiBG.aspx?id=41707</a>。</div>
   <div class="csl-entry">49.童世亨，1926：《京兆直隶图》，上海：商务印书馆。</div>
-  <div class="csl-entry">50.図書館用語辞典編集委員会, 2004, 最新図書館用語大辞典, 東京: 柏書房株式会社, 154.</div>
+  <div class="csl-entry">50.図書館用語辞典編集委員会, 2004, 最新図書館用語大辭典, 東京: 柏書房株式會社, 154.</div>
   <div class="csl-entry">51.汪学军，2005：《中国农业转基因生物研发进展与安全管理》，载国家环境保护总局生物安全管理办公室（编）《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，第22-25页。</div>
   <div class="csl-entry">52.王夫之，1865：《宋论》（刻本），金陵：湘乡曾国荃。</div>
   <div class="csl-entry">53.王继民、罗鹏程、赵常煜、郭鑫、王世奇、高正，2025：《人文社会科学数据集检索方法研究的数据集》，北京大学开放研究数据平台，<a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>。</div>
@@ -141,7 +141,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">84.American Association for the Advancement of Science, 1883, <i>Science</i> (1883，1（1）—), Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">85.American Institute of Aeronautics and Astronautics (AIAA), 2022, <i>Guide to Lithium Battery Safety for Space Applications</i>.</div>
   <div class="csl-entry">86.佚名，1949：《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》，武汉：武汉大学档案馆。</div>
-  <div class="csl-entry">87.佚名，1962：《康熙字典》（同文书局影印本巳集上 水部），北京：中华书局，第50页。</div>
+  <div class="csl-entry">87.佚名，1962：《康熙字典》（影印本巳集上 水部），北京：中华书局，第50页。</div>
   <div class="csl-entry">88.Anon, 1979, <i>Public Library Quarterly</i> (1979，1（1）—), Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">89.佚名，2011：《周易外传：卷5》，载王夫之（编）《船山全书》（修订版第1册），长沙：岳麓书社，第983-1029页。</div>
   <div class="csl-entry">90.佚名，2020：《大黄》，载国家药典委员会（编）《中华人民共和国药典》（2020版一部），北京：中国医药科技出版社，第24-25页。</div>
@@ -176,9 +176,9 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">119.Kinchy, A., 2012, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, Cambridge, Mass.: MIT Press, 50.</div>
   <div class="csl-entry">120.Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C. Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, and J. Schmutz, 2014, “The Genome of <i>Eucalyptus grandis</i>”, <i>Nature</i>, 510: 356-362.</div>
   <div class="csl-entry">121.Park, J. R., and Y. Tosaka, 2010, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, <i>Cataloging &#38; Classification Quarterly</i>, 48(8): 696-715.</div>
-  <div class="csl-entry">122.Peebles, P. Z., Jr., 2001, <i>Probability, Random Variable, and Random Signal Principles</i> (4th ed.), New York: McGraw-Hill.</div>
+  <div class="csl-entry">122.Peebles, P. Z., Jr., 2001, <i>Probability, Random Variables, and Random Signal Principles</i> (4th ed.), New York: McGraw-Hill.</div>
   <div class="csl-entry">123.Praetzellis, A., 2011, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i> (Rev. ed.), Rowman &#38; Littlefield Publishing Group, Inc., 13.</div>
-  <div class="csl-entry">124.Roberson, J. A., and E. G. Burneson, 2011, <i>Drinking Water Standards, Regulations and Goals</i>, in American Water Works Association (ed.) <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i> (6th ed.), New York: McGraw-Hill, 1.1-1.36.</div>
+  <div class="csl-entry">124.Roberson, J. A., and E. G. Burneson, 2011, <i>Drinking Water Quality Standards, Regulations and Goals</i>, in American Water Works Association (ed.) <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i> (6th ed.), New York: McGraw-Hill, 1.1-1.36.</div>
   <div class="csl-entry">125.Sadock, B. J., V. A. Sadock, P. Ruiz, and H. I. Kaplan, 2009, <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i> (9th ed., Vol. 1), Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">126.Saito, M., and K. Miyazaki, 2006, “Jadeite-Bearing Metagabbro in Serpentinite Melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu”, <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6): 169-176.</div>
   <div class="csl-entry">127.Santer, R. D., and O. Akanyeti, 2025, “Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps”, <i>Insect Science</i>.</div>

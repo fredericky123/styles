@@ -177,13 +177,13 @@ Qian等 （2009a）<br>
     <div class="csl-left-margin">31.</div><div class="csl-right-inline">Park, J. R., Tosaka, Y. Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696~715.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">32.</div><div class="csl-right-inline">Peebles, P. Z., Jr. Probability, Random Variable, and Random Signal Principles. 4th ed. McGraw-Hill, 2001.</div>
+    <div class="csl-left-margin">32.</div><div class="csl-right-inline">Peebles, P. Z., Jr. Probability, Random Variables, and Random Signal Principles. 4th ed. McGraw-Hill, 2001.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">33.</div><div class="csl-right-inline">Praetzellis, A. Death by Theory: A Tale of Mystery and Archaeological Theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">34.</div><div class="csl-right-inline">Roberson, J. A., Burneson, E. G. Drinking Water Standards, Regulations and Goals//American Water Works Association. Water Quality &#38; Treatment: A Handbook on Drinking Water. 6th ed. McGraw-Hill, 2011: 1.1-1.36.</div>
+    <div class="csl-left-margin">34.</div><div class="csl-right-inline">Roberson, J. A., Burneson, E. G. Drinking Water Quality Standards, Regulations and Goals//American Water Works Association. Water Quality &#38; Treatment: A Handbook on Drinking Water. 6th ed. McGraw-Hill, 2011: 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">35.</div><div class="csl-right-inline">Sadock, B. J., Sadock, V. A., Ruiz, P., Kaplan, H. I. Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry: Vol. 1. 9th ed. Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
@@ -240,7 +240,7 @@ Qian等 （2009a）<br>
     <div class="csl-left-margin">52.</div><div class="csl-right-inline">史国华, 樊金宇, 何益, 邢利娜, 高峰. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A. 2022-09-13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">53.</div><div class="csl-right-inline">図書館用語辞典編集委員会. 最新図書館用語大辞典. 柏書房株式会社, 2004: 154.</div>
+    <div class="csl-left-margin">53.</div><div class="csl-right-inline">図書館用語辞典編集委員会. 最新図書館用語大辭典. 柏書房株式會社, 2004: 154.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">54.</div><div class="csl-right-inline">António, M., Pepper, L. Histórias de Portugal: livros caídos. (2019-07-13)[2025-01-02]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>.</div>
@@ -492,7 +492,7 @@ Qian等 （2009a）<br>
     <div class="csl-left-margin">136.</div><div class="csl-right-inline">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告. 武汉大学档案馆, 1949.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">137.</div><div class="csl-right-inline">佚名. 康熙字典: 巳集上 水部. 同文书局影印本. 中华书局, 1962: 50.</div>
+    <div class="csl-left-margin">137.</div><div class="csl-right-inline">佚名. 康熙字典: 巳集上 水部. 影印本. 中华书局, 1962: 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">138.</div><div class="csl-right-inline">佚名. 周易外传：卷5//王夫之. 船山全书: 第1册. 修订版. 岳麓书社, 2011: 983~1029.</div>

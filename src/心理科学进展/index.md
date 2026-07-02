@@ -93,7 +93,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">金燕萍. (2020). <i>社交媒体时代的虚假信息研究</i> (硕士学位论文). 温州大学, 温州.</div>
   <div class="csl-entry">井丽南. (2022). <i>支持状态可编程的SDN交换机关键技术研究</i> (博士学位论文). 中国科学院大学, 北京.</div>
   <div class="csl-entry">久保智康. (2009). 花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心 (顾幼静 译). <i>东方博物</i>, <i>1</i>, 85–92.</div>
-  <div class="csl-entry"><i>康熙字典</i> (同文书局影印本, p. 50). (1962). 北京: 中华书局.</div>
+  <div class="csl-entry"><i>康熙字典</i> (影印本, p. 50). (1962). 北京: 中华书局.</div>
   <div class="csl-entry">李鸿章. (1887). <i>奏请上海道库洋务外销要款无款可筹仍拨药厘接济事</i>.</div>
   <div class="csl-entry">李华, 王昊, 康佐. (2023). <i>一种拼接式桥梁模型</i> (No. CN218214474U).</div>
   <div class="csl-entry">李妍, 王莹. (2022). <i>医疗机构保洁人员“一前五后”手卫生干预效果研究</i> (p. 2). 中华预防医学会医院感染控制分会第31次全国医院感染学术年会.</div>
@@ -114,7 +114,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">谭其骧. (1982). <i>中国历史地图集</i> (p. 6). 北京: 地图出版社.</div>
   <div class="csl-entry">汤万金, 杨跃翔, 刘文, 郑建国, 王赟松. (2013). <i>人体安全重要技术标准研制最终报告</i> (No. 7178999X-2006BAK04A10/10.2013).</div>
   <div class="csl-entry">童世亨. (1926). <i>京兆直隶图</i>. 上海: 商务印书馆.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会 (Ed.). (2004). <i>最新図書館用語大辞典</i> (p. 154). 柏書房株式会社.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会 (Ed.). (2004). <i>最新図書館用語大辭典</i> (p. 154). 柏書房株式會社.</div>
   <div class="csl-entry">汪学军. (2005). 中国农业转基因生物研发进展与安全管理. 见 国家环境保护总局生物安全管理办公室 (编), <i>中国国家生物安全框架实施国际合作项目研讨会论文集</i> (pp. 22–25). 北京: 中国环境科学出版社.</div>
   <div class="csl-entry">王夫之. (1865). <i>宋论</i> (刻本). 金陵: 湘乡曾国荃.</div>
   <div class="csl-entry">王夫之 (编). (2011). 周易外传：卷5. 见 <i>船山全书</i>(第1册) (修订版, pp. 983–1029). 长沙: 岳麓书社.</div>
@@ -183,10 +183,10 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry"><i>Library of Congress</i>. (n.d.).</div>
   <div class="csl-entry">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Hayes, R. D., Grimwood, J., … Schmutz, J. (2014). The genome of <i>Eucalyptus grandis</i>. <i>Nature</i>, <i>510</i>, 356–362.</div>
   <div class="csl-entry">Park, J.-R., &#38; Tosaka, Y. (2010). Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. <i>Cataloging &#38; Classification Quarterly</i>, <i>48</i>(8), 696–715.</div>
-  <div class="csl-entry">Peebles, P. Z., Jr. (2001). <i>Probability, random variable, and random signal principles</i> (4th ed.). McGraw-Hill.</div>
+  <div class="csl-entry">Peebles, P. Z., Jr. (2001). <i>Probability, random variables, and random signal principles</i> (4th ed.). McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A. (2011). <i>Death by theory: a tale of mystery and archaeological theory</i> (Rev. ed., p. 13). Rowman &#38; Littlefield Publishing Group, Inc.</div>
   <div class="csl-entry"><i>Public library quarterly</i>. (1979). Taylor &#38; Francis.</div>
-  <div class="csl-entry">Roberson, J. A., &#38; Burneson, E. G. (2011). Drinking water standards, regulations and goals. In American Water Works Association (Ed.), <i>Water quality &#38; treatment: a handbook on drinking water</i> (6th ed., p. 1.1-1.36). McGraw-Hill.</div>
+  <div class="csl-entry">Roberson, J. A., &#38; Burneson, E. G. (2011). Drinking water quality standards, regulations and goals. In American Water Works Association (Ed.), <i>Water quality &#38; treatment: a handbook on drinking water</i> (6th ed., p. 1.1-1.36). McGraw-Hill.</div>
   <div class="csl-entry">Sadock, B. J., Sadock, V. A., Ruiz, P., &#38; Kaplan, H. I. (Eds.). (2009). <i>Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</i> (9th ed., Vol. 1). Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito, M., &#38; Miyazaki, K. (2006). Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. <i>Bulletin of the Geological Survey of Japan</i>, <i>57</i>(5/6), 169–176.</div>
   <div class="csl-entry">Santer, R. D., &#38; Akanyeti, O. (2025). Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. <i>Insect Science</i>. Advance online publication.</div>

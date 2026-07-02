@@ -320,8 +320,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[79]	Anonymous. 1957–1990. 图书馆学通讯[J]. 北京: 北京图书馆.
     <div class="csl-block">anonymous. 1957–1990. 图书馆学通讯[J]. 北京: 北京图书馆 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[80]	Anonymous. 1962. 康熙字典[M]. 同文书局影印本 edition. 北京: 中华书局，1962年.
-    <div class="csl-block">anonymous. 1962. 康熙字典[M]. 同文书局影印本 edition. 北京: 中华书局，1962年 (In Chinese)</div>
+  <div class="csl-entry">[80]	Anonymous. 1962. 康熙字典[M]. 影印本 edition. 北京: 中华书局，1962年.
+    <div class="csl-block">anonymous. 1962. 康熙字典[M]. 影印本 edition. 北京: 中华书局，1962年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[81]	Anonymous. 1979. Public library quarterly[J]. Philadelphia: Taylor &#38; Francis.
     <div class="csl-block">anonymous. 1979. Public library quarterly[J]. Philadelphia: Taylor &#38; Francis (In Chinese)</div>
@@ -332,8 +332,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[83]	Anonymous. 2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema，2000年.
     <div class="csl-block">anonymous. 2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema，2000年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[84]	Anonymous. 2004. 最新図書館用語大辞典[M]. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式会社，2004年.
-    <div class="csl-block">anonymous. 2004. 最新図書館用語大辞典[M]. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式会社，2004年 (In Chinese)</div>
+  <div class="csl-entry">[84]	Anonymous. 2004. 最新図書館用語大辭典[M]. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式會社，2004年.
+    <div class="csl-block">anonymous. 2004. 最新図書館用語大辭典[M]. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式會社，2004年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[85]	Anonymous. 2009. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Sadock B J, Sadock V A, Ruiz P, Kaplan H I, eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins，2009年.
     <div class="csl-block">anonymous. 2009. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Sadock B J, Sadock V A, Ruiz P, Kaplan H I, eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins，2009年 (In Chinese)</div>
@@ -453,14 +453,14 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[124]	PARK J-R, TOSAKA Y. 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]，Cataloging &#38; Classification Quarterly, 48(8): 696-715. .
     <div class="csl-block">PARK J-R, TOSAKA Y. 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]，Cataloging &#38; Classification Quarterly, 48(8): 696-715. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[125]	PEEBLES P Z Jr. 2001. Probability, random variable, and random signal principles[M]. 4 edition. New York: McGraw-Hill，2001年.
-    <div class="csl-block">PEEBLES P Z Jr. 2001. Probability, random variable, and random signal principles[M]. 4 edition. New York: McGraw-Hill，2001年 (In Chinese)</div>
+  <div class="csl-entry">[125]	PEEBLES P Z Jr. 2001. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill，2001年.
+    <div class="csl-block">PEEBLES P Z Jr. 2001. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill，2001年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[126]	PRAETZELLIS A. 2011. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.，2011年.
     <div class="csl-block">PRAETZELLIS A. 2011. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.，2011年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[127]	ROBERSON J A, BURNESON E G. 2011. Drinking water standards, regulations and goals[M]. American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water6 edition. New York: McGraw-Hill，2011年.
-    <div class="csl-block">ROBERSON J A, BURNESON E G. 2011. Drinking water standards, regulations and goals[M]. American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water6 edition. New York: McGraw-Hill，2011年 (In Chinese)</div>
+  <div class="csl-entry">[127]	ROBERSON J A, BURNESON E G. 2011. Drinking water quality standards, regulations and goals[M]. American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water6 edition. New York: McGraw-Hill，2011年.
+    <div class="csl-block">ROBERSON J A, BURNESON E G. 2011. Drinking water quality standards, regulations and goals[M]. American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water6 edition. New York: McGraw-Hill，2011年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[128]	SAITO M, MIYAZAKI K. 2006. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]，Bulletin of the Geological Survey of Japan, 57(5/6): 169-176. .
     <div class="csl-block">SAITO M, MIYAZAKI K. 2006. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]，Bulletin of the Geological Survey of Japan, 57(5/6): 169-176. (In Chinese)</div>

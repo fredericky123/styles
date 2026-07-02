@@ -78,7 +78,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">冯友兰. . 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">佚名. . 同文书局影印本 版. 北京: 中华书局, 1962: 50.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">佚名. . 影印本 版. 北京: 中华书局, 1962: 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">战德臣等. . 3 版. 北京: 高等教育出版社, 2019.</div>
@@ -105,7 +105,7 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">博伯尔. . 徐超, 译. 北京: 清华大学出版社, 2023: 35.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">佚名. . 図書館用語辞典編集委員会, 编. 東京: 柏書房株式会社, 2004: 154.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">佚名. . 図書館用語辞典編集委員会, 编. 東京: 柏書房株式會社, 2004: 154.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Peebles. . 4 edition. New York: McGraw-Hill, 2001.</div>

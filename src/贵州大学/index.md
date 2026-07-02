@@ -198,7 +198,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">38.</div><div class="csl-right-inline">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">39.</div><div class="csl-right-inline">佚名. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社, 2004.</div>
+    <div class="csl-left-margin">39.</div><div class="csl-right-inline">佚名. 最新図書館用語大辭典[M]. 東京: 柏書房株式會社, 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">40.</div><div class="csl-right-inline">Anonymous. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
@@ -456,13 +456,13 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">124.</div><div class="csl-right-inline">Park J-R, Tosaka Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696–715.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">125.</div><div class="csl-right-inline">Peebles P Z Jr. Probability, random variable, and random signal principles[M]. New York: McGraw-Hill, 2001.</div>
+    <div class="csl-left-margin">125.</div><div class="csl-right-inline">Peebles P Z Jr. Probability, random variables, and random signal principles[M]. New York: McGraw-Hill, 2001.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">126.</div><div class="csl-right-inline">Praetzellis A. Death by theory: a tale of mystery and archaeological theoryRowman &#38; Littlefield Publishing Group, Inc., 2011.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">127.</div><div class="csl-right-inline">Roberson J A, Burneson E G. Drinking water standards, regulations and goals[M]//Water quality &#38; treatment: a handbook on drinking water. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+    <div class="csl-left-margin">127.</div><div class="csl-right-inline">Roberson J A, Burneson E G. Drinking water quality standards, regulations and goals[M]//Water quality &#38; treatment: a handbook on drinking water. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">128.</div><div class="csl-right-inline">Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the Geological Survey of Japan, 2006, 57(5/6): 169–176.</div>

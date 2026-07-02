@@ -97,7 +97,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">[金燕萍]. (2020). 社交媒体时代的虚假信息研究 (页 16) [硕士学位论文, 温州大学]. <a href="https://d.wanfangdata.com.cn/thesis/D02216281">https://d.wanfangdata.com.cn/thesis/D02216281</a></div>
   <div class="csl-entry">[井丽南]. (2022). 支持状态可编程的SDN交换机关键技术研究 (页 43) [博士学位论文, 中国科学院大学]. <a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289">http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289</a></div>
   <div class="csl-entry">[久保智康]. (2009). 花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心 (顾幼静, 译). 东方博物, <i>1</i>, 85-92.</div>
-  <div class="csl-entry">(1962). 康熙字典: 卷 巳集上 水部 (同文书局影印本, 页 50). 中华书局.</div>
+  <div class="csl-entry">(1962). 康熙字典: 卷 巳集上 水部 (影印本, 页 50). 中华书局.</div>
   <div class="csl-entry">[李鸿章]. (1887). 奏请上海道库洋务外销要款无款可筹仍拨药厘接济事. 中国第一历史档案馆 (04-01-35-0399-039), 北京.</div>
   <div class="csl-entry">[李华、王昊、康佐]. (2023). 一种拼接式桥梁模型 (国家知识产权局 专利 No. CN218214474U). <a href="http://patentscope2.wipo.int/search/en/detail.jsf?docId=CN390029302&#38;_cid=JP1-MAY1P5-04922-1">http://patentscope2.wipo.int/search/en/detail.jsf?docId=CN390029302&#38;_cid=JP1-MAY1P5-04922-1</a></div>
   <div class="csl-entry">[李妍、王莹]. (2022). 医疗机构保洁人员“一前五后”手卫生干预效果研究. 2.</div>
@@ -118,7 +118,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">[谭其骧]. (1982). 中国历史地图集: 卷 第2册 (页 6) [地图]. 地图出版社.</div>
   <div class="csl-entry">[汤万金、杨跃翔、刘文、郑建国、王赟松]. (2013). 人体安全重要技术标准研制最终报告 (Nos. 7178999X-2006BAK04A10/10.2013). <a href="http://www.nstrs.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.cn/xiangxiBG.aspx?id=41707</a></div>
   <div class="csl-entry">[童世亨]. (1926). 京兆直隶图 [地图]. 商务印书馆. <a href="http://gdt-lib-whu-edu-cn.vpn.whu.edu.cn:8118/imginfo.html?ty%3Dmap%26id%3D4861">http://gdt-lib-whu-edu-cn.vpn.whu.edu.cn:8118/imginfo.html?ty%3Dmap%26id%3D4861</a></div>
-  <div class="csl-entry">図書館用語辞典編集委員会 (Ed.). (2004). 最新図書館用語大辞典 (p. 154). 柏書房株式会社.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会 (Ed.). (2004). 最新図書館用語大辭典 (p. 154). 柏書房株式會社.</div>
   <div class="csl-entry">[王夫之]. (1865). 宋论 (刻本). 湘乡曾国荃.</div>
   <div class="csl-entry">(2011b). 周易外传：卷5: 卷 第1册. 载 王夫之 (编), <i>船山全书: 卷 第1册</i> (修订版, 页 983-1029). 岳麓书社.</div>
   <div class="csl-entry">[王继民、罗鹏程、赵常煜、郭鑫、王世奇、高正]. (2025). 人文社会科学数据集检索方法研究的数据集 (版 2.2) [数据集]. 北京大学开放研究数据平台. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a></div>
@@ -184,10 +184,10 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Ljungqvist L., &#38; Sargent T. J. [扬奎斯特、萨金特]. (2010). 递归宏观经济理论 [Recursive macroeconomic theory] (杨斌, 王忠玉, 陈彦斌, &#38; 严高剑, 译; 2 版, 页 798). 中国人民大学出版社.</div>
   <div class="csl-entry">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Hayes, R. D., Grimwood, J., Jenkins, J., Lindquist, E., Tice, H., Bauer, D., Goodstein, D. M., Dubchak, I., Poliakov, A., Mizrachi, E., Kullan, A. R. K., Hussey, S. G., Pinard, D., van der Merwe, K., Singh, P., … Schmutz, J. (2014). The genome of <i>Eucalyptus grandis</i>. <i>Nature</i>, <i>510</i>, 356-362. <a href="https://doi.org/10.1038/nature13308">https://doi.org/10.1038/nature13308</a></div>
   <div class="csl-entry">Park, J.-R., &#38; Tosaka, Y. (2010). Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. <i>Cataloging &#38; Classification Quarterly</i>, <i>48</i>(8), 696-715. <a href="https://www.tandfonline.com/doi/full/10.1080/01639374.2010.508711">https://www.tandfonline.com/doi/full/10.1080/01639374.2010.508711</a></div>
-  <div class="csl-entry">Peebles, P. Z., Jr. (2001). Probability, random variable, and random signal principles (4th ed.). McGraw-Hill.</div>
+  <div class="csl-entry">Peebles, P. Z., Jr. (2001). Probability, random variables, and random signal principles (4th ed.). McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A. (2011). Death by theory: a tale of mystery and archaeological theory (Rev. ed., p. 13). Rowman &#38; Littlefield Publishing Group, Inc. <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a></div>
   <div class="csl-entry">Public library quarterly. (1979). <i>1979，1（1）—</i>. <a href="http://www.tandfonline.com/loi/wplq">http://www.tandfonline.com/loi/wplq</a></div>
-  <div class="csl-entry">Roberson, J. A., &#38; Burneson, E. G. (2011). Drinking water standards, regulations and goals. In American Water Works Association (Ed.), <i>Water quality &#38; treatment: a handbook on drinking water</i> (6th ed., p. 1.1-1.36). McGraw-Hill. <a href="http://lib.myilibrary.com/Open.aspx?id=291430">http://lib.myilibrary.com/Open.aspx?id=291430</a></div>
+  <div class="csl-entry">Roberson, J. A., &#38; Burneson, E. G. (2011). Drinking water quality standards, regulations and goals. In American Water Works Association (Ed.), <i>Water quality &#38; treatment: a handbook on drinking water</i> (6th ed., p. 1.1-1.36). McGraw-Hill. <a href="http://lib.myilibrary.com/Open.aspx?id=291430">http://lib.myilibrary.com/Open.aspx?id=291430</a></div>
   <div class="csl-entry">Sadock, B. J., Sadock, V. A., Ruiz, P., &#38; Kaplan, H. I. (Eds.). (2009). Kaplan &#38; Sadock’s comprehensive textbook of psychiatry (9th ed., Vol. 1). Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito, M., &#38; Miyazaki, K. (2006). Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. <i>Bulletin of the Geological Survey of Japan</i>, <i>57</i>(5/6), 169-176.</div>
   <div class="csl-entry">Santer, R. D., &#38; Akanyeti, O. (2025). Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. <i>Insect Science</i>. <a href="https://doi.org/10.1111/1744-7917.13496">https://doi.org/10.1111/1744-7917.13496</a></div>

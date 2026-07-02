@@ -150,13 +150,13 @@
     <div class="csl-left-margin">[31]</div><div class="csl-right-inline">Park, J. R. &#38; Y. Tosaka, 2010. Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms[J], <i>Cataloging &#38; Classification Quarterly</i>, 48(8): 696-715.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">Peebles, P. Z., Jr., 2001. <i>Probability, Random Variable, and Random Signal Principles</i>[M]. 4th ed. New York: McGraw-Hill.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">Peebles, P. Z., Jr., 2001. <i>Probability, Random Variables, and Random Signal Principles</i>[M]. 4th ed. New York: McGraw-Hill.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">Praetzellis, A., 2011. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Roberson, J. A. &#38; E. G. Burneson, 2011. Drinking Water Standards, Regulations and Goals[A]. In American Water Works Association (ed.). <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>[M]. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Roberson, J. A. &#38; E. G. Burneson, 2011. Drinking Water Quality Standards, Regulations and Goals[A]. In American Water Works Association (ed.). <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>[M]. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Sadock, B. J., V. A. Sadock, P. Ruiz &#38; H. I. Kaplan (eds.), 2009. <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>: Vol. 1[M]. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
@@ -213,7 +213,7 @@
     <div class="csl-left-margin">[52]</div><div class="csl-right-inline">史国华, 樊金宇, 何益, 邢利娜, &#38; 高峰, 2022. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A[P]. 2022-09-13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">図書館用語辞典編集委員会 (ed.), 2004. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社: 154.</div>
+    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">図書館用語辞典編集委員会 (ed.), 2004. 最新図書館用語大辭典[M]. 東京: 柏書房株式會社: 154.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[54]</div><div class="csl-right-inline">António, M. &#38; L. Pepper, 2019. Histórias de Portugal: livros caídos[EB/OL]. (2019-07-13)[2025-01-02]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>.</div>
@@ -465,7 +465,7 @@
     <div class="csl-left-margin">[136]</div><div class="csl-right-inline">佚名，1949．中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]．武汉：武汉大学档案馆．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">佚名，1962．康熙字典：巳集上 水部[M]．同文书局影印本．北京：中华书局：50．</div>
+    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">佚名，1962．康熙字典：巳集上 水部[M]．影印本．北京：中华书局：50．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[138]</div><div class="csl-right-inline">佚名，2011．周易外传：卷5[A]．王夫之．船山全书：第1册[M]．修订版．长沙：岳麓书社：983-1029．</div>

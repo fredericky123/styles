@@ -47,7 +47,7 @@
   <div class="csl-entry">[5] 顾炎武. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社, 1980.</div>
   <div class="csl-entry">[6] 钱学森. 创建系统学[M]. 太原: 山西科学技术出版社, 2001: 序2-3.</div>
   <div class="csl-entry">[7] 冯友兰. 冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
-  <div class="csl-entry">[8] 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
+  <div class="csl-entry">[8] 康熙字典: 巳集上 水部[M]. 影印本. 北京: 中华书局, 1962: 50.</div>
   <div class="csl-entry">[9] 战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社, 2019.</div>
   <div class="csl-entry">[10] 哈里森, 沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.</div>
   <div class="csl-entry">[11] 牛永敢, 孔晓, 王阳, 等. 鼻整形应用解剖学[M]. 北京: 人民卫生出版社, 2019: 65-66.</div>
@@ -56,8 +56,8 @@
   <div class="csl-entry">[14] 赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社, 2001.</div>
   <div class="csl-entry">[15] 中国造纸学会. 中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社, 2003.</div>
   <div class="csl-entry">[16] 博伯尔. 银行业的未来与人工智能[M]. 徐超, 译. 北京: 清华大学出版社, 2023: 35.</div>
-  <div class="csl-entry">[17] 図書館用語辞典編集委員会. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社, 2004: 154.</div>
-  <div class="csl-entry">[18] Peebles P Z Jr. Probability, random variable, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[17] 図書館用語辞典編集委員会. 最新図書館用語大辭典[M]. 東京: 柏書房株式會社, 2004: 154.</div>
+  <div class="csl-entry">[18] Peebles P Z Jr. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[19] Sadock B J, Sadock V A, Ruiz P, <i>et al.</i> Kaplan &#38; Sadock’s comprehensive textbook of psychiatry: Vol. 1[M]. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   <div class="csl-entry">[20] Institute for Art and Architecture, Academy of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78.</div>
   <div class="csl-entry">[21] Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012: 50.</div>
@@ -74,7 +74,7 @@
   <div class="csl-entry">[32] 大黄[A]. 见: 国家药典委员会. 中华人民共和国药典: 一部[M]. 2020版. 北京: 中国医药科技出版社, 2020: 24-25.</div>
   <div class="csl-entry">[33] 楼梦麟, 杨燕. 汶川地震基岩地震动特征分析[A]. 见: 同济大学土木工程防灾国家重点实验室. 汶川地震震害研究[M]. 上海: 同济大学出版社, 2011: 11-12.</div>
   <div class="csl-entry">[34] Weinstein L, Swartz M N. Pathogenic properties of invading microorganisms[A]. In: Sodeman W A Jr, Sodeman W A. Pathologic physiology: mechanisms of disease[M]. 5th ed. Philadelphia: Saunders, 1974: 457-472.</div>
-  <div class="csl-entry">[35] Roberson J A, Burneson E G. Drinking water standards, regulations and goals[A]. In: American Water Works Association. Water quality &#38; treatment: a handbook on drinking water[M]. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+  <div class="csl-entry">[35] Roberson J A, Burneson E G. Drinking water quality standards, regulations and goals[A]. In: American Water Works Association. Water quality &#38; treatment: a handbook on drinking water[M]. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[36] 中华医学会湖北分会. 临床内科杂志[J]. 1984, 1984，1（1）—. 武汉: 中华医学会湖北分会, 1984.</div>
   <div class="csl-entry">[37] 中国图书馆学会. 图书馆学通讯[J]. 1957/[1990] , 1957（1）—1990（4）. 北京: 北京图书馆, 1957/1990.</div>
   <div class="csl-entry">[38] American Association for the Advancement of Science. Science[J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>

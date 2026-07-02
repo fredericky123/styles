@@ -97,10 +97,10 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">“Library of Congress.” N.p., N.d. Web. 12 June 2020.</div>
   <div class="csl-entry">Myburg, Alexander A., et al. “The Genome of <i>Eucalyptus grandis</i>.” <i>Nature</i> 510 (2014): 356-62. Web. 25 June 2014.</div>
   <div class="csl-entry">Park, Jung-Ran, and Yuji Tosaka. “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms.” <i>Cataloging &#38; Classification Quarterly</i> 48.8 (2010): 696-715. Web. 5 Sept. 2013.</div>
-  <div class="csl-entry">Peebles, Peyton Z., Jr. <i>Probability, Random Variable, and Random Signal Principles</i>. 4th ed., McGraw-Hill, 2001.</div>
+  <div class="csl-entry">Peebles, Peyton Z., Jr. <i>Probability, Random Variables, and Random Signal Principles</i>. 4th ed., McGraw-Hill, 2001.</div>
   <div class="csl-entry">Praetzellis, Adrian. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>. Rev. ed., Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13.</div>
   <div class="csl-entry"><i>Public Library Quarterly</i>. Vol. 1979，1（1）—, Taylor &#38; Francis, 1979.</div>
-  <div class="csl-entry">Roberson, J. Alan, and Eric G. Burneson. “Drinking Water Standards, Regulations and Goals.” <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, edited by American Water Works Association, 6th ed., McGraw-Hill, 2011, p. 1.1-1.36.</div>
+  <div class="csl-entry">Roberson, J. Alan, and Eric G. Burneson. “Drinking Water Quality Standards, Regulations and Goals.” <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, edited by American Water Works Association, 6th ed., McGraw-Hill, 2011, p. 1.1-1.36.</div>
   <div class="csl-entry">Sadock, Benjamin J., et al., editors. <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>. 9th ed., vol. 1, Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   <div class="csl-entry">Saito, Makoto, and Kazuhiro Miyazaki. “Jadeite-Bearing Metagabbro in Serpentinite Melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu.” <i>Bulletin of the Geological Survey of Japan</i> 57.5/6 (2006): 169-76.</div>
   <div class="csl-entry">Santer, Roger D., and Otar Akanyeti. “Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps.” <i>Insect Science</i> (2025). Web. 28 Feb. 2025.</div>
@@ -119,7 +119,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Zotero. “[Zotero Download].” N.p., N.d. Web. 8 Apr. 2024.</div>
   <div class="csl-entry">ISO. <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>. ISO/IEC 80079-20-2:2016(fr), Feb. 2016.</div>
   <div class="csl-entry">史国华, et al. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法. JP2022539784A, 13 Sept. 2022.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会, editor. 最新図書館用語大辞典. 柏書房株式会社, 2004, p. 154.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会, editor. 最新図書館用語大辭典. 柏書房株式會社, 2004, p. 154.</div>
   <div class="csl-entry">António, Marco, and Lucy Pepper. “Histórias de Portugal: livros caídos.” N.p., 13 July 2019. Web. 2 Jan. 2025.</div>
   <div class="csl-entry">阿扬. “谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答.” 《环球科学》杂志社编. 认识记忆力：关于学习、思考与遗忘的脑科学, 姜海伦译, 北京: 机械工业出版社, 2023, 15-18.</div>
   <div class="csl-entry">北京鲁迅博物馆. 北京鲁迅博物馆志愿服务章程. 2021年4月21日.</div>
@@ -151,7 +151,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">金燕萍. 社交媒体时代的虚假信息研究. 硕士学位论文. 温州: 温州大学, 2020, 16.</div>
   <div class="csl-entry">井丽南. 支持状态可编程的SDN交换机关键技术研究. 博士学位论文. 北京: 中国科学院大学, 2022, 43.</div>
   <div class="csl-entry">久保智康. “花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心.” 东方博物. 1 (2009) 85-92.</div>
-  <div class="csl-entry">康熙字典. 同文书局影印本, 卷 巳集上 水部, 北京: 中华书局, 1962, 50.</div>
+  <div class="csl-entry">康熙字典. 影印本, 卷 巳集上 水部, 北京: 中华书局, 1962, 50.</div>
   <div class="csl-entry">李鸿章. 奏请上海道库洋务外销要款无款可筹仍拨药厘接济事. 1887年. 中国第一历史档案馆, 北京, 04-01-35-0399-039.</div>
   <div class="csl-entry">李华, 王昊, 康佐. 一种拼接式桥梁模型. CN218214474U, 2023年1月3日.</div>
   <div class="csl-entry">李妍, 王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究. 2022, 2.</div>

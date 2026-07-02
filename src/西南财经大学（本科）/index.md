@@ -117,7 +117,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[48]谭其骧：《中国历史地图集》，地图出版社，1982年.</div>
   <div class="csl-entry">[49]汤万金、杨跃翔、刘文、郑建国、王赟松：《人体安全重要技术标准研制最终报告》，2013年.</div>
   <div class="csl-entry">[50]童世亨：《京兆直隶图》，商务印书馆，1926年.</div>
-  <div class="csl-entry">[51]図書館用語辞典編集委員会, ed., 2004, 最新図書館用語大辞典, 東京: 柏書房株式会社.</div>
+  <div class="csl-entry">[51]図書館用語辞典編集委員会, ed., 2004, 最新図書館用語大辭典, 東京: 柏書房株式會社.</div>
   <div class="csl-entry">[52]汪学军：《中国农业转基因生物研发进展与安全管理》，载国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，中国环境科学出版社，2005年.</div>
   <div class="csl-entry">[53]王夫之：《宋论》，湘乡曾国荃，1865年.</div>
   <div class="csl-entry">[54]王夫之主编：《周易外传：卷5》，载《船山全书》，岳麓书社，2011年.</div>
@@ -179,9 +179,9 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[110]Kinchy, A., 2012, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, Cambridge, Mass.: MIT Press.</div>
   <div class="csl-entry">[111]Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Hayes, R. D., Grimwood, J., Jenkins, J., Lindquist, E., Tice, H., Bauer, D., Goodstein, D. M., Dubchak, I., Poliakov, A., Mizrachi, E., Kullan, A. R. K., Hussey, S. G., Pinard, D., Merwe, K. van der, Singh, P., Jaarsveld, I. van, Silva-Junior, O. B., Togawa, R. C., Pappas, M. R., Faria, D. A., Sansaloni, C. P., Petroli, C. D., Yang, X., Ranjan, P., Tschaplinski, T. J., Ye, C. Y., Li, T., Sterck, L., Vanneste, K., Murat, F., Soler, M., Clemente, H. S., Saidi, N., Cassan-Wang, H., Dunand, C., Hefer, C. A., Bornberg-Bauer, E., Kersting, A. R., Vining, K., Amarasinghe, V., Ranik, M., Naithani, S., Elser, J., Boyd, A. E., Liston, A., Spatafora, J. W., Dharmwardhana, P., Raja, R., Sullivan, C., Romanel, E., Alves-Ferreira, M., Külheim, C., Foley, W., Carocha, V., Paiva, J., Kudrna, D., Brommonschenkel, S. H., Pasquali, G., Byrne, M., Rigault, P., Tibbits, J., Spokevicius, A., Jones, R. C., Steane, D. A., Vaillancourt, R. E., Potts, B. M., Joubert, F., Barry, K., Pappas, G. J., Strauss, S. H., Jaiswal, P., Grima-Pettenati, J., Salse, J., Van de Peer, Y., Rokhsar, D. S. and Schmutz, J., 2014, “The Genome of <i>Eucalyptus grandis</i>”, <i>Nature</i>, vol.510, pp.356~362.</div>
   <div class="csl-entry">[112]Park, J. R. and Tosaka, Y., 2010, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, <i>Cataloging &#38; Classification Quarterly</i>, 48(8), pp.696~715.</div>
-  <div class="csl-entry">[113]Peebles, P. Z., Jr., 2001, <i>Probability, Random Variable, and Random Signal Principles</i>, New York: McGraw-Hill.</div>
+  <div class="csl-entry">[113]Peebles, P. Z., Jr., 2001, <i>Probability, Random Variables, and Random Signal Principles</i>, New York: McGraw-Hill.</div>
   <div class="csl-entry">[114]Praetzellis, A., 2011, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc.</div>
-  <div class="csl-entry">[115]Roberson, J. A. and Burneson, E. G., 2011, “Drinking Water Standards, Regulations and Goals”, in American Water Works Association, ed: <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill.</div>
+  <div class="csl-entry">[115]Roberson, J. A. and Burneson, E. G., 2011, “Drinking Water Quality Standards, Regulations and Goals”, in American Water Works Association, ed: <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill.</div>
   <div class="csl-entry">[116]Sadock, B. J., Sadock, V. A., Ruiz, P. and Kaplan, H. I., eds., 2009, <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>, Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">[117]Saito, M. and Miyazaki, K., 2006, “Jadeite-Bearing Metagabbro in Serpentinite Melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu”, <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6), pp.169~176.</div>
   <div class="csl-entry">[118]Santer, R. D. and Akanyeti, O., 2025, “Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps”, <i>Insect Science</i>.</div>

@@ -90,7 +90,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">2008 p第1版自序 (in Chinese) [冯友兰 2008 冯友兰自选集 (2 版) (北京: 首都师范大学出版社) p第1版自序]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">1962 p50 (in Chinese) [1962 康熙字典 (同文书局影印本, 巳集上 水部) (北京: 中华书局) p50]</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">1962 p50 (in Chinese) [1962 康熙字典 (影印本, 巳集上 水部) (北京: 中华书局) p50]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">2019 (in Chinese) [战德臣, 张丽杰 2019 大学计算机：计算思维与信息素养 (3 版) (北京: 高等教育出版社)]</div>
@@ -117,10 +117,10 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">2023 p35 (in Chinese) [博伯尔 2023 银行业的未来与人工智能 (北京: 清华大学出版社) p35]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">図書館用語辞典編集委員会 2004 最新図書館用語大辞典 (東京: 柏書房株式会社) p154</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">図書館用語辞典編集委員会 2004 最新図書館用語大辭典 (東京: 柏書房株式會社) p154</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Peebles P Z Jr 2001 <i>Probability, Random Variable, and Random Signal Principles</i> (4th ed.) (New York: McGraw-Hill)</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Peebles P Z Jr 2001 <i>Probability, Random Variables, and Random Signal Principles</i> (4th ed.) (New York: McGraw-Hill)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Sadock B J, Sadock V A, Ruiz P, Kaplan H I 2009 <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i> (9th ed., Vol. 1) (Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins)</div>

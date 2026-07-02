@@ -116,7 +116,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">谭其骧. 1982. 中国历史地图集: 第2册. 北京: 地图出版社. 6</div>
   <div class="csl-entry">汤万金, 杨跃翔, 刘文, 郑建国, 王赟松. 2013. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013</div>
   <div class="csl-entry">童世亨. 1926. 京兆直隶图. 上海: 商务印书馆</div>
-  <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辞典. 東京: 柏書房株式会社. 154</div>
+  <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辭典. 東京: 柏書房株式會社. 154</div>
   <div class="csl-entry">汪学军. 2005. 中国农业转基因生物研发进展与安全管理. 见: 国家环境保护总局生物安全管理办公室, 编. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社. 22-25</div>
   <div class="csl-entry">王夫之. 1865. 宋论. 刻本. 金陵: 湘乡曾国荃</div>
   <div class="csl-entry">王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, 高正. 2025. 人文社会科学数据集检索方法研究的数据集. 北京大学开放研究数据平台. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a></div>
@@ -153,7 +153,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">American Association for the Advancement of Science. 1883. Science. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). 2022. Guide to lithium battery safety for space applications: AIAA G-136-2022</div>
   <div class="csl-entry">佚名. 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告. 武汉: 武汉大学档案馆</div>
-  <div class="csl-entry">佚名. 1962. 康熙字典: 巳集上 水部. 同文书局影印本. 北京: 中华书局. 50</div>
+  <div class="csl-entry">佚名. 1962. 康熙字典: 巳集上 水部. 影印本. 北京: 中华书局. 50</div>
   <div class="csl-entry">Anon. 1979. Public library quarterly. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis</div>
   <div class="csl-entry">佚名. 2011. 周易外传：卷5. 见: 王夫之, 编. 船山全书: 第1册. 修订版. 长沙: 岳麓书社. 983-1029</div>
   <div class="csl-entry">佚名. 2020. 大黄. 见: 国家药典委员会, 编. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社. 24-25</div>
@@ -188,9 +188,9 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Kinchy A. 2012. Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops. Cambridge, Mass.: MIT Press. 50</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, Hellsten U, Hayes R D, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein D M, Dubchak I, Poliakov A, Mizrachi E, Kullan A R K, Hussey S G, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior O B, Togawa R C, Pappas M R, Faria D A, Sansaloni C P, Petroli C D, Yang X, Ranjan P, Tschaplinski T J, Ye C-Y, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente H S, Saidi N, Cassan-Wang H, Dunand C, Hefer C A, Bornberg-Bauer E, Kersting A R, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd A E, Liston A, Spatafora J W, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel S H, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones R C, Steane D A, Vaillancourt R E, Potts B M, Joubert F, Barry K, Pappas G J, Strauss S H, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar D S, Schmutz J. 2014. The genome of <i>Eucalyptus grandis</i>. Nature, 510: 356-362</div>
   <div class="csl-entry">Park J-R, Tosaka Y. 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. Cat Classif Q, 48(8): 696-715</div>
-  <div class="csl-entry">Peebles P Z Jr. 2001. Probability, Random Variable, and Random Signal Principles. 4th ed. New York: McGraw-Hill</div>
+  <div class="csl-entry">Peebles P Z Jr. 2001. Probability, Random Variables, and Random Signal Principles. 4th ed. New York: McGraw-Hill</div>
   <div class="csl-entry">Praetzellis A. 2011. Death by Theory: A Tale of Mystery and Archaeological Theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc. 13</div>
-  <div class="csl-entry">Roberson J A, Burneson E G. 2011. Drinking water standards, regulations and goals. In: American Water Works Association, ed. Water Quality &#38; Treatment: A Handbook on Drinking Water. 6th ed. New York: McGraw-Hill. 1.1-1.36</div>
+  <div class="csl-entry">Roberson J A, Burneson E G. 2011. Drinking water quality standards, regulations and goals. In: American Water Works Association, ed. Water Quality &#38; Treatment: A Handbook on Drinking Water. 6th ed. New York: McGraw-Hill. 1.1-1.36</div>
   <div class="csl-entry">Sadock B J, Sadock V A, Ruiz P, Kaplan H I. 2009. Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry: Vol. 1. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins</div>
   <div class="csl-entry">Saito M, Miyazaki K. 2006. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bull Geol Surv Jpn, 57(5/6): 169-176</div>
   <div class="csl-entry">Santer R D, Akanyeti O. 2025. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. Insect Sci. DOI:<a href="https://doi.org/10.1111/1744-7917.13496">10.1111/1744-7917.13496</a></div>

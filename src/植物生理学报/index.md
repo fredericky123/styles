@@ -95,9 +95,9 @@ Qian等 (2009b)<br>
   <div class="csl-entry">Ljungqvist L, Sargent TJ (2010). Recursive macroeconomic Theory, p. 798. Beijing: China Renmin University Press (in Chinese) [杨斌, 王忠玉, 陈彦斌, 等 (译)(2010). 递归宏观经济理论, 2 版, p. 798. 北京: 中国人民大学出版社]</div>
   <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, et al (2014). The genome of <i>Eucalyptus grandis</i>. Nature, 510: 356–362</div>
   <div class="csl-entry">Park JR, Tosaka Y (2010). Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. Cataloging &#38; Classification Quarterly, 48(8): 696–715</div>
-  <div class="csl-entry">Peebles PZ Jr (2001). Probability, Random Variable, and Random Signal Principles, 4th edn. New York: McGraw-Hill</div>
+  <div class="csl-entry">Peebles PZ Jr (2001). Probability, Random Variables, and Random Signal Principles, 4th edn. New York: McGraw-Hill</div>
   <div class="csl-entry">Praetzellis A (2011). Death by Theory: A Tale of Mystery and Archaeological Theory, Rev. ed., p. 13. Rowman &#38; Littlefield Publishing Group, Inc.</div>
-  <div class="csl-entry">Roberson JA, Burneson EG (2011). Drinking water standards, regulations and goals. In: Water Quality &#38; Treatment: A Handbook on Drinking Water (ed American Water Works Association), 1.1-1.36. New York: McGraw-Hill</div>
+  <div class="csl-entry">Roberson JA, Burneson EG (2011). Drinking water quality standards, regulations and goals. In: Water Quality &#38; Treatment: A Handbook on Drinking Water (ed American Water Works Association), 1.1-1.36. New York: McGraw-Hill</div>
   <div class="csl-entry">Saito M, Miyazaki K (2006). Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bulletin of the Geological Survey of Japan, 57(5/6): 169–176</div>
   <div class="csl-entry">Santer RD, Akanyeti O (2025). Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. Insect science</div>
   <div class="csl-entry">Shinotsuka H, Nagata K, Siriwardana M, et al (2023). Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator. Journal of electron spectroscopy and related phenomena, 267</div>
@@ -189,11 +189,11 @@ Qian等 (2009b)<br>
   <div class="csl-entry">(1883). Science. Washington, D.C.: American Association for the Advancement of Science</div>
   <div class="csl-entry">(1949) (in Chinese) [(1949). 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告]</div>
   <div class="csl-entry">(1957–1990) (in Chinese) [(1957–1990). 图书馆学通讯. 北京: 北京图书馆]</div>
-  <div class="csl-entry">(1962). p. 50 (in Chinese) [(1962). 康熙字典, 同文书局影印本, p. 50. 北京: 中华书局]</div>
+  <div class="csl-entry">(1962). p. 50 (in Chinese) [(1962). 康熙字典, 影印本, p. 50. 北京: 中华书局]</div>
   <div class="csl-entry">(1979). Public Library Quarterly. Philadelphia: Taylor &#38; Francis</div>
   <div class="csl-entry">(1984) (in Chinese) [(1984). 临床内科杂志. 武汉: 中华医学会湖北分会]</div>
   <div class="csl-entry">(2000). Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000. Rotterdam: A. A. Balkema</div>
-  <div class="csl-entry">(2004). 最新図書館用語大辞典, p. 154. 東京: 柏書房株式会社</div>
+  <div class="csl-entry">(2004). 最新図書館用語大辭典, p. 154. 東京: 柏書房株式會社</div>
   <div class="csl-entry">(2009). Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry, 9th edn. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins</div>
   <div class="csl-entry">(2011a) (in Chinese) [(2011a). 周易外传：卷5. 收入: 船山全书 (编 王夫之), pp. 983–1029. 长沙: 岳麓书社]</div>
   <div class="csl-entry">(2011b) (in Chinese) [(2011b). 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集. 北京: 经济科学出版社]</div>

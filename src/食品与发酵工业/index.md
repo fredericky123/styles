@@ -65,8 +65,8 @@
   <div class="csl-entry">[7] 冯友兰. 冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序. 
     <div class="csl-block">冯友兰. 冯友兰自选集[M]. 2 版. 2008.</div>
   </div>
-  <div class="csl-entry">[8] 佚名. 康熙字典[M]. 同文书局影印本 版. 北京: 中华书局, 1962: 50. 
-    <div class="csl-block">佚名. 康熙字典[M]. 同文书局影印本 版. 1962.</div>
+  <div class="csl-entry">[8] 佚名. 康熙字典[M]. 影印本 版. 北京: 中华书局, 1962: 50. 
+    <div class="csl-block">佚名. 康熙字典[M]. 影印本 版. 1962.</div>
   </div>
   <div class="csl-entry">[9] 战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社, 2019. 
     <div class="csl-block">战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 2019.</div>
@@ -92,8 +92,8 @@
   <div class="csl-entry">[16] 博伯尔. 银行业的未来与人工智能[M]. 徐超, 译. 北京: 清华大学出版社, 2023: 35. 
     <div class="csl-block">博伯尔. 银行业的未来与人工智能[M]. 徐超, 译. 2023.</div>
   </div>
-  <div class="csl-entry">[17] Anonymous. 最新図書館用語大辞典[M]. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式会社, 2004: 154.</div>
-  <div class="csl-entry">[18] PEEBLES P Z Jr. Probability, random variable, and random signal principles[M]. 4 edition. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[17] Anonymous. 最新図書館用語大辭典[M]. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式會社, 2004: 154.</div>
+  <div class="csl-entry">[18] PEEBLES P Z Jr. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[19] Anonymous. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. SADOCK B J, SADOCK V A, RUIZ P, et al., eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   <div class="csl-entry">[20] INSTITUTE FOR ART AND ARCHITECTURE, ACADEMY OF FINE ARTS VIENNA. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78.</div>
   <div class="csl-entry">[21] KINCHY A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012: 50.</div>
@@ -126,7 +126,7 @@
     <div class="csl-block">楼梦麟, 杨燕. 汶川地震基岩地震动特征分析[M]. 同济大学土木工程防灾国家重点实验室, 编//汶川地震震害研究. 2011.</div>
   </div>
   <div class="csl-entry">[34] WEINSTEIN L, SWARTZ M N. Pathogenic properties of invading microorganisms[M]. SODEMAN W A Jr, SODEMAN W A, eds.//Pathologic Physiology: Mechanisms of Disease. 5 edition. Philadelphia: Saunders, 1974: 457-472.</div>
-  <div class="csl-entry">[35] ROBERSON J A, BURNESON E G. Drinking water standards, regulations and goals[M]. AMERICAN WATER WORKS ASSOCIATION, ed.//Water Quality &#38; Treatment: A Handbook on Drinking Water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+  <div class="csl-entry">[35] ROBERSON J A, BURNESON E G. Drinking water quality standards, regulations and goals[M]. AMERICAN WATER WORKS ASSOCIATION, ed.//Water Quality &#38; Treatment: A Handbook on Drinking Water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[36] 佚名. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会, 19841984. 
     <div class="csl-block">佚名. 临床内科杂志[Z]. 19841984.</div>
   </div>

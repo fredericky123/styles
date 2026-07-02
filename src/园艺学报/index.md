@@ -220,7 +220,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">1926. (in Chinese)
     <div class="csl-block">童世亨. 1926. 京兆直隶图. 上海：商务印书馆.</div>
   </div>
-  <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辞典. 東京：柏書房株式会社：154.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辭典. 東京：柏書房株式會社：154.</div>
   <div class="csl-entry">1865. (in Chinese)
     <div class="csl-block">王夫之. 1865. 宋论. 刻本. 金陵：湘乡曾国荃.</div>
   </div>
@@ -314,7 +314,7 @@ Qian et al. （2009a）<br>
     <div class="csl-block">佚名. 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告. 武汉：武汉大学档案馆.</div>
   </div>
   <div class="csl-entry">1962. 50. (in Chinese)
-    <div class="csl-block">佚名. 1962. 康熙字典：巳集上 水部. 同文书局影印本. 北京：中华书局：50.</div>
+    <div class="csl-block">佚名. 1962. 康熙字典：巳集上 水部. 影印本. 北京：中华书局：50.</div>
   </div>
   <div class="csl-entry">Anon. 1979. Public library quarterly. 1979，1979，1（1）—. Philadelphia：Taylor &#38; Francis.</div>
   <div class="csl-entry">2011. 983–1029. (in Chinese)
@@ -361,9 +361,9 @@ Qian et al. （2009a）<br>
   </div>
   <div class="csl-entry">Myburg A A，Grattapaglia D，Tuskan G A，Hellsten U，Hayes R D，Grimwood J，Jenkins J，Lindquist E，Tice H，Bauer D，Goodstein D M，Dubchak I，Poliakov A，Mizrachi E，Kullan A R K，Hussey S G，Pinard D，van der Merwe K，Singh P，van Jaarsveld I，Silva-Junior O B，Togawa R C，Pappas M R，Faria D A，Sansaloni C P，Petroli C D，Yang X，Ranjan P，Tschaplinski T J，Ye C Y，Li T，Sterck L，Vanneste K，Murat F，Soler M，Clemente H S，Saidi N，Cassan-Wang H，Dunand C，Hefer C A，Bornberg-Bauer E，Kersting A R，Vining K，Amarasinghe V，Ranik M，Naithani S，Elser J，Boyd A E，Liston A，Spatafora J W，Dharmwardhana P，Raja R，Sullivan C，Romanel E，Alves-Ferreira M，Külheim C，Foley W，Carocha V，Paiva J，Kudrna D，Brommonschenkel S H，Pasquali G，Byrne M，Rigault P，Tibbits J，Spokevicius A，Jones R C，Steane D A，Vaillancourt R E，Potts B M，Joubert F，Barry K，Pappas G J，Strauss S H，Jaiswal P，Grima-Pettenati J，Salse J，Van de Peer Y，Rokhsar D S，Schmutz J. 2014. The genome of <i>Eucalyptus grandis</i>. Nature，510：356–362.</div>
   <div class="csl-entry">Park J R，Tosaka Y. 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. Cataloging &#38; Classification Quarterly，48(8)：696–715.</div>
-  <div class="csl-entry">Peebles P Z Jr. 2001. Probability, random variable, and random signal principles. 4th ed. New York：McGraw-Hill.</div>
+  <div class="csl-entry">Peebles P Z Jr. 2001. Probability, random variables, and random signal principles. 4th ed. New York：McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis A. 2011. Death by theory: a tale of mystery and archaeological theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.：13.</div>
-  <div class="csl-entry">Roberson J A，Burneson E G. 2011. Drinking water standards, regulations and goals//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York：McGraw-Hill：1.1-1.36.</div>
+  <div class="csl-entry">Roberson J A，Burneson E G. 2011. Drinking water quality standards, regulations and goals//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York：McGraw-Hill：1.1-1.36.</div>
   <div class="csl-entry">Sadock B J，Sadock V A，Ruiz P，Kaplan H I. 2009. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry：Vol. 1. 9th ed. Philadelphia：Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito M，Miyazaki K. 2006. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bulletin of the Geological Survey of Japan，57(5/6)：169–176.</div>
   <div class="csl-entry">Santer R D，Akanyeti O. 2025. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. Insect science.</div>

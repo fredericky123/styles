@@ -125,7 +125,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">谭其骧，“中国历史地图集”，北京，地图出版社，1982。</div>
   <div class="csl-entry">汤万金、杨跃翔、刘文、郑建国、王赟松，“人体安全重要技术标准研制最终报告”，2013。</div>
   <div class="csl-entry">童世亨，“京兆直隶图”，上海，商务印书馆，1926。</div>
-  <div class="csl-entry">図書館用語辞典編集委員会, ed., 最新図書館用語大辞典, 東京: 柏書房株式会社, 2004.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会, ed., 最新図書館用語大辭典, 東京: 柏書房株式會社, 2004.</div>
   <div class="csl-entry">汪学军，“中国农业转基因生物研发进展与安全管理”，国家环境保护总局生物安全管理办公室，《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京，中国环境科学出版社，2005，22～25。</div>
   <div class="csl-entry">王夫之，《宋论》，金陵，湘乡曾国荃，1865。</div>
   <div class="csl-entry">王夫之主编，“周易外传：卷5”，《船山全书》（修订版）第1册，长沙，岳麓书社，2011，983～1029。</div>
@@ -187,9 +187,9 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Kinchy, A., <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, Cambridge, Mass.: MIT Press, 2012.</div>
   <div class="csl-entry">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, and J. Schmutz, “The genome of <i>Eucalyptus grandis</i>”, <i>Nature</i> 510, 2014, 356～362.</div>
   <div class="csl-entry">Park, J.-R. and Y. Tosaka, “Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms”, <i>Cataloging &#38; Classification Quarterly</i> 48(8), 2010, 696～715.</div>
-  <div class="csl-entry">Peebles, P. Z., Jr., <i>Probability, Random Variable, and Random Signal Principles</i>, New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">Peebles, P. Z., Jr., <i>Probability, Random Variables, and Random Signal Principles</i>, New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">Praetzellis, A., <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc., 2011.</div>
-  <div class="csl-entry">Roberson, J. A. and E. G. Burneson, “Drinking water standards, regulations and goals”, In: American Water Works Association, ed. <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011, 1.1-1.36.</div>
+  <div class="csl-entry">Roberson, J. A. and E. G. Burneson, “Drinking water quality standards, regulations and goals”, In: American Water Works Association, ed. <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011, 1.1-1.36.</div>
   <div class="csl-entry">Sadock, B. J., V. A. Sadock, P. Ruiz, and H. I. Kaplan, eds., <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>, Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   <div class="csl-entry">Saito, M. and K. Miyazaki, “Jadeite-bearing metagabbro in serpentinite melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu”, <i>Bulletin of the Geological Survey of Japan</i> 57(5/6), 2006, 169～176.</div>
   <div class="csl-entry">Santer, R. D. and O. Akanyeti, “Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps”, <i>Insect Science</i>, 2025.</div>

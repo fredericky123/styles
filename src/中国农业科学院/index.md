@@ -114,7 +114,7 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">谭其骧, 1982. 中国历史地图集: 第2册. 北京: 地图出版社: 6.</div>
   <div class="csl-entry">汤万金, 杨跃翔, 刘文, 郑建国, 王赟松, 2013. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013.</div>
   <div class="csl-entry">童世亨, 1926. 京兆直隶图. 上海: 商务印书馆.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会, 2004. 最新図書館用語大辞典. 東京: 柏書房株式会社: 154.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会, 2004. 最新図書館用語大辭典. 東京: 柏書房株式會社: 154.</div>
   <div class="csl-entry">汪学军, 2005. 中国农业转基因生物研发进展与安全管理//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社: 22-25.</div>
   <div class="csl-entry">王夫之, 1865. 宋论. 刻本. 金陵: 湘乡曾国荃.</div>
   <div class="csl-entry">王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, 高正, 2025. 人文社会科学数据集检索方法研究的数据集. 北京大学开放研究数据平台.</div>
@@ -129,7 +129,7 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">杨洪升, 2013. 四库馆私家抄校书考略. 文献(1): 56-75.</div>
   <div class="csl-entry">杨立华, 2022. 《庄子》读不懂？看完这一篇“导读”就明白了.</div>
   <div class="csl-entry">佚名, 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告.</div>
-  <div class="csl-entry">佚名, 1962. 康熙字典: 巳集上 水部. 同文书局影印本. 北京: 中华书局: 50.</div>
+  <div class="csl-entry">佚名, 1962. 康熙字典: 巳集上 水部. 影印本. 北京: 中华书局: 50.</div>
   <div class="csl-entry">Anon, 1979. Public library quarterly. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">佚名, 2011. 周易外传：卷5//王夫之. 船山全书: 第1册. 修订版. 长沙: 岳麓书社: 983-1029.</div>
   <div class="csl-entry">佚名, 2020. 大黄//国家药典委员会. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社: 24-25.</div>
@@ -186,9 +186,9 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">KINCHY A, 2012. Seeds, sciences, and struggle: the global politics of transgenic crops. Cambridge, Mass.: MIT Press: 50.</div>
   <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, GRIMWOOD J, JENKINS J, LINDQUIST E, TICE H, BAUER D, GOODSTEIN D M, DUBCHAK I, POLIAKOV A, MIZRACHI E, KULLAN A R K, HUSSEY S G, PINARD D, VAN DER MERWE K, SINGH P, VAN JAARSVELD I, SILVA-JUNIOR O B, TOGAWA R C, PAPPAS M R, FARIA D A, SANSALONI C P, PETROLI C D, YANG X, RANJAN P, TSCHAPLINSKI T J, YE C Y, LI T, STERCK L, VANNESTE K, MURAT F, SOLER M, CLEMENTE H S, SAIDI N, CASSAN-WANG H, DUNAND C, HEFER C A, BORNBERG-BAUER E, KERSTING A R, VINING K, AMARASINGHE V, RANIK M, NAITHANI S, ELSER J, BOYD A E, LISTON A, SPATAFORA J W, DHARMWARDHANA P, RAJA R, SULLIVAN C, ROMANEL E, ALVES-FERREIRA M, KÜLHEIM C, FOLEY W, CAROCHA V, PAIVA J, KUDRNA D, BROMMONSCHENKEL S H, PASQUALI G, BYRNE M, RIGAULT P, TIBBITS J, SPOKEVICIUS A, JONES R C, STEANE D A, VAILLANCOURT R E, POTTS B M, JOUBERT F, BARRY K, PAPPAS G J, STRAUSS S H, JAISWAL P, GRIMA-PETTENATI J, SALSE J, VAN DE PEER Y, ROKHSAR D S, SCHMUTZ J, 2014. The genome of <i>Eucalyptus grandis</i>. Nature, 510: 356-362. DOI: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
   <div class="csl-entry">PARK J R, TOSAKA Y, 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. Cataloging &#38; Classification Quarterly, 48(8): 696-715.</div>
-  <div class="csl-entry">PEEBLES P Z Jr, 2001. Probability, random variable, and random signal principles. 4th ed. New York: McGraw-Hill.</div>
+  <div class="csl-entry">PEEBLES P Z Jr, 2001. Probability, random variables, and random signal principles. 4th ed. New York: McGraw-Hill.</div>
   <div class="csl-entry">PRAETZELLIS A, 2011. Death by theory: a tale of mystery and archaeological theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
-  <div class="csl-entry">ROBERSON J A, BURNESON E G, 2011. Drinking water standards, regulations and goals//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
+  <div class="csl-entry">ROBERSON J A, BURNESON E G, 2011. Drinking water quality standards, regulations and goals//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
   <div class="csl-entry">SADOCK B J, SADOCK V A, RUIZ P, KAPLAN H I, 2009. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry: Vol. 1. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">SAITO M, MIYAZAKI K, 2006. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bulletin of the Geological Survey of Japan, 57(5/6): 169-176.</div>
   <div class="csl-entry">SANTER R D, AKANYETI O, 2025. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. Insect science. DOI: <a href="https://doi.org/10.1111/1744-7917.13496">10.1111/1744-7917.13496</a>.</div>

@@ -249,7 +249,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[50]</div><div class="csl-right-inline">童世亨，1926，《京兆直隶图》，上海：商务印书馆。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">図書館用語辞典編集委員会 (ed.), 2004, 最新図書館用語大辞典, 東京: 柏書房株式会社.</div>
+    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">図書館用語辞典編集委員会 (ed.), 2004, 最新図書館用語大辭典, 東京: 柏書房株式會社.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[52]</div><div class="csl-right-inline">汪学军，2005，《中国农业转基因生物研发进展与安全管理》，见国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社。</div>
@@ -435,13 +435,13 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Park, Jung-Ran &#38; Yuji Tosaka, 2010, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms,” <i>Cataloging &#38; Classification Quarterly</i>, vol. 48, no. 8, pp. 696-715.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Peebles, Peyton Z., Jr., 2001, <i>Probability, Random Variable, and Random Signal Principles</i>, New York: McGraw-Hill.</div>
+    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Peebles, Peyton Z., Jr., 2001, <i>Probability, Random Variables, and Random Signal Principles</i>, New York: McGraw-Hill.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Praetzellis, Adrian, 2011, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">Roberson, J. Alan &#38; Eric G. Burneson, 2011, “Drinking Water Standards, Regulations and Goals,” in American Water Works Association (ed.), <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 1.1-1.36.</div>
+    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">Roberson, J. Alan &#38; Eric G. Burneson, 2011, “Drinking Water Quality Standards, Regulations and Goals,” in American Water Works Association (ed.), <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[116]</div><div class="csl-right-inline">Sadock, Benjamin J., Virginia Alcott Sadock, Pedro Ruiz &#38; Harold I. Kaplan (eds.), 2009, <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>, vol. 1, Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
@@ -498,7 +498,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[133]</div><div class="csl-right-inline">1949，《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">1962，《康熙字典》（同文书局影印本）巳集上 水部，北京：中华书局。</div>
+    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">1962，《康熙字典》（影印本）巳集上 水部，北京：中华书局。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[135]</div><div class="csl-right-inline">1979, <i>Public Library Quarterly</i>, 1979，1（1）—, Philadelphia: Taylor &#38; Francis.</div>

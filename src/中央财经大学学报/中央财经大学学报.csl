@@ -19,7 +19,7 @@
     <category field="social_science"/>
     <issn>1000-1549</issn>
     <summary>《中央财经大学学报》文章格式（2024版）</summary>
-    <updated>2026-07-05T11:31:20+08:00</updated>
+    <updated>2026-07-05T12:31:39+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -469,7 +469,9 @@
         <text macro="issued-year"/>
       </group>
       <group vertical-align="sup">
-        <text variable="citation-number" prefix="[" suffix="]"/>
+        <text value="["/>
+        <text variable="citation-number"/>
+        <text value="]"/>
         <text variable="locator" prefix="(" suffix=")"/>
       </group>
     </layout>
@@ -479,7 +481,9 @@
         <text macro="issued-year"/>
       </group>
       <group vertical-align="sup">
-        <text variable="citation-number" prefix="[" suffix="]"/>
+        <text value="["/>
+        <text variable="citation-number"/>
+        <text value="]"/>
         <text variable="locator" prefix="(" suffix=")"/>
       </group>
     </layout>

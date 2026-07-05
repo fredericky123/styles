@@ -8,7 +8,7 @@
 
 ### 引注
 
-（汪学军，2005[<sup>5</sup>]；肖玲等，2024[<sup>7</sup>]；扬奎斯特和萨金特，2010[<sup>1</sup>]；于潇等，2012[<sup>3</sup>]；Jenkins和Ruostekoski，2012[<sup>8</sup>]；Praetzellis，2011[<sup>2</sup>]；Veen等，2014[<sup>4</sup>]；Wang，2022[<sup>6</sup>]）
+（汪学军，2005<sup>[5]</sup>；肖玲等，2024<sup>[7]</sup>；扬奎斯特和萨金特，2010<sup>[1]</sup>；于潇等，2012<sup>[3]</sup>；Jenkins和Ruostekoski，2012<sup>[8]</sup>；Praetzellis，2011<sup>[2]</sup>；Veen等，2014<sup>[4]</sup>；Wang，2022<sup>[6]</sup>）
 
 ### 参考文献表
 
@@ -43,12 +43,12 @@
 
 ### 引注
 
-（张伯伟，2002[<sup>1</sup>]）<br>
+（张伯伟，2002<sup>[1]</sup>）<br>
 （曹凌，2011<sup>[2](260)</sup>）<br>
 （陈登原，2000<sup>[3](326-329)</sup>）<br>
-（陈登原，2000[<sup>3</sup>]；张伯伟，2002[<sup>1</sup>]）<br>
-（曹凌，2011[<sup>2</sup>]；王夫之，1865[<sup>4</sup>]；张伯伟，2002[<sup>1</sup>]）<br>
-（曹凌，2011[<sup>2</sup>]；陈登原，2000[<sup>3</sup>]；张伯伟，2002[<sup>1</sup>]）<br>
+（陈登原，2000<sup>[3]</sup>；张伯伟，2002<sup>[1]</sup>）<br>
+（曹凌，2011<sup>[2]</sup>；王夫之，1865<sup>[4]</sup>；张伯伟，2002<sup>[1]</sup>）<br>
+（曹凌，2011<sup>[2]</sup>；陈登原，2000<sup>[3]</sup>；张伯伟，2002<sup>[1]</sup>）<br>
 
 
 ### GB/T 7714—2025 示例文献

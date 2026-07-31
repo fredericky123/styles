@@ -363,7 +363,7 @@
     <div class="csl-left-margin">[102]</div><div class="csl-right-inline">中国科学院文献情报中心. . [2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">北京鲁迅博物馆. . (2021-04-21)[2023-05-02]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>.</div>
+    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">北京鲁迅博物馆（北京新文化运动纪念馆）. . (2021-04-21)[2023-05-02]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[104]</div><div class="csl-right-inline">佚名. (2022-10-26).</div>
@@ -372,10 +372,10 @@
     <div class="csl-left-margin">[105]</div><div class="csl-right-inline">高等教育文献保障系统. . [2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">许振超. . (2025-02-17)[2025-06-22]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>.</div>
+    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">佚名. . (2025-02-17)[2025-06-22]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">佚名. (2023-03-06).</div>
+    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">佚名. (2015-09-18).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[108]</div><div class="csl-right-inline">仉尚航. . (2024-12-24)[2025-01-02]. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>.</div>
@@ -441,16 +441,16 @@
     <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Anonymous. . Beijing: China Ocean Press, 2024: 502024.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">彭守璋. . 西北农林科技大学水土保持研究所, 2024(2024-07-19).</div>
+    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">彭守璋. . 国家地球系统科学数据中心, 2025(2025-07-07).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">刘时银等. . 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 20122012.</div>
+    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">刘时银等. . 国家青藏高原科学数据中心, 20122012.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[131]</div><div class="csl-right-inline">周壮等. . 国家基础学科公共科学数据中心, 2023(2023-09-10).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">郑涵等. . Science Data Bank, 20182018.</div>
+    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">郑涵等. . Science Data Bank, 2018(2018-05-26).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. . 国家地球系统科学数据中心-黄土高原分中心, 2024(2024-12-25).</div>

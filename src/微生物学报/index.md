@@ -108,20 +108,20 @@
   <div class="csl-entry">[66] 佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M/OL]. 陈志勇, 编. 北京: 经济科学出版社, 2011[2013-10-14].</div>
   <div class="csl-entry">[67] Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]. [2025-12-02].</div>
   <div class="csl-entry">[68] Yu Y, Pan E, Wang X, Wu Y, Mei X, Ma J. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C/OL]. [2025-12-02].</div>
-  <div class="csl-entry">[69] Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000.</div>
+  <div class="csl-entry">[69] Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[70] Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. Babu B V, Nagar A, Deep K, Pant M, Bansal J C, Ray K, Gupta U, eds.. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">[71] Fourney M E. Advances in holographic photoelasticity[C]. Gottenberg W G, ed.//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, 1971: 17-38.</div>
   <div class="csl-entry">[72] 王琦. 融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究[D]. 武汉: 武汉大学, 2022: 87.</div>
   <div class="csl-entry">[73] 金燕萍. 社交媒体时代的虚假信息研究[D/OL]. 温州: 温州大学, 2020: 16[2025-12-02].</div>
   <div class="csl-entry">[74] 何筱梅. 新媒体时代原生广告的策略与发展研究[D/OL]. 武汉: 武汉大学, 2016: 24-25[2025-02-28].</div>
   <div class="csl-entry">[75] 井丽南. 支持状态可编程的SDN交换机关键技术研究[D/OL]. 北京: 中国科学院大学, 2022: 43[2025-12-02].</div>
-  <div class="csl-entry">[76] Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, Berkeley, 1965: 15.</div>
+  <div class="csl-entry">[76] Cairns B R. Infrared spectroscopic studies of solid oxygen[D]. Berkeley: University of California, Berkeley, 1965: 15.</div>
   <div class="csl-entry">[77] Christou A. Improving knowledge graph understanding with contextual views[D/OL]. Ohio: Wright State University, 2024: 18[2025-02-28].</div>
   <div class="csl-entry">[78] 中国互联网络信息中心. 第29次中国互联网络发展状况统计报告[R/OL].（2012-01-16）. [2013-03-26]. <a href="https://www.cnnic.net.cn/NMediaFile/old_attach/P020120612484958777344.pdf">https://www.cnnic.net.cn/NMediaFile/old_attach/P020120612484958777344.pdf</a>[2013-03-26].</div>
   <div class="csl-entry">[79] 汤万金, 杨跃翔, 刘文, 郑建国, 王赟松. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R/OL].（2013-09-30）. [2014-06-24]. <a href="http://www.nstrs.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.cn/xiangxiBG.aspx?id=41707</a>[2014-06-24].</div>
   <div class="csl-entry">[80] 中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 中国联合网络通信有限公司研究院. 电信业发展白皮书：2023：新时代高质量发展探索[R/OL].（2023-12-28）. [2025-02-28]. <a href="http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf">http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf</a>[2025-02-28].</div>
   <div class="csl-entry">[81] Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R/OL].（2011）. [2025-12-02]. <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a>[2025-12-02].</div>
-  <div class="csl-entry">[82] U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R].（1990）.</div>
+  <div class="csl-entry">[82] U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing materials: PB 91-194001[R].（1990）.</div>
   <div class="csl-entry">[83] United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R/OL].[2025-02-28]. <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a>[2025-02-28].</div>
   <div class="csl-entry">[84] 全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. .</div>
   <div class="csl-entry">[85] 全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. .</div>
@@ -142,11 +142,11 @@
   <div class="csl-entry">[100] Tachibana R, Shimizu S, Kobayashi S, Nakamura T. Electronic watermarking method and system: US2002061118A1[P/OL]. 2001-06-28[2013-11-11].</div>
   <div class="csl-entry">[101] Tristram M, Skarshewski P, Tristram I, Mossel B. Storage and delivery system: AU2022228203A1[P/OL]. 2022-10-06[2025-02-28].</div>
   <div class="csl-entry">[102] 中国科学院文献情报中心. 中国科学院科技论文预发布平台[EB/OL][2025-03-06].</div>
-  <div class="csl-entry">[103] 北京鲁迅博物馆. 北京鲁迅博物馆志愿服务章程[EB/OL](2021-04-21)[2023-05-02].</div>
+  <div class="csl-entry">[103] 北京鲁迅博物馆（北京新文化运动纪念馆）. 北京鲁迅博物馆志愿服务章程[EB/OL](2021-04-21)[2023-05-02].</div>
   <div class="csl-entry">[104] 佚名. 《庄子》读不懂？看完这一篇“导读”就明白了[Z/OL](2022-10-26)[2023-05-02].</div>
   <div class="csl-entry">[105] 高等教育文献保障系统. 馆际互借与文献传递服务[EB/OL][2025-06-21].</div>
-  <div class="csl-entry">[106] 许振超. “好好干，当一个好工人”[EB/OL](2025-02-17)[2025-06-22].</div>
-  <div class="csl-entry">[107] 佚名. [《昨日之歌》图书封面][Z/OL](2023-03-06)[2025-06-22].</div>
+  <div class="csl-entry">[106] 佚名. 许振超：“好好干，当一个好工人”[EB/OL](2025-02-17)[2025-06-22].</div>
+  <div class="csl-entry">[107] 佚名. [《昨日之歌》图书封面][Z/OL](2015-09-18)[2023-03-06].</div>
   <div class="csl-entry">[108] 仉尚航. 开放世界中的实体基础模型[EB/OL](2024-12-24)[2025-01-02].</div>
   <div class="csl-entry">[109] 佚名. 西黄丸[EB/OL](2023-10-07)[2025-08-26].</div>
   <div class="csl-entry">[110] Anonymous. Library of Congress[EB/OL][2020-06-12].</div>
@@ -168,12 +168,12 @@
   <div class="csl-entry">[126] 童世亨. 京兆直隶图[Z/OL]. 上海: 商务印书馆, 19261926[2025-02-28].</div>
   <div class="csl-entry">[127] Cribb R. Historical atlas of Indonesia[Z]. Abingdon: Routledge, 20152015.</div>
   <div class="csl-entry">[128] Anonymous. Coastal wetlands map of China continent[Z]. Beijing: China Ocean Press, 2024: 502024.</div>
-  <div class="csl-entry">[129] 彭守璋. 1901—2023年中国1km分辨率逐月降水量数据集[DS/OL]. 西北农林科技大学水土保持研究所, 2024(2024-07-19)[2024-11-25].</div>
-  <div class="csl-entry">[130] 刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006-2011[DS/OL]. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 20122012[2024-11-25].</div>
-  <div class="csl-entry">[131] 周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心, 2023(2023-09-10)[2025-07-15].</div>
-  <div class="csl-entry">[132] 郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[DS/OL]. Science Data Bank, 20182018[2025-02-14].</div>
+  <div class="csl-entry">[129] 彭守璋. 1901—2024年中国1km分辨率逐月降水量数据集[DS/OL]. 国家地球系统科学数据中心, 2025(2025-07-07)[2025-07-15].</div>
+  <div class="csl-entry">[130] 刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006—2011[DS/OL]. 国家青藏高原科学数据中心, 20122012[2025-07-15].</div>
+  <div class="csl-entry">[131] 周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 天宫二号遥感图像自然景物分类科学数据[DS/OL]. 国家基础学科公共科学数据中心, 2023(2023-09-10)[2025-07-15].</div>
+  <div class="csl-entry">[132] 郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集[DS/OL]. Science Data Bank, 2018(2018-05-26)[2025-02-14].</div>
   <div class="csl-entry">[133] 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地球系统科学数据中心-黄土高原分中心, 2024(2024-12-25)[2025-07-10].</div>
-  <div class="csl-entry">[134] 王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, 高正. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台, 2025(2025-06-11)[2025-07-10].</div>
+  <div class="csl-entry">[134] 王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, 高正. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台, 2025(2025-06-11)[2025-07-11].</div>
   <div class="csl-entry">[135] Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service, 19801980[2025-07-10].</div>
   <div class="csl-entry">[136] Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China: 2000–2020[DS/OL]. Global Change Research Data Publishing &#38; Repository, 20222022[2024-11-25].</div>
   <div class="csl-entry">[137] IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange, 20212021[2024-11-25].</div>

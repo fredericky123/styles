@@ -74,7 +74,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous. A companion to California history[M]. Deverell W, Igler D, eds.. New York: John Wiley &#38; Sons, 2013: 21-22</div>
   <div class="csl-entry">Anonymous. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883</div>
   <div class="csl-entry">Anonymous. Public library quarterly[Z]. Philadelphia: Taylor &#38; Francis, 1979</div>
-  <div class="csl-entry">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000</div>
+  <div class="csl-entry">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000</div>
   <div class="csl-entry">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. Babu B V, Nagar A, Deep K, et al., eds.. New Delhi: Springer, 2014</div>
   <div class="csl-entry">Anonymous. IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE, 2020</div>
   <div class="csl-entry">Anonymous. Library of Congress[EB]</div>
@@ -83,7 +83,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Bevington D, Brown J R. William Shakespeare[EB](2025-01-01)</div>
   <div class="csl-entry">Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. bioRxiv, 2015(2015-10-28)</div>
   <div class="csl-entry">Boobier T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020: 35</div>
-  <div class="csl-entry">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. (Doctoral dissertationdissertation). Berkeley: University of California, Berkeley, 1965</div>
+  <div class="csl-entry">Cairns B R. Infrared spectroscopic studies of solid oxygen[D]. (Doctoral dissertationdissertation). Berkeley: University of California, Berkeley, 1965</div>
   <div class="csl-entry">Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. </div>
   <div class="csl-entry">Caplan P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66</div>
   <div class="csl-entry">Christou A. Improving knowledge graph understanding with contextual views[D]. (Doctoral dissertationdissertation). Ohio: Wright State University, 2024</div>
@@ -110,7 +110,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, et al. Electronic watermarking method and system: US2002061118A1[P]. 2001-06-28</div>
   <div class="csl-entry">Tristram M, Skarshewski P, Tristram I, et al. Storage and delivery system: AU2022228203A1[P]. 2022-10-06</div>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. </div>
-  <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25</div>
+  <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing materials: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25</div>
   <div class="csl-entry">Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118</div>
   <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. </div>
   <div class="csl-entry">Weinstein L, Swartz M N. Pathogenic properties of invading microorganisms[M]. Sodeman W A Jr, Sodeman W A, eds.//Pathologic physiology: mechanisms of disease, 5 edition. Philadelphia: Saunders, 1974: 457-472</div>
@@ -122,7 +122,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名. 最新図書館用語大辭典[M]. 図書館用語辞典編集委員会, 编. 東京: 柏書房株式會社, 2004: 154</div>
   <div class="csl-entry">António M, Pepper L. Histórias de Portugal: livros caídos[EB](2019-07-13)</div>
   <div class="csl-entry">阿扬. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]. 《环球科学》杂志社, 编. 姜海伦, 译//认识记忆力：关于学习、思考与遗忘的脑科学, 北京: 机械工业出版社, 2023: 15-18</div>
-  <div class="csl-entry">北京鲁迅博物馆. 北京鲁迅博物馆志愿服务章程[EB](2021-04-21)</div>
+  <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆）. 北京鲁迅博物馆志愿服务章程[EB](2021-04-21)</div>
   <div class="csl-entry">博伯尔. 银行业的未来与人工智能[M]. 徐超, 译. 北京: 清华大学出版社, 2023: 35</div>
   <div class="csl-entry">曹凌. 中国佛教疑伪经综录[M]. 上海: 上海古籍出版社, 2011: 19</div>
   <div class="csl-entry">陈登原. 国史旧闻[M]. 北京: 中华书局, 2000: 29</div>
@@ -154,11 +154,11 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">李妍, 王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]. </div>
   <div class="csl-entry">李幼平, 王莉. 循证医学研究方法：附视频[J]. 中华移植杂志（电子版）, 2010, 4(3): 225-228</div>
   <div class="csl-entry">李约瑟. 题词[M]//苏克福, 管成学, 邓明鲁. 苏颂与《本草图经》研究, 长春: 长春出版社, 1991: 扉页</div>
-  <div class="csl-entry">刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006-2011[DS]. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 2012</div>
+  <div class="csl-entry">刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006—2011[DS]. 国家青藏高原科学数据中心, 2012</div>
   <div class="csl-entry">刘祥沈. 沈阳市政区图[Z]. 武汉: 武汉大学出版社, 2016</div>
   <div class="csl-entry">楼梦麟, 杨燕. 汶川地震基岩地震动特征分析[M]. 同济大学土木工程防灾国家重点实验室, 编//汶川地震震害研究, 上海: 同济大学出版社, 2011: 11-12</div>
   <div class="csl-entry">马克思. 政治经济学批判[M]//马克思, 恩格斯. 马克思恩格斯全集, 2 版. 北京: 人民出版社, 2013: 302</div>
-  <div class="csl-entry">彭守璋. 1901—2023年中国1km分辨率逐月降水量数据集[DS]. 西北农林科技大学水土保持研究所, 2024(2024-07-19)</div>
+  <div class="csl-entry">彭守璋. 1901—2024年中国1km分辨率逐月降水量数据集[DS]. 国家地球系统科学数据中心, 2025(2025-07-07)</div>
   <div class="csl-entry">钱学森. 创建系统学[M]. 太原: 山西科学技术出版社, 2001: 序2-3</div>
   <div class="csl-entry">全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. </div>
   <div class="csl-entry">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. </div>
@@ -175,7 +175,6 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024(2024-07-02)</div>
   <div class="csl-entry">肖希明, 石庆功, 刘奕. 民国图书馆学教育的社会贡献[C]//纪念北京大学图书馆学教育100周年研讨会论文集, 北京: 北京大学信息管理系, 2024: 134-147</div>
   <div class="csl-entry">徐建委. 历史的起点：《史记》中的时间设置及其意义[J]. 北京大学学报（哲学社会科学版）, 2025, 62(2): 117-127</div>
-  <div class="csl-entry">许振超. “好好干，当一个好工人”[EB](2025-02-17)</div>
   <div class="csl-entry">扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798</div>
   <div class="csl-entry">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75</div>
   <div class="csl-entry">佚名. 康熙字典[M]. 影印本 版. 北京: 中华书局, 1962: 50</div>
@@ -188,8 +187,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 中国社会科学院台湾史研究中心, 编. 北京: 九州出版社, 2012b</div>
   <div class="csl-entry">佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 陈志勇, 编. 北京: 经济科学出版社, 2011b</div>
   <div class="csl-entry">佚名. 《庄子》读不懂？看完这一篇“导读”就明白了[Z](2022-10-26)</div>
-  <div class="csl-entry">佚名. [《昨日之歌》图书封面][Z](2023a-03-06)</div>
-  <div class="csl-entry">佚名. 西黄丸[EB](2023b-10-07)</div>
+  <div class="csl-entry">佚名. 许振超：“好好干，当一个好工人”[EB](2025-02-17)</div>
+  <div class="csl-entry">佚名. [《昨日之歌》图书封面][Z](2015-09-18)</div>
+  <div class="csl-entry">佚名. 西黄丸[EB](2023-10-07)</div>
   <div class="csl-entry">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523</div>
   <div class="csl-entry">云南省企业联合会, 云南省企业家协会, 云南民族新闻文化发展研究院. 改革开放三十年：云南企业家奋斗史[M]. 芒市: 德宏民族出版社, 2009</div>
@@ -200,13 +200,13 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">张群, 程志宝, 石志飞. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J]. 铁道学报, 2024b, 46(8): 102-111</div>
   <div class="csl-entry">仉尚航. 开放世界中的实体基础模型[EB](2024-12-24)</div>
   <div class="csl-entry">赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社, 2001</div>
-  <div class="csl-entry">郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[DS]. Science Data Bank, 2018</div>
+  <div class="csl-entry">郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集[DS]. Science Data Bank, 2018(2018-05-26)</div>
   <div class="csl-entry">中工武大设计研究有限公司. 阳新县标准地名图[Z]. 武汉: 武汉大学出版社, 2019</div>
   <div class="csl-entry">中国互联网络信息中心. 第29次中国互联网络发展状况统计报告[R]. </div>
   <div class="csl-entry">中国科学院文献情报中心. 中国科学院科技论文预发布平台[EB]</div>
   <div class="csl-entry">中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 等. 电信业发展白皮书：2023：新时代高质量发展探索[R]. </div>
   <div class="csl-entry">中国造纸学会. 中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社, 2003</div>
-  <div class="csl-entry">周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类数据集[DS]. 国家基础学科公共科学数据中心, 2023(2023-09-10)</div>
+  <div class="csl-entry">周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类科学数据[DS]. 国家基础学科公共科学数据中心, 2023(2023-09-10)</div>
   <div class="csl-entry">訾冬梅, 高秀静. 内蒙古自治区地图册[Z]. 北京: 中国地图出版社, 2006</div>
 </div>
 

@@ -74,7 +74,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">Bevington D, Brown JR (2025). William Shakespeare. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a> (2025-01-03)</div>
   <div class="csl-entry">Bloss CS, Wineinger NE, Peters M, et al (2015). A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors. bioRxiv</div>
   <div class="csl-entry">Boobier T (2020). AI and the Future of Banking, p. 35. Chichester: John Wiley &#38; Sons</div>
-  <div class="csl-entry">Cairns BR (1965). Infrared Spectroscopic Studies on Solid Oxygen (dissertation), p. 15. Berkeley: University of California, Berkeley</div>
+  <div class="csl-entry">Cairns BR (1965). Infrared Spectroscopic Studies of Solid Oxygen (dissertation), p. 15. Berkeley: University of California, Berkeley</div>
   <div class="csl-entry">Calkin DE, Ager AA, Thompson MP (2011). A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report, pp. 8–9</div>
   <div class="csl-entry">Caplan P (1993). Cataloging internet resources. The Public-Access Computer Systems Review, 4(2): 61–66</div>
   <div class="csl-entry">Christou A (2024). Improving Knowledge Graph Understanding with Contextual Views (dissertation), p. 18. Ohio: Wright State University</div>
@@ -105,7 +105,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, et al (2001). Electronic watermarking method and system</div>
   <div class="csl-entry">Tristram M, Skarshewski P, Tristram I, et al (2022). Storage and delivery system</div>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs (n.d.). United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</div>
-  <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration (1990). Guidelines for Handling Excavated Acid-Producing Material, p. 25. Springfield: U.S. Department of Commerce National Information Service</div>
+  <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration (1990). Guidelines for Handling Excavated Acid-Producing Materials, p. 25. Springfield: U.S. Department of Commerce National Information Service</div>
   <div class="csl-entry">Veen PH van der, Muller M, Vincken KL, et al (2014). Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. Journal of the Neurological Sciences, 337(1/2): 112–118</div>
   <div class="csl-entry">Wang S (2022). Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</div>
   <div class="csl-entry">Wang XJ (2005). Progress and safety management of genetically modified organism research and development in China. In: Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar (编 国家环境保护总局生物安全管理办公室), pp. 22–25. Beijing: China Environmental Science Press (in Chinese) [汪学军(2005). 中国农业转基因生物研发进展与安全管理. 收入: 中国国家生物安全框架实施国际合作项目研讨会论文集 (编 国家环境保护总局生物安全管理办公室), pp. 22–25. 北京: 中国环境科学出版社]</div>
@@ -130,13 +130,13 @@ Qian等 (2009b)<br>
   <div class="csl-entry">(2016) (in Chinese) [全国信息技术标准化技术委员会(2016). 信息技术 先进音视频编码 第16部分：广播电视视频]</div>
   <div class="csl-entry">(2001) (in Chinese) [冀超(2001). 一种荒漠化地区生态植被综合培育种植方法]</div>
   <div class="csl-entry">(2008). 第1版自序 (in Chinese) [冯友兰(2008). 冯友兰自选集, 2 版, 第1版自序. 北京: 首都师范大学出版社]</div>
-  <div class="csl-entry">(2012) (in Chinese) [刘时银, 郭万钦, 许君利(2012). 中国第二次水川编目科学数据：2006-2011. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室]</div>
+  <div class="csl-entry">(2012) (in Chinese) [刘时银, 郭万钦, 许君利(2012). 中国第二次水川编目科学数据：2006—2011. 国家青藏高原科学数据中心]</div>
   <div class="csl-entry">(2016) (in Chinese) [刘祥沈(2016). 沈阳市政区图. 武汉: 武汉大学出版社]</div>
-  <div class="csl-entry">(2021). <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> (2023-05-02) (in Chinese) [北京鲁迅博物馆(2021). 北京鲁迅博物馆志愿服务章程. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> (2023-05-02)]</div>
+  <div class="csl-entry">(2021). <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> (2023-05-02) (in Chinese) [北京鲁迅博物馆（北京新文化运动纪念馆）(2021). 北京鲁迅博物馆志愿服务章程. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> (2023-05-02)]</div>
   <div class="csl-entry">(2023). p. 35 (in Chinese) [徐超 (译)(2023). 银行业的未来与人工智能, p. 35. 北京: 清华大学出版社]</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, et al (2022). 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法</div>
   <div class="csl-entry">(2019) (in Chinese) [吴自银, 温珍河(2019). 中国南部海域海底地形图. 北京: 科学出版社]</div>
-  <div class="csl-entry">(2023) (in Chinese) [周壮, 李盛阳, 吴薇等(2023). 天宫二号遥感图像自然景物分类数据集. 国家基础学科公共科学数据中心]</div>
+  <div class="csl-entry">(2023) (in Chinese) [周壮, 李盛阳, 吴薇等(2023). 天宫二号遥感图像自然景物分类科学数据. 国家基础学科公共科学数据中心]</div>
   <div class="csl-entry">(2012). pp. 235–236 (in Chinese) [谢远涛 (译)(2012). 经济数学与金融数学, pp. 235–236. 北京: 中国人民大学出版社]</div>
   <div class="csl-entry">(不详) (in Chinese) [国家测绘地理信息局(不详). 一带一路经济走廊及其途经城市分布地势图]</div>
   <div class="csl-entry">(2020) (in Chinese) [国家能源局(2020). 水电工程水温实时监测系统技术规范]</div>
@@ -145,7 +145,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">(2013) (in Chinese) [张凯军, 赵永杰, 陈朝岗(2013). 轨道火车及高速轨道火车紧急安全制动辅助装置]</div>
   <div class="csl-entry">(2024a) (in Chinese) [张群, 程志宝, 石志飞(2024a). 惯性增强动力吸振器-浮置板轨道低频减振性能研究. 铁道学报]</div>
   <div class="csl-entry">(2024b). 46(8): 102–111 (in Chinese) [张群, 程志宝, 石志飞(2024b). 惯性增强动力吸振器-浮置板轨道低频减振性能研究. 铁道学报, 46(8): 102–111]</div>
-  <div class="csl-entry">(2024) (in Chinese) [彭守璋(2024). 1901—2023年中国1km分辨率逐月降水量数据集. 西北农林科技大学水土保持研究所]</div>
+  <div class="csl-entry">(2025) (in Chinese) [彭守璋(2025). 1901—2024年中国1km分辨率逐月降水量数据集. 国家地球系统科学数据中心]</div>
   <div class="csl-entry">(2025). 62(2): 117–127 (in Chinese) [徐建委(2025). 历史的起点：《史记》中的时间设置及其意义. 北京大学学报（哲学社会科学版）, 62(2): 117–127]</div>
   <div class="csl-entry">(2019) (in Chinese) [战德臣, 张丽杰(2019). 大学计算机：计算思维与信息素养, 3 版. 北京: 高等教育出版社]</div>
   <div class="csl-entry">(2023) (in Chinese) [方向明, 曹迎杰(2023). 元宇宙在图书馆的应用：理论研究与实践进展. ChinaXiv]</div>
@@ -168,13 +168,12 @@ Qian等 (2009b)<br>
   <div class="csl-entry">(1926) (in Chinese) [童世亨(1926). 京兆直隶图. 上海: 商务印书馆]</div>
   <div class="csl-entry">(2024) (in Chinese) [肖希明, 石庆功, 刘奕(2024). 民国图书馆学教育的社会贡献. 收入: 纪念北京大学图书馆学教育100周年研讨会论文集, pp. 134–147. 北京: 北京大学信息管理系]</div>
   <div class="csl-entry">(2021) (in Chinese) [胡健民(2021). 东南极拉斯曼丘陵地区地质图. 北京: 科学出版社]</div>
-  <div class="csl-entry">(2025). <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a> (2025-06-22) (in Chinese) [许振超(2025). “好好干，当一个好工人”. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a> (2025-06-22)]</div>
   <div class="csl-entry">(2006) (in Chinese) [訾冬梅, 高秀静(2006). 内蒙古自治区地图册, 新版. 北京: 中国地图出版社]</div>
   <div class="csl-entry">(1982). p. 6 (in Chinese) [谭其骧(1982). 中国历史地图集, p. 6. 北京: 地图出版社]</div>
   <div class="csl-entry">(2011) (in Chinese) [贾东琴, 柯平(2011). 面向数字素养的高校图书馆数字服务体系研究. 收入: 中国图书馆学会年会论文集 (编 中国图书馆学会), pp. 45–52. 北京: 国家图书馆出版社]</div>
   <div class="csl-entry">(2001) (in Chinese) [赵学功(2001). 当代美国外交. 北京: 社会科学文献出版社]</div>
   <div class="csl-entry">(2008). pp. 8–9 (in Chinese) [邓一刚(2008). 全智能节电器, pp. 8–9]</div>
-  <div class="csl-entry">(2018) (in Chinese) [郑涵, 于贵瑞, 朱先进等(2018). 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据. Science Data Bank]</div>
+  <div class="csl-entry">(2018) (in Chinese) [郑涵, 于贵瑞, 朱先进等(2018). 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集. Science Data Bank]</div>
   <div class="csl-entry">(2020). p. 16 (in Chinese) [金燕萍(2020). 社交媒体时代的虚假信息研究(学位论文), p. 16. 温州: 温州大学]</div>
   <div class="csl-entry">(2001). 序2-3 (in Chinese) [钱学森(2001). 创建系统学, 序2-3. 太原: 山西科学技术出版社]</div>
   <div class="csl-entry">(2023) (in Chinese) [姜海伦 (译)(2023). 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答. 收入: 认识记忆力：关于学习、思考与遗忘的脑科学 (编 《环球科学》杂志社), pp. 15–18. 北京: 机械工业出版社]</div>
@@ -192,7 +191,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">(1962). p. 50 (in Chinese) [(1962). 康熙字典, 影印本, p. 50. 北京: 中华书局]</div>
   <div class="csl-entry">(1979). Public Library Quarterly. Philadelphia: Taylor &#38; Francis</div>
   <div class="csl-entry">(1984) (in Chinese) [(1984). 临床内科杂志. 武汉: 中华医学会湖北分会]</div>
-  <div class="csl-entry">(2000). Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000. Rotterdam: A. A. Balkema</div>
+  <div class="csl-entry">(2000). Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. Rotterdam: A. A. Balkema</div>
   <div class="csl-entry">(2004). 最新図書館用語大辭典, p. 154. 東京: 柏書房株式會社</div>
   <div class="csl-entry">(2009). Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry, 9th edn. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins</div>
   <div class="csl-entry">(2011a) (in Chinese) [(2011a). 周易外传：卷5. 收入: 船山全书 (编 王夫之), pp. 983–1029. 长沙: 岳麓书社]</div>
@@ -201,14 +200,15 @@ Qian等 (2009b)<br>
   <div class="csl-entry">(2012b) (in Chinese) [(2012b). 台湾光复六十五周年暨抗战史实学术研讨会论文集. 北京: 九州出版社]</div>
   <div class="csl-entry">(2013). A Companion to California History, pp. 21–22. New York: John Wiley &#38; Sons</div>
   <div class="csl-entry">(2014). Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. New Delhi: Springer</div>
+  <div class="csl-entry">(2015) (in Chinese) [(2015). [《昨日之歌》图书封面]]</div>
   <div class="csl-entry">(2019). pp. 65–66 (in Chinese) [(2019). 鼻整形应用解剖学, pp. 65–66. 北京: 人民卫生出版社]</div>
   <div class="csl-entry">(2020a) (in Chinese) [(2020a). 大黄. 收入: 中华人民共和国药典 (编 国家药典委员会), pp. 24–25. 北京: 中国医药科技出版社]</div>
   <div class="csl-entry">(2020b). IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation. New York: IEEE</div>
   <div class="csl-entry">(2021). Connecting the Library to the Curriculum, p. 97. Singapore: Springer Nature</div>
   <div class="csl-entry">(2022) (in Chinese) [(2022). 《庄子》读不懂？看完这一篇“导读”就明白了]</div>
-  <div class="csl-entry">(2023a) (in Chinese) [(2023a). [《昨日之歌》图书封面]]</div>
-  <div class="csl-entry">(2023b). <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a> (2025-08-26) (in Chinese) [(2023b). 西黄丸. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a> (2025-08-26)]</div>
+  <div class="csl-entry">(2023). <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a> (2025-08-26) (in Chinese) [(2023). 西黄丸. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a> (2025-08-26)]</div>
   <div class="csl-entry">(2024). Coastal Wetlands Map of China Continent, p. 50. Beijing: China Ocean Press</div>
+  <div class="csl-entry">(2025). <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a> (2025-06-22) (in Chinese) [(2025). 许振超：“好好干，当一个好工人”. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a> (2025-06-22)]</div>
   <div class="csl-entry">(N.d.). Library of Congress. <a href="https://www.loc.gov/">https://www.loc.gov/</a> (2020-06-12)</div>
 </div>
 

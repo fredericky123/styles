@@ -78,7 +78,7 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">阿扬，2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答. 见：《环球科学》杂志社 编. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京：机械工业出版社，15～18.
     <div class="csl-block">2023. 《环球科学》杂志社, 编. 15～18 (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">北京鲁迅博物馆，2021. 北京鲁迅博物馆志愿服务章程. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>.
+  <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆），2021. 北京鲁迅博物馆志愿服务章程. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>.
     <div class="csl-block">2021. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">博伯尔，2023. 银行业的未来与人工智能. 北京：清华大学出版社，35.
@@ -183,7 +183,7 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">李约瑟，1991. 题词. 苏颂与《本草图经》研究. 长春：长春出版社，扉页.
     <div class="csl-block">1991. 扉页 (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">刘时银，郭万钦，许君利，2012. 中国第二次水川编目科学数据：2006-2011. doi: <a href="https://doi.org/10.3972/glacier.001.2013.db">10.3972/glacier.001.2013.db</a>.
+  <div class="csl-entry">刘时银，郭万钦，许君利，2012. 中国第二次水川编目科学数据：2006—2011. doi: <a href="https://doi.org/10.3972/glacier.001.2013.db">10.3972/glacier.001.2013.db</a>.
     <div class="csl-block">2012. doi: <a href="https://doi.org/10.3972/glacier.001.2013.db">10.3972/glacier.001.2013.db</a> (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">刘祥沈，2016. 沈阳市政区图.
@@ -201,8 +201,8 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">牛志明，Swingland I.R.，雷光春，2012. 综合湿地管理：综合湿地管理国际研讨会论文集. 北京：海洋出版社.
     <div class="csl-block">2012 (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">彭守璋，2024. 1901—2023年中国1km分辨率逐月降水量数据集. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>.
-    <div class="csl-block">2024. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a> (in Chinese with English abstract).</div>
+  <div class="csl-entry">彭守璋，2025. 1901—2024年中国1km分辨率逐月降水量数据集. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>.
+    <div class="csl-block">2025. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a> (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">钱学森，2001. 创建系统学. 太原：山西科学技术出版社，序2-3.
     <div class="csl-block">2001. 序2-3 (in Chinese with English abstract).</div>
@@ -240,8 +240,8 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">王夫之，2011. 周易外传：卷5. 船山全书. 长沙：岳麓书社，983～1029.
     <div class="csl-block">2011. 983～1029 (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">王继民，罗鹏程，赵常煜，等，2025. 人文社会科学数据集检索方法研究的数据集. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.
-    <div class="csl-block">2025. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a> (in Chinese with English abstract).</div>
+  <div class="csl-entry">王继民，罗鹏程，赵常煜，等，2025. 人文社会科学数据集检索方法研究的数据集. <a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.
+    <div class="csl-block">2025. <a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a> (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">王利平，王福新，刘洪，2024. 过冷大水滴环境粒径分布模拟方法研究进展. 航空学报，45(增刊1).
     <div class="csl-block">2024. 45(增刊1) (in Chinese with English abstract).</div>
@@ -264,7 +264,7 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">徐建委，2025. 历史的起点：《史记》中的时间设置及其意义. 北京大学学报（哲学社会科学版），62(2):117～127. <a href="https://ncpssd.org/Literature/articleinfo?id=BJDXXBZXSHKXB2025002012&#38;synUpdateType=&#38;type=journalArticle&#38;typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&#38;nav=1&#38;langType=1&#38;pageUrl=https%253A%252F%252Fncpssd.org%252Fjournal%252Fdetails%253Fgch%253D81274X%2526nav%253D1%2526langType%253D1">https://ncpssd.org/Literature/articleinfo?id=BJDXXBZXSHKXB2025002012&#38;synUpdateType=&#38;type=journalArticle&#38;typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&#38;nav=1&#38;langType=1&#38;pageUrl=https%253A%252F%252Fncpssd.org%252Fjournal%252Fdetails%253Fgch%253D81274X%2526nav%253D1%2526langType%253D1</a>.
     <div class="csl-block">2025. 62(2):117～127. <a href="https://ncpssd.org/Literature/articleinfo?id=BJDXXBZXSHKXB2025002012&#38;synUpdateType=&#38;type=journalArticle&#38;typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&#38;nav=1&#38;langType=1&#38;pageUrl=https%253A%252F%252Fncpssd.org%252Fjournal%252Fdetails%253Fgch%253D81274X%2526nav%253D1%2526langType%253D1">https://ncpssd.org/Literature/articleinfo?id=BJDXXBZXSHKXB2025002012&#38;synUpdateType=&#38;type=journalArticle&#38;typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&#38;nav=1&#38;langType=1&#38;pageUrl=https%253A%252F%252Fncpssd.org%252Fjournal%252Fdetails%253Fgch%253D81274X%2526nav%253D1%2526langType%253D1</a> (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">许振超，2025. “好好干，当一个好工人”. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>.
+  <div class="csl-entry">许振超：“好好干，当一个好工人”，2025. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>.
     <div class="csl-block">2025. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a> (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">扬奎斯特，萨金特，2010. 递归宏观经济理论. 北京：中国人民大学出版社，798.
@@ -300,7 +300,7 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">赵学功，2001. 当代美国外交. 北京：社会科学文献出版社. <a href="http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1">http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1</a>.
     <div class="csl-block">2001. <a href="http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1">http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1</a> (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">郑涵，于贵瑞，朱先进，等，2018. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>.
+  <div class="csl-entry">郑涵，于贵瑞，朱先进，等，2018. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>.
     <div class="csl-block">2018. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a> (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">中工武大设计研究有限公司，2019. 阳新县标准地名图.
@@ -330,7 +330,7 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">中华医学会湖北分会，1984. 临床内科杂志. 1984，1（1）—.
     <div class="csl-block">1984. 1984，1（1）— (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">周壮，李盛阳，吴薇，等，2023. 天宫二号遥感图像自然景物分类数据集. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.
+  <div class="csl-entry">周壮，李盛阳，吴薇，等，2023. 天宫二号遥感图像自然景物分类科学数据. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.
     <div class="csl-block">2023. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">《庄子》读不懂？看完这一篇“导读”就明白了，2022. <a href="https://www.bilibili.com/video/BV1t84y1B7vv/">https://www.bilibili.com/video/BV1t84y1B7vv/</a>.
@@ -339,8 +339,8 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">訾冬梅，高秀静，2006. 内蒙古自治区地图册.
     <div class="csl-block">2006 (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">[《昨日之歌》图书封面]，2023. <a href="http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg">http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg</a>.
-    <div class="csl-block">2023. <a href="http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg">http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg</a> (in Chinese with English abstract).</div>
+  <div class="csl-entry">[《昨日之歌》图书封面]，2015. <a href="http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg">http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg</a>.
+    <div class="csl-block">2015. <a href="http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg">http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg</a> (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">American Association for the Advancement of Science, 1883. Science. 1883，1（1）—.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), 2022. Guide to lithium battery safety for space applications.</div>
@@ -351,7 +351,7 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">Bevington, D., Brown, J.R., 2025. William Shakespeare. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
   <div class="csl-entry">Bloss, C.S., Wineinger, N.E., Peters, M., et al., 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors. <a href="https://doi.org/10.1101/029983">https://doi.org/10.1101/029983</a>.</div>
   <div class="csl-entry">Boobier, T., 2020. AI and the future of banking. Chichester: John Wiley &#38; Sons, 35.</div>
-  <div class="csl-entry">Cairns, B.R., 1965. Infrared spectroscopic studies on solid oxygen. Doctoral dissertation. Berkeley: University of California, Berkeley, 15.</div>
+  <div class="csl-entry">Cairns, B.R., 1965. Infrared spectroscopic studies of solid oxygen. Doctoral dissertation. Berkeley: University of California, Berkeley, 15.</div>
   <div class="csl-entry">Calkin, D.E., Ager, A.A., Thompson, M.P., 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report. Report RMRS-GTR-262. 8～9. <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a>.</div>
   <div class="csl-entry">Caplan, P., 1993. Cataloging internet resources. <i>The Public-Access Computer Systems Review</i>, 4(2):61～66.</div>
   <div class="csl-entry">Christou, A., 2024. Improving knowledge graph understanding with contextual views. Doctoral dissertation. Ohio: Wright State University, 18. <a href="http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301">http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301</a>.</div>
@@ -390,12 +390,12 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">Torres, L., Salisbury, F., Yazbeck, B., et al., 2021. Connecting the library to the curriculum. Singapore: Springer Nature, 97. <a href="https://link.springer.com/book/10.1007/978-981-16-3868-8">https://link.springer.com/book/10.1007/978-981-16-3868-8</a>.</div>
   <div class="csl-entry">Tristram, M., Skarshewski, P., Tristram, I., et al., 2022. Storage and delivery system. <a href="https://worldwide.espacenet.com/patent/search/family/061561249/publication/AU2022228203A1?q=AU2022228203A">https://worldwide.espacenet.com/patent/search/family/061561249/publication/AU2022228203A1?q=AU2022228203A</a>.</div>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs, n.d. United Nations e-government survey 2024: accelerating digital transformation for sustainable development. <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a>.</div>
-  <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration, 1990. Guidelines for handling excavated acid-producing material. Report PB 91-194001. Springfield: U.S. Department of Commerce National Information Service, 25.</div>
+  <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration, 1990. Guidelines for handling excavated acid-producing materials. Report PB 91-194001. Springfield: U.S. Department of Commerce National Information Service, 25.</div>
   <div class="csl-entry">Veen, P.H. van der, Muller, M., Vincken, K.L., et al., 2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>Journal of the Neurological Sciences</i>, 337(1/2):112～118. doi: <a href="https://doi.org/10.1016/j.jns.2013.11.029">10.1016/j.jns.2013.11.029</a>.</div>
   <div class="csl-entry">Wang, S., 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers. 2. doi: <a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.</div>
   <div class="csl-entry">Weinstein, L., Swartz, M.N., 1974. Pathogenic properties of invading microorganisms. In: Sodeman, W.A., Jr., Sodeman, W.A., eds. <i>Pathologic physiology: mechanisms of disease</i>. Philadelphia: Saunders, 457～472.</div>
   <div class="csl-entry">Yu, Y., Pan, E., Wang, X., et al., 2024. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis. 4. <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html">https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html</a>.</div>
-  <div class="csl-entry">Yufin, S.A., 2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000. Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">Yufin, S.A., 2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. Rotterdam: A. A. Balkema.</div>
   <div class="csl-entry">Zhong, X., Yan, Q., Li, G., 2022. Long time series nighttime light dataset of China: 2000–2020. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
   <div class="csl-entry">Zotero, n.d. [Zotero download]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.</div>
 </div>

@@ -96,7 +96,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Anonymous. Public library quarterly[Z]. Philadelphia: Taylor &#38; Francis, 1979.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Anonymous. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. 9. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
@@ -132,7 +132,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Boobier T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley. University of California, Berkeley. 1965.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Cairns B R. Infrared spectroscopic studies of solid oxygen[D]. Berkeley. University of California, Berkeley. 1965.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011.</div>
@@ -213,7 +213,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [no date].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield. U.S. Department of Commerce National Information Service. 1990.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing materials: PB 91-194001[R]. Springfield. U.S. Department of Commerce National Information Service. 1990.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118.</div>
@@ -249,7 +249,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[55]</div><div class="csl-right-inline">阿扬. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[A]. 认识记忆力：关于学习、思考与遗忘的脑科学[C]. 北京: 机械工业出版社, 2023: 15-18.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">北京鲁迅博物馆. 北京鲁迅博物馆志愿服务章程[Z](2021-04-21).</div>
+    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">北京鲁迅博物馆（北京新文化运动纪念馆）. 北京鲁迅博物馆志愿服务章程[Z](2021-04-21).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[57]</div><div class="csl-right-inline">博伯尔. 银行业的未来与人工智能[M]. 北京: 清华大学出版社, 2023.</div>
@@ -345,7 +345,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[87]</div><div class="csl-right-inline">李约瑟. 题词[A]. 苏颂与《本草图经》研究[C]. 长春: 长春出版社, 1991: 扉页.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[88]</div><div class="csl-right-inline">刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006-2011[Z]. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 2012.</div>
+    <div class="csl-left-margin">[88]</div><div class="csl-right-inline">刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006—2011[Z]. 国家青藏高原科学数据中心, 2012.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[89]</div><div class="csl-right-inline">刘祥沈. 沈阳市政区图[Z]. 武汉: 武汉大学出版社, 2016.</div>
@@ -357,7 +357,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[91]</div><div class="csl-right-inline">马克思. 政治经济学批判[A]. 马克思恩格斯全集[C]. 北京: 人民出版社, 2013: 302.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">彭守璋. 1901—2023年中国1km分辨率逐月降水量数据集[Z]. 西北农林科技大学水土保持研究所, 2024(2024-07-19).</div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">彭守璋. 1901—2024年中国1km分辨率逐月降水量数据集[Z]. 国家地球系统科学数据中心, 2025(2025-07-07).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[93]</div><div class="csl-right-inline">钱学森. 创建系统学[M]. 太原: 山西科学技术出版社, 2001.</div>
@@ -408,37 +408,37 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[108]</div><div class="csl-right-inline">徐建委. 历史的起点：《史记》中的时间设置及其意义[J]. 北京大学学报（哲学社会科学版）, 2025, 62(2): 117-127.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">许振超. “好好干，当一个好工人”[Z](2025-02-17).</div>
+    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">扬奎斯特, 萨金特. 递归宏观经济理论[M]. 2. 北京: 中国人民大学出版社, 2010.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">扬奎斯特, 萨金特. 递归宏观经济理论[M]. 2. 北京: 中国人民大学出版社, 2010.</div>
+    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z].</div>
+    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">佚名. 图书馆学通讯[Z]. 北京: 北京图书馆, 1957/1990.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">佚名. 图书馆学通讯[Z]. 北京: 北京图书馆, 1957/1990.</div>
+    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">佚名. 康熙字典[M]. 影印本. 北京: 中华书局, 1962.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">佚名. 康熙字典[M]. 影印本. 北京: 中华书局, 1962.</div>
+    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">佚名. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会, 1984.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">佚名. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会, 1984.</div>
+    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">佚名. 周易外传：卷5[A]. 船山全书[C]. 长沙: 岳麓书社, 2011a: 983-1029.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">佚名. 周易外传：卷5[A]. 船山全书[C]. 长沙: 岳麓书社, 2011a: 983-1029.</div>
+    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011b.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011b.</div>
+    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">佚名. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012a.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">佚名. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012a.</div>
+    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">佚名. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 北京: 九州出版社, 2012b.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">佚名. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 北京: 九州出版社, 2012b.</div>
+    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">佚名. [《昨日之歌》图书封面][Z](2015-09-18).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[120]</div><div class="csl-right-inline">佚名. 鼻整形应用解剖学[M]. 北京: 人民卫生出版社, 2019.</div>
@@ -450,10 +450,10 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[122]</div><div class="csl-right-inline">佚名. 《庄子》读不懂？看完这一篇“导读”就明白了[Z](2022-10-26).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">佚名. [《昨日之歌》图书封面][Z](2023a-03-06).</div>
+    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">佚名. 西黄丸[Z](2023-10-07).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">佚名. 西黄丸[Z](2023b-10-07).</div>
+    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">佚名. 许振超：“好好干，当一个好工人”[Z](2025-02-17).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[125]</div><div class="csl-right-inline">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>
@@ -483,7 +483,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[133]</div><div class="csl-right-inline">赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社, 2001.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[Z]. Science Data Bank, 2018.</div>
+    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集[Z]. Science Data Bank, 2018(2018-05-26).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[135]</div><div class="csl-right-inline">中工武大设计研究有限公司. 阳新县标准地名图[Z]. 武汉: 武汉大学出版社, 2019.</div>
@@ -501,7 +501,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[139]</div><div class="csl-right-inline">中国造纸学会. 中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社, 2003.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类数据集[Z]. 国家基础学科公共科学数据中心, 2023(2023-09-10).</div>
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类科学数据[Z]. 国家基础学科公共科学数据中心, 2023(2023-09-10).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[141]</div><div class="csl-right-inline">訾冬梅, 高秀静. 内蒙古自治区地图册[Z]. 北京: 中国地图出版社, 2006.</div>

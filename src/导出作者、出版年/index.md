@@ -68,7 +68,7 @@ Qian et al. (2009b)<br>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
   <div class="csl-entry">阿扬, 2023.</div>
-  <div class="csl-entry">北京鲁迅博物馆, 2021.</div>
+  <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆）, 2021.</div>
   <div class="csl-entry">博伯尔, 2023.</div>
   <div class="csl-entry">曹凌, 2011.</div>
   <div class="csl-entry">陈登原, 2000.</div>
@@ -107,7 +107,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">马克思, 2013.</div>
   <div class="csl-entry">牛永敢等, 2019.</div>
   <div class="csl-entry">牛志明等, 2012.</div>
-  <div class="csl-entry">彭守璋, 2024.</div>
+  <div class="csl-entry">彭守璋, 2025.</div>
   <div class="csl-entry">钱学森, 2001.</div>
   <div class="csl-entry">全国信息技术标准化技术委员会, 2016.</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会, 2021.</div>
@@ -126,7 +126,6 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">肖玲等, 2024.</div>
   <div class="csl-entry">肖希明等, 2024.</div>
   <div class="csl-entry">徐建委, 2025.</div>
-  <div class="csl-entry">许振超, 2025.</div>
   <div class="csl-entry">扬奎斯特等, 2010.</div>
   <div class="csl-entry">杨洪升, 2013.</div>
   <div class="csl-entry">杨立华, 2022.</div>
@@ -134,11 +133,12 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">佚名, 1962.</div>
   <div class="csl-entry">Anon, 1979.</div>
   <div class="csl-entry">佚名, 2011.</div>
+  <div class="csl-entry">佚名, 2015.</div>
   <div class="csl-entry">佚名, 2020.</div>
   <div class="csl-entry">Anon, 2020.</div>
-  <div class="csl-entry">佚名, 2023a.</div>
-  <div class="csl-entry">佚名, 2023b.</div>
+  <div class="csl-entry">佚名, 2023.</div>
   <div class="csl-entry">Anon, 2024.</div>
+  <div class="csl-entry">佚名, 2025.</div>
   <div class="csl-entry">Anon.</div>
   <div class="csl-entry">于潇等, 2012.</div>
   <div class="csl-entry">云南省企业联合会等, 2009.</div>

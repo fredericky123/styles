@@ -142,10 +142,10 @@
   <div class="csl-entry">Tachibana Ryuki, Shimizu Shuhichi, Kobayashi Seiji, Nakamura Taiga</div>
   <div class="csl-entry">Tristram Michael, Skarshewski Peter, Tristram Ian, Mossel Brenda</div>
   <div class="csl-entry">中国科学院文献情报中心</div>
-  <div class="csl-entry">北京鲁迅博物馆</div>
+  <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆）</div>
   <div class="csl-entry">佚名</div>
   <div class="csl-entry">高等教育文献保障系统</div>
-  <div class="csl-entry">许振超</div>
+  <div class="csl-entry">佚名</div>
   <div class="csl-entry">佚名</div>
   <div class="csl-entry">仉尚航</div>
   <div class="csl-entry">佚名</div>

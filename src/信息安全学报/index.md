@@ -204,7 +204,7 @@
   </div>
   <div class="csl-entry">[67]	Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. <i>2022 6th Asian Conference on Artificial Intelligence Technology</i>. 2022: 2.</div>
   <div class="csl-entry">[68]	Yu Y, Pan E, Wang X, et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C]. <i>CVPR</i>. 2024: 4.</div>
-  <div class="csl-entry">[69]	Yufin S A. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
+  <div class="csl-entry">[69]	Yufin S A. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[70]	Babu B V, Nagar A, Deep K, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">[71]	Fourney M E. Advances in holographic photoelasticity[C]. Gottenberg W G. <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>. 1971: 17-38.</div>
   <div class="csl-entry">[72]	[D]. 2022: 87.
@@ -219,7 +219,7 @@
   <div class="csl-entry">[75]	[D]. 2022: 43.
     <div class="csl-block">(井丽南. 支持状态可编程的SDN交换机关键技术研究[D]. 北京: 中国科学院大学, 2022: 43.)</div>
   </div>
-  <div class="csl-entry">[76]	Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, Berkeley, 1965: 15.</div>
+  <div class="csl-entry">[76]	Cairns B R. Infrared spectroscopic studies of solid oxygen[D]. Berkeley: University of California, Berkeley, 1965: 15.</div>
   <div class="csl-entry">[77]	Christou A. Improving knowledge graph understanding with contextual views[D]. Ohio: Wright State University, 2024: 18.</div>
   <div class="csl-entry">[78]	2012.
     <div class="csl-block">(中国互联网络信息中心. 第29次中国互联网络发展状况统计报告. 2012.)</div>
@@ -231,7 +231,7 @@
     <div class="csl-block">(中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 等. 电信业发展白皮书：2023：新时代高质量发展探索. 2023.)</div>
   </div>
   <div class="csl-entry">[81]	Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report. Technical report RMRS-GTR-262. 2011.</div>
-  <div class="csl-entry">[82]	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material. Technical report PB 91-194001. U.S. Department of Commerce National Information Service, 1990.</div>
+  <div class="csl-entry">[82]	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing materials. Technical report PB 91-194001. U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">[83]	United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development. [2025].</div>
   <div class="csl-entry">[84]	GB/T 3792—2021. 2021.
     <div class="csl-block">(全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021. 2021.)</div>
@@ -273,7 +273,7 @@
     <div class="csl-block">(中国科学院文献情报中心. 中国科学院科技论文预发布平台. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>. 2025年3月.)</div>
   </div>
   <div class="csl-entry">[103]	<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>. 2021年4月.
-    <div class="csl-block">(北京鲁迅博物馆. 北京鲁迅博物馆志愿服务章程. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>. 2021年4月.)</div>
+    <div class="csl-block">(北京鲁迅博物馆（北京新文化运动纪念馆）. 北京鲁迅博物馆志愿服务章程. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>. 2021年4月.)</div>
   </div>
   <div class="csl-entry">[104]	2022.
     <div class="csl-block">(杨立华. 《庄子》读不懂？看完这一篇“导读”就明白了. 2022.)</div>
@@ -282,10 +282,10 @@
     <div class="csl-block">(高等教育文献保障系统. 馆际互借与文献传递服务. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>. 2025年6月.)</div>
   </div>
   <div class="csl-entry">[106]	<a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>. 2025年2月.
-    <div class="csl-block">(许振超. “好好干，当一个好工人.” <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>. 2025年2月.)</div>
+    <div class="csl-block">(许振超：“好好干，当一个好工人.” <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>. 2025年2月.)</div>
   </div>
-  <div class="csl-entry">[107]	2023.
-    <div class="csl-block">([《昨日之歌》图书封面]. 2023.)</div>
+  <div class="csl-entry">[107]	2015.
+    <div class="csl-block">([《昨日之歌》图书封面]. 2015.)</div>
   </div>
   <div class="csl-entry">[108]	<a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>. 2024年12月.
     <div class="csl-block">(仉尚航. 开放世界中的实体基础模型. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>. 2024年12月.)</div>
@@ -334,23 +334,23 @@
   </div>
   <div class="csl-entry">[127]	Cribb R. Historical Atlas of Indonesia. Abingdon: Routledge, 2015.</div>
   <div class="csl-entry">[128]	Coastal Wetlands Map of China Continent. Beijing: China Ocean Press, 2024: 50.</div>
-  <div class="csl-entry">[129]	<a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>. 2024年7月.
-    <div class="csl-block">(彭守璋. 1901—2023年中国1km分辨率逐月降水量数据集. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>. 2024年7月.)</div>
+  <div class="csl-entry">[129]	<a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>. 2025年7月.
+    <div class="csl-block">(彭守璋. 1901—2024年中国1km分辨率逐月降水量数据集. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>. 2025年7月.)</div>
   </div>
-  <div class="csl-entry">[130]	<a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>. 2012年.
-    <div class="csl-block">(刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006-2011. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>. 2012年.)</div>
+  <div class="csl-entry">[130]	<a href="https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/">https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/</a>. 2012年.
+    <div class="csl-block">(刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006—2011. <a href="https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/">https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/</a>. 2012年.)</div>
   </div>
   <div class="csl-entry">[131]	<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>. 2023年9月.
-    <div class="csl-block">(周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类数据集. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>. 2023年9月.)</div>
+    <div class="csl-block">(周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类科学数据. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>. 2023年9月.)</div>
   </div>
-  <div class="csl-entry">[132]	<a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>. 2018年.
-    <div class="csl-block">(郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>. 2018年.)</div>
+  <div class="csl-entry">[132]	<a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>. 2018年5月.
+    <div class="csl-block">(郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>. 2018年5月.)</div>
   </div>
   <div class="csl-entry">[133]	<a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>. 2024年12月.
     <div class="csl-block">(黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>. 2024年12月.)</div>
   </div>
-  <div class="csl-entry">[134]	<a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>. 2025年6月.
-    <div class="csl-block">(王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>. 2025年6月.)</div>
+  <div class="csl-entry">[134]	<a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>. 2025年6月.
+    <div class="csl-block">(王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集. <a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>. 2025年6月.)</div>
   </div>
   <div class="csl-entry">[135]	Sugarman L, Markham S. Students in a Selective High School: Some Vocationally Oriented Data. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>. 1980年.</div>
   <div class="csl-entry">[136]	Zhong X, Yan Q, Li G. Long Time Series Nighttime Light Dataset of China: 2000–2020. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>. 2022年.</div>

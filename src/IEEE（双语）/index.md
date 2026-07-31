@@ -261,7 +261,7 @@
     <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Y. Yu, E. Pan, X. Wang, Y. Wu, X. Mei, and J. Ma, “Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis”, Seattle, 2024, p. 4. Accessed: Dec. 02, 2025. [Online]. Available: <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html">https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">S. A. Yufin, Ed., <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>. Rotterdam: A. A. Balkema, 2000.</div>
+    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">S. A. Yufin, Ed., <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>. Rotterdam: A. A. Balkema, 2000.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[70]</div><div class="csl-right-inline">B. V. Babu <i>et al.</i>, Eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. New Delhi: Springer, 2014.</div>
@@ -282,7 +282,7 @@
     <div class="csl-left-margin">[75]</div><div class="csl-right-inline">井丽南, “支持状态可编程的SDN交换机关键技术研究”, 博士学位论文, 中国科学院大学, 北京, 2022. 见于: 12月 02, 2025. [在线]. 载于: <a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289">http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">B. R. Cairns, “Infrared spectroscopic studies on solid oxygen”, Doctoral dissertation, University of California, Berkeley, Berkeley, 1965.</div>
+    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">B. R. Cairns, “Infrared spectroscopic studies of solid oxygen”, Doctoral dissertation, University of California, Berkeley, Berkeley, 1965.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[77]</div><div class="csl-right-inline">A. Christou, “Improving knowledge graph understanding with contextual views”, Doctoral dissertation, Wright State University, Ohio, 2024. Accessed: Feb. 28, 2025. [Online]. Available: <a href="http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301">http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301</a></div>
@@ -300,7 +300,7 @@
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">D. E. Calkin, A. A. Ager, and M. P. Thompson, “A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report”, RMRS-GTR-262, 2011. Accessed: Dec. 02, 2025. [Online]. Available: <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration, “Guidelines for handling excavated acid-producing material”, U.S. Department of Commerce National Information Service, Springfield, PB 91-194001, 1990.</div>
+    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration, “Guidelines for handling excavated acid-producing materials”, U.S. Department of Commerce National Information Service, Springfield, PB 91-194001, 1990.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs, “United Nations e-government survey 2024: accelerating digital transformation for sustainable development”. Accessed: Feb. 28, 2025. [Online]. Available: <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a></div>
@@ -363,7 +363,7 @@
     <div class="csl-left-margin">[102]</div><div class="csl-right-inline">中国科学院文献情报中心, “中国科学院科技论文预发布平台”. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a> (见于 3月 06, 2025).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">北京鲁迅博物馆, “北京鲁迅博物馆志愿服务章程”, 4月 21, 2021. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> (见于 5月 02, 2023).</div>
+    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">北京鲁迅博物馆（北京新文化运动纪念馆）, “北京鲁迅博物馆志愿服务章程”, 4月 21, 2021. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> (见于 5月 02, 2023).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[104]</div><div class="csl-right-inline">《庄子》读不懂？看完这一篇“导读”就明白了, (10月 26, 2022). 见于: 5月 02, 2023. [在线 Video]. 载于: <a href="https://www.bilibili.com/video/BV1t84y1B7vv/">https://www.bilibili.com/video/BV1t84y1B7vv/</a></div>
@@ -372,10 +372,10 @@
     <div class="csl-left-margin">[105]</div><div class="csl-right-inline">高等教育文献保障系统, “馆际互借与文献传递服务”. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a> (见于 6月 21, 2025).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">许振超, “‘好好干，当一个好工人’”, 2月 17, 2025. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a> (见于 6月 22, 2025).</div>
+    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">“许振超：‘好好干，当一个好工人’”, 2月 17, 2025. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a> (见于 6月 22, 2025).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">[《昨日之歌》图书封面]. 2023. 见于: 6月 22, 2025. [在线]. 载于: <a href="http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg">http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg</a></div>
+    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">[《昨日之歌》图书封面]. 2015. 见于: 3月 06, 2023. [在线]. 载于: <a href="http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg">http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[108]</div><div class="csl-right-inline">仉尚航, “开放世界中的实体基础模型”, 12月 24, 2024. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a> (见于 1月 02, 2025).</div>
@@ -441,22 +441,22 @@
     <div class="csl-left-margin">[128]</div><div class="csl-right-inline">“Coastal wetlands map of China continent”, China Ocean Press, Beijing, p. 50, 2024.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">彭守璋, “1901—2023年中国1km分辨率逐月降水量数据集”. 西北农林科技大学水土保持研究所, 7月 19, 2024. 见于: 11月 25, 2024. [在线]. 载于: <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a></div>
+    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">彭守璋, “1901—2024年中国1km分辨率逐月降水量数据集”. 国家地球系统科学数据中心, 7月 07, 2025. 见于: 7月 15, 2025. [在线]. 载于: <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">刘时银, 郭万钦和许君利, “中国第二次水川编目科学数据：2006-2011”. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 2012. doi: <a href="https://doi.org/10.3972/glacier.001.2013.db">10.3972/glacier.001.2013.db</a>.</div>
+    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">刘时银, 郭万钦和许君利, “中国第二次水川编目科学数据：2006—2011”. 国家青藏高原科学数据中心, 2012. doi: <a href="https://doi.org/10.3972/glacier.001.2013.db">10.3972/glacier.001.2013.db</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">周壮等, “天宫二号遥感图像自然景物分类数据集”. 国家基础学科公共科学数据中心, 9月 10, 2023. 见于: 7月 15, 2025. [在线]. 载于: <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a></div>
+    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">周壮等, “天宫二号遥感图像自然景物分类科学数据”. 国家基础学科公共科学数据中心, 9月 10, 2023. 见于: 7月 15, 2025. [在线]. 载于: <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">郑涵等, “2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据”. Science Data Bank, 2018. 见于: 2月 14, 2025. [在线]. 载于: <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a></div>
+    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">郑涵等, “2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集”. Science Data Bank, 5月 26, 2018. 见于: 2月 14, 2025. [在线]. 载于: <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）, “青海省县域教育、卫生发展指标（2001—2022年）”. 国家地球系统科学数据中心-黄土高原分中心, 12月 25, 2024. doi: <a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">10.12041/geodata.58691800703558.ver1.db</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇和高正, “人文社会科学数据集检索方法研究的数据集”. 北京大学开放研究数据平台, 6月 11, 2025. 见于: 7月 10, 2025. [在线]. 载于: <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a></div>
+    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇和高正, “人文社会科学数据集检索方法研究的数据集”. 北京大学开放研究数据平台, 6月 11, 2025. 见于: 7月 11, 2025. [在线]. 载于: <a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[135]</div><div class="csl-right-inline">L. Sugarman and S. Markham, “Students in a selective high school: some vocationally oriented data”. UK Data Service, 1980. doi: <a href="https://doi.org/10.5255/UKDA-SN-996-1">10.5255/UKDA-SN-996-1</a>.</div>

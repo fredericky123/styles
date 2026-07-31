@@ -96,7 +96,7 @@ Qian et al. （2009a）<br>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">阿扬，2023，《谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答》，姜海伦译，《环球科学》杂志社主编《认识记忆力：关于学习、思考与遗忘的脑科学》，北京：机械工业出版社。</div>
-  <div class="csl-entry">北京鲁迅博物馆，2021，《北京鲁迅博物馆志愿服务章程》（<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>）。</div>
+  <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆），2021，《北京鲁迅博物馆志愿服务章程》（<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>）。</div>
   <div class="csl-entry">博伯尔，2023，《银行业的未来与人工智能》，徐超译，北京：清华大学出版社。</div>
   <div class="csl-entry">曹凌，2011，《中国佛教疑伪经综录》，上海：上海古籍出版社。</div>
   <div class="csl-entry">陈登原，2000，《国史旧闻》第1卷，北京：中华书局。</div>
@@ -129,13 +129,13 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">李妍、王莹，2022，《医疗机构保洁人员“一前五后”手卫生干预效果研究》。</div>
   <div class="csl-entry">李幼平、王莉，2010，《循证医学研究方法：附视频》，《中华移植杂志（电子版）》第3期。</div>
   <div class="csl-entry">李约瑟，1991，《题词》，苏克福、管成学、邓明鲁《苏颂与《本草图经》研究》，长春：长春出版社。</div>
-  <div class="csl-entry">刘时银、郭万钦、许君利，2012，《中国第二次水川编目科学数据：2006-2011》，中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室。</div>
+  <div class="csl-entry">刘时银、郭万钦、许君利，2012，《中国第二次水川编目科学数据：2006—2011》，国家青藏高原科学数据中心。</div>
   <div class="csl-entry">刘祥沈，2016，《沈阳市政区图》，武汉：武汉大学出版社。</div>
   <div class="csl-entry">楼梦麟、杨燕，2011，《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编《汶川地震震害研究》，上海：同济大学出版社。</div>
   <div class="csl-entry">马克思，2013，《政治经济学批判》，马克思、恩格斯《马克思恩格斯全集》第35卷，北京：人民出版社。</div>
   <div class="csl-entry">牛永敢、孔晓、王阳、斯楼斌，2019，《鼻整形应用解剖学》，北京：人民卫生出版社。</div>
   <div class="csl-entry">牛志明、Swingland Ian R.、雷光春，2012，《综合湿地管理：综合湿地管理国际研讨会论文集》，北京：海洋出版社。</div>
-  <div class="csl-entry">彭守璋，2024，《1901—2023年中国1km分辨率逐月降水量数据集》，西北农林科技大学水土保持研究所。</div>
+  <div class="csl-entry">彭守璋，2025，《1901—2024年中国1km分辨率逐月降水量数据集》，国家地球系统科学数据中心。</div>
   <div class="csl-entry">钱学森，2001，《创建系统学》，太原：山西科学技术出版社。</div>
   <div class="csl-entry">全国信息技术标准化技术委员会，2016，《信息技术 先进音视频编码 第16部分：广播电视视频》。</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会，2021，《信息与文献 资源描述》。</div>
@@ -154,7 +154,6 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">肖玲、张雪、王永，2024，《数据要素的统计测算方法探究》，PSSXiv。</div>
   <div class="csl-entry">肖希明、石庆功、刘奕，2024，《民国图书馆学教育的社会贡献》，《纪念北京大学图书馆学教育100周年研讨会论文集》，北京：北京大学信息管理系。</div>
   <div class="csl-entry">徐建委，2025，《历史的起点：《史记》中的时间设置及其意义》，《北京大学学报（哲学社会科学版）》第2期。</div>
-  <div class="csl-entry">许振超，2025，《“好好干，当一个好工人”》（<a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>）。</div>
   <div class="csl-entry">扬奎斯特、萨金特，2010，《递归宏观经济理论》第2版本，杨斌、王忠玉、陈彦斌、严高剑译，北京：中国人民大学出版社。</div>
   <div class="csl-entry">杨洪升，2013，《四库馆私家抄校书考略》，《文献》第1期。</div>
   <div class="csl-entry">杨立华，2022，《《庄子》读不懂？看完这一篇“导读”就明白了》。</div>
@@ -167,7 +166,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">———，2024b，《惯性增强动力吸振器-浮置板轨道低频减振性能研究》，《铁道学报》第8期。</div>
   <div class="csl-entry">仉尚航，2024，《开放世界中的实体基础模型》（<a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>）。</div>
   <div class="csl-entry">赵学功，2001，《当代美国外交》，北京：社会科学文献出版社。</div>
-  <div class="csl-entry">郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、赵亮、张一平、闫俊华、王安志、张军辉、郝彦斌、赵风华、张法伟、周广胜、林光辉、陈世苹、刘绍民、赵斌、贾根锁、张旭东、张玉翠、古松、刘文兆、李彦、王文杰、杨大文、张劲松、张志强、赵仲辉、周石硚、郭海强、沈彦俊、徐自为、黄辉、孟平，2018，《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据》，Science Data Bank。</div>
+  <div class="csl-entry">郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、赵亮、张一平、闫俊华、王安志、张军辉、郝彦斌、赵风华、张法伟、周广胜、林光辉、陈世苹、刘绍民、赵斌、贾根锁、张旭东、张玉翠、古松、刘文兆、李彦、王文杰、杨大文、张劲松、张志强、赵仲辉、周石硚、郭海强、沈彦俊、徐自为、黄辉、孟平，2018，《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集》，Science Data Bank。</div>
   <div class="csl-entry">中工武大设计研究有限公司，2019，《阳新县标准地名图》，武汉：武汉大学出版社。</div>
   <div class="csl-entry">中国互联网络信息中心，2012，《第29次中国互联网络发展状况统计报告》。</div>
   <div class="csl-entry">中国科学院文献情报中心，《中国科学院科技论文预发布平台》（<a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>）。</div>
@@ -176,7 +175,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">中国信息通信研究院、中国电信股份有限公司研究院、中国移动通信研究院、中国联合网络通信有限公司研究院，2023，《电信业发展白皮书：2023：新时代高质量发展探索》。</div>
   <div class="csl-entry">中国造纸学会，2003，《中国造纸年鉴：2003》，北京：中国轻工业出版社。</div>
   <div class="csl-entry">中华医学会湖北分会，1984，《临床内科杂志》1984，1（1）—，武汉：中华医学会湖北分会。</div>
-  <div class="csl-entry">周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞，2023，《天宫二号遥感图像自然景物分类数据集》，国家基础学科公共科学数据中心。</div>
+  <div class="csl-entry">周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞，2023，《天宫二号遥感图像自然景物分类科学数据》，国家基础学科公共科学数据中心。</div>
   <div class="csl-entry">訾冬梅、高秀静，2006，《内蒙古自治区地图册》新版，北京：中国地图出版社。</div>
   <div class="csl-entry">American Association for the Advancement of Science 1883, <i>Science</i>. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA) 2022, <i>Guide to Lithium Battery Safety for Space Applications</i>.</div>
@@ -184,18 +183,19 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">佚名，1962，《康熙字典》影印本巳集上 水部，北京：中华书局。</div>
   <div class="csl-entry">Anon 1979, <i>Public Library Quarterly</i>. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">佚名，2011，《周易外传：卷5》，王夫之主编《船山全书》第1册，长沙：岳麓书社。</div>
+  <div class="csl-entry">佚名，2015，《[《昨日之歌》图书封面]》。</div>
   <div class="csl-entry">佚名，2020，《大黄》，国家药典委员会主编《中华人民共和国药典》一部，北京：中国医药科技出版社。</div>
   <div class="csl-entry">Anon 2020, <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>. New York: IEEE.</div>
-  <div class="csl-entry">佚名，2023a，《[《昨日之歌》图书封面]》。</div>
-  <div class="csl-entry">佚名，2023b，《西黄丸》（<a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>）。</div>
+  <div class="csl-entry">佚名，2023，《西黄丸》（<a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>）。</div>
   <div class="csl-entry">Anon 2024, <i>Coastal Wetlands Map of China Continent</i>. Beijing: China Ocean Press.</div>
+  <div class="csl-entry">佚名，2025，《许振超：“好好干，当一个好工人”》（<a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>）。</div>
   <div class="csl-entry">Anon, <i>Library of Congress</i> (<a href="https://www.loc.gov/">https://www.loc.gov/</a>).</div>
   <div class="csl-entry">António, Marco &#38; Lucy Pepper 2019, <i>Histórias de Portugal: livros caídos</i> (<a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>).</div>
   <div class="csl-entry">Babu, B. V., Atulya Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray &#38; Umesh Gupta 2014, <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. New Delhi: Springer.</div>
   <div class="csl-entry">Bevington, David &#38; John Russell Brown 2025, <i>William Shakespeare</i> (<a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>).</div>
   <div class="csl-entry">Bloss, Cinnamon S., Nathan E. Wineinger, Melissa Peters, Debra L. Boeldt, Lauren Ariniello, Ju Young Kim, Judy Sheard, Ravi Komatireddy, Paddy Barrett &#38; Eric J. Topol 2015, <i>A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors</i>. bioRxiv.</div>
   <div class="csl-entry">Boobier, Tony 2020, <i>AI and the Future of Banking</i>. Chichester: John Wiley &#38; Sons.</div>
-  <div class="csl-entry">Cairns, Bruce Richard 1965, <i>Infrared Spectroscopic Studies on Solid Oxygen</i>. University of California, Berkeley Doctoral dissertation.</div>
+  <div class="csl-entry">Cairns, Bruce Richard 1965, <i>Infrared Spectroscopic Studies of Solid Oxygen</i>. University of California, Berkeley Doctoral dissertation.</div>
   <div class="csl-entry">Calkin, David E., Alan A. Ager &#38; Matthew P. Thompson 2011, <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i>.</div>
   <div class="csl-entry">Caplan, Priscilla 1993, “Cataloging Internet Resources.” <i>The Public-Access Computer Systems Review</i> 4(2).</div>
   <div class="csl-entry">Christou, Antrea 2024, <i>Improving Knowledge Graph Understanding with Contextual Views</i>. Wright State University Doctoral dissertation.</div>
@@ -228,12 +228,12 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Torres, Lynette, Fiona Salisbury, Barbara Yazbeck, Sharon Karasmanis, Janice Pinder &#38; Caroline Ondracek 2021, <i>Connecting the Library to the Curriculum</i>. Singapore: Springer Nature.</div>
   <div class="csl-entry">Tristram, Michael, Peter Skarshewski, Ian Tristram &#38; Brenda Mossel 2022, <i>Storage and delivery system</i>.</div>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs, <i>United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</i>.</div>
-  <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration 1990, <i>Guidelines for Handling Excavated Acid-Producing Material</i>. Springfield: U.S. Department of Commerce National Information Service.</div>
+  <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration 1990, <i>Guidelines for Handling Excavated Acid-Producing Materials</i>. Springfield: U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Veen, Pieternella H. van der, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, &#38; SMART-MR Study Group 2014, “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study.” <i>Journal of the Neurological Sciences</i> 337(1/2).</div>
   <div class="csl-entry">Wang, Shanshan 2022, <i>Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers</i>.</div>
   <div class="csl-entry">Weinstein, L. &#38; M. N. Swartz 1974, “Pathogenic Properties of Invading Microorganisms.” In William A. Sodeman Jr. &#38; William A. Sodeman (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>. Philadelphia: Saunders.</div>
   <div class="csl-entry">Yu, Yang, Erting Pan, Xinya Wang, Yuheng Wu, Xiaoguang Mei &#38; Jiayi Ma 2024, <i>Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis</i>.</div>
-  <div class="csl-entry">Yufin, Sergey A. 2000, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>. Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">Yufin, Sergey A. 2000, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>. Rotterdam: A. A. Balkema.</div>
   <div class="csl-entry">Zhong, Xiaoya, Qingwu Yan &#38; Guie Li 2022, <i>Long Time Series Nighttime Light Dataset of China: 2000–2020</i>. Global Change Research Data Publishing &#38; Repository.</div>
   <div class="csl-entry">Zotero, <i>[Zotero Download]</i> (<a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>).</div>
 </div>

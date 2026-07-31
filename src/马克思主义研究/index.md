@@ -118,20 +118,20 @@
 <sup>66</sup> 陈志勇主编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。<br>
 <sup>67</sup> Shanshan Wang：《Application of improved SOM neural network in intelligent auditing of hospital financial vouchers》，2022年。<br>
 <sup>68</sup> Yang Yu、Erting Pan、Xinya Wang、Yuheng Wu、Xiaoguang Mei、Jiayi Ma：《Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis》，2024年。<br>
-<sup>69</sup> Sergey A. Yufin主编：《Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000》，Rotterdam：A. A. Balkema，2000年。<br>
+<sup>69</sup> Sergey A. Yufin主编：《Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000》，Rotterdam：A. A. Balkema，2000年。<br>
 <sup>70</sup> B. V. Babu、Atulya Nagar、Kusum Deep、Millie Pant、Jagdish Chand Bansal、Kanad Ray、Umesh Gupta主编：《Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012》，New Delhi：Springer，2014年。<br>
 <sup>71</sup> M. E. Fourney：《Advances in holographic photoelasticity》，W. G. Gottenberg主编：《Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California》，New York：ASME，1971年。<br>
 <sup>72</sup> 王琦：《融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究》，武汉：武汉大学，2022年。<br>
 <sup>73</sup> 金燕萍：《社交媒体时代的虚假信息研究》，温州：温州大学，2020年。<br>
 <sup>74</sup> 何筱梅：《新媒体时代原生广告的策略与发展研究》，武汉：武汉大学，2016年。<br>
 <sup>75</sup> 井丽南：《支持状态可编程的SDN交换机关键技术研究》，北京：中国科学院大学，2022年。<br>
-<sup>76</sup> Bruce Richard Cairns：《Infrared spectroscopic studies on solid oxygen》，Berkeley：University of California, Berkeley，1965年。<br>
+<sup>76</sup> Bruce Richard Cairns：《Infrared spectroscopic studies of solid oxygen》，Berkeley：University of California, Berkeley，1965年。<br>
 <sup>77</sup> Antrea Christou：《Improving knowledge graph understanding with contextual views》，Ohio：Wright State University，2024年。<br>
 <sup>78</sup> 中国互联网络信息中心：《第29次中国互联网络发展状况统计报告》，2012年。<br>
 <sup>79</sup> 汤万金、杨跃翔、刘文、郑建国、王赟松：《人体安全重要技术标准研制最终报告》，2013年。<br>
 <sup>80</sup> 中国信息通信研究院、中国电信股份有限公司研究院、中国移动通信研究院、中国联合网络通信有限公司研究院：《电信业发展白皮书：2023：新时代高质量发展探索》，2023年。<br>
 <sup>81</sup> David E. Calkin、Alan A. Ager、Matthew P. Thompson：《A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report》，2011年。<br>
-<sup>82</sup> U.S. Department of Transportation Federal Highway Administration：《Guidelines for handling excavated acid-producing material》，Springfield：U.S. Department of Commerce National Information Service，1990年。<br>
+<sup>82</sup> U.S. Department of Transportation Federal Highway Administration：《Guidelines for handling excavated acid-producing materials》，Springfield：U.S. Department of Commerce National Information Service，1990年。<br>
 <sup>83</sup> United Nations Department of Economic and Social Affairs：《United Nations e-government survey 2024: accelerating digital transformation for sustainable development》。<br>
 <sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献 资源描述》，2021年。<br>
 <sup>85</sup> 全国信息技术标准化技术委员会：《信息技术 先进音视频编码 第16部分：广播电视视频》，2016年。<br>
@@ -152,11 +152,11 @@
 <sup>100</sup> Ryuki Tachibana、Shuhichi Shimizu、Seiji Kobayashi、Taiga Nakamura：《Electronic watermarking method and system》，2001年。<br>
 <sup>101</sup> Michael Tristram、Peter Skarshewski、Ian Tristram、Brenda Mossel：《Storage and delivery system》，2022年。<br>
 <sup>102</sup> 中国科学院文献情报中心：《中国科学院科技论文预发布平台》，<a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>。<br>
-<sup>103</sup> 北京鲁迅博物馆：《北京鲁迅博物馆志愿服务章程》，2021年，<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>。<br>
+<sup>103</sup> 北京鲁迅博物馆（北京新文化运动纪念馆）：《北京鲁迅博物馆志愿服务章程》，2021年，<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>。<br>
 <sup>104</sup> 《《庄子》读不懂？看完这一篇“导读”就明白了》，2022年。<br>
 <sup>105</sup> 高等教育文献保障系统：《馆际互借与文献传递服务》，<a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>。<br>
-<sup>106</sup> 许振超：《“好好干，当一个好工人”》，2025年，<a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>。<br>
-<sup>107</sup> 《[《昨日之歌》图书封面]》，2023年。<br>
+<sup>106</sup> 《许振超：“好好干，当一个好工人”》，2025年，<a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>。<br>
+<sup>107</sup> 《[《昨日之歌》图书封面]》，2015年。<br>
 <sup>108</sup> 仉尚航：《开放世界中的实体基础模型》，2024年，<a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>。<br>
 <sup>109</sup> 《西黄丸》，2023年，<a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>。<br>
 <sup>110</sup> 《Library of Congress》，<a href="https://www.loc.gov/">https://www.loc.gov/</a>。<br>
@@ -178,10 +178,10 @@
 <sup>126</sup> 童世亨：《京兆直隶图》，上海：商务印书馆，1926年。<br>
 <sup>127</sup> Robert Cribb：《Historical atlas of Indonesia》，Abingdon：Routledge，2015年。<br>
 <sup>128</sup> 《Coastal wetlands map of China continent》，Beijing：China Ocean Press，2024年。<br>
-<sup>129</sup> 彭守璋：《1901—2023年中国1km分辨率逐月降水量数据集》，西北农林科技大学水土保持研究所，2024年。<br>
-<sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次水川编目科学数据：2006-2011》，中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室，2012年。<br>
-<sup>131</sup> 周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞：《天宫二号遥感图像自然景物分类数据集》，国家基础学科公共科学数据中心，2023年。<br>
-<sup>132</sup> 郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、赵亮、张一平、闫俊华、王安志、张军辉、郝彦斌、赵风华、张法伟、周广胜、林光辉、陈世苹、刘绍民、赵斌、贾根锁、张旭东、张玉翠、古松、刘文兆、李彦、王文杰、杨大文、张劲松、张志强、赵仲辉、周石硚、郭海强、沈彦俊、徐自为、黄辉、孟平：《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据》，Science Data Bank，2018年。<br>
+<sup>129</sup> 彭守璋：《1901—2024年中国1km分辨率逐月降水量数据集》，国家地球系统科学数据中心，2025年。<br>
+<sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次水川编目科学数据：2006—2011》，国家青藏高原科学数据中心，2012年。<br>
+<sup>131</sup> 周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞：《天宫二号遥感图像自然景物分类科学数据》，国家基础学科公共科学数据中心，2023年。<br>
+<sup>132</sup> 郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、赵亮、张一平、闫俊华、王安志、张军辉、郝彦斌、赵风华、张法伟、周广胜、林光辉、陈世苹、刘绍民、赵斌、贾根锁、张旭东、张玉翠、古松、刘文兆、李彦、王文杰、杨大文、张劲松、张志强、赵仲辉、周石硚、郭海强、沈彦俊、徐自为、黄辉、孟平：《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集》，Science Data Bank，2018年。<br>
 <sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》，国家地球系统科学数据中心-黄土高原分中心，2024年。<br>
 <sup>134</sup> 王继民、罗鹏程、赵常煜、郭鑫、王世奇、高正：《人文社会科学数据集检索方法研究的数据集》，北京大学开放研究数据平台，2025年。<br>
 <sup>135</sup> L. Sugarman、S. Markham：《Students in a selective high school: some vocationally oriented data》，UK Data Service，1980年。<br>

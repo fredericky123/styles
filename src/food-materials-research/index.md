@@ -261,7 +261,7 @@
     <div class="csl-left-margin">68. </div><div class="csl-right-inline">Yu Y, Pan E, Wang X, Wu Y, Mei X, et al. 2024. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">69. </div><div class="csl-right-inline">Yufin SA, ed, 2000. <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>. Rotterdam: A. A. Balkema</div>
+    <div class="csl-left-margin">69. </div><div class="csl-right-inline">Yufin SA, ed, 2000. <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>. Rotterdam: A. A. Balkema</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">70. </div><div class="csl-right-inline">Babu BV, Nagar A, Deep K, Pant M, Bansal JC, et al., Eds., 2014. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. New Delhi: Springer</div>
@@ -282,7 +282,7 @@
     <div class="csl-left-margin">75. </div><div class="csl-right-inline">井丽南, 2022. 支持状态可编程的SDN交换机关键技术研究. <i>支持状态可编程的SDN交换机关键技术研究</i>, Thesis, 中国科学院大学</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">76. </div><div class="csl-right-inline">Cairns BR, 1965. Infrared spectroscopic studies on solid oxygen. <i>Infrared spectroscopic studies on solid oxygen</i>, Thesis, University of California, Berkeley, pp. 224</div>
+    <div class="csl-left-margin">76. </div><div class="csl-right-inline">Cairns BR, 1965. Infrared spectroscopic studies of solid oxygen. <i>Infrared spectroscopic studies of solid oxygen</i>, Thesis, University of California, Berkeley, pp. 224</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">77. </div><div class="csl-right-inline">Christou A, 2024. Improving knowledge graph understanding with contextual views. <i>Improving knowledge graph understanding with contextual views</i>, Thesis, Wright State University</div>
@@ -300,7 +300,7 @@
     <div class="csl-left-margin">81. </div><div class="csl-right-inline">Calkin DE, Ager AA, Thompson MP. 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report. <i>RMRS-GTR-262</i></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">82. </div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for handling excavated acid-producing material. <i>PB 91-194001</i>, U.S. Department of Commerce National Information Service, Springfield</div>
+    <div class="csl-left-margin">82. </div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for handling excavated acid-producing materials. <i>PB 91-194001</i>, U.S. Department of Commerce National Information Service, Springfield</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">83. </div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development</div>
@@ -363,7 +363,7 @@
     <div class="csl-left-margin">102. </div><div class="csl-right-inline">中国科学院文献情报中心. 中国科学院科技论文预发布平台. <a href="https://chinaxiv.org">https://chinaxiv.org</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">103. </div><div class="csl-right-inline">北京鲁迅博物馆. 2021. 北京鲁迅博物馆志愿服务章程. <a href="https://doi.org/www.luxunmuseum.com.cn">www.luxunmuseum.com.cn</a></div>
+    <div class="csl-left-margin">103. </div><div class="csl-right-inline">北京鲁迅博物馆（北京新文化运动纪念馆）. 2021. 北京鲁迅博物馆志愿服务章程. <a href="https://doi.org/www.luxunmuseum.com.cn">www.luxunmuseum.com.cn</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">104. </div><div class="csl-right-inline">《庄子》读不懂？看完这一篇“导读”就明白了. 2022</div>
@@ -372,10 +372,10 @@
     <div class="csl-left-margin">105. </div><div class="csl-right-inline">高等教育文献保障系统. 馆际互借与文献传递服务. <a href="http://home.calis.edu.cn">http://home.calis.edu.cn</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">106. </div><div class="csl-right-inline">许振超. 2025. “好好干，当一个好工人.” <a href="https://cpc.people.com.cn">https://cpc.people.com.cn</a></div>
+    <div class="csl-left-margin">106. </div><div class="csl-right-inline">许振超：“好好干，当一个好工人.” 2025. <a href="https://cpc.people.com.cn">https://cpc.people.com.cn</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">107. </div><div class="csl-right-inline">[《昨日之歌》图书封面]. 2023</div>
+    <div class="csl-left-margin">107. </div><div class="csl-right-inline">[《昨日之歌》图书封面]. 2015</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">108. </div><div class="csl-right-inline">仉尚航. 2024. 开放世界中的实体基础模型. <a href="https://doi.org/www.ppthub.com.cn">www.ppthub.com.cn</a></div>
@@ -441,16 +441,16 @@
     <div class="csl-left-margin">128. </div><div class="csl-right-inline">Coastal wetlands map of China continent. 2024</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">129. </div><div class="csl-right-inline">彭守璋. 2024. 1901—2023年中国1km分辨率逐月降水量数据集</div>
+    <div class="csl-left-margin">129. </div><div class="csl-right-inline">彭守璋. 2025. 1901—2024年中国1km分辨率逐月降水量数据集</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">130. </div><div class="csl-right-inline">刘时银, 郭万钦, 许君利. 2012. 中国第二次水川编目科学数据：2006-2011</div>
+    <div class="csl-left-margin">130. </div><div class="csl-right-inline">刘时银, 郭万钦, 许君利. 2012. 中国第二次水川编目科学数据：2006—2011</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">131. </div><div class="csl-right-inline">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, et al. 2023. 天宫二号遥感图像自然景物分类数据集</div>
+    <div class="csl-left-margin">131. </div><div class="csl-right-inline">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, et al. 2023. 天宫二号遥感图像自然景物分类科学数据</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">132. </div><div class="csl-right-inline">郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, et al. 2018. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据</div>
+    <div class="csl-left-margin">132. </div><div class="csl-right-inline">郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, et al. 2018. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">133. </div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）</div>

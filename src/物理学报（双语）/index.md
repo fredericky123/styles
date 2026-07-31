@@ -273,7 +273,7 @@
     <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Yu Y, Pan E, Wang X, Wu Y, Mei X, Ma J 2024 <i>CVPR</i> Seattle p4</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">Yufin S A 2000 <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i> (Rotterdam: A. A. Balkema)</div>
+    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">Yufin S A 2000 <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i> (Rotterdam: A. A. Balkema)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[70]</div><div class="csl-right-inline">Babu B V, Nagar A, Deep K, Pant M, Bansal J C, Ray K, Gupta U 2014 <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i> (New Delhi: Springer)</div>
@@ -312,7 +312,7 @@
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Calkin D E, Ager A A, Thompson M P 2011 <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i> No. RMRS-GTR-262 pp8–9</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration 1990 <i>Guidelines for Handling Excavated Acid-Producing Material</i> No. PB 91-194001 (Springfield: U.S. Department of Commerce National Information Service) p25</div>
+    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration 1990 <i>Guidelines for Handling Excavated Acid-Producing Materials</i> No. PB 91-194001 (Springfield: U.S. Department of Commerce National Information Service) p25</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs n.d. <i>United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</i> No.</div>
@@ -375,7 +375,7 @@
     <div class="csl-left-margin">[102]</div><div class="csl-right-inline"><a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a> [2025-3-6] (in Chinese) [中国科学院文献情报中心 <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a> [2025-3-6]]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[103]</div><div class="csl-right-inline"><a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> [2023-5-2] (in Chinese) [北京鲁迅博物馆 <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> [2023-5-2]]</div>
+    <div class="csl-left-margin">[103]</div><div class="csl-right-inline"><a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> [2023-5-2] (in Chinese) [北京鲁迅博物馆（北京新文化运动纪念馆） <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> [2023-5-2]]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[104]</div><div class="csl-right-inline">2022 (in Chinese) [2022 《庄子》读不懂？看完这一篇《导读》就明白了]</div>
@@ -384,10 +384,10 @@
     <div class="csl-left-margin">[105]</div><div class="csl-right-inline"><a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a> [2025-6-21] (in Chinese) [高等教育文献保障系统 <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a> [2025-6-21]]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[106]</div><div class="csl-right-inline"><a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a> [2025-6-22] (in Chinese) [许振超 <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a> [2025-6-22]]</div>
+    <div class="csl-left-margin">[106]</div><div class="csl-right-inline"><a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a> [2025-6-22] (in Chinese) [<a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a> [2025-6-22]]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">2023 (in Chinese) [2023 [《昨日之歌》图书封面]]</div>
+    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">2015 (in Chinese) [2015 [《昨日之歌》图书封面]]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[108]</div><div class="csl-right-inline"><a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a> [2025-1-2] (in Chinese) [仉尚航 <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a> [2025-1-2]]</div>
@@ -453,10 +453,10 @@
     <div class="csl-left-margin">[128]</div><div class="csl-right-inline">2024 <i>Coastal Wetlands Map of China Continent</i> (Beijing: China Ocean Press) p50</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[129]</div><div class="csl-right-inline"><a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a> [2024-11-25] (in Chinese) [彭守璋 (西北农林科技大学水土保持研究所) <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a> [2024-11-25]]</div>
+    <div class="csl-left-margin">[129]</div><div class="csl-right-inline"><a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a> [2025-7-15] (in Chinese) [彭守璋 (国家地球系统科学数据中心) <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a> [2025-7-15]]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[130]</div><div class="csl-right-inline"><a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a> [2024-11-25] (in Chinese) [刘时银, 郭万钦, 许君利 (中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室) <a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a> [2024-11-25]]</div>
+    <div class="csl-left-margin">[130]</div><div class="csl-right-inline"><a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a> [2025-7-15] (in Chinese) [刘时银, 郭万钦, 许君利 (国家青藏高原科学数据中心) <a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a> [2025-7-15]]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[131]</div><div class="csl-right-inline"><a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> [2025-7-15] (in Chinese) [周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞 (国家基础学科公共科学数据中心) <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> [2025-7-15]]</div>
@@ -468,7 +468,7 @@
     <div class="csl-left-margin">[133]</div><div class="csl-right-inline"><a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a> [2025-7-10] (in Chinese) [黄土高原科学数据中心（西北农林科技大学水土保持研究所） (国家地球系统科学数据中心-黄土高原分中心) <a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a> [2025-7-10]]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[134]</div><div class="csl-right-inline"><a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a> [2025-7-10] (in Chinese) [王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, 高正 (北京大学开放研究数据平台) <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a> [2025-7-10]]</div>
+    <div class="csl-left-margin">[134]</div><div class="csl-right-inline"><a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a> [2025-7-11] (in Chinese) [王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, 高正 (北京大学开放研究数据平台) <a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a> [2025-7-11]]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[135]</div><div class="csl-right-inline">Sugarman L, Markham S (UK Data Service) <a href="https://doi.org/10.5255/UKDA-SN-996-1">https://doi.org/10.5255/UKDA-SN-996-1</a> [2025-7-10]</div>

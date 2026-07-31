@@ -75,7 +75,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Bevington D. &#38; J. R. Brown. 2025. “William Shakespeare”. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a> (January 3, 2025).</div>
   <div class="csl-entry">Bloss C. S., N. E. Wineinger, M. Peters et al. 2015. <i>A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors</i>. bioRxiv.</div>
   <div class="csl-entry">Boobier T. 2020. <i>AI and the Future of Banking</i>. Chichester: John Wiley &#38; Sons.</div>
-  <div class="csl-entry">Cairns B. R. 1965. <i>Infrared Spectroscopic Studies on Solid Oxygen</i>. Berkeley: University of California, Berkeley.</div>
+  <div class="csl-entry">Cairns B. R. 1965. <i>Infrared Spectroscopic Studies of Solid Oxygen</i>. Berkeley: University of California, Berkeley.</div>
   <div class="csl-entry">Calkin D. E., A. A. Ager, &#38; M. P. Thompson. 2011. <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i>.</div>
   <div class="csl-entry">Caplan P. 1993. “Cataloging internet resources”. <i>The Public-Access Computer Systems Review</i> 4.</div>
   <div class="csl-entry">Christou A. 2024. <i>Improving Knowledge Graph Understanding with Contextual Views</i>. Ohio: Wright State University.</div>
@@ -105,12 +105,12 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Torres L., F. Salisbury, B. Yazbeck et al. (eds.). 2021. <i>Connecting the Library to the Curriculum</i>. Singapore: Springer Nature.</div>
   <div class="csl-entry">Tristram M., P. Skarshewski, I. Tristram et al. 2022. <i>Storage and delivery system</i>. AU, AU2022228203A1.</div>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs. <i>United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</i>.</div>
-  <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. <i>Guidelines for Handling Excavated Acid-Producing Material</i>. Springfield: U.S. Department of Commerce National Information Service.</div>
+  <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. <i>Guidelines for Handling Excavated Acid-Producing Materials</i>. Springfield: U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Veen P. H. van der, M. Muller, K. L. Vincken et al. 2014. “Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study”. <i>Journal of the Neurological Sciences</i> 337.</div>
   <div class="csl-entry">Wang S. 2022. “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers”. 2022 6th Asian Conference on Artificial Intelligence Technology.</div>
   <div class="csl-entry">Weinstein L. &#38; M. N. Swartz. 1974. “Pathogenic properties of invading microorganisms”. In W. A. Sodeman Jr. &#38; W. A. Sodeman (eds.). <i>Pathologic Physiology: Mechanisms of Disease</i>. 5th ed. Philadelphia: Saunders.</div>
   <div class="csl-entry">Yu Y., E. Pan, X. Wang et al. 2024. “Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis”. CVPR.</div>
-  <div class="csl-entry">Yufin S. A. (ed.). 2000. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>. Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">Yufin S. A. (ed.). 2000. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>. Rotterdam: A. A. Balkema.</div>
   <div class="csl-entry">Zhong X., Q. Yan, &#38; G. Li. 2022. <i>Long Time Series Nighttime Light Dataset of China: 2000–2020</i>. Global Change Research Data Publishing &#38; Repository. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a> (November 25, 2024).</div>
   <div class="csl-entry">Zotero. “[Zotero download]”. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a> (April 8, 2024).</div>
   <div class="csl-entry">1979. <i>Public Library Quarterly</i>. Philadelphia: Taylor &#38; Francis.</div>
@@ -122,7 +122,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">図書館用語辞典編集委員会 (ed.). 2004. 最新図書館用語大辭典. 東京: 柏書房株式會社.</div>
   <div class="csl-entry">António M. &#38; L. Pepper. 2019. “Histórias de Portugal: livros caídos”. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a> (January 2, 2025).</div>
   <div class="csl-entry">阿扬，2023，谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答，见《环球科学》杂志社（编），《认识记忆力：关于学习、思考与遗忘的脑科学》，北京：机械工业出版社。</div>
-  <div class="csl-entry">北京鲁迅博物馆，2021，北京鲁迅博物馆志愿服务章程，<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>（2023.5.2）。</div>
+  <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆），2021，北京鲁迅博物馆志愿服务章程，<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>（2023.5.2）。</div>
   <div class="csl-entry">博伯尔，2023，《银行业的未来与人工智能》，北京：清华大学出版社。</div>
   <div class="csl-entry">曹凌，2011，《中国佛教疑伪经综录》，上海：上海古籍出版社。</div>
   <div class="csl-entry">陈登原，2000，《国史旧闻》（第1卷），北京：中华书局。</div>
@@ -155,13 +155,13 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">李妍、王莹，2022，医疗机构保洁人员“一前五后”手卫生干预效果研究，中华预防医学会医院感染控制分会第31次全国医院感染学术年会。</div>
   <div class="csl-entry">李幼平、王莉，2010，循证医学研究方法：附视频，《中华移植杂志（电子版）》第3期。</div>
   <div class="csl-entry">李约瑟，1991，题词，见苏克福，管成学，邓明鲁，《苏颂与《本草图经》研究》，长春：长春出版社。</div>
-  <div class="csl-entry">刘时银、郭万钦、许君利，2012，《中国第二次水川编目科学数据：2006-2011》，中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室，<a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a>（2024.11.25）。</div>
+  <div class="csl-entry">刘时银、郭万钦、许君利，2012，《中国第二次水川编目科学数据：2006—2011》，国家青藏高原科学数据中心，<a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a>（2025.7.15）。</div>
   <div class="csl-entry">刘祥沈，2016，《沈阳市政区图》，武汉：武汉大学出版社。</div>
   <div class="csl-entry">楼梦麟、杨燕，2011，汶川地震基岩地震动特征分析，见同济大学土木工程防灾国家重点实验室（编），《汶川地震震害研究》，上海：同济大学出版社。</div>
   <div class="csl-entry">马克思，2013，政治经济学批判（2 版），见马克思，恩格斯，《马克思恩格斯全集》（2 版第35卷），北京：人民出版社。</div>
   <div class="csl-entry">牛永敢、孔晓、王阳等（编），2019，《鼻整形应用解剖学》，北京：人民卫生出版社。</div>
   <div class="csl-entry">牛志明、Swingland I. R.、雷光春（编），2012，《综合湿地管理：综合湿地管理国际研讨会论文集》，北京：海洋出版社。</div>
-  <div class="csl-entry">彭守璋，2024，《1901—2023年中国1km分辨率逐月降水量数据集》，西北农林科技大学水土保持研究所，<a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>（2024.11.25）。</div>
+  <div class="csl-entry">彭守璋，2025，《1901—2024年中国1km分辨率逐月降水量数据集》，国家地球系统科学数据中心，<a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>（2025.7.15）。</div>
   <div class="csl-entry">钱学森，2001，《创建系统学》，太原：山西科学技术出版社。</div>
   <div class="csl-entry">全国信息技术标准化技术委员会，2016，《信息技术 先进音视频编码 第16部分：广播电视视频》。</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会，2021，《信息与文献 资源描述》。</div>
@@ -171,14 +171,13 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">童世亨，1926，《京兆直隶图》，上海：商务印书馆。</div>
   <div class="csl-entry">汪学军，2005，中国农业转基因生物研发进展与安全管理，见国家环境保护总局生物安全管理办公室（编），《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社。</div>
   <div class="csl-entry">王夫之，1865，《宋论》（刻本），金陵：湘乡曾国荃。</div>
-  <div class="csl-entry">王继民、罗鹏程、赵常煜等，2025，《人文社会科学数据集检索方法研究的数据集》，北京大学开放研究数据平台，<a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>（2025.7.10）。</div>
+  <div class="csl-entry">王继民、罗鹏程、赵常煜等，2025，《人文社会科学数据集检索方法研究的数据集》，北京大学开放研究数据平台，<a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>（2025.7.11）。</div>
   <div class="csl-entry">王利平、王福新、刘洪，2024，过冷大水滴环境粒径分布模拟方法研究进展，《航空学报》增刊1。</div>
   <div class="csl-entry">王琦，2022，《融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究》，武汉：武汉大学。</div>
   <div class="csl-entry">吴自银、温珍河，2019，《中国南部海域海底地形图》，北京：科学出版社。</div>
   <div class="csl-entry">肖玲、张雪、王永，2024，《数据要素的统计测算方法探究》，PSSXiv。</div>
   <div class="csl-entry">肖希明、石庆功、刘奕，2024，民国图书馆学教育的社会贡献，见《纪念北京大学图书馆学教育100周年研讨会论文集》，北京：北京大学信息管理系。</div>
   <div class="csl-entry">徐建委，2025，历史的起点：《史记》中的时间设置及其意义，《北京大学学报（哲学社会科学版）》第2期。</div>
-  <div class="csl-entry">许振超，2025，“好好干，当一个好工人”，<a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>（2025.6.22）。</div>
   <div class="csl-entry">扬奎斯特、萨金特，2010，《递归宏观经济理论》（2 版），北京：中国人民大学出版社。</div>
   <div class="csl-entry">杨洪升，2013，四库馆私家抄校书考略，《文献》第1期。</div>
   <div class="csl-entry">杨立华（导演），2022，《《庄子》读不懂？看完这一篇“导读”就明白了》。</div>
@@ -191,7 +190,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">张群、程志宝、石志飞，2024b，惯性增强动力吸振器-浮置板轨道低频减振性能研究，《铁道学报》第8期。</div>
   <div class="csl-entry">仉尚航，2024，开放世界中的实体基础模型，<a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>（2025.1.2）。</div>
   <div class="csl-entry">赵学功，2001，《当代美国外交》，北京：社会科学文献出版社。</div>
-  <div class="csl-entry">郑涵、于贵瑞、朱先进等，2018，《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据》，Science Data Bank，<a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>（2025.2.14）。</div>
+  <div class="csl-entry">郑涵、于贵瑞、朱先进等，2018，《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集》，Science Data Bank，<a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>（2025.2.14）。</div>
   <div class="csl-entry">中工武大设计研究有限公司，2019，《阳新县标准地名图》，武汉：武汉大学出版社。</div>
   <div class="csl-entry">中国互联网络信息中心，2012，《第29次中国互联网络发展状况统计报告》。</div>
   <div class="csl-entry">中国科学院文献情报中心，中国科学院科技论文预发布平台，<a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>（2025.3.6）。</div>
@@ -200,14 +199,15 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">中国信息通信研究院、中国电信股份有限公司研究院、中国移动通信研究院等，2023，《电信业发展白皮书：2023：新时代高质量发展探索》。</div>
   <div class="csl-entry">中国造纸学会，2003，《中国造纸年鉴：2003》，北京：中国轻工业出版社。</div>
   <div class="csl-entry">中华医学会湖北分会（编），1984，《临床内科杂志》（1984，1（1）—），武汉：中华医学会湖北分会。</div>
-  <div class="csl-entry">周壮、李盛阳、吴薇等，2023，《天宫二号遥感图像自然景物分类数据集》，国家基础学科公共科学数据中心，<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>（2025.7.15）。</div>
+  <div class="csl-entry">周壮、李盛阳、吴薇等，2023，《天宫二号遥感图像自然景物分类科学数据》，国家基础学科公共科学数据中心，<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>（2025.7.15）。</div>
   <div class="csl-entry">訾冬梅、高秀静，2006，《内蒙古自治区地图册》（新版），北京：中国地图出版社。</div>
   <div class="csl-entry">1949，《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》，武汉：武汉大学档案馆。</div>
   <div class="csl-entry">1962，《康熙字典》（影印本巳集上 水部），北京：中华书局。</div>
   <div class="csl-entry">2011，周易外传：卷5（修订版），见王夫之（编），《船山全书》（修订版第1册），长沙：岳麓书社。</div>
+  <div class="csl-entry">2015，《[《昨日之歌》图书封面]》。</div>
   <div class="csl-entry">2020，大黄（2020版），见国家药典委员会（编），《中华人民共和国药典》（2020版一部），北京：中国医药科技出版社。</div>
-  <div class="csl-entry">2023a，《[《昨日之歌》图书封面]》。</div>
-  <div class="csl-entry">2023b，西黄丸，<a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>（2025.8.26）。</div>
+  <div class="csl-entry">2023，西黄丸，<a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>（2025.8.26）。</div>
+  <div class="csl-entry">2025，许振超：“好好干，当一个好工人”，<a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>（2025.6.22）。</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

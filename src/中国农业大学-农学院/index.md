@@ -99,13 +99,13 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>李妍, 王莹</b> (2022). 医疗机构保洁人员“一前五后”手卫生干预效果研究 In: <i>中华预防医学会医院感染控制分会第31次全国医院感染学术年会</i>.</div>
   <div class="csl-entry"><b>李幼平, 王莉</b> (2010). 循证医学研究方法：附视频. 中华移植杂志（电子版）, <b>4</b>: 225-228.</div>
   <div class="csl-entry"><b>李约瑟</b> (1991). 题词. In: 苏克福, 管成学, 邓明鲁. 苏颂与《本草图经》研究. 长春出版社, 长春. pp. 扉页.</div>
-  <div class="csl-entry">. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室.</div>
+  <div class="csl-entry">. 国家青藏高原科学数据中心.</div>
   <div class="csl-entry">. 武汉大学出版社, 武汉.</div>
   <div class="csl-entry"><b>楼梦麟, 杨燕</b> (2011). 汶川地震基岩地震动特征分析. In: 汶川地震震害研究. 同济大学出版社, 上海. pp. 11-12.</div>
   <div class="csl-entry"><b>马克思</b> (2013). 政治经济学批判. In: 马克思, 恩格斯. 马克思恩格斯全集. 2 edn. 人民出版社, 北京. pp. 302.</div>
   <div class="csl-entry"><b>牛永敢, 孔晓, 王阳, 斯楼斌</b> (2019). 鼻整形应用解剖学. 人民卫生出版社, 北京: 65-66.</div>
   <div class="csl-entry"><b>牛志明, Swingland I.R., 雷光春</b> (2012). 综合湿地管理：综合湿地管理国际研讨会论文集. 海洋出版社, 北京.</div>
-  <div class="csl-entry">. 西北农林科技大学水土保持研究所(2024-07-19).</div>
+  <div class="csl-entry">. 国家地球系统科学数据中心(2025-07-07).</div>
   <div class="csl-entry"><b>钱学森</b> (2001). 创建系统学. 山西科学技术出版社, 太原: 序2-3.</div>
   <div class="csl-entry"><b>全国信息技术标准化技术委员会</b> (2016). 信息技术 先进音视频编码 第16部分：广播电视视频.</div>
   <div class="csl-entry"><b>全国信息与文献标准化技术委员会</b> (2021). 信息与文献 资源描述.</div>
@@ -125,7 +125,6 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>肖玲, 张雪, 王永</b> (2024). 数据要素的统计测算方法探究. PSSXiv.</div>
   <div class="csl-entry"><b>肖希明, 石庆功, 刘奕</b> (2024). 民国图书馆学教育的社会贡献. .</div>
   <div class="csl-entry"><b>徐建委</b> (2025). 历史的起点：《史记》中的时间设置及其意义. 北京大学学报（哲学社会科学版）, <b>62</b>: 117-127.</div>
-  <div class="csl-entry">(2025-02-17).</div>
   <div class="csl-entry"><b>扬奎斯特, 萨金特</b> (2010). 递归宏观经济理论. 2. 中国人民大学出版社, 北京: 798.</div>
   <div class="csl-entry"><b>杨洪升</b> (2013). 四库馆私家抄校书考略. 文献, 56-75.</div>
   <div class="csl-entry"><b>于潇, 刘义, 柴跃廷, 孙宏波</b> (2012). 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报（自然科学版）, <b>52</b>: 1518-1523.</div>
@@ -137,7 +136,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>张群, 程志宝, 石志飞</b> (2024b). 惯性增强动力吸振器-浮置板轨道低频减振性能研究. 铁道学报, <b>46</b>: 102-111.</div>
   <div class="csl-entry">(2024-12-24).</div>
   <div class="csl-entry"><b>赵学功</b> (2001). 当代美国外交. 社会科学文献出版社, 北京.</div>
-  <div class="csl-entry">. Science Data Bank.</div>
+  <div class="csl-entry">. Science Data Bank(2018-05-26).</div>
   <div class="csl-entry">. 武汉大学出版社, 武汉.</div>
   <div class="csl-entry"><b>中国互联网络信息中心</b> (2012). 第29次中国互联网络发展状况统计报告.</div>
   <div class="csl-entry"><b>中国社会科学院台湾史研究中心</b> (2012). 台湾光复六十五周年暨抗战史实学术研讨会论文集. 九州出版社, 北京.</div>
@@ -154,7 +153,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">(2025-01-01).</div>
   <div class="csl-entry"><b>Bloss, C.S., Wineinger, N.E., Peters, M., Boeldt, D.L., Ariniello, L., Kim, J.Y., Sheard, J., Komatireddy, R., Barrett, P., Topol, E.J.</b> (2015). A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors. bioRxiv.</div>
   <div class="csl-entry"><b>Boobier, T.</b> (2020). AI and the future of banking. John Wiley &#38; Sons, Chichester: 35.</div>
-  <div class="csl-entry"><b>Cairns, B.R.</b> (1965). Infrared spectroscopic studies on solid oxygen. University of California, Berkeley, Berkeley: 15.</div>
+  <div class="csl-entry"><b>Cairns, B.R.</b> (1965). Infrared spectroscopic studies of solid oxygen. University of California, Berkeley, Berkeley: 15.</div>
   <div class="csl-entry"><b>Calkin, D.E., Ager, A.A., Thompson, M.P.</b> (2011). A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report.</div>
   <div class="csl-entry"><b>Caplan, P.</b> (1993). Cataloging internet resources. Public-Access Comput. Syst. Rev., <b>4</b>: 61-66.</div>
   <div class="csl-entry"><b>Christou, A.</b> (2024). Improving knowledge graph understanding with contextual views. Wright State University, Ohio: 18.</div>
@@ -186,20 +185,21 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Torres, L., Salisbury, F., Yazbeck, B., Karasmanis, S., Pinder, J., Ondracek, C.</b> (2021). Connecting the library to the curriculum. Springer Nature, Singapore: 97.</div>
   <div class="csl-entry"><b>Tristram, M., Skarshewski, P., Tristram, I., Mossel, B.</b> (2022). Storage and delivery system. 2022-10-06.</div>
   <div class="csl-entry"><b>United Nations Department of Economic and Social Affairs</b> ([no date]). United Nations e-government survey 2024: accelerating digital transformation for sustainable development.</div>
-  <div class="csl-entry"><b>U.S. Department of Transportation Federal Highway Administration</b> (1990). Guidelines for handling excavated acid-producing material. U.S. Department of Commerce National Information Service, Springfield: 25.</div>
+  <div class="csl-entry"><b>U.S. Department of Transportation Federal Highway Administration</b> (1990). Guidelines for handling excavated acid-producing materials. U.S. Department of Commerce National Information Service, Springfield: 25.</div>
   <div class="csl-entry"><b>Veen, P.H. van der, Muller, M., Vincken, K.L., Witkamp, T.D., Mali, W.P.T.M., van der Graaf, Y., Geerlings, M.I., SMART-MR Study Group</b> (2014). Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. J. Neurol. Sci., <b>337</b>: 112-118.</div>
   <div class="csl-entry"><b>Wang, S.</b> (2022). Application of improved SOM neural network in intelligent auditing of hospital financial vouchers In: <i>2022 6th Asian Conference on Artificial Intelligence Technology</i>, Changzhou, China.</div>
   <div class="csl-entry"><b>Weinstein, L., Swartz, M.N.</b> (1974). Pathogenic properties of invading microorganisms. In: <i>Pathologic physiology: mechanisms of disease</i>.  5th edn. Saunders, Philadelphia. pp. 457-472.</div>
   <div class="csl-entry"><b>Yu, Y., Pan, E., Wang, X., Wu, Y., Mei, X., Ma, J.</b> (2024). Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis In: <i>CVPR</i>, Seattle.</div>
-  <div class="csl-entry"><b>Yufin, S.A.</b> (2000). Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000. A. A. Balkema, Rotterdam.</div>
+  <div class="csl-entry"><b>Yufin, S.A.</b> (2000). Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. A. A. Balkema, Rotterdam.</div>
   <div class="csl-entry">. Global Change Research Data Publishing &#38; Repository.</div>
   <div class="csl-entry">(1962). 康熙字典. 影印本 版. 中华书局, 北京: 50.</div>
   <div class="csl-entry">. Taylor &#38; Francis, Philadelphia.</div>
+  <div class="csl-entry">(2015-09-18).</div>
   <div class="csl-entry">(2020). IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation. IEEE, New York.</div>
   <div class="csl-entry">(2022-10-26).</div>
-  <div class="csl-entry">(2023-03-06).</div>
   <div class="csl-entry">(2023-10-07).</div>
   <div class="csl-entry">. China Ocean Press, Beijing: 50.</div>
+  <div class="csl-entry">(2025-02-17).</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

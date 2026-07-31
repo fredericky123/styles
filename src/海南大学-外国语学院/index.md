@@ -68,7 +68,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">[阿扬]. (2023). 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答 (姜海伦, 译). 载 《环球科学》杂志社 (编), <i>认识记忆力：关于学习、思考与遗忘的脑科学</i> (页 15-18). 机械工业出版社.</div>
-  <div class="csl-entry">[北京鲁迅博物馆]. (2021, 四月 21). 北京鲁迅博物馆志愿服务章程. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a></div>
+  <div class="csl-entry">[北京鲁迅博物馆（北京新文化运动纪念馆）]. (2021, 四月 21). 北京鲁迅博物馆志愿服务章程. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a></div>
   <div class="csl-entry">[博伯尔]. (2023). 银行业的未来与人工智能 (徐超, 译; 页 35). 清华大学出版社.</div>
   <div class="csl-entry">[曹凌]. (2011). 中国佛教疑伪经综录 (页 19). 上海古籍出版社.</div>
   <div class="csl-entry">[陈登原]. (2000). 国史旧闻 (卷 1, 页 29). 中华书局.</div>
@@ -103,13 +103,13 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">[李妍、王莹]. (2022). 医疗机构保洁人员“一前五后”手卫生干预效果研究. 2.</div>
   <div class="csl-entry">[李幼平、王莉]. (2010). 循证医学研究方法：附视频. 中华移植杂志（电子版）, <i>4</i>(3), 225-228. <a href="http://www.cqvip.com/Read/Read.aspx?id=36658332">http://www.cqvip.com/Read/Read.aspx?id=36658332</a></div>
   <div class="csl-entry">[李约瑟]. (1991). 题词. 载 苏克福, 管成学, &#38; 邓明鲁, <i>苏颂与《本草图经》研究</i> (页 扉页). 长春出版社.</div>
-  <div class="csl-entry">[刘时银、郭万钦、许君利]. (2012). 中国第二次水川编目科学数据：2006-2011 (版 1.0) [数据集]. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室. <a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a></div>
+  <div class="csl-entry">[刘时银、郭万钦、许君利]. (2012). 中国第二次水川编目科学数据：2006—2011 (版 1.0) [数据集]. 国家青藏高原科学数据中心. <a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a></div>
   <div class="csl-entry">[刘祥沈]. (2016). 沈阳市政区图 [地图]. 武汉大学出版社.</div>
   <div class="csl-entry">[楼梦麟、杨燕]. (2011). 汶川地震基岩地震动特征分析. 载 同济大学土木工程防灾国家重点实验室 (编), <i>汶川地震震害研究</i> (页 11-12). 同济大学出版社. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010</a></div>
   <div class="csl-entry">[马克思]. (2013). 政治经济学批判. 载 马克思 &#38; 恩格斯, <i>马克思恩格斯全集</i> (2 版, 卷 35, 页 302). 人民出版社.</div>
   <div class="csl-entry">(2019). 鼻整形应用解剖学 (牛永敢, 孔晓, 王阳, &#38; 斯楼斌, 编; 页 65-66). 人民卫生出版社.</div>
   <div class="csl-entry">(2012a). 综合湿地管理：综合湿地管理国际研讨会论文集 (牛志明, Swingland I. R., &#38; 雷光春, 编). 海洋出版社.</div>
-  <div class="csl-entry">[彭守璋]. (2024). 1901—2023年中国1km分辨率逐月降水量数据集 [数据集]. 西北农林科技大学水土保持研究所. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a></div>
+  <div class="csl-entry">[彭守璋]. (2025). 1901—2024年中国1km分辨率逐月降水量数据集 [数据集]. 国家地球系统科学数据中心. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a></div>
   <div class="csl-entry">[钱学森]. (2001). 创建系统学 (页 序2-3). 山西科学技术出版社.</div>
   <div class="csl-entry">[全国信息技术标准化技术委员会]. (2016). 信息技术 先进音视频编码 第16部分：广播电视视频 (国家标准 No. GB/T 20090.16—2016). (现行)</div>
   <div class="csl-entry">[全国信息与文献标准化技术委员会]. (2021). 信息与文献 资源描述 (国家标准 No. GB/T 3792—2021). (现行)</div>
@@ -121,14 +121,14 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">図書館用語辞典編集委員会 (Ed.). (2004). 最新図書館用語大辭典 (p. 154). 柏書房株式會社.</div>
   <div class="csl-entry">[王夫之]. (1865). 宋论 (刻本). 湘乡曾国荃.</div>
   <div class="csl-entry">(2011b). 周易外传：卷5: 卷 第1册. 载 王夫之 (编), <i>船山全书: 卷 第1册</i> (修订版, 页 983-1029). 岳麓书社.</div>
-  <div class="csl-entry">[王继民、罗鹏程、赵常煜、郭鑫、王世奇、高正]. (2025). 人文社会科学数据集检索方法研究的数据集 (版 2.2) [数据集]. 北京大学开放研究数据平台. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a></div>
+  <div class="csl-entry">[王继民、罗鹏程、赵常煜、郭鑫、王世奇、高正]. (2025). 人文社会科学数据集检索方法研究的数据集 (版 2.2) [数据集]. 北京大学开放研究数据平台. <a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a></div>
   <div class="csl-entry">[王利平、王福新、刘洪]. (2024). 过冷大水滴环境粒径分布模拟方法研究进展. 航空学报, <i>45</i>(增刊1), 条 730570.</div>
   <div class="csl-entry">[王琦]. (2022). 融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究 (页 87) [博士学位论文]. 武汉大学.</div>
   <div class="csl-entry">[吴自银、温珍河]. (2019). 中国南部海域海底地形图 [地图]. 科学出版社.</div>
-  <div class="csl-entry">(2023a, 十月 7). 西黄丸. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a></div>
+  <div class="csl-entry">(2023, 十月 7). 西黄丸. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a></div>
   <div class="csl-entry">[肖希明、石庆功、刘奕]. (2024). 民国图书馆学教育的社会贡献. <i>纪念北京大学图书馆学教育100周年研讨会论文集</i>, 134-147.</div>
   <div class="csl-entry">[徐建委]. (2025). 历史的起点：《史记》中的时间设置及其意义. 北京大学学报（哲学社会科学版）, <i>62</i>(2), 117-127. <a href="https://ncpssd.org/Literature/articleinfo?id=BJDXXBZXSHKXB2025002012&#38;synUpdateType=&#38;type=journalArticle&#38;typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&#38;nav=1&#38;langType=1&#38;pageUrl=https%253A%252F%252Fncpssd.org%252Fjournal%252Fdetails%253Fgch%253D81274X%2526nav%253D1%2526langType%253D1">https://ncpssd.org/Literature/articleinfo?id=BJDXXBZXSHKXB2025002012&#38;synUpdateType=&#38;type=journalArticle&#38;typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&#38;nav=1&#38;langType=1&#38;pageUrl=https%253A%252F%252Fncpssd.org%252Fjournal%252Fdetails%253Fgch%253D81274X%2526nav%253D1%2526langType%253D1</a></div>
-  <div class="csl-entry">[许振超]. (2025, 二月 17). “好好干，当一个好工人.” <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a></div>
+  <div class="csl-entry">(2025, 二月 17). 许振超：“好好干，当一个好工人.” <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a></div>
   <div class="csl-entry">[杨洪升]. (2013). 四库馆私家抄校书考略. 文献, <i>1</i>, 56-75.</div>
   <div class="csl-entry">(2022, 十月 26). 《庄子》读不懂？看完这一篇“导读”就明白了 [录像]. <a href="https://www.bilibili.com/video/BV1t84y1B7vv/">https://www.bilibili.com/video/BV1t84y1B7vv/</a></div>
   <div class="csl-entry">[云南省企业联合会、云南省企业家协会、云南民族新闻文化发展研究院]. (2009). 改革开放三十年：云南企业家奋斗史. 德宏民族出版社.</div>
@@ -139,7 +139,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">[张群、程志宝、石志飞]. (2024b). 惯性增强动力吸振器-浮置板轨道低频减振性能研究. 铁道学报, <i>46</i>(8), 102-111.</div>
   <div class="csl-entry">[仉尚航]. (2024, 十二月 24). 开放世界中的实体基础模型. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a></div>
   <div class="csl-entry">[赵学功]. (2001). 当代美国外交. 社会科学文献出版社. <a href="http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1">http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1</a></div>
-  <div class="csl-entry">[郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、… 孟平]. (2018). 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据 (版 1) [数据集]. Science Data Bank. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a></div>
+  <div class="csl-entry">[郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、… 孟平]. (2018). 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集 (版 1) [数据集]. Science Data Bank. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a></div>
   <div class="csl-entry">[中工武大设计研究有限公司]. (2019). 阳新县标准地名图 [地图]. 武汉大学出版社.</div>
   <div class="csl-entry">[中国互联网络信息中心]. (2012). 第29次中国互联网络发展状况统计报告. <a href="https://www.cnnic.net.cn/NMediaFile/old_attach/P020120612484958777344.pdf">https://www.cnnic.net.cn/NMediaFile/old_attach/P020120612484958777344.pdf</a></div>
   <div class="csl-entry">[中国科学院文献情报中心]. (不详). 中国科学院科技论文预发布平台. 取读于 2025年3月6日, 从 <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a></div>
@@ -149,9 +149,9 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">[中国信息通信研究院、中国电信股份有限公司研究院、中国移动通信研究院、中国联合网络通信有限公司研究院]. (2023). 电信业发展白皮书：2023：新时代高质量发展探索. <a href="http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf">http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf</a></div>
   <div class="csl-entry">[中国造纸学会]. (2003). 中国造纸年鉴：2003. 中国轻工业出版社. <a href="http://www.cadal.zju.edu.cn/book/view/25010080">http://www.cadal.zju.edu.cn/book/view/25010080</a></div>
   <div class="csl-entry">(1984). 临床内科杂志. <i>1984，1（1）—</i>.</div>
-  <div class="csl-entry">[周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞]. (2023). 天宫二号遥感图像自然景物分类数据集 (版 1.0) [数据集]. 国家基础学科公共科学数据中心. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a></div>
+  <div class="csl-entry">[周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞]. (2023). 天宫二号遥感图像自然景物分类科学数据 (版 1.0) [数据集]. 国家基础学科公共科学数据中心. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a></div>
   <div class="csl-entry">[訾冬梅、高秀静]. (2006). 内蒙古自治区地图册 (新版) [地图]. 中国地图出版社.</div>
-  <div class="csl-entry">(2023b). [《昨日之歌》图书封面] [视觉作品]. <a href="http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg">http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg</a></div>
+  <div class="csl-entry">(2015). [《昨日之歌》图书封面] [视觉作品]. <a href="http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg">http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg</a></div>
   <div class="csl-entry">American Association for the Advancement of Science (Ed.). (1883). Science. <i>1883，1（1）—</i>.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). (2022). Guide to lithium battery safety for space applications (No. AIAA G-136-2022).</div>
   <div class="csl-entry">António, M., &#38; Pepper, L. (2019, July 13). <i>Histórias de Portugal: livros caídos</i>. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a></div>
@@ -159,7 +159,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Bevington, D., &#38; Brown, J. R. (2025, January 1). <i>William Shakespeare</i>. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a></div>
   <div class="csl-entry">Bloss, C. S., Wineinger, N. E., Peters, M., Boeldt, D. L., Ariniello, L., Kim, J. Y., Sheard, J., Komatireddy, R., Barrett, P., &#38; Topol, E. J. (2015). A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors. bioRxiv. <a href="https://doi.org/10.1101/029983">https://doi.org/10.1101/029983</a></div>
   <div class="csl-entry">Boobier, T. (2020). AI and the future of banking (p. 35). John Wiley &#38; Sons.</div>
-  <div class="csl-entry">Cairns, B. R. (1965). Infrared spectroscopic studies on solid oxygen (p. 15) [Doctoral dissertation]. University of California, Berkeley.</div>
+  <div class="csl-entry">Cairns, B. R. (1965). Infrared spectroscopic studies of solid oxygen (p. 15) [Doctoral dissertation]. University of California, Berkeley.</div>
   <div class="csl-entry">Calkin, D. E., Ager, A. A., &#38; Thompson, M. P. (2011). A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report (No. RMRS-GTR-262; pp. 8-9). <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a></div>
   <div class="csl-entry">Caplan, P. (1993). Cataloging internet resources. <i>The Public-Access Computer Systems Review</i>, <i>4</i>(2), 61-66.</div>
   <div class="csl-entry">Christou, A. (2024). Improving knowledge graph understanding with contextual views (p. 18) [Doctoral dissertation, Wright State University]. <a href="http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301">http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301</a></div>
@@ -197,7 +197,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Torres, L., Salisbury, F., Yazbeck, B., Karasmanis, S., Pinder, J., &#38; Ondracek, C. (Eds.). (2021). Connecting the library to the curriculum (p. 97). Springer Nature. <a href="https://link.springer.com/book/10.1007/978-981-16-3868-8">https://link.springer.com/book/10.1007/978-981-16-3868-8</a></div>
   <div class="csl-entry">Tristram, M., Skarshewski, P., Tristram, I., &#38; Mossel, B. (2022). Storage and delivery system (Patent No. AU2022228203A1). <a href="https://worldwide.espacenet.com/patent/search/family/061561249/publication/AU2022228203A1?q=AU2022228203A">https://worldwide.espacenet.com/patent/search/family/061561249/publication/AU2022228203A1?q=AU2022228203A</a></div>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs. (n.d.). United Nations e-government survey 2024: accelerating digital transformation for sustainable development. Retrieved February 28, 2025, from <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a></div>
-  <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. (1990). Guidelines for handling excavated acid-producing material (No. PB 91-194001; p. 25). U.S. Department of Commerce National Information Service.</div>
+  <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. (1990). Guidelines for handling excavated acid-producing materials (No. PB 91-194001; p. 25). U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Veen, P. H. van der, Muller, M., Vincken, K. L., Witkamp, T. D., Mali, W. P. T. M., van der Graaf, Y., Geerlings, M. I., &#38; SMART-MR Study Group. (2014). Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>Journal of the Neurological Sciences</i>, <i>337</i>(1/2), 112-118. <a href="https://doi.org/10.1016/j.jns.2013.11.029">https://doi.org/10.1016/j.jns.2013.11.029</a></div>
   <div class="csl-entry">Wang, S. (2022). Application of improved SOM neural network in intelligent auditing of hospital financial vouchers. 2. <a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">https://doi.org/10.1109/ACAIT56212.2022.10137867</a></div>
   <div class="csl-entry">Wang X. J. [汪学军]. (2005). 中国农业转基因生物研发进展与安全管理 [Progress and safety management of genetically modified organism research and development in China]. 载 国家环境保护总局生物安全管理办公室 (编), <i>中国国家生物安全框架实施国际合作项目研讨会论文集</i> (页 22-25). 中国环境科学出版社.</div>
@@ -205,7 +205,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Xiao L., Zhang X., &#38; Wang Y. [肖玲、张雪、王永]. (2024). 数据要素的统计测算方法探究 [Exploring statistical measurement methods for data elements] (No. PSSXiv:202408.01096). PSSXiv. <a href="https://zsyyb.cn/abs/202408.01096">https://zsyyb.cn/abs/202408.01096</a></div>
   <div class="csl-entry">Yu X., Liu Y., Chai Y. T., &#38; Sun H. B. [于潇、刘义、柴跃廷、孙宏波]. (2012). 互联网药品可信交易环境中主体资质审核备案模式 [The model for reviewing and registering the qualifications of entities in a trustworthy online pharmaceutical trading environment]. 清华大学学报（自然科学版）, <i>52</i>(11), 1518-1523.</div>
   <div class="csl-entry">Yu, Y., Pan, E., Wang, X., Wu, Y., Mei, X., &#38; Ma, J. (2024). Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis. 4. <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html">https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html</a></div>
-  <div class="csl-entry">Yufin, S. A. (Ed.). (2000). Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000. A. A. Balkema.</div>
+  <div class="csl-entry">Yufin, S. A. (Ed.). (2000). Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. A. A. Balkema.</div>
   <div class="csl-entry">Zhong, X., Yan, Q., &#38; Li, G. (2022). Long time series nighttime light dataset of China: 2000–2020 [Dataset]. Global Change Research Data Publishing &#38; Repository. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a></div>
   <div class="csl-entry">Zotero. (n.d.). <i>[Zotero download]</i>. Retrieved April 8, 2024, from <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a></div>
 </div>

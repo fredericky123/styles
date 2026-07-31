@@ -47,7 +47,7 @@
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<div class="csl-bib-body maxoffset-309 second-field-align-false hangingindent-false">
+<div class="csl-bib-body maxoffset-310 second-field-align-false hangingindent-false">
   <div class="csl-entry">[1]	张伯伟. 全唐五代诗格汇考. 南京: 江苏古籍出版社, 2002: 288.
     <div class="csl-block">张伯伟. 全唐五代诗格汇考. 南京: 江苏古籍出版社, 2002: 288. (in Chinese)</div>
   </div>
@@ -206,7 +206,7 @@
   </div>
   <div class="csl-entry">[67]	WANG S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers//2022 6th Asian Conference on Artificial Intelligence Technology. 2022: 2.</div>
   <div class="csl-entry">[68]	YU Y, PAN E, WANG X, WU Y, MEI X, MA J. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis//CVPR. 2024: 4.</div>
-  <div class="csl-entry">[69]	YUFIN S A. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000. Rotterdam: A. A. Balkema, 2000.</div>
+  <div class="csl-entry">[69]	YUFIN S A. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[70]	BABU B V, NAGAR A, DEEP K, PANT M, BANSAL J C, RAY K, GUPTA U. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">[71]	FOURNEY M E. Advances in holographic photoelasticity//GOTTENBERG W G. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, 1971: 17-38.</div>
   <div class="csl-entry">[72]	王琦. 融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究. 武汉: 武汉大学, 2022: 87.
@@ -221,7 +221,7 @@
   <div class="csl-entry">[75]	井丽南. 支持状态可编程的SDN交换机关键技术研究. 北京: 中国科学院大学, 2022: 43.
     <div class="csl-block">井丽南. 支持状态可编程的SDN交换机关键技术研究. 北京: 中国科学院大学, 2022: 43. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[76]	CAIRNS B R. Infrared spectroscopic studies on solid oxygen. Berkeley: University of California, Berkeley, 1965: 15.</div>
+  <div class="csl-entry">[76]	CAIRNS B R. Infrared spectroscopic studies of solid oxygen. Berkeley: University of California, Berkeley, 1965: 15.</div>
   <div class="csl-entry">[77]	CHRISTOU A. Improving knowledge graph understanding with contextual views. Ohio: Wright State University, 2024: 18.</div>
   <div class="csl-entry">[78]	中国互联网络信息中心. 第29次中国互联网络发展状况统计报告. (2012-01-16).
     <div class="csl-block">中国互联网络信息中心. 第29次中国互联网络发展状况统计报告. (2012-01-16). (in Chinese)</div>
@@ -233,7 +233,7 @@
     <div class="csl-block">中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 中国联合网络通信有限公司研究院. 电信业发展白皮书：2023：新时代高质量发展探索. (2023-12-28). (in Chinese)</div>
   </div>
   <div class="csl-entry">[81]	CALKIN D E, AGER A A, THOMPSON M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262. 2011: 8-9.</div>
-  <div class="csl-entry">[82]	U.S. DEPARTMENT OF TRANSPORTATION FEDERAL HIGHWAY ADMINISTRATION. Guidelines for handling excavated acid-producing material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
+  <div class="csl-entry">[82]	U.S. DEPARTMENT OF TRANSPORTATION FEDERAL HIGHWAY ADMINISTRATION. Guidelines for handling excavated acid-producing materials: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
   <div class="csl-entry">[83]	UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS. United Nations e-government survey 2024: accelerating digital transformation for sustainable development.</div>
   <div class="csl-entry">[84]	全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021. 2021.
     <div class="csl-block">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021. 2021. (in Chinese)</div>
@@ -278,8 +278,8 @@
   <div class="csl-entry">[102]	中国科学院文献情报中心. 中国科学院科技论文预发布平台.
     <div class="csl-block">中国科学院文献情报中心. 中国科学院科技论文预发布平台. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[103]	北京鲁迅博物馆. 北京鲁迅博物馆志愿服务章程. (2021-04-21).
-    <div class="csl-block">北京鲁迅博物馆. 北京鲁迅博物馆志愿服务章程. (2021-04-21). (in Chinese)</div>
+  <div class="csl-entry">[103]	北京鲁迅博物馆（北京新文化运动纪念馆）. 北京鲁迅博物馆志愿服务章程. (2021-04-21).
+    <div class="csl-block">北京鲁迅博物馆（北京新文化运动纪念馆）. 北京鲁迅博物馆志愿服务章程. (2021-04-21). (in Chinese)</div>
   </div>
   <div class="csl-entry">[104]	杨立华. 《庄子》读不懂？看完这一篇“导读”就明白了. (2022-10-26).
     <div class="csl-block">《庄子》读不懂？看完这一篇“导读”就明白了. (2022-10-26). (in Chinese)</div>
@@ -287,11 +287,11 @@
   <div class="csl-entry">[105]	高等教育文献保障系统. 馆际互借与文献传递服务.
     <div class="csl-block">高等教育文献保障系统. 馆际互借与文献传递服务. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[106]	许振超. “好好干，当一个好工人”. (2025-02-17).
-    <div class="csl-block">许振超. “好好干，当一个好工人”. (2025-02-17). (in Chinese)</div>
+  <div class="csl-entry">[106]	许振超：“好好干，当一个好工人”. (2025-02-17).
+    <div class="csl-block">许振超：“好好干，当一个好工人”. (2025-02-17). (in Chinese)</div>
   </div>
-  <div class="csl-entry">[107]	[《昨日之歌》图书封面]. (2023-03-06).
-    <div class="csl-block">[《昨日之歌》图书封面]. (2023-03-06). (in Chinese)</div>
+  <div class="csl-entry">[107]	[《昨日之歌》图书封面]. (2015-09-18).
+    <div class="csl-block">[《昨日之歌》图书封面]. (2015-09-18). (in Chinese)</div>
   </div>
   <div class="csl-entry">[108]	仉尚航. 开放世界中的实体基础模型. (2024-12-24).
     <div class="csl-block">仉尚航. 开放世界中的实体基础模型. (2024-12-24). (in Chinese)</div>
@@ -342,17 +342,17 @@
   </div>
   <div class="csl-entry">[127]	CRIBB R. Historical atlas of Indonesia. Abingdon: Routledge, 2015.</div>
   <div class="csl-entry">[128]	Coastal wetlands map of China continent. Beijing: China Ocean Press, 2024: 50.</div>
-  <div class="csl-entry">[129]	彭守璋. 1901—2023年中国1km分辨率逐月降水量数据集. 西北农林科技大学水土保持研究所, 2024.
-    <div class="csl-block">彭守璋. 1901—2023年中国1km分辨率逐月降水量数据集. 西北农林科技大学水土保持研究所, 2024. (in Chinese)</div>
+  <div class="csl-entry">[129]	彭守璋. 1901—2024年中国1km分辨率逐月降水量数据集. 国家地球系统科学数据中心, 2025.
+    <div class="csl-block">彭守璋. 1901—2024年中国1km分辨率逐月降水量数据集. 国家地球系统科学数据中心, 2025. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[130]	刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006-2011. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 2012.
-    <div class="csl-block">刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006-2011. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 2012. (in Chinese)</div>
+  <div class="csl-entry">[130]	刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006—2011. 国家青藏高原科学数据中心, 2012.
+    <div class="csl-block">刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006—2011. 国家青藏高原科学数据中心, 2012. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[131]	周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 天宫二号遥感图像自然景物分类数据集. 国家基础学科公共科学数据中心, 2023.
-    <div class="csl-block">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 天宫二号遥感图像自然景物分类数据集. 国家基础学科公共科学数据中心, 2023. (in Chinese)</div>
+  <div class="csl-entry">[131]	周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 天宫二号遥感图像自然景物分类科学数据. 国家基础学科公共科学数据中心, 2023.
+    <div class="csl-block">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 天宫二号遥感图像自然景物分类科学数据. 国家基础学科公共科学数据中心, 2023. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[132]	郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据. Science Data Bank, 2018.
-    <div class="csl-block">郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据. Science Data Bank, 2018. (in Chinese)</div>
+  <div class="csl-entry">[132]	郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集. Science Data Bank, 2018.
+    <div class="csl-block">郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集. Science Data Bank, 2018. (in Chinese)</div>
   </div>
   <div class="csl-entry">[133]	黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地球系统科学数据中心-黄土高原分中心, 2024.
     <div class="csl-block">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地球系统科学数据中心-黄土高原分中心, 2024. (in Chinese)</div>

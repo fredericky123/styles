@@ -87,7 +87,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">1.</div><div class="csl-right-inline">阿扬．谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答．《环球科学》杂志社, 编. 姜海伦, 译//认识记忆力：关于学习、思考与遗忘的脑科学．北京: 机械工业出版社, 2023: 15-18</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">2.</div><div class="csl-right-inline">北京鲁迅博物馆．北京鲁迅博物馆志愿服务章程（2021-04-21）</div>
+    <div class="csl-left-margin">2.</div><div class="csl-right-inline">北京鲁迅博物馆（北京新文化运动纪念馆）．北京鲁迅博物馆志愿服务章程（2021-04-21）</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">3.</div><div class="csl-right-inline">博伯尔．银行业的未来与人工智能．徐超, 译．北京: 清华大学出版社, 2023: 35</div>
@@ -183,7 +183,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">33.</div><div class="csl-right-inline">李约瑟．题词//苏克福, 管成学, 邓明鲁．苏颂与《本草图经》研究．长春: 长春出版社, 1991: 扉页</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">34.</div><div class="csl-right-inline">刘时银，郭万钦，许君利．中国第二次水川编目科学数据：2006-2011．中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 2012（2012）</div>
+    <div class="csl-left-margin">34.</div><div class="csl-right-inline">刘时银，郭万钦，许君利．中国第二次水川编目科学数据：2006—2011．国家青藏高原科学数据中心, 2012（2012）</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">35.</div><div class="csl-right-inline">刘祥沈．沈阳市政区图．武汉: 武汉大学出版社, 2016（2016）</div>
@@ -195,7 +195,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">37.</div><div class="csl-right-inline">马克思．政治经济学批判//马克思, 恩格斯．马克思恩格斯全集．2 版．北京: 人民出版社, 2013: 302</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">38.</div><div class="csl-right-inline">彭守璋．1901—2023年中国1km分辨率逐月降水量数据集．西北农林科技大学水土保持研究所, 2024（2024-07-19）</div>
+    <div class="csl-left-margin">38.</div><div class="csl-right-inline">彭守璋．1901—2024年中国1km分辨率逐月降水量数据集．国家地球系统科学数据中心, 2025（2025-07-07）</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">39.</div><div class="csl-right-inline">钱学森．创建系统学．太原: 山西科学技术出版社, 2001: 序2-3</div>
@@ -249,235 +249,235 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">55.</div><div class="csl-right-inline">徐建委．历史的起点：《史记》中的时间设置及其意义．北京大学学报（哲学社会科学版），2025，62:117-127</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">56.</div><div class="csl-right-inline">许振超．“好好干，当一个好工人”（2025-02-17）</div>
+    <div class="csl-left-margin">56.</div><div class="csl-right-inline">扬奎斯特，萨金特．递归宏观经济理论．杨斌, 王忠玉, 陈彦斌, 严高剑, 译．2 版．北京: 中国人民大学出版社, 2010: 798</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">57.</div><div class="csl-right-inline">扬奎斯特，萨金特．递归宏观经济理论．杨斌, 王忠玉, 陈彦斌, 严高剑, 译．2 版．北京: 中国人民大学出版社, 2010: 798</div>
+    <div class="csl-left-margin">57.</div><div class="csl-right-inline">杨洪升．四库馆私家抄校书考略．文献，2013:56-75</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">58.</div><div class="csl-right-inline">杨洪升．四库馆私家抄校书考略．文献，2013:56-75</div>
+    <div class="csl-left-margin">58.</div><div class="csl-right-inline">于潇，刘义，柴跃廷，孙宏波．互联网药品可信交易环境中主体资质审核备案模式．清华大学学报（自然科学版），2012，52:1518-1523</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">59.</div><div class="csl-right-inline">于潇，刘义，柴跃廷，孙宏波．互联网药品可信交易环境中主体资质审核备案模式．清华大学学报（自然科学版），2012，52:1518-1523</div>
+    <div class="csl-left-margin">59.</div><div class="csl-right-inline">云南省企业联合会，云南省企业家协会，云南民族新闻文化发展研究院．改革开放三十年：云南企业家奋斗史．芒市: 德宏民族出版社, 2009</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">60.</div><div class="csl-right-inline">云南省企业联合会，云南省企业家协会，云南民族新闻文化发展研究院．改革开放三十年：云南企业家奋斗史．芒市: 德宏民族出版社, 2009</div>
+    <div class="csl-left-margin">60.</div><div class="csl-right-inline">战德臣，张丽杰．大学计算机：计算思维与信息素养．3 版．北京: 高等教育出版社, 2019</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">61.</div><div class="csl-right-inline">战德臣，张丽杰．大学计算机：计算思维与信息素养．3 版．北京: 高等教育出版社, 2019</div>
+    <div class="csl-left-margin">61.</div><div class="csl-right-inline">张伯伟．全唐五代诗格汇考．南京: 江苏古籍出版社, 2002: 288</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">62.</div><div class="csl-right-inline">张伯伟．全唐五代诗格汇考．南京: 江苏古籍出版社, 2002: 288</div>
+    <div class="csl-left-margin">62.</div><div class="csl-right-inline">张凯军，赵永杰，陈朝岗．轨道火车及高速轨道火车紧急安全制动辅助装置．2013-03-27</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">63.</div><div class="csl-right-inline">张凯军，赵永杰，陈朝岗．轨道火车及高速轨道火车紧急安全制动辅助装置．2013-03-27</div>
+    <div class="csl-left-margin">63.</div><div class="csl-right-inline">张群，程志宝，石志飞．惯性增强动力吸振器-浮置板轨道低频减振性能研究．铁道学报，2024a，46:102-111</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">64.</div><div class="csl-right-inline">张群，程志宝，石志飞．惯性增强动力吸振器-浮置板轨道低频减振性能研究．铁道学报，2024a，46:102-111</div>
+    <div class="csl-left-margin">64.</div><div class="csl-right-inline">张群，程志宝，石志飞．惯性增强动力吸振器-浮置板轨道低频减振性能研究．铁道学报，2024b</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">65.</div><div class="csl-right-inline">张群，程志宝，石志飞．惯性增强动力吸振器-浮置板轨道低频减振性能研究．铁道学报，2024b</div>
+    <div class="csl-left-margin">65.</div><div class="csl-right-inline">仉尚航．开放世界中的实体基础模型（2024-12-24）</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">66.</div><div class="csl-right-inline">仉尚航．开放世界中的实体基础模型（2024-12-24）</div>
+    <div class="csl-left-margin">66.</div><div class="csl-right-inline">赵学功．当代美国外交．北京: 社会科学文献出版社, 2001</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">67.</div><div class="csl-right-inline">赵学功．当代美国外交．北京: 社会科学文献出版社, 2001</div>
+    <div class="csl-left-margin">67.</div><div class="csl-right-inline">郑涵，于贵瑞，朱先进，王秋凤，张雷明，陈智，孙晓敏，何洪林，苏文，王艳芬，韩士杰，周国逸，赵新全，王辉民，欧阳竹，张宪洲，张扬建，石培礼，李英年，赵亮，等．2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集．Science Data Bank, 2018（2018-05-26）</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">68.</div><div class="csl-right-inline">郑涵，于贵瑞，朱先进，王秋凤，张雷明，陈智，孙晓敏，何洪林，苏文，王艳芬，韩士杰，周国逸，赵新全，王辉民，欧阳竹，张宪洲，张扬建，石培礼，李英年，赵亮，等．2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据．Science Data Bank, 2018（2018）</div>
+    <div class="csl-left-margin">68.</div><div class="csl-right-inline">中工武大设计研究有限公司．阳新县标准地名图．武汉: 武汉大学出版社, 2019（2019）</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">69.</div><div class="csl-right-inline">中工武大设计研究有限公司．阳新县标准地名图．武汉: 武汉大学出版社, 2019（2019）</div>
+    <div class="csl-left-margin">69.</div><div class="csl-right-inline">中国互联网络信息中心．第29次中国互联网络发展状况统计报告．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">70.</div><div class="csl-right-inline">中国互联网络信息中心．第29次中国互联网络发展状况统计报告．</div>
+    <div class="csl-left-margin">70.</div><div class="csl-right-inline">中国科学院文献情报中心．中国科学院科技论文预发布平台（[日期不详]）</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">71.</div><div class="csl-right-inline">中国科学院文献情报中心．中国科学院科技论文预发布平台（[日期不详]）</div>
+    <div class="csl-left-margin">71.</div><div class="csl-right-inline">中国信息通信研究院，中国电信股份有限公司研究院，中国移动通信研究院，中国联合网络通信有限公司研究院．电信业发展白皮书：2023：新时代高质量发展探索．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">72.</div><div class="csl-right-inline">中国信息通信研究院，中国电信股份有限公司研究院，中国移动通信研究院，中国联合网络通信有限公司研究院．电信业发展白皮书：2023：新时代高质量发展探索．</div>
+    <div class="csl-left-margin">72.</div><div class="csl-right-inline">中国造纸学会．中国造纸年鉴：2003．北京: 中国轻工业出版社, 2003</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">73.</div><div class="csl-right-inline">中国造纸学会．中国造纸年鉴：2003．北京: 中国轻工业出版社, 2003</div>
+    <div class="csl-left-margin">73.</div><div class="csl-right-inline">周壮，李盛阳，吴薇，郭威龙，李轩，夏桂松，赵子飞．天宫二号遥感图像自然景物分类科学数据．国家基础学科公共科学数据中心, 2023（2023-09-10）</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">74.</div><div class="csl-right-inline">周壮，李盛阳，吴薇，郭威龙，李轩，夏桂松，赵子飞．天宫二号遥感图像自然景物分类数据集．国家基础学科公共科学数据中心, 2023（2023-09-10）</div>
+    <div class="csl-left-margin">74.</div><div class="csl-right-inline">訾冬梅，高秀静．内蒙古自治区地图册．北京: 中国地图出版社, 2006（2006）</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">75.</div><div class="csl-right-inline">訾冬梅，高秀静．内蒙古自治区地图册．北京: 中国地图出版社, 2006（2006）</div>
+    <div class="csl-left-margin">75.</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications. </div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">76.</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications. </div>
+    <div class="csl-left-margin">76.</div><div class="csl-right-inline">António M，Pepper L．Histórias de Portugal: livros caídos（2019-07-13）</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">77.</div><div class="csl-right-inline">António M，Pepper L．Histórias de Portugal: livros caídos（2019-07-13）</div>
+    <div class="csl-left-margin">77.</div><div class="csl-right-inline">Bevington D, Brown JR. William Shakespeare(2025-01-01)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">78.</div><div class="csl-right-inline">Bevington D, Brown JR. William Shakespeare(2025-01-01)</div>
+    <div class="csl-left-margin">78.</div><div class="csl-right-inline">Bloss CS, Wineinger NE, Peters M, Boeldt DL, Ariniello L, Kim JY, Sheard J, Komatireddy R, Barrett P, Topol EJ. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors. bioRxiv, 2015(2015-10-28)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">79.</div><div class="csl-right-inline">Bloss CS, Wineinger NE, Peters M, Boeldt DL, Ariniello L, Kim JY, Sheard J, Komatireddy R, Barrett P, Topol EJ. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors. bioRxiv, 2015(2015-10-28)</div>
+    <div class="csl-left-margin">79.</div><div class="csl-right-inline">Boobier T. AI and the future of banking. Chichester: John Wiley &#38; Sons, 2020: 35</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">80.</div><div class="csl-right-inline">Boobier T. AI and the future of banking. Chichester: John Wiley &#38; Sons, 2020: 35</div>
+    <div class="csl-left-margin">80.</div><div class="csl-right-inline">Cairns BR. Infrared spectroscopic studies of solid oxygen. (Doctoral dissertationdissertation). Berkeley: University of California, Berkeley, 1965</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">81.</div><div class="csl-right-inline">Cairns BR. Infrared spectroscopic studies on solid oxygen. (Doctoral dissertationdissertation). Berkeley: University of California, Berkeley, 1965</div>
+    <div class="csl-left-margin">81.</div><div class="csl-right-inline">Calkin DE, Ager AA, Thompson MP. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report. </div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">82.</div><div class="csl-right-inline">Calkin DE, Ager AA, Thompson MP. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report. </div>
+    <div class="csl-left-margin">82.</div><div class="csl-right-inline">Caplan P. Cataloging internet resources. <i>Public-Access Comput Syst Rev</i>, 1993, 4:61-66</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">83.</div><div class="csl-right-inline">Caplan P. Cataloging internet resources. <i>Public-Access Comput Syst Rev</i>, 1993, 4:61-66</div>
+    <div class="csl-left-margin">83.</div><div class="csl-right-inline">Christou A. Improving knowledge graph understanding with contextual views. (Doctoral dissertationdissertation). Ohio: Wright State University, 2024</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">84.</div><div class="csl-right-inline">Christou A. Improving knowledge graph understanding with contextual views. (Doctoral dissertationdissertation). Ohio: Wright State University, 2024</div>
+    <div class="csl-left-margin">84.</div><div class="csl-right-inline">Cribb R. Historical atlas of Indonesia. Abingdon: Routledge, 20152015</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">85.</div><div class="csl-right-inline">Cribb R. Historical atlas of Indonesia. Abingdon: Routledge, 20152015</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">86.</div><div class="csl-right-inline">Des Marais DJ, Strauss H, Summons RE, Hayes JM. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. <i>Nature</i>. 1992, 359:605-609.</div>
+    <div class="csl-left-margin">85.</div><div class="csl-right-inline">Des Marais DJ, Strauss H, Summons RE, Hayes JM. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. <i>Nature</i>. 1992, 359:605-609.</div>
    </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">87.</div><div class="csl-right-inline">Fitzwilliam H. [Letter to Bess of Hardwick](1570-07-28)</div>
+    <div class="csl-left-margin">86.</div><div class="csl-right-inline">Fitzwilliam H. [Letter to Bess of Hardwick](1570-07-28)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">88.</div><div class="csl-right-inline">Fourney ME. Advances in holographic photoelasticity. Gottenberg WG, ed.//New York: ASME, 1971: 17-38</div>
+    <div class="csl-left-margin">87.</div><div class="csl-right-inline">Fourney ME. Advances in holographic photoelasticity. Gottenberg WG, ed.//New York: ASME, 1971: 17-38</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">89.</div><div class="csl-right-inline">Frese KS, Katus HA, Meder B. Next-generation sequencing: from understanding biology to personalized medicine. <i>Biology</i>. 2013, 2:378-398.</div>
+    <div class="csl-left-margin">88.</div><div class="csl-right-inline">Frese KS, Katus HA, Meder B. Next-generation sequencing: from understanding biology to personalized medicine. <i>Biology</i>. 2013, 2:378-398.</div>
    </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">90.</div><div class="csl-right-inline">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources. Global Health Data Exchange, 20212021</div>
+    <div class="csl-left-margin">89.</div><div class="csl-right-inline">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources. Global Health Data Exchange, 20212021</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">91.</div><div class="csl-right-inline">Institute for Art and Architecture, Academy of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat. Zürich: Park Books, 2023: 78</div>
+    <div class="csl-left-margin">90.</div><div class="csl-right-inline">Institute for Art and Architecture, Academy of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat. Zürich: Park Books, 2023: 78</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">92.</div><div class="csl-right-inline">International Electrotechnical Commission (IEC). Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML). New York: IEEE, 2021</div>
+    <div class="csl-left-margin">91.</div><div class="csl-right-inline">International Electrotechnical Commission (IEC). Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML). New York: IEEE, 2021</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">93.</div><div class="csl-right-inline">International Organization for Standardization. ISO homepage</div>
+    <div class="csl-left-margin">92.</div><div class="csl-right-inline">International Organization for Standardization. ISO homepage</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">94.</div><div class="csl-right-inline">ISO. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods. </div>
+    <div class="csl-left-margin">93.</div><div class="csl-right-inline">ISO. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods. </div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">95.</div><div class="csl-right-inline">ISO．Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles．</div>
+    <div class="csl-left-margin">94.</div><div class="csl-right-inline">ISO．Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">96.</div><div class="csl-right-inline">ISO. Audit data collection. </div>
+    <div class="csl-left-margin">95.</div><div class="csl-right-inline">ISO. Audit data collection. </div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">97.</div><div class="csl-right-inline">Jenkins SD, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice. arXiv, 2012(2012-03-18)</div>
+    <div class="csl-left-margin">96.</div><div class="csl-right-inline">Jenkins SD, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice. arXiv, 2012(2012-03-18)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">98.</div><div class="csl-right-inline">Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops. Cambridge, Mass.: MIT Press, 2012: 50</div>
+    <div class="csl-left-margin">97.</div><div class="csl-right-inline">Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops. Cambridge, Mass.: MIT Press, 2012: 50</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">99.</div><div class="csl-right-inline">Myburg AA, Grattapaglia D, Tuskan GA, Hellsten U, Hayes RD, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein DM, Dubchak I, Poliakov A, Mizrachi E, Kullan ARK, Hussey SG, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, et al. The genome of <i>Eucalyptus grandis</i>. <i>Nature</i>. 2014, 510:356-362.</div>
+    <div class="csl-left-margin">98.</div><div class="csl-right-inline">Myburg AA, Grattapaglia D, Tuskan GA, Hellsten U, Hayes RD, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein DM, Dubchak I, Poliakov A, Mizrachi E, Kullan ARK, Hussey SG, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, et al. The genome of <i>Eucalyptus grandis</i>. <i>Nature</i>. 2014, 510:356-362.</div>
    </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">100.</div><div class="csl-right-inline">Park J-R, Tosaka Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. <i>Cat Classif Q</i>, 2010, 48:696-715</div>
+    <div class="csl-left-margin">99.</div><div class="csl-right-inline">Park J-R, Tosaka Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. <i>Cat Classif Q</i>, 2010, 48:696-715</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">101.</div><div class="csl-right-inline">Peebles PZ Jr. Probability, random variables, and random signal principles. 4 edition. New York: McGraw-Hill, 2001</div>
+    <div class="csl-left-margin">100.</div><div class="csl-right-inline">Peebles PZ Jr. Probability, random variables, and random signal principles. 4 edition. New York: McGraw-Hill, 2001</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">102.</div><div class="csl-right-inline">Praetzellis A. Death by theory: a tale of mystery and archaeological theory. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13</div>
+    <div class="csl-left-margin">101.</div><div class="csl-right-inline">Praetzellis A. Death by theory: a tale of mystery and archaeological theory. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">103.</div><div class="csl-right-inline">Roberson JA, Burneson EG. Drinking water quality standards, regulations and goals. American Water Works Association, ed.//6 edition. New York: McGraw-Hill, 2011: 1.1-1.36</div>
+    <div class="csl-left-margin">102.</div><div class="csl-right-inline">Roberson JA, Burneson EG. Drinking water quality standards, regulations and goals. American Water Works Association, ed.//6 edition. New York: McGraw-Hill, 2011: 1.1-1.36</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">104.</div><div class="csl-right-inline">Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. <i>Bull Geol Surv Jpn</i>, 2006, 57:169-176</div>
+    <div class="csl-left-margin">103.</div><div class="csl-right-inline">Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. <i>Bull Geol Surv Jpn</i>, 2006, 57:169-176</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">105.</div><div class="csl-right-inline">Santer RD, Akanyeti O. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. <i>Insect Sci</i>, 2025</div>
+    <div class="csl-left-margin">104.</div><div class="csl-right-inline">Santer RD, Akanyeti O. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps. <i>Insect Sci</i>, 2025</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">106.</div><div class="csl-right-inline">Shinotsuka H, Nagata K, Siriwardana M, Yoshikawa H, Shouno H, Okada M. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator. <i>J Electron Spectrosc Relat Phenom</i>, 2023, 267</div>
+    <div class="csl-left-margin">105.</div><div class="csl-right-inline">Shinotsuka H, Nagata K, Siriwardana M, Yoshikawa H, Shouno H, Okada M. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator. <i>J Electron Spectrosc Relat Phenom</i>, 2023, 267</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">107.</div><div class="csl-right-inline">Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data. UK Data Service, 19801980</div>
+    <div class="csl-left-margin">106.</div><div class="csl-right-inline">Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data. UK Data Service, 19801980</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">108.</div><div class="csl-right-inline">Tachibana R, Shimizu S, Kobayashi S, Nakamura T. Electronic watermarking method and system. 2001-06-28</div>
+    <div class="csl-left-margin">107.</div><div class="csl-right-inline">Tachibana R, Shimizu S, Kobayashi S, Nakamura T. Electronic watermarking method and system. 2001-06-28</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">109.</div><div class="csl-right-inline">Tristram M, Skarshewski P, Tristram I, Mossel B. Storage and delivery system. 2022-10-06</div>
+    <div class="csl-left-margin">108.</div><div class="csl-right-inline">Tristram M, Skarshewski P, Tristram I, Mossel B. Storage and delivery system. 2022-10-06</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">110.</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development. </div>
+    <div class="csl-left-margin">109.</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development. </div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">111.</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material. Springfield: U.S. Department of Commerce National Information Service, 1990: 25</div>
+    <div class="csl-left-margin">110.</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing materials. Springfield: U.S. Department of Commerce National Information Service, 1990: 25</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">112.</div><div class="csl-right-inline">Veen PH van der, Muller M, Vincken KL, Witkamp TD, Mali WPTM, van der Graaf Y, Geerlings MI, SMART-MR Study Group. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>J Neurol Sci</i>, 2014, 337:112-118</div>
+    <div class="csl-left-margin">111.</div><div class="csl-right-inline">Veen PH van der, Muller M, Vincken KL, Witkamp TD, Mali WPTM, van der Graaf Y, Geerlings MI, SMART-MR Study Group. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>J Neurol Sci</i>, 2014, 337:112-118</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">113.</div><div class="csl-right-inline">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers. </div>
+    <div class="csl-left-margin">112.</div><div class="csl-right-inline">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers. </div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">114.</div><div class="csl-right-inline">Weinstein L, Swartz MN. Pathogenic properties of invading microorganisms. Sodeman WA Jr, Sodeman WA, eds.//5 edition. Philadelphia: Saunders, 1974: 457-472</div>
+    <div class="csl-left-margin">113.</div><div class="csl-right-inline">Weinstein L, Swartz MN. Pathogenic properties of invading microorganisms. Sodeman WA Jr, Sodeman WA, eds.//5 edition. Philadelphia: Saunders, 1974: 457-472</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">115.</div><div class="csl-right-inline">Yu Y, Pan E, Wang X, Wu Y, Mei X, Ma J. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis. </div>
+    <div class="csl-left-margin">114.</div><div class="csl-right-inline">Yu Y, Pan E, Wang X, Wu Y, Mei X, Ma J. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis. </div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">116.</div><div class="csl-right-inline">Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China: 2000–2020. Global Change Research Data Publishing &#38; Repository, 20222022</div>
+    <div class="csl-left-margin">115.</div><div class="csl-right-inline">Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China: 2000–2020. Global Change Research Data Publishing &#38; Repository, 20222022</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">117.</div><div class="csl-right-inline">Zotero. [Zotero download]</div>
+    <div class="csl-left-margin">116.</div><div class="csl-right-inline">Zotero. [Zotero download]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">118.</div><div class="csl-right-inline">Anonymous. Science. Washington, D.C.: American Association for the Advancement of Science, 18831883</div>
+    <div class="csl-left-margin">117.</div><div class="csl-right-inline">Anonymous. Science. Washington, D.C.: American Association for the Advancement of Science, 18831883</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">119.</div><div class="csl-right-inline">佚名．中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告（1949）</div>
+    <div class="csl-left-margin">118.</div><div class="csl-right-inline">佚名．中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告（1949）</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">120.</div><div class="csl-right-inline">佚名．图书馆学通讯．北京: 北京图书馆, 1957/1990（1957/1990）</div>
+    <div class="csl-left-margin">119.</div><div class="csl-right-inline">佚名．图书馆学通讯．北京: 北京图书馆, 1957/1990（1957/1990）</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">121.</div><div class="csl-right-inline">佚名．康熙字典．影印本 版．北京: 中华书局, 1962: 50</div>
+    <div class="csl-left-margin">120.</div><div class="csl-right-inline">佚名．康熙字典．影印本 版．北京: 中华书局, 1962: 50</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">122.</div><div class="csl-right-inline">Anonymous. Public library quarterly. Philadelphia: Taylor &#38; Francis, 19791979</div>
+    <div class="csl-left-margin">121.</div><div class="csl-right-inline">Anonymous. Public library quarterly. Philadelphia: Taylor &#38; Francis, 19791979</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">123.</div><div class="csl-right-inline">佚名．临床内科杂志．武汉: 中华医学会湖北分会, 1984（1984）</div>
+    <div class="csl-left-margin">122.</div><div class="csl-right-inline">佚名．临床内科杂志．武汉: 中华医学会湖北分会, 1984（1984）</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">124.</div><div class="csl-right-inline">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000. Yufin SA, ed.. Rotterdam: A. A. Balkema, 2000</div>
+    <div class="csl-left-margin">123.</div><div class="csl-right-inline">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. Yufin SA, ed.. Rotterdam: A. A. Balkema, 2000</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">125.</div><div class="csl-right-inline">佚名．最新図書館用語大辭典．図書館用語辞典編集委員会, 编．東京: 柏書房株式會社, 2004: 154</div>
+    <div class="csl-left-margin">124.</div><div class="csl-right-inline">佚名．最新図書館用語大辭典．図書館用語辞典編集委員会, 编．東京: 柏書房株式會社, 2004: 154</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">126.</div><div class="csl-right-inline">Anonymous. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry. Sadock BJ, Sadock VA, Ruiz P, Kaplan HI, eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009</div>
+    <div class="csl-left-margin">125.</div><div class="csl-right-inline">Anonymous. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry. Sadock BJ, Sadock VA, Ruiz P, Kaplan HI, eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">127.</div><div class="csl-right-inline">佚名．周易外传：卷5．王夫之, 编//船山全书．修订版 版．长沙: 岳麓书社, 2011a: 983-1029</div>
+    <div class="csl-left-margin">126.</div><div class="csl-right-inline">佚名．周易外传：卷5．王夫之, 编//船山全书．修订版 版．长沙: 岳麓书社, 2011a: 983-1029</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">128.</div><div class="csl-right-inline">佚名．中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集．陈志勇, 编．北京: 经济科学出版社, 2011b</div>
+    <div class="csl-left-margin">127.</div><div class="csl-right-inline">佚名．中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集．陈志勇, 编．北京: 经济科学出版社, 2011b</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">129.</div><div class="csl-right-inline">佚名．综合湿地管理：综合湿地管理国际研讨会论文集．牛志明, Swingland IR, 雷光春, 编．北京: 海洋出版社, 2012a</div>
+    <div class="csl-left-margin">128.</div><div class="csl-right-inline">佚名．综合湿地管理：综合湿地管理国际研讨会论文集．牛志明, Swingland IR, 雷光春, 编．北京: 海洋出版社, 2012a</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">130.</div><div class="csl-right-inline">佚名．台湾光复六十五周年暨抗战史实学术研讨会论文集．中国社会科学院台湾史研究中心, 编．北京: 九州出版社, 2012b</div>
+    <div class="csl-left-margin">129.</div><div class="csl-right-inline">佚名．台湾光复六十五周年暨抗战史实学术研讨会论文集．中国社会科学院台湾史研究中心, 编．北京: 九州出版社, 2012b</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">131.</div><div class="csl-right-inline">Anonymous. A companion to California history. Deverell W, Igler D, eds.. New York: John Wiley &#38; Sons, 2013: 21-22</div>
+    <div class="csl-left-margin">130.</div><div class="csl-right-inline">Anonymous. A companion to California history. Deverell W, Igler D, eds.. New York: John Wiley &#38; Sons, 2013: 21-22</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">132.</div><div class="csl-right-inline">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. Babu BV, Nagar A, Deep K, Pant M, Bansal JC, Ray K, Gupta U, eds.. New Delhi: Springer, 2014</div>
+    <div class="csl-left-margin">131.</div><div class="csl-right-inline">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. Babu BV, Nagar A, Deep K, Pant M, Bansal JC, Ray K, Gupta U, eds.. New Delhi: Springer, 2014</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">132.</div><div class="csl-right-inline">佚名．[《昨日之歌》图书封面]（2015-09-18）</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">133.</div><div class="csl-right-inline">佚名．鼻整形应用解剖学．牛永敢, 孔晓, 王阳, 斯楼斌, 编．北京: 人民卫生出版社, 2019: 65-66</div>
@@ -495,13 +495,13 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">137.</div><div class="csl-right-inline">佚名．《庄子》读不懂？看完这一篇“导读”就明白了（2022-10-26）</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">138.</div><div class="csl-right-inline">佚名．[《昨日之歌》图书封面]（2023a-03-06）</div>
+    <div class="csl-left-margin">138.</div><div class="csl-right-inline">佚名．西黄丸（2023-10-07）</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">139.</div><div class="csl-right-inline">佚名．西黄丸（2023b-10-07）</div>
+    <div class="csl-left-margin">139.</div><div class="csl-right-inline">Anonymous. Coastal wetlands map of China continent. Beijing: China Ocean Press, 2024: 502024</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">140.</div><div class="csl-right-inline">Anonymous. Coastal wetlands map of China continent. Beijing: China Ocean Press, 2024: 502024</div>
+    <div class="csl-left-margin">140.</div><div class="csl-right-inline">佚名．许振超：“好好干，当一个好工人”（2025-02-17）</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">141.</div><div class="csl-right-inline">Anonymous. Library of Congress</div>

@@ -56,7 +56,7 @@
   <div class="csl-entry">@当代美国外交@赵学功. (@2001)</div>
   <div class="csl-entry">@中国造纸年鉴：2003@中国造纸学会. (@2003)</div>
   <div class="csl-entry">@银行业的未来与人工智能@博伯尔. (@2023)</div>
-  <div class="csl-entry">@最新図書館用語大辭典@佚名. (@2004)</div>
+  <div class="csl-entry">@最新図書館用語大辞典@佚名. (@2004)</div>
   <div class="csl-entry">@Probability, random variables, and random signal principles@Peebles P Z Jr. (@2001)</div>
   <div class="csl-entry">@Kaplan &#38; Sadock’s comprehensive textbook of psychiatry@anonymous. (@2009)</div>
   <div class="csl-entry">@Wiener Hitze: architecture and storytelling in times of heat@Institute for Art and Architecture, Academy of Fine Arts Vienna. (@2023)</div>
@@ -65,7 +65,7 @@
   <div class="csl-entry">@Connecting the library to the curriculum@anonymous. (@2021)</div>
   <div class="csl-entry">@AI and the future of banking@Boobier T. (@2020)</div>
   <div class="csl-entry">@A companion to California history@anonymous. (@2013)</div>
-  <div class="csl-entry">@谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答@阿扬. (@2023)</div>
+  <div class="csl-entry">@谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答@阿扬. (@2023)</div>
   <div class="csl-entry">@周易外传：卷5@佚名. (@2011)</div>
   <div class="csl-entry">@1998年长江洪水的成因与减灾对策@程根伟. (@1999)</div>
   <div class="csl-entry">@题词@李约瑟. (@1991)</div>
@@ -123,9 +123,9 @@
   <div class="csl-entry">@A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report@Calkin D E, Ager A A, et al. (@2011)</div>
   <div class="csl-entry">@Guidelines for handling excavated acid-producing materials@U.S. Department of Transportation Federal Highway Administration. (@1990)</div>
   <div class="csl-entry">@United Nations e-government survey 2024: accelerating digital transformation for sustainable development@United Nations Department of Economic and Social Affairs. (@[no date])</div>
-  <div class="csl-entry">@信息与文献 资源描述@全国信息与文献标准化技术委员会. (@2021)</div>
-  <div class="csl-entry">@信息技术 先进音视频编码 第16部分：广播电视视频@全国信息技术标准化技术委员会. (@2016)</div>
-  <div class="csl-entry">@信息技术  中文编码字符集@工业和信息化部. (@2022)</div>
+  <div class="csl-entry">@信息与文献　资源描述@全国信息与文献标准化技术委员会. (@2021)</div>
+  <div class="csl-entry">@信息技术　先进音视频编码　第16部分：广播电视视频@全国信息技术标准化技术委员会. (@2016)</div>
+  <div class="csl-entry">@信息技术　中文编码字符集@工业和信息化部. (@2022)</div>
   <div class="csl-entry">@水电工程水温实时监测系统技术规范@国家能源局. (@2020)</div>
   <div class="csl-entry">@Audit data collection@ISO. (@2019)</div>
   <div class="csl-entry">@Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)@International Electrotechnical Commission (IEC). (@2021)</div>
@@ -169,8 +169,8 @@
   <div class="csl-entry">@Historical atlas of Indonesia@Cribb R. (@2015)</div>
   <div class="csl-entry">@Coastal wetlands map of China continent@anonymous. (@2024)</div>
   <div class="csl-entry">@1901—2024年中国1km分辨率逐月降水量数据集@彭守璋. (@2025)</div>
-  <div class="csl-entry">@中国第二次水川编目科学数据：2006—2011@刘时银, 郭万钦, 等. (@2012)</div>
-  <div class="csl-entry">@天宫二号遥感图像自然景物分类科学数据@周壮, 李盛阳, 等. (@2023)</div>
+  <div class="csl-entry">@中国第二次冰川编目数据集：2006—2011@刘时银, 郭万钦, 等. (@2012)</div>
+  <div class="csl-entry">@天宫二号遥感图像自然景物分类数据集@周壮, 李盛阳, 等. (@2023)</div>
   <div class="csl-entry">@2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集@郑涵, 于贵瑞, 等. (@2018)</div>
   <div class="csl-entry">@青海省县域教育、卫生发展指标（2001—2022年）@黄土高原科学数据中心（西北农林科技大学水土保持研究所）. (@2024)</div>
   <div class="csl-entry">@人文社会科学数据集检索方法研究的数据集@王继民, 罗鹏程, 等. (@2025)</div>

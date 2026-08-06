@@ -67,7 +67,7 @@
 <sup>5</sup> 顾炎武：《昌平山水记；京东考古录》，北京古籍出版社1980年版。<br>
 <sup>6</sup> 钱学森：《创建系统学》，山西科学技术出版社2001年版，序2-3。<br>
 <sup>7</sup> 冯友兰：《冯友兰自选集》（第2版），首都师范大学出版社2008年版，第1版自序。<br>
-<sup>8</sup> 《康熙字典》（影印本）巳集上 水部，中华书局1962年版，第50页。<br>
+<sup>8</sup> 《康熙字典》（影印本）巳集上：水部，中华书局1962年版，第50页。<br>
 <sup>9</sup> 战德臣、张丽杰：《大学计算机：计算思维与信息素养》（第3版），高等教育出版社2019年版。<br>
 <sup>10</sup> 哈里森、沃尔德伦：《经济数学与金融数学》，谢远涛译，中国人民大学出版社2012年版，第235—236页。<br>
 <sup>11</sup> 牛永敢、孔晓、王阳、斯楼斌主编：《鼻整形应用解剖学》，人民卫生出版社2019年版，第65—66页。<br>
@@ -76,7 +76,7 @@
 <sup>14</sup> 赵学功：《当代美国外交》，社会科学文献出版社2001年版。<br>
 <sup>15</sup> 中国造纸学会：《中国造纸年鉴：2003》，中国轻工业出版社2003年版。<br>
 <sup>16</sup> 博伯尔：《银行业的未来与人工智能》，徐超译，清华大学出版社2023年版，第35页。<br>
-<sup>17</sup> 図書館用語辞典編集委員会, ed., 最新図書館用語大辭典, 柏書房株式會社, 2004:154.<br>
+<sup>17</sup> 図書館用語辞典編集委員会, ed., 最新図書館用語大辞典, 柏書房株式會社, 2004:154.<br>
 <sup>18</sup> Peyton Z. Peebles, Jr., <i>Probability, random variables, and random signal principles</i>, McGraw-Hill, 2001.<br>
 <sup>19</sup> Benjamin J. Sadock, Virginia Alcott Sadock, Pedro Ruiz, Harold I. Kaplan, eds., <i>Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</i>, vol. 1, Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.<br>
 <sup>20</sup> Institute for Art and Architecture, Academy of Fine Arts Vienna, <i>Wiener Hitze: architecture and storytelling in times of heat</i>, Park Books, 2023:78.<br>
@@ -85,7 +85,7 @@
 <sup>23</sup> Lynette Torres, Fiona Salisbury, Barbara Yazbeck, Sharon Karasmanis, Janice Pinder, Caroline Ondracek, eds., <i>Connecting the library to the curriculum</i>, Springer Nature, 2021:97.<br>
 <sup>24</sup> Tony Boobier, <i>AI and the future of banking</i>, John Wiley &#38; Sons, 2020:35.<br>
 <sup>25</sup> William Deverell, David Igler, eds., <i>A companion to California history</i>, John Wiley &#38; Sons, 2013:21-22.<br>
-<sup>26</sup> 阿扬：《谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答》，姜海伦译，《环球科学》杂志社主编：《认识记忆力：关于学习、思考与遗忘的脑科学》，机械工业出版社2023年版，第15—18页。<br>
+<sup>26</sup> 阿扬：《谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答》，姜海伦译，《环球科学》杂志社主编：《认识记忆力：关于学习、思考与遗忘的脑科学》，机械工业出版社2023年版，第15—18页。<br>
 <sup>27</sup> 王夫之主编：《周易外传：卷5》，《船山全书》（修订版）第1册，岳麓书社2011年版，第983—1029页。<br>
 <sup>28</sup> 程根伟：《1998年长江洪水的成因与减灾对策》，许厚泽、赵其国主编：《长江流域洪涝灾害与科技对策》，科学出版社1999年版，第32—36页。<br>
 <sup>29</sup> 李约瑟：《题词》，《苏颂与《本草图经》研究》，长春出版社1991年版，扉页。<br>
@@ -95,10 +95,10 @@
 <sup>33</sup> 楼梦麟、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，同济大学出版社2011年版，第11—12页。<br>
 <sup>34</sup> L. Weinstein, M. N. Swartz, <i>Pathogenic properties of invading microorganisms</i>, in <i>Pathologic physiology: mechanisms of disease</i>, William A. Sodeman Jr., William A. Sodeman, Saunders, 1974:457-472.<br>
 <sup>35</sup> J. Alan Roberson, Eric G. Burneson, <i>Drinking water quality standards, regulations and goals</i>, in <i>Water quality &#38; treatment: a handbook on drinking water</i>, American Water Works Association, McGraw-Hill, 2011:1.1-1.36.<br>
-<sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》1984，1（1）—，中华医学会湖北分会1984年版。<br>
-<sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》1957（1）—1990（4），北京图书馆1957—1990年版。<br>
-<sup>38</sup> American Association for the Advancement of Science, ed., <i>Science</i>, 1883，1（1）—, American Association for the Advancement of Science, 1883.<br>
-<sup>39</sup> <i>Public library quarterly</i>, 1979，1（1）—, Taylor &#38; Francis, 1979.<br>
+<sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》1984，1（1）-，中华医学会湖北分会1984年版。<br>
+<sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》1957（1）-1990（4），北京图书馆1957—1990年版。<br>
+<sup>38</sup> American Association for the Advancement of Science, ed., <i>Science</i>, 1883，1（1）-, American Association for the Advancement of Science, 1883.<br>
+<sup>39</sup> <i>Public library quarterly</i>, 1979，1（1）-, Taylor &#38; Francis, 1979.<br>
 <sup>40</sup> 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期。<br>
 <sup>41</sup> 丁文详：《数字革命与竞争国际化》，《中国青年报》2000年11月20日，第15版。<br>
 <sup>42</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》2012年第11期。<br>
@@ -143,9 +143,9 @@
 <sup>81</sup> David E. Calkin, Alan A. Ager, Matthew P. Thompson, “A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report,” 2011:8-9, pp.8-9.<br>
 <sup>82</sup> U.S. Department of Transportation Federal Highway Administration, “Guidelines for Handling Excavated Acid-Producing Materials,” U.S. Department of Commerce National Information Service, 1990:25, p.25.<br>
 <sup>83</sup> United Nations Department of Economic and Social Affairs, “United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development.”<br>
-<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献 资源描述》，2021年版。<br>
-<sup>85</sup> 全国信息技术标准化技术委员会：《信息技术 先进音视频编码 第16部分：广播电视视频》，2016年版。<br>
-<sup>86</sup> 工业和信息化部：《信息技术  中文编码字符集》，2022年版。<br>
+<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献　资源描述》，2021年版。<br>
+<sup>85</sup> 全国信息技术标准化技术委员会：《信息技术　先进音视频编码　第16部分：广播电视视频》，2016年版。<br>
+<sup>86</sup> 工业和信息化部：《信息技术　中文编码字符集》，2022年版。<br>
 <sup>87</sup> 国家能源局：《水电工程水温实时监测系统技术规范》，2020年版。<br>
 <sup>88</sup> ISO, <i>Audit data collection</i>, 2019.<br>
 <sup>89</sup> International Electrotechnical Commission (IEC), <i>Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)</i>, IEEE, 2021.<br>
@@ -189,8 +189,8 @@
 <sup>127</sup> Robert Cribb, <i>Historical atlas of Indonesia</i>, Routledge, 2015.<br>
 <sup>128</sup> <i>Coastal wetlands map of China continent</i>, China Ocean Press, 2024:50, p.50.<br>
 <sup>129</sup> 彭守璋：《1901—2024年中国1km分辨率逐月降水量数据集》，国家地球系统科学数据中心2025年版。<br>
-<sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次水川编目科学数据：2006—2011》，国家青藏高原科学数据中心2012年版。<br>
-<sup>131</sup> 周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞：《天宫二号遥感图像自然景物分类科学数据》，国家基础学科公共科学数据中心2023年版。<br>
+<sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次冰川编目数据集：2006—2011》，国家青藏高原科学数据中心2012年版。<br>
+<sup>131</sup> 周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞：《天宫二号遥感图像自然景物分类数据集》，国家基础学科公共科学数据中心2023年版。<br>
 <sup>132</sup> 郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、赵亮、张一平、闫俊华、王安志、张军辉、郝彦斌、赵风华、张法伟、周广胜、林光辉、陈世苹、刘绍民、赵斌、贾根锁、张旭东、张玉翠、古松、刘文兆、李彦、王文杰、杨大文、张劲松、张志强、赵仲辉、周石硚、郭海强、沈彦俊、徐自为、黄辉、孟平：《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集》，Science Data Bank2018年版。<br>
 <sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》，国家地球系统科学数据中心-黄土高原分中心2024年版。<br>
 <sup>134</sup> 王继民、罗鹏程、赵常煜、郭鑫、王世奇、高正：《人文社会科学数据集检索方法研究的数据集》，北京大学开放研究数据平台2025年版。<br>

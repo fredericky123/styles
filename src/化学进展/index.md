@@ -105,7 +105,7 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline"><b>2023</b>. 35. (博伯尔. 银行业的未来与人工智能. 译: 徐超. 北京: 清华大学出版社, <b>2023</b>. 35.)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">最新図書館用語大辭典. Ed.: 図書館用語辞典編集委員会. 東京: 柏書房株式會社, <b>2004</b>. 154.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">最新図書館用語大辞典. Ed.: 図書館用語辞典編集委員会. 東京: 柏書房株式會社, <b>2004</b>. 154.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Peebles P Z Jr. <i>Probability, Random Variables, and Random Signal Principles</i>. 4th ed. New York: McGraw-Hill, <b>2001</b>.</div>
@@ -132,7 +132,7 @@
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline"><i>A Companion to California History</i>. Eds.: Deverell W, Igler D. New York: John Wiley &#38; Sons, <b>2013</b>. 21-22.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline"><b>2023</b>. 15-18. (阿扬. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答. 编: 《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, <b>2023</b>. 15-18.)</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline"><b>2023</b>. 15-18. (阿扬. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答. 编: 《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, <b>2023</b>. 15-18.)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[27]</div><div class="csl-right-inline"><b>2011</b>. 983-1029. (周易外传：卷5. 编: 王夫之. 船山全书: 第1册. 修订版. 长沙: 岳麓书社, <b>2011</b>. 983-1029.)</div>
@@ -162,16 +162,16 @@
     <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Roberson J A, Burneson E G. Drinking water quality standards, regulations and goals. Ed.: American Water Works Association. <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>. 6th ed. New York: McGraw-Hill, <b>2011</b>. 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">1984, 1984，1（1）—. <b>1984</b>. (临床内科杂志. 1984, 1984，1（1）—. 武汉: 中华医学会湖北分会, <b>1984</b>.)</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">1984, 1984，1（1）-. <b>1984</b>. (临床内科杂志. 1984, 1984，1（1）-. 武汉: 中华医学会湖北分会, <b>1984</b>.)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">1957/1990, 1957（1）—1990（4）. <b>1957/1990</b>. (图书馆学通讯. 1957/1990, 1957（1）—1990（4）. 北京: 北京图书馆, <b>1957/1990</b>.)</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">1957/1990, 1957（1）-1990（4）. <b>1957/1990</b>. (图书馆学通讯. 1957/1990, 1957（1）-1990（4）. 北京: 北京图书馆, <b>1957/1990</b>.)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Science. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science, <b>1883</b>.</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Science. 1883, 1883，1（1）-. Washington, D.C.: American Association for the Advancement of Science, <b>1883</b>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Public library quarterly. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis, <b>1979</b>.</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Public library quarterly. 1979, 1979，1（1）-. Philadelphia: Taylor &#38; Francis, <b>1979</b>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline"><b>2013</b>(1): 56-75. (杨洪升. 文献, <b>2013</b>(1): 56-75.)</div>
@@ -306,13 +306,13 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development. <b>[2025]</b>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline"><b>2021</b>. (全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021. <b>2021</b>.)</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline"><b>2021</b>. (全国信息与文献标准化技术委员会. 信息与文献　资源描述: GB/T 3792—2021. <b>2021</b>.)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[85]</div><div class="csl-right-inline"><b>2016</b>. (全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016. <b>2016</b>.)</div>
+    <div class="csl-left-margin">[85]</div><div class="csl-right-inline"><b>2016</b>. (全国信息技术标准化技术委员会. 信息技术　先进音视频编码　第16部分：广播电视视频: GB/T 20090.16—2016. <b>2016</b>.)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[86]</div><div class="csl-right-inline"><b>2022</b>. (工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022. <b>2022</b>.)</div>
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline"><b>2022</b>. (工业和信息化部. 信息技术　中文编码字符集: GB 18030—2022. <b>2022</b>.)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[87]</div><div class="csl-right-inline"><b>2020</b>. (国家能源局. 水电工程水温实时监测系统技术规范: NB/T 10386—2020. <b>2020</b>.)</div>
@@ -444,10 +444,10 @@
     <div class="csl-left-margin">[129]</div><div class="csl-right-inline">(2025-07-07)[2025-07-15]. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>. (彭守璋. 1901—2024年中国1km分辨率逐月降水量数据集. 国家地球系统科学数据中心, <b>2025</b>[2025-07-15]. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>.)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[130]</div><div class="csl-right-inline"><b>2012</b>[2025-07-15]. <a href="https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/">https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/</a>. (刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006—2011. 国家青藏高原科学数据中心, <b>2012</b>[2025-07-15]. <a href="https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/">https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/</a>.)</div>
+    <div class="csl-left-margin">[130]</div><div class="csl-right-inline"><b>2012</b>[2025-07-15]. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>. (刘时银, 郭万钦, 许君利. 中国第二次冰川编目数据集：2006—2011. 国家青藏高原科学数据中心, <b>2012</b>[2025-07-15]. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>.)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">(2023-09-10)[2025-07-15]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>. (周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 天宫二号遥感图像自然景物分类科学数据. 国家基础学科公共科学数据中心, <b>2023</b>[2025-07-15]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.)</div>
+    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">(2023-09-10)[2025-07-15]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>. (周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 天宫二号遥感图像自然景物分类数据集. 国家基础学科公共科学数据中心, <b>2023</b>[2025-07-15]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline">(2018-05-26)[2025-02-14]. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>. (郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集. Science Data Bank, <b>2018</b>[2025-02-14]. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>.)</div>

@@ -47,7 +47,7 @@
   <div class="csl-entry">昌平山水记；京东考古录[M]. 北京: 北京古籍出版社, 1980.</div>
   <div class="csl-entry">创建系统学[M]. 太原: 山西科学技术出版社, 2001: 序2-3.</div>
   <div class="csl-entry">冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
-  <div class="csl-entry">康熙字典: 巳集上 水部[M]. 影印本. 北京: 中华书局, 1962: 50.</div>
+  <div class="csl-entry">康熙字典: 巳集上：水部[M]. 影印本. 北京: 中华书局, 1962: 50.</div>
   <div class="csl-entry">大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社, 2019.</div>
   <div class="csl-entry">经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.</div>
   <div class="csl-entry">鼻整形应用解剖学[M]. 北京: 人民卫生出版社, 2019: 65-66.</div>
@@ -56,7 +56,7 @@
   <div class="csl-entry">当代美国外交[M]. 北京: 社会科学文献出版社, 2001.</div>
   <div class="csl-entry">中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社, 2003.</div>
   <div class="csl-entry">银行业的未来与人工智能[M]. 徐超, 译. 北京: 清华大学出版社, 2023: 35.</div>
-  <div class="csl-entry">最新図書館用語大辭典[M]. 東京: 柏書房株式會社, 2004: 154.</div>
+  <div class="csl-entry">最新図書館用語大辞典[M]. 東京: 柏書房株式會社, 2004: 154.</div>
   <div class="csl-entry">Probability, random variables, and random signal principles[M]. 4 版. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">Kaplan &#38; Sadock’s comprehensive textbook of psychiatry: 卷 1[M]. 9 版. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   <div class="csl-entry">Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78.</div>
@@ -65,7 +65,7 @@
   <div class="csl-entry">Connecting the library to the curriculum[M]. Singapore: Springer Nature, 2021: 97.</div>
   <div class="csl-entry">AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020: 35.</div>
   <div class="csl-entry">A companion to California history[M]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
-  <div class="csl-entry">谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]. 姜海伦, 译//《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, 2023: 15-18.</div>
+  <div class="csl-entry">谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答[M]. 姜海伦, 译//《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, 2023: 15-18.</div>
   <div class="csl-entry">周易外传：卷5[M]//王夫之. 船山全书: 第1册. 修订版. 长沙: 岳麓书社, 2011: 983-1029.</div>
   <div class="csl-entry">1998年长江洪水的成因与减灾对策[M]//许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.</div>
   <div class="csl-entry">题词[M]//苏克福, 管成学, 邓明鲁. 苏颂与《本草图经》研究. 长春: 长春出版社, 1991: 扉页.</div>
@@ -75,10 +75,10 @@
   <div class="csl-entry">汶川地震基岩地震动特征分析[M]//同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 11-12.</div>
   <div class="csl-entry">Pathogenic properties of invading microorganisms[M]//SODEMAN W A Jr, SODEMAN W A. Pathologic physiology: mechanisms of disease. 5 版. Philadelphia: Saunders, 1974: 457-472.</div>
   <div class="csl-entry">Drinking water quality standards, regulations and goals[M]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6 版. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
-  <div class="csl-entry">1984, 1984，1（1）—. 武汉: 中华医学会湖北分会, 1984.</div>
-  <div class="csl-entry">1957/[1990], 1957（1）—1990（4）. 北京: 北京图书馆, 1957/1990.</div>
-  <div class="csl-entry">1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis, 1979.</div>
+  <div class="csl-entry">1984, 1984，1（1）-. 武汉: 中华医学会湖北分会, 1984.</div>
+  <div class="csl-entry">1957/[1990], 1957（1）-1990（4）. 北京: 北京图书馆, 1957/1990.</div>
+  <div class="csl-entry">1883, 1883，1（1）-. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
+  <div class="csl-entry">1979, 1979，1（1）-. Philadelphia: Taylor &#38; Francis, 1979.</div>
   <div class="csl-entry">文献, 2013(1): 56-75.</div>
   <div class="csl-entry">中国青年报, 2000-11-20(15).</div>
   <div class="csl-entry">清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>
@@ -123,9 +123,9 @@
   <div class="csl-entry">A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
   <div class="csl-entry">Guidelines for handling excavated acid-producing materials: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
   <div class="csl-entry">United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
-  <div class="csl-entry">信息与文献 资源描述: GB/T 3792—2021[S]. 2021.</div>
-  <div class="csl-entry">信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. 2016.</div>
-  <div class="csl-entry">信息技术  中文编码字符集: GB 18030—2022[S]. 2022.</div>
+  <div class="csl-entry">信息与文献　资源描述: GB/T 3792—2021[S]. 2021.</div>
+  <div class="csl-entry">信息技术　先进音视频编码　第16部分：广播电视视频: GB/T 20090.16—2016[S]. 2016.</div>
+  <div class="csl-entry">信息技术　中文编码字符集: GB 18030—2022[S]. 2022.</div>
   <div class="csl-entry">水电工程水温实时监测系统技术规范: NB/T 10386—2020[S]. 2020.</div>
   <div class="csl-entry">Audit data collection: ISO 21378:2019[S]. 2019.</div>
   <div class="csl-entry">Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021[S]. New York: IEEE, 2021.</div>
@@ -169,8 +169,8 @@
   <div class="csl-entry">Historical atlas of Indonesia[CM]. Abingdon: Routledge, 2015.</div>
   <div class="csl-entry">Coastal wetlands map of China continent[CM]. Beijing: China Ocean Press, 2024: 50.</div>
   <div class="csl-entry">1901—2024年中国1km分辨率逐月降水量数据集[DS/OL]. 国家地球系统科学数据中心, 2025. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>.</div>
-  <div class="csl-entry">中国第二次水川编目科学数据：2006—2011[DS/OL]. 国家青藏高原科学数据中心, 2012. <a href="https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/">https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/</a>.</div>
-  <div class="csl-entry">天宫二号遥感图像自然景物分类科学数据[DS/OL]. 国家基础学科公共科学数据中心, 2023. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
+  <div class="csl-entry">中国第二次冰川编目数据集：2006—2011[DS/OL]. 国家青藏高原科学数据中心, 2012. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>.</div>
+  <div class="csl-entry">天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心, 2023. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
   <div class="csl-entry">2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集[DS/OL]. Science Data Bank, 2018. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>.</div>
   <div class="csl-entry">青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地球系统科学数据中心-黄土高原分中心, 2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.</div>
   <div class="csl-entry">人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台, 2025. <a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.</div>

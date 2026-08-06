@@ -56,7 +56,7 @@
   <div class="csl-entry">当代美国外交</div>
   <div class="csl-entry">中国造纸年鉴：2003</div>
   <div class="csl-entry">银行业的未来与人工智能</div>
-  <div class="csl-entry">最新図書館用語大辭典</div>
+  <div class="csl-entry">最新図書館用語大辞典</div>
   <div class="csl-entry">Probability, random variables, and random signal principles</div>
   <div class="csl-entry">Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</div>
   <div class="csl-entry">Wiener Hitze: architecture and storytelling in times of heat</div>
@@ -65,7 +65,7 @@
   <div class="csl-entry">Connecting the library to the curriculum</div>
   <div class="csl-entry">AI and the future of banking</div>
   <div class="csl-entry">A companion to California history</div>
-  <div class="csl-entry">谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答</div>
+  <div class="csl-entry">谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答</div>
   <div class="csl-entry">周易外传：卷5</div>
   <div class="csl-entry">1998年长江洪水的成因与减灾对策</div>
   <div class="csl-entry">题词</div>
@@ -123,9 +123,9 @@
   <div class="csl-entry">A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262</div>
   <div class="csl-entry">Guidelines for handling excavated acid-producing materials: PB 91-194001</div>
   <div class="csl-entry">United Nations e-government survey 2024: accelerating digital transformation for sustainable development</div>
-  <div class="csl-entry">信息与文献 资源描述: GB/T 3792—2021</div>
-  <div class="csl-entry">信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016</div>
-  <div class="csl-entry">信息技术  中文编码字符集: GB 18030—2022</div>
+  <div class="csl-entry">信息与文献　资源描述: GB/T 3792—2021</div>
+  <div class="csl-entry">信息技术　先进音视频编码　第16部分：广播电视视频: GB/T 20090.16—2016</div>
+  <div class="csl-entry">信息技术　中文编码字符集: GB 18030—2022</div>
   <div class="csl-entry">水电工程水温实时监测系统技术规范: NB/T 10386—2020</div>
   <div class="csl-entry">Audit data collection: ISO 21378:2019</div>
   <div class="csl-entry">Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021</div>
@@ -169,8 +169,8 @@
   <div class="csl-entry">Historical atlas of Indonesia</div>
   <div class="csl-entry">Coastal wetlands map of China continent</div>
   <div class="csl-entry">1901—2024年中国1km分辨率逐月降水量数据集</div>
-  <div class="csl-entry">中国第二次水川编目科学数据：2006—2011</div>
-  <div class="csl-entry">天宫二号遥感图像自然景物分类科学数据</div>
+  <div class="csl-entry">中国第二次冰川编目数据集：2006—2011</div>
+  <div class="csl-entry">天宫二号遥感图像自然景物分类数据集</div>
   <div class="csl-entry">2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集</div>
   <div class="csl-entry">青海省县域教育、卫生发展指标（2001—2022年）</div>
   <div class="csl-entry">人文社会科学数据集检索方法研究的数据集</div>

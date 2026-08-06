@@ -56,7 +56,7 @@
   <div class="csl-entry">[14] 赵学功. 当代美国外交[M/OL]. 北京: 社会科学文献出版社, 2001[2014-06-11].</div>
   <div class="csl-entry">[15] 中国造纸学会. 中国造纸年鉴：2003[M/OL]. 北京: 中国轻工业出版社, 2003[2014-04-25].</div>
   <div class="csl-entry">[16] 博伯尔. 银行业的未来与人工智能[M]. 徐超, 译. 北京: 清华大学出版社, 2023: 35.</div>
-  <div class="csl-entry">[17] 佚名. 最新図書館用語大辭典[M]. 図書館用語辞典編集委員会, 编. 東京: 柏書房株式會社, 2004: 154.</div>
+  <div class="csl-entry">[17] 佚名. 最新図書館用語大辞典[M]. 図書館用語辞典編集委員会, 编. 東京: 柏書房株式會社, 2004: 154.</div>
   <div class="csl-entry">[18] Peebles P Z Jr. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[19] Anonymous. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Sadock B J, Sadock V A, Ruiz P, Kaplan H I, eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   <div class="csl-entry">[20] Institute for Art and Architecture, Academy of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78.</div>
@@ -65,7 +65,7 @@
   <div class="csl-entry">[23] Anonymous. Connecting the library to the curriculum[M/OL]. Torres L, Salisbury F, Yazbeck B, Karasmanis S, Pinder J, Ondracek C, eds.. Singapore: Springer Nature, 2021: 97[2025-12-02].</div>
   <div class="csl-entry">[24] Boobier T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020: 35.</div>
   <div class="csl-entry">[25] Anonymous. A companion to California history[M/OL]. Deverell W, Igler D, eds.. New York: John Wiley &#38; Sons, 2013: 21-22[2014-06-24].</div>
-  <div class="csl-entry">[26] 阿扬. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]. 《环球科学》杂志社, 编. 姜海伦, 译//认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, 2023: 15-18.</div>
+  <div class="csl-entry">[26] 阿扬. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答[M]. 《环球科学》杂志社, 编. 姜海伦, 译//认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, 2023: 15-18.</div>
   <div class="csl-entry">[27] 佚名. 周易外传：卷5[M]. 王夫之, 编//船山全书. 修订版 版. 长沙: 岳麓书社, 2011: 983-1029.</div>
   <div class="csl-entry">[28] 程根伟. 1998年长江洪水的成因与减灾对策[M]. 许厚泽, 赵其国, 编//长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.</div>
   <div class="csl-entry">[29] 李约瑟. 题词[M]//苏克福, 管成学, 邓明鲁. 苏颂与《本草图经》研究. 长春: 长春出版社, 1991: 扉页.</div>
@@ -123,9 +123,9 @@
   <div class="csl-entry">[81] Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R/OL].（2011）. [2025-12-02]. <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a>[2025-12-02].</div>
   <div class="csl-entry">[82] U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing materials: PB 91-194001[R].（1990）.</div>
   <div class="csl-entry">[83] United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R/OL].[2025-02-28]. <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a>[2025-02-28].</div>
-  <div class="csl-entry">[84] 全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. .</div>
-  <div class="csl-entry">[85] 全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. .</div>
-  <div class="csl-entry">[86] 工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S/OL]. [2025-12-02].</div>
+  <div class="csl-entry">[84] 全国信息与文献标准化技术委员会. 信息与文献　资源描述: GB/T 3792—2021[S]. .</div>
+  <div class="csl-entry">[85] 全国信息技术标准化技术委员会. 信息技术　先进音视频编码　第16部分：广播电视视频: GB/T 20090.16—2016[S]. .</div>
+  <div class="csl-entry">[86] 工业和信息化部. 信息技术　中文编码字符集: GB 18030—2022[S/OL]. [2025-12-02].</div>
   <div class="csl-entry">[87] 国家能源局. 水电工程水温实时监测系统技术规范: NB/T 10386—2020[S]. .</div>
   <div class="csl-entry">[88] ISO. Audit data collection: ISO 21378:2019[S]. .</div>
   <div class="csl-entry">[89] International Electrotechnical Commission (IEC). Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021[S]. New York: IEEE, 2021.</div>
@@ -169,8 +169,8 @@
   <div class="csl-entry">[127] Cribb R. Historical atlas of Indonesia[Z]. Abingdon: Routledge, 20152015.</div>
   <div class="csl-entry">[128] Anonymous. Coastal wetlands map of China continent[Z]. Beijing: China Ocean Press, 2024: 502024.</div>
   <div class="csl-entry">[129] 彭守璋. 1901—2024年中国1km分辨率逐月降水量数据集[DS/OL]. 国家地球系统科学数据中心, 2025(2025-07-07)[2025-07-15].</div>
-  <div class="csl-entry">[130] 刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006—2011[DS/OL]. 国家青藏高原科学数据中心, 20122012[2025-07-15].</div>
-  <div class="csl-entry">[131] 周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 天宫二号遥感图像自然景物分类科学数据[DS/OL]. 国家基础学科公共科学数据中心, 2023(2023-09-10)[2025-07-15].</div>
+  <div class="csl-entry">[130] 刘时银, 郭万钦, 许君利. 中国第二次冰川编目数据集：2006—2011[DS/OL]. 国家青藏高原科学数据中心, 20122012[2025-07-15].</div>
+  <div class="csl-entry">[131] 周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心, 2023(2023-09-10)[2025-07-15].</div>
   <div class="csl-entry">[132] 郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集[DS/OL]. Science Data Bank, 2018(2018-05-26)[2025-02-14].</div>
   <div class="csl-entry">[133] 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地球系统科学数据中心-黄土高原分中心, 2024(2024-12-25)[2025-07-10].</div>
   <div class="csl-entry">[134] 王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, 高正. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台, 2025(2025-06-11)[2025-07-11].</div>

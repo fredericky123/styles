@@ -90,7 +90,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">2008 p第1版自序 (in Chinese) [冯友兰 2008 冯友兰自选集 (2 版) (北京: 首都师范大学出版社) p第1版自序]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">1962 p50 (in Chinese) [1962 康熙字典 (影印本, 巳集上 水部) (北京: 中华书局) p50]</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">1962 p50 (in Chinese) [1962 康熙字典 (影印本, 巳集上：水部) (北京: 中华书局) p50]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">2019 (in Chinese) [战德臣, 张丽杰 2019 大学计算机：计算思维与信息素养 (3 版) (北京: 高等教育出版社)]</div>
@@ -117,7 +117,7 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">2023 p35 (in Chinese) [博伯尔 2023 银行业的未来与人工智能 (北京: 清华大学出版社) p35]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">図書館用語辞典編集委員会 2004 最新図書館用語大辭典 (東京: 柏書房株式會社) p154</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">図書館用語辞典編集委員会 2004 最新図書館用語大辞典 (東京: 柏書房株式會社) p154</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Peebles P Z Jr 2001 <i>Probability, Random Variables, and Random Signal Principles</i> (4th ed.) (New York: McGraw-Hill)</div>
@@ -318,13 +318,13 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs n.d. <i>United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</i> No.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">2021 No. GB/T 3792—2021 (in Chinese) [全国信息与文献标准化技术委员会 2021 信息与文献 资源描述 No. GB/T 3792—2021]</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">2021 No. GB/T 3792—2021 (in Chinese) [全国信息与文献标准化技术委员会 2021 信息与文献　资源描述 No. GB/T 3792—2021]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">2016 No. GB/T 20090.16—2016 (in Chinese) [全国信息技术标准化技术委员会 2016 <i>信息技术 先进音视频编码 第16部分：广播电视视频</i> No. GB/T 20090.16—2016]</div>
+    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">2016 No. GB/T 20090.16—2016 (in Chinese) [全国信息技术标准化技术委员会 2016 <i>信息技术　先进音视频编码　第16部分：广播电视视频</i> No. GB/T 20090.16—2016]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">2022 No. GB 18030—2022 (in Chinese) [工业和信息化部 2022 信息技术  中文编码字符集 No. GB 18030—2022]</div>
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">2022 No. GB 18030—2022 (in Chinese) [工业和信息化部 2022 信息技术　中文编码字符集 No. GB 18030—2022]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[87]</div><div class="csl-right-inline">2020 No. NB/T 10386—2020 (in Chinese) [国家能源局 2020 水电工程水温实时监测系统技术规范 No. NB/T 10386—2020]</div>
@@ -462,7 +462,7 @@
     <div class="csl-left-margin">[131]</div><div class="csl-right-inline"><a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> [2025-7-15] (in Chinese) [周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞 (国家基础学科公共科学数据中心) <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> [2025-7-15]]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[132]</div><div class="csl-right-inline"><a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a> [2025-2-14] (in Chinese) [郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平 (Science Data Bank) <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a> [2025-2-14]]</div>
+    <div class="csl-left-margin">[132]</div><div class="csl-right-inline"><a href="https://doi.org/10.11922/sciencedb.610">https://doi.org/10.11922/sciencedb.610</a> [2025-2-14] (in Chinese) [郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平 (Science Data Bank) <a href="https://doi.org/10.11922/sciencedb.610">https://doi.org/10.11922/sciencedb.610</a> [2025-2-14]]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[133]</div><div class="csl-right-inline"><a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a> [2025-7-10] (in Chinese) [黄土高原科学数据中心（西北农林科技大学水土保持研究所） (国家地球系统科学数据中心-黄土高原分中心) <a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a> [2025-7-10]]</div>

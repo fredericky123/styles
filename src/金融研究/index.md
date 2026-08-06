@@ -84,7 +84,7 @@ Qian et al. （2009a）<br>
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">阿扬，2023，《谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答》. 《环球科学》杂志社, 编. 姜海伦, 译//《认识记忆力：关于学习、思考与遗忘的脑科学》北京: 机械工业出版社，2023年。</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">阿扬，2023，《谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答》. 《环球科学》杂志社, 编. 姜海伦, 译//《认识记忆力：关于学习、思考与遗忘的脑科学》北京: 机械工业出版社，2023年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">北京鲁迅博物馆（北京新文化运动纪念馆），2021，《北京鲁迅博物馆志愿服务章程》(2021-04-21)。</div>
@@ -126,7 +126,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[14]</div><div class="csl-right-inline">高等教育文献保障系统，[日期不详]，《馆际互借与文献传递服务》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">工业和信息化部，2022，《信息技术  中文编码字符集》. 。</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">工业和信息化部，2022，《信息技术　中文编码字符集》. 。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">顾炎武，1980，《昌平山水记；京东考古录》. 北京: 北京古籍出版社，1980年。</div>
@@ -183,7 +183,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">李约瑟，1991，《题词》//苏克福, 管成学, 邓明鲁. 《苏颂与《本草图经》研究》长春: 长春出版社，1991年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">刘时银、郭万钦和许君利，2012，《中国第二次水川编目科学数据：2006—2011》. 国家青藏高原科学数据中心。</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">刘时银、郭万钦和许君利，2012，《中国第二次冰川编目数据集：2006—2011》. 国家青藏高原科学数据中心。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[35]</div><div class="csl-right-inline">刘祥沈，2016，《沈阳市政区图》. 武汉: 武汉大学出版社。</div>
@@ -201,10 +201,10 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[39]</div><div class="csl-right-inline">钱学森，2001，《创建系统学》. 太原: 山西科学技术出版社，2001年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">全国信息技术标准化技术委员会，2016，《信息技术 先进音视频编码 第16部分：广播电视视频》. 。</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">全国信息技术标准化技术委员会，2016，《信息技术　先进音视频编码　第16部分：广播电视视频》. 。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会，2021，《信息与文献 资源描述》. 。</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会，2021，《信息与文献　资源描述》. 。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">石顺祥、许海平、孙艳玲、陈利菊、李家立和刘继芳，2002，《光折变自适应光外差探测方法》. 2002-03-06。</div>
@@ -300,7 +300,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[72]</div><div class="csl-right-inline">中国造纸学会，2003，《中国造纸年鉴：2003》. 北京: 中国轻工业出版社，2003年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松和赵子飞，2023，《天宫二号遥感图像自然景物分类科学数据》. 国家基础学科公共科学数据中心(2023-09-10)。</div>
+    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松和赵子飞，2023，《天宫二号遥感图像自然景物分类数据集》. 国家基础学科公共科学数据中心(2023-09-10)。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[74]</div><div class="csl-right-inline">訾冬梅和高秀静，2006，《内蒙古自治区地图册》. 北京: 中国地图出版社。</div>
@@ -330,7 +330,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[82]</div><div class="csl-right-inline">Anonymous. 2000. “Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000.” Yufin S A, ed.. Rotterdam: A. A. Balkema.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">Anonymous. 2004. “最新図書館用語大辭典.” 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式會社: 154.</div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">Anonymous. 2004. “最新図書館用語大辞典.” 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式會社: 154.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline">Anonymous. 2009. “Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry.” Sadock B J, V A Sadock, P Ruiz, H I Kaplan, eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>

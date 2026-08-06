@@ -70,12 +70,12 @@ Qian et al (2009b)<br>
   <div class="csl-entry">丁文详, 2000. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20(15).</div>
   <div class="csl-entry">久保智康, 2009. 花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心[J]. 东方博物(1): 85-92.</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 等, 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 52(11): 1518-1523.</div>
-  <div class="csl-entry">工业和信息化部, 2022. 信息技术  中文编码字符集: GB 18030—2022[S].</div>
+  <div class="csl-entry">工业和信息化部, 2022. 信息技术　中文编码字符集: GB 18030—2022[S].</div>
   <div class="csl-entry">马克思, 2013. 政治经济学批判[M] //马克思, 恩格斯. 马克思恩格斯全集: 卷 35. 2 版. 北京: 人民出版社: 302.</div>
   <div class="csl-entry">中工武大设计研究有限公司, 2019. 阳新县标准地名图[CM]. 武汉: 武汉大学出版社.</div>
-  <div class="csl-entry">中华医学会湖北分会, 1984. 临床内科杂志[J]. 1984, 1984，1（1）—. 武汉: 中华医学会湖北分会.</div>
+  <div class="csl-entry">中华医学会湖北分会, 1984. 临床内科杂志[J]. 1984, 1984，1（1）-. 武汉: 中华医学会湖北分会.</div>
   <div class="csl-entry">中国互联网络信息中心, 2012. 第29次中国互联网络发展状况统计报告[R].</div>
-  <div class="csl-entry">中国图书馆学会, 1957/1990. 图书馆学通讯[J]. 1957/1990, 1957（1）—1990（4）. 北京: 北京图书馆.</div>
+  <div class="csl-entry">中国图书馆学会, 1957/1990. 图书馆学通讯[J]. 1957/1990, 1957（1）-1990（4）. 北京: 北京图书馆.</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心, 2012. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 北京: 九州出版社.</div>
   <div class="csl-entry">中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 等, 2023. 电信业发展白皮书：2023：新时代高质量发展探索[R].</div>
   <div class="csl-entry">中国科学院文献情报中心, [2025]. 中国科学院科技论文预发布平台[EB/OL]. [2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.</div>
@@ -95,15 +95,15 @@ Qian et al (2009b)<br>
   <div class="csl-entry">史国华, 樊金宇, 何益, <i>et al</i>, 2022. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A [P]. 2022-09-13.</div>
   <div class="csl-entry">石顺祥, 许海平, 孙艳玲, 等, 2002. 光折变自适应光外差探测方法: CN1338652A[P]. 2002-03-06.</div>
   <div class="csl-entry">邓一刚, 2008. 全智能节电器: CN101106276A[P]. 2008-01-16.</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021. 信息与文献 资源描述: GB/T 3792—2021[S].</div>
-  <div class="csl-entry">全国信息技术标准化技术委员会, 2016. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S].</div>
-  <div class="csl-entry">刘时银, 郭万钦, 许君利, 2012. 中国第二次水川编目科学数据：2006—2011[DS/OL]. 国家青藏高原科学数据中心. <a href="https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/">https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/</a>.</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021. 信息与文献　资源描述: GB/T 3792—2021[S].</div>
+  <div class="csl-entry">全国信息技术标准化技术委员会, 2016. 信息技术　先进音视频编码　第16部分：广播电视视频: GB/T 20090.16—2016[S].</div>
+  <div class="csl-entry">刘时银, 郭万钦, 许君利, 2012. 中国第二次冰川编目数据集：2006—2011[DS/OL]. 国家青藏高原科学数据中心. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>.</div>
   <div class="csl-entry">刘祥沈, 2016. 沈阳市政区图[CM]. 武汉: 武汉大学出版社.</div>
   <div class="csl-entry">扬奎斯特, 萨金特, 2010. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社: 798.</div>
   <div class="csl-entry">汤万金, 杨跃翔, 刘文, 等, 2013. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R].</div>
   <div class="csl-entry">何筱梅, 2016. 新媒体时代原生广告的策略与发展研究[D]. 武汉: 武汉大学: 24-25.</div>
   <div class="csl-entry">吴自银, 温珍河, 2019. 中国南部海域海底地形图[CM]. 北京: 科学出版社.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会, 2004. 最新図書館用語大辭典 [M]. 東京: 柏書房株式會社: 154.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会, 2004. 最新図書館用語大辞典 [M]. 東京: 柏書房株式會社: 154.</div>
   <div class="csl-entry">张伯伟, 2002. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社: 288.</div>
   <div class="csl-entry">张凯军, 赵永杰, 陈朝岗, 2013. 轨道火车及高速轨道火车紧急安全制动辅助装置: CN202827616U[P]. 2013-03-27.</div>
   <div class="csl-entry">张群, 程志宝, 石志飞, 2024a. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J]. 铁道学报.</div>
@@ -118,11 +118,11 @@ Qian et al (2009b)<br>
   <div class="csl-entry">汪学军, 2005. 中国农业转基因生物研发进展与安全管理[C] //国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社: 22-25.</div>
   <div class="csl-entry">肖希明, 石庆功, 刘奕, 2024. 民国图书馆学教育的社会贡献[C] //纪念北京大学图书馆学教育100周年研讨会论文集. 北京: 北京大学信息管理系: 134-147.</div>
   <div class="csl-entry">肖玲, 张雪, 王永, 2024. 数据要素的统计测算方法探究[EB]. PSSXiv.</div>
-  <div class="csl-entry">周壮, 李盛阳, 吴薇, 等, 2023. 天宫二号遥感图像自然景物分类科学数据[DS/OL]. 国家基础学科公共科学数据中心. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
+  <div class="csl-entry">周壮, 李盛阳, 吴薇, 等, 2023. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
   <div class="csl-entry">国家测绘地理信息局, [2025]. 一带一路经济走廊及其途经城市分布地势图[CM].</div>
   <div class="csl-entry">国家能源局, 2020. 水电工程水温实时监测系统技术规范: NB/T 10386—2020[S].</div>
   <div class="csl-entry">金燕萍, 2020. 社交媒体时代的虚假信息研究[D]. 温州: 温州大学: 16.</div>
-  <div class="csl-entry">阿扬, 2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]. 姜海伦, 译 //《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社: 15-18.</div>
+  <div class="csl-entry">阿扬, 2023. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答[M]. 姜海伦, 译 //《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社: 15-18.</div>
   <div class="csl-entry">陈志勇, 2011. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社.</div>
   <div class="csl-entry">陈建军, 2010. 从数字地球到智慧地球[J]. 国土资源导刊, 7(10): 93.</div>
   <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, 等, 1980. 蓟县震旦亚界的研究[M] //中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社: 56-114.</div>
@@ -149,11 +149,11 @@ Qian et al (2009b)<br>
   <div class="csl-entry">訾冬梅, 高秀静, 2006. 内蒙古自治区地图册[CM]. 新版. 北京: 中国地图出版社.</div>
   <div class="csl-entry">谭其骧, 1982. 中国历史地图集: 第2册[CM]. 北京: 地图出版社: 6.</div>
   <div class="csl-entry">冀超, 2001. 一种荒漠化地区生态植被综合培育种植方法: CN1318281A[P]. 2001-10-24.</div>
-  <div class="csl-entry">American Association for the Advancement of Science, 1883. Science [J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science.</div>
+  <div class="csl-entry">American Association for the Advancement of Science, 1883. Science [J]. 1883, 1883，1（1）-. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), 2022. Guide to lithium battery safety for space applications: AIAA G-136-2022 [S].</div>
   <div class="csl-entry">佚名, 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆.</div>
-  <div class="csl-entry">佚名, 1962. 康熙字典: 巳集上 水部[M]. 影印本. 北京: 中华书局: 50.</div>
-  <div class="csl-entry">Anon, 1979. Public library quarterly [J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis.</div>
+  <div class="csl-entry">佚名, 1962. 康熙字典: 巳集上：水部[M]. 影印本. 北京: 中华书局: 50.</div>
+  <div class="csl-entry">Anon, 1979. Public library quarterly [J]. 1979, 1979，1（1）-. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">佚名, 2011. 周易外传：卷5[M] //王夫之. 船山全书: 第1册. 修订版. 长沙: 岳麓书社: 983-1029.</div>
   <div class="csl-entry">佚名, 2015. [《昨日之歌》图书封面][Z].</div>
   <div class="csl-entry">佚名, 2020. 大黄[M] //国家药典委员会. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社: 24-25.</div>

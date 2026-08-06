@@ -94,7 +94,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Park, Jung-Ran, and Yuji Tosaka. “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms.” <i>Cataloging &#38; Classification Quarterly</i> 48. 8 (2010): 696–715.</div>
   <div class="csl-entry">Peebles, Peyton Z., Jr. <i>Probability, Random Variables, and Random Signal Principles</i>. 4th ed., McGraw-Hill, 2001.</div>
   <div class="csl-entry">Praetzellis, Adrian. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>. Rev. ed., Rowman &#38; Littlefield Publishing Group, Inc., 2011.</div>
-  <div class="csl-entry"><i>Public Library Quarterly</i>. Vol. 1979，1（1）—, Taylor &#38; Francis, 1979.</div>
+  <div class="csl-entry"><i>Public Library Quarterly</i>. Vol. 1979，1（1）-, Taylor &#38; Francis, 1979.</div>
   <div class="csl-entry">Roberson, J. Alan, and Eric G. Burneson. “Drinking Water Quality Standards, Regulations and Goals.” <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, Ed. American Water Works Association, 6th ed., McGraw-Hill, 2011, 1.1-1.36.</div>
   <div class="csl-entry">Sadock, Benjamin J., et al., eds. <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>. 9th ed., vol. 1, Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   <div class="csl-entry">Saito, Makoto, and Kazuhiro Miyazaki. “Jadeite-Bearing Metagabbro in Serpentinite Melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu.” <i>Bulletin of the Geological Survey of Japan</i> 57. 5/6 (2006): 169–76.</div>
@@ -114,11 +114,11 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Zhong, Xiaoya, et al. <i>Long Time Series Nighttime Light Dataset of China: 2000–2020</i>. Global Change Research Data Publishing &#38; Repository, 2022. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
   <div class="csl-entry">Zotero. <i>[Zotero Download]</i>. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>. Accessed 8 Apr. 2024.</div>
   <div class="csl-entry">丁文详. 数字革命与竞争国际化[N]. 中国青年报，2000-11-20（15）.</div>
-  <div class="csl-entry">中华医学会湖北分会. 临床内科杂志[J]. 1984，1984，1（1）—. 武汉: 中华医学会湖北分会，1984.</div>
+  <div class="csl-entry">中华医学会湖北分会. 临床内科杂志[J]. 1984，1984，1（1）-. 武汉: 中华医学会湖北分会，1984.</div>
   <div class="csl-entry">中国互联网络信息中心. 第29次中国互联网络发展状况统计报告[R]. 2012.</div>
   <div class="csl-entry">中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆，1949.</div>
   <div class="csl-entry">中国信息通信研究院等. 电信业发展白皮书：2023：新时代高质量发展探索[R]. 2023.</div>
-  <div class="csl-entry">中国图书馆学会. 图书馆学通讯[J]. 1957/1990，1957（1）—1990（4）. 北京: 北京图书馆，1957/1990.</div>
+  <div class="csl-entry">中国图书馆学会. 图书馆学通讯[J]. 1957/1990，1957（1）-1990（4）. 北京: 北京图书馆，1957/1990.</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 北京: 九州出版社，2012.</div>
   <div class="csl-entry">中国科学院文献情报中心. 中国科学院科技论文预发布平台[EB/OL]. [2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.</div>
   <div class="csl-entry">中国造纸学会. 中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社，2003.</div>
@@ -129,25 +129,25 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">井丽南. 支持状态可编程的SDN交换机关键技术研究[D]. 北京: 中国科学院大学，2022: 43.</div>
   <div class="csl-entry">仉尚航. 开放世界中的实体基础模型[EB/OL]. （2024-12-24）[2025-01-02]. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>.</div>
   <div class="csl-entry">何筱梅. 新媒体时代原生广告的策略与发展研究[D]. 武汉: 武汉大学，2016: 24–25.</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. 2021.</div>
-  <div class="csl-entry">全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. 2016.</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会. 信息与文献　资源描述: GB/T 3792—2021[S]. 2021.</div>
+  <div class="csl-entry">全国信息技术标准化技术委员会. 信息技术　先进音视频编码　第16部分：广播电视视频: GB/T 20090.16—2016[S]. 2016.</div>
   <div class="csl-entry">冀超. 一种荒漠化地区生态植被综合培育种植方法: CN1318281A[P]. 2001-10-24.</div>
   <div class="csl-entry">冯友兰. 冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社，2008: 第1版自序.</div>
-  <div class="csl-entry">刘时银等. 中国第二次水川编目科学数据：2006—2011[DS/OL]. 国家青藏高原科学数据中心，2012[2025-07-15]. <a href="https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/">https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/</a>.</div>
+  <div class="csl-entry">刘时银等. 中国第二次冰川编目数据集：2006—2011[DS/OL]. 国家青藏高原科学数据中心，2012[2025-07-15]. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>.</div>
   <div class="csl-entry">刘祥沈. 沈阳市政区图[CM]. 武汉: 武汉大学出版社，2016.</div>
   <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆）. 北京鲁迅博物馆志愿服务章程[EB/OL]. （2021-04-21）[2023-05-02]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>.</div>
   <div class="csl-entry">博伯尔. 银行业的未来与人工智能[M]. 徐超，译. 北京: 清华大学出版社，2023: 35.</div>
   <div class="csl-entry">史国华, et al. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法. JP2022539784A, 13 Sept. 2022.</div>
   <div class="csl-entry">吴自银, 温珍河. 中国南部海域海底地形图[CM]. 北京: 科学出版社，2019.</div>
-  <div class="csl-entry">周壮等. 天宫二号遥感图像自然景物分类科学数据[DS/OL]. 国家基础学科公共科学数据中心，2023[2025-07-15]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
+  <div class="csl-entry">周壮等. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心，2023[2025-07-15]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
   <div class="csl-entry">哈里森, 沃尔德伦. 经济数学与金融数学[M]. 谢远涛，译. 北京: 中国人民大学出版社，2012: 235–36.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会, ed. 最新図書館用語大辭典. 柏書房株式會社, 2004.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会, ed. 最新図書館用語大辞典. 柏書房株式會社, 2004.</div>
   <div class="csl-entry">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM].</div>
   <div class="csl-entry">国家能源局. 水电工程水温实时监测系统技术规范: NB/T 10386—2020[S]. 2020.</div>
   <div class="csl-entry">大黄[M]//国家药典委员会. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社，2020: 24–25.</div>
-  <div class="csl-entry">工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S]. 2022.</div>
+  <div class="csl-entry">工业和信息化部. 信息技术　中文编码字符集: GB 18030—2022[S]. 2022.</div>
   <div class="csl-entry">杨立华. 《庄子》读不懂？看完这一篇“导读”就明白了[Z]. 2022.</div>
-  <div class="csl-entry">康熙字典: 巳集上 水部[M]. 影印本. 北京: 中华书局，1962: 50.</div>
+  <div class="csl-entry">康熙字典: 巳集上：水部[M]. 影印本. 北京: 中华书局，1962: 50.</div>
   <div class="csl-entry">张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社，2002: 288.</div>
   <div class="csl-entry">张凯军等. 轨道火车及高速轨道火车紧急安全制动辅助装置: CN202827616U[P]. 2013-03-27.</div>
   <div class="csl-entry">张群等. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J]. 铁道学报，2024.</div>
@@ -192,7 +192,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">郑涵等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集[DS/OL]. Science Data Bank，2018[2025-02-14]. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>.</div>
   <div class="csl-entry">金燕萍. 社交媒体时代的虚假信息研究[D]. 温州: 温州大学，2020: 16.</div>
   <div class="csl-entry">钱学森. 创建系统学[M]. 太原: 山西科学技术出版社，2001: 序2-3.</div>
-  <div class="csl-entry">阿扬. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]. 姜海伦，译//《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社，2023: 15–18.</div>
+  <div class="csl-entry">阿扬. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答[M]. 姜海伦，译//《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社，2023: 15–18.</div>
   <div class="csl-entry">陈建军. 从数字地球到智慧地球[J]. 国土资源导刊，2010，7（10）: 93.</div>
   <div class="csl-entry">陈志勇. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社，2011.</div>
   <div class="csl-entry">陈晋镳等. 蓟县震旦亚界的研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社，1980: 56–114.</div>

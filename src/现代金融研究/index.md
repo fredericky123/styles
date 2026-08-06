@@ -65,22 +65,22 @@ Qian et al. （2009b）<br>
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Fitzwilliam, H., 1570. [Letter to Bess of Hardwick].</div>
   <div class="csl-entry">王夫之, 1865. 宋论. 刻本. 金陵: 湘乡曾国荃.</div>
-  <div class="csl-entry">American Association for the Advancement of Science, 1883. Science. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science.</div>
+  <div class="csl-entry">American Association for the Advancement of Science, 1883. Science. 1883, 1883，1（1）-. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">李鸿章, 1887. 奏请上海道库洋务外销要款无款可筹仍拨药厘接济事: 04-01-35-0399-039. 北京: 中国第一历史档案馆.</div>
   <div class="csl-entry">童世亨, 1926. 京兆直隶图. 上海: 商务印书馆.</div>
   <div class="csl-entry">湖北省建设厅, 1931. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令. 武汉: 湖北省档案馆.</div>
   <div class="csl-entry">佚名, 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告. 武汉: 武汉大学档案馆.</div>
-  <div class="csl-entry">中国图书馆学会, 1957/1990. 图书馆学通讯. 1957/1990, 1957（1）—1990（4）. 北京: 北京图书馆.</div>
-  <div class="csl-entry">佚名, 1962. 康熙字典: 巳集上 水部. 影印本. 北京: 中华书局: 50.</div>
+  <div class="csl-entry">中国图书馆学会, 1957/1990. 图书馆学通讯. 1957/1990, 1957（1）-1990（4）. 北京: 北京图书馆.</div>
+  <div class="csl-entry">佚名, 1962. 康熙字典: 巳集上：水部. 影印本. 北京: 中华书局: 50.</div>
   <div class="csl-entry">Cairns, B. R., 1965. Infrared spectroscopic studies of solid oxygen. Berkeley: University of California, Berkeley: 15.</div>
   <div class="csl-entry">Fourney, M. E., 1971. Advances in holographic photoelasticity//Gottenberg, W. G. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
   <div class="csl-entry">Weinstein, L. and Swartz, M. N., 1974. Pathogenic properties of invading microorganisms//Sodeman, W. A., Jr., Sodeman, W. A. Pathologic physiology: mechanisms of disease. 5th ed. Philadelphia: Saunders: 457-472.</div>
-  <div class="csl-entry">Anon, 1979. Public library quarterly. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis.</div>
+  <div class="csl-entry">Anon, 1979. Public library quarterly. 1979, 1979，1（1）-. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">顾炎武, 1980. 昌平山水记；京东考古录. 北京: 北京古籍出版社.</div>
   <div class="csl-entry">陈晋镳、张惠民、朱士兴、赵震、等, 1980. 蓟县震旦亚界的研究//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社: 56-114.</div>
   <div class="csl-entry">Sugarman, L. and Markham, S., 1980. Students in a selective high school: some vocationally oriented data. UK Data Service. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
   <div class="csl-entry">谭其骧, 1982. 中国历史地图集: 第2册. 北京: 地图出版社: 6.</div>
-  <div class="csl-entry">中华医学会湖北分会, 1984. 临床内科杂志. 1984, 1984，1（1）—. 武汉: 中华医学会湖北分会.</div>
+  <div class="csl-entry">中华医学会湖北分会, 1984. 临床内科杂志. 1984, 1984，1（1）-. 武汉: 中华医学会湖北分会.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration, 1990. Guidelines for handling excavated acid-producing materials: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service: 25.</div>
   <div class="csl-entry">李约瑟, 1991. 题词//苏克福, 管成学, 邓明鲁. 苏颂与《本草图经》研究. 长春: 长春出版社: 扉页.</div>
   <div class="csl-entry">Des Marais, D. J., Strauss, H., Summons, R. E., and Hayes, J. M., 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. Nature, 359: 605-609.</div>
@@ -97,7 +97,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">张伯伟, 2002. 全唐五代诗格汇考. 南京: 江苏古籍出版社: 288.</div>
   <div class="csl-entry">石顺祥、许海平、孙艳玲、陈利菊、等, 2002. 光折变自适应光外差探测方法: CN1338652A. 2002-03-06.</div>
   <div class="csl-entry">中国造纸学会, 2003. 中国造纸年鉴：2003. 北京: 中国轻工业出版社.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会, 2004. 最新図書館用語大辭典. 東京: 柏書房株式會社: 154.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会, 2004. 最新図書館用語大辞典. 東京: 柏書房株式會社: 154.</div>
   <div class="csl-entry">汪学军, 2005. 中国农业转基因生物研发进展与安全管理//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社: 22-25.</div>
   <div class="csl-entry">Saito, M. and Miyazaki, K., 2006. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bulletin of the Geological Survey of Japan, 57(5/6): 169-176.</div>
   <div class="csl-entry">訾冬梅、高秀静, 2006. 内蒙古自治区地图册. 新版. 北京: 中国地图出版社.</div>
@@ -124,7 +124,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">牛志明、Swingland I. R.、雷光春, 2012. 综合湿地管理：综合湿地管理国际研讨会论文集. 北京: 海洋出版社.</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心, 2012. 台湾光复六十五周年暨抗战史实学术研讨会论文集. 北京: 九州出版社.</div>
   <div class="csl-entry">中国互联网络信息中心, 2012. 第29次中国互联网络发展状况统计报告.</div>
-  <div class="csl-entry">刘时银、郭万钦、许君利, 2012. 中国第二次水川编目科学数据：2006—2011. 国家青藏高原科学数据中心. <a href="https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/">https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/</a>.</div>
+  <div class="csl-entry">刘时银、郭万钦、许君利, 2012. 中国第二次冰川编目数据集：2006—2011. 国家青藏高原科学数据中心. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>.</div>
   <div class="csl-entry">Jenkins, S. D. and Ruostekoski, J., 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice. arXiv.</div>
   <div class="csl-entry">Deverell, W. and Igler, D., 2013. A companion to California history. New York: John Wiley &#38; Sons: 21-22.</div>
   <div class="csl-entry">马克思, 2013. 政治经济学批判//马克思, 恩格斯. 马克思恩格斯全集: 卷 35. 2 版. 北京: 人民出版社: 302.</div>
@@ -139,7 +139,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Cribb, R., 2015. Historical atlas of Indonesia. Abingdon: Routledge.</div>
   <div class="csl-entry">Bloss, C. S., Wineinger, N. E., Peters, M., Boeldt, D. L., et al., 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors. bioRxiv.</div>
   <div class="csl-entry">何筱梅, 2016. 新媒体时代原生广告的策略与发展研究. 武汉: 武汉大学: 24-25.</div>
-  <div class="csl-entry">全国信息技术标准化技术委员会, 2016. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016.</div>
+  <div class="csl-entry">全国信息技术标准化技术委员会, 2016. 信息技术　先进音视频编码　第16部分：广播电视视频: GB/T 20090.16—2016.</div>
   <div class="csl-entry">ISO, 2016a. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en).</div>
   <div class="csl-entry">ISO, 2016b. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr).</div>
   <div class="csl-entry">刘祥沈, 2016. 沈阳市政区图. 武汉: 武汉大学出版社.</div>
@@ -158,7 +158,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anon, [2020]. Library of Congress. [2020-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
   <div class="csl-entry">International Organization for Standardization, [2020]. ISO homepage. [2020-10-06]. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>.</div>
   <div class="csl-entry">Torres, L., Salisbury, F., Yazbeck, B., Karasmanis, S., et al., 2021. Connecting the library to the curriculum. Singapore: Springer Nature: 97.</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021. 信息与文献 资源描述: GB/T 3792—2021.</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021. 信息与文献　资源描述: GB/T 3792—2021.</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC), 2021. Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021. New York: IEEE.</div>
   <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆）, 2021. 北京鲁迅博物馆志愿服务章程. (2021-04-21)[2023-05-02]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>.</div>
   <div class="csl-entry">胡健民, 2021. 东南极拉斯曼丘陵地区地质图. 北京: 科学出版社.</div>
@@ -168,7 +168,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Wang, S., 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers//2022 6th Asian Conference on Artificial Intelligence Technology. 2.</div>
   <div class="csl-entry">王琦, 2022. 融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究. 武汉: 武汉大学: 87.</div>
   <div class="csl-entry">井丽南, 2022. 支持状态可编程的SDN交换机关键技术研究. 北京: 中国科学院大学: 43.</div>
-  <div class="csl-entry">工业和信息化部, 2022. 信息技术  中文编码字符集: GB 18030—2022.</div>
+  <div class="csl-entry">工业和信息化部, 2022. 信息技术　中文编码字符集: GB 18030—2022.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), 2022. Guide to lithium battery safety for space applications: AIAA G-136-2022.</div>
   <div class="csl-entry">史国华、樊金宇、何益、邢利娜、等, 2022. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A. 2022-09-13.</div>
   <div class="csl-entry">Tristram, M., Skarshewski, P., Tristram, I., and Mossel, B., 2022. Storage and delivery system: AU2022228203A1. 2022-10-06.</div>
@@ -176,12 +176,12 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Zhong, X., Yan, Q., and Li, G., 2022. Long time series nighttime light dataset of China: 2000–2020. Global Change Research Data Publishing &#38; Repository. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
   <div class="csl-entry">博伯尔, 2023. 银行业的未来与人工智能. 徐超, 译. 北京: 清华大学出版社: 35.</div>
   <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna, 2023. Wiener Hitze: architecture and storytelling in times of heat. Zürich: Park Books: 78.</div>
-  <div class="csl-entry">阿扬, 2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答. 姜海伦, 译//《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社: 15-18.</div>
+  <div class="csl-entry">阿扬, 2023. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答. 姜海伦, 译//《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社: 15-18.</div>
   <div class="csl-entry">Shinotsuka, H., Nagata, K., Siriwardana, M., Yoshikawa, H., et al., 2023. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator. Journal of electron spectroscopy and related phenomena, 267: 147370.</div>
   <div class="csl-entry">中国信息通信研究院、中国电信股份有限公司研究院、中国移动通信研究院、中国联合网络通信有限公司研究院, 2023. 电信业发展白皮书：2023：新时代高质量发展探索.</div>
   <div class="csl-entry">李华、王昊、康佐, 2023. 一种拼接式桥梁模型: CN218214474U. 2023-01-03.</div>
   <div class="csl-entry">佚名, 2023. 西黄丸. (2023-10-07)[2025-08-26]. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>.</div>
-  <div class="csl-entry">周壮、李盛阳、吴薇、郭威龙、等, 2023. 天宫二号遥感图像自然景物分类科学数据. 国家基础学科公共科学数据中心. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
+  <div class="csl-entry">周壮、李盛阳、吴薇、郭威龙、等, 2023. 天宫二号遥感图像自然景物分类数据集. 国家基础学科公共科学数据中心. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
   <div class="csl-entry">方向明、曹迎杰, 2023. 元宇宙在图书馆的应用：理论研究与实践进展. ChinaXiv.</div>
   <div class="csl-entry">张群、程志宝、石志飞, 2024a. 惯性增强动力吸振器-浮置板轨道低频减振性能研究. 铁道学报, .</div>
   <div class="csl-entry">张群、程志宝、石志飞, 2024b. 惯性增强动力吸振器-浮置板轨道低频减振性能研究. 铁道学报, (8): 102-111.</div>

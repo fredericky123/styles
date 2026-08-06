@@ -65,7 +65,7 @@ Qian et al. (2009b)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
-  <div class="csl-entry">American Association for the Advancement of Science, eds., 1883. Science. 1883，1（1）—. tex.entrytype: periodical</div>
+  <div class="csl-entry">American Association for the Advancement of Science, eds., 1883. Science. 1883，1（1）-. tex.entrytype: periodical</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), 2022. Guide to Lithium Battery Safety for Space Applications. </div>
   <div class="csl-entry">António, M., Pepper, L., 2019. Histórias de Portugal: livros caídos. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a></div>
   <div class="csl-entry">Babu, B. V., Nagar, A., Deep, K., et al., eds., 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. Springer, New Delhi. tex.entrytype: proceedings</div>
@@ -102,11 +102,9 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">Shinotsuka, H., Nagata, K., Siriwardana, M., et al., 2023. Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator. <i>Journal of electron spectroscopy and related phenomena</i>, 267. tex.number:  tex.eid: 147370
 tex.doi: 10.1016/j.elspec.2023.147370</div>
   <div class="csl-entry">Sugarman, L., Markham, S., 1980. Students in a Selective High School: Some Vocationally Oriented Data. <a href="https://doi.org/10.5255/UKDA-SN-996-1">https://doi.org/10.5255/UKDA-SN-996-1</a> 10.5255/UKDA-SN-996-1</div>
-  <div class="csl-entry">Tachibana, R., Shimizu, S., Kobayashi, S., et al., 2001. Electronic watermarking method and system. tex.holder: IBM
-tex.number: US89404301A</div>
+  <div class="csl-entry">Tachibana, R., Shimizu, S., Kobayashi, S., et al., 2001. Electronic watermarking method and system. </div>
   <div class="csl-entry">Torres, L., Salisbury, F., Yazbeck, B., et al., eds., 2021. Connecting the Library to the Curriculum. Springer Nature, Singapore. 97 tex.DOI: 10.1007/978-981-16-3868-8</div>
-  <div class="csl-entry">Tristram, M., Skarshewski, P., Tristram, I., et al., 2022. Storage and delivery system. tex.holder: Trisco ICAP Pty Ltd
-tex.number: AU2022228203A</div>
+  <div class="csl-entry">Tristram, M., Skarshewski, P., Tristram, I., et al., 2022. Storage and delivery system. </div>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs, n.d. United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development. </div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration, 1990. Guidelines for Handling Excavated Acid-Producing Materials. : 25.</div>
   <div class="csl-entry">Veen, P. H. van der, Muller, M., Vincken, K. L., et al., 2014. Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study. <i>Journal of the Neurological Sciences</i>, 337(1/2): 112–118. <a href="https://doi.org/10.1016/j.jns.2013.11.029">https://doi.org/10.1016/j.jns.2013.11.029</a></div>
@@ -117,10 +115,10 @@ tex.number: AU2022228203A</div>
   <div class="csl-entry">Zhong, X., Yan, Q., Li, G., 2022. Long Time Series Nighttime Light Dataset of China: 2000–2020. tex.doi: 10.3974/geodb.2022.06.01.V1</div>
   <div class="csl-entry">Zotero, n.d. [Zotero Download]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a></div>
   <div class="csl-entry">丁文详, 2000. 数字革命与竞争国际化. 中国青年报, : 15.</div>
-  <div class="csl-entry">中华医学会湖北分会, eds., 1984. 临床内科杂志. 1984，1（1）—. tex.entrytype: periodical</div>
+  <div class="csl-entry">中华医学会湖北分会, eds., 1984. 临床内科杂志. 1984，1（1）-. tex.entrytype: periodical</div>
   <div class="csl-entry">中国互联网络信息中心, 2012. 第29次中国互联网络发展状况统计报告. </div>
   <div class="csl-entry">中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, et al., 2023. 电信业发展白皮书：2023：新时代高质量发展探索. </div>
-  <div class="csl-entry">中国图书馆学会, eds., 1957–1990. 图书馆学通讯. 1957（1）—1990（4）. tex.entrytype: periodical</div>
+  <div class="csl-entry">中国图书馆学会, eds., 1957–1990. 图书馆学通讯. 1957（1）-1990（4）. tex.entrytype: periodical</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心, eds., 2012. 台湾光复六十五周年暨抗战史实学术研讨会论文集. 九州出版社, 北京. tex.entrytype: proceedings</div>
   <div class="csl-entry">中国科学院文献情报中心, n.d. 中国科学院科技论文预发布平台. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a></div>
   <div class="csl-entry">中国造纸学会, 2003. 中国造纸年鉴：2003. 中国轻工业出版社, 北京.</div>
@@ -131,28 +129,25 @@ tex.number: AU2022228203A</div>
   <div class="csl-entry">井丽南, 2022. 支持状态可编程的SDN交换机关键技术研究: [博士学位论文]. 中国科学院大学, 北京. 43 tex.cstr: 35001.37.01.33142.20220037</div>
   <div class="csl-entry">仉尚航, 2024. 开放世界中的实体基础模型. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a></div>
   <div class="csl-entry">何筱梅, 2016. 新媒体时代原生广告的策略与发展研究: [博士学位论文]. 武汉大学, 武汉. 24–25</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021. 信息与文献 资源描述. </div>
-  <div class="csl-entry">全国信息技术标准化技术委员会, 2016. 信息技术 先进音视频编码 第16部分：广播电视视频. </div>
-  <div class="csl-entry">冀超, 2001. 一种荒漠化地区生态植被综合培育种植方法. tex.holder: 河北绿洲生态环境科技有限公司
-tex.number: CN01129210.5</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021. 信息与文献　资源描述. </div>
+  <div class="csl-entry">全国信息技术标准化技术委员会, 2016. 信息技术　先进音视频编码　第16部分：广播电视视频. </div>
+  <div class="csl-entry">冀超, 2001. 一种荒漠化地区生态植被综合培育种植方法. </div>
   <div class="csl-entry">冯友兰, 2008. 冯友兰自选集. 首都师范大学出版社, 北京. 第1版自序</div>
-  <div class="csl-entry">刘时银, 郭万钦, 许君利, 2012. 中国第二次水川编目科学数据：2006—2011. <a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a></div>
+  <div class="csl-entry">刘时银, 郭万钦, 许君利, 2012. 中国第二次冰川编目数据集：2006—2011. <a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a></div>
   <div class="csl-entry">刘祥沈, 2016. 沈阳市政区图. tex.entrytype: map</div>
   <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆）, 2021. 北京鲁迅博物馆志愿服务章程. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a></div>
   <div class="csl-entry">博伯尔, 2023. 银行业的未来与人工智能. 清华大学出版社, 北京. 35</div>
-  <div class="csl-entry">史国华, 樊金宇, 何益, et al., 2022. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法. tex.holder: 中国科学院苏州生物医学工程技术研究所
-tex.number: JP2021578120A</div>
+  <div class="csl-entry">史国华, 樊金宇, 何益, et al., 2022. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法. </div>
   <div class="csl-entry">吴自银, 温珍河, 2019. 中国南部海域海底地形图. tex.entrytype: map</div>
-  <div class="csl-entry">周壮, 李盛阳, 吴薇, et al., 2023. 天宫二号遥感图像自然景物分类科学数据. tex.cstr: 16666.11.nbsdc.tfpbwtqf</div>
+  <div class="csl-entry">周壮, 李盛阳, 吴薇, et al., 2023. 天宫二号遥感图像自然景物分类数据集. tex.cstr: 16666.11.nbsdc.tfpbwtqf</div>
   <div class="csl-entry">哈里森, 沃尔德伦, 2012. 经济数学与金融数学. 中国人民大学出版社, 北京. 235–236</div>
-  <div class="csl-entry">図書館用語辞典編集委員会, eds., 2004. 最新図書館用語大辭典. 柏書房株式會社, 東京. 154</div>
+  <div class="csl-entry">図書館用語辞典編集委員会, eds., 2004. 最新図書館用語大辞典. 柏書房株式會社, 東京. 154</div>
   <div class="csl-entry">国家测绘地理信息局, n.d. 一带一路经济走廊及其途经城市分布地势图. tex.entrytype: map</div>
   <div class="csl-entry">国家能源局, 2020. 水电工程水温实时监测系统技术规范. </div>
   <div class="csl-entry">国家药典委员会, eds., 2020. 大黄. In: 中华人民共和国药典. 中国医药科技出版社, 北京. 24–25</div>
-  <div class="csl-entry">工业和信息化部, 2022. 信息技术  中文编码字符集. </div>
+  <div class="csl-entry">工业和信息化部, 2022. 信息技术　中文编码字符集. </div>
   <div class="csl-entry">张伯伟, 2002. 全唐五代诗格汇考. 江苏古籍出版社, 南京. 288</div>
-  <div class="csl-entry">张凯军, 赵永杰, 陈朝岗, 2013. 轨道火车及高速轨道火车紧急安全制动辅助装置. tex.holder: 张凯军
-tex.number: CN201220158825.2</div>
+  <div class="csl-entry">张凯军, 赵永杰, 陈朝岗, 2013. 轨道火车及高速轨道火车紧急安全制动辅助装置. tex.holder: 张凯军</div>
   <div class="csl-entry">张群, 程志宝, 石志飞, 2024a. 惯性增强动力吸振器-浮置板轨道低频减振性能研究. 铁道学报, </div>
   <div class="csl-entry">张群, 程志宝, 石志飞, 2024b. 惯性增强动力吸振器-浮置板轨道低频减振性能研究. 铁道学报, 46(8): 102–111.</div>
   <div class="csl-entry">彭守璋, 2025. 1901—2024年中国1km分辨率逐月降水量数据集. </div>
@@ -161,8 +156,7 @@ tex.number: CN201220158825.2</div>
   <div class="csl-entry">扬奎斯特, 萨金特, 2010. 递归宏观经济理论. 中国人民大学出版社, 北京. 813</div>
   <div class="csl-entry">方向明, 曹迎杰, 2023. 元宇宙在图书馆的应用：理论研究与实践进展. tex.cstr: 32003.36.ChinaXiv.202303.00020.V1</div>
   <div class="csl-entry">曹凌, 2011. 中国佛教疑伪经综录. 上海古籍出版社, 上海. 19</div>
-  <div class="csl-entry">李华, 王昊, 康佐, 2023. 一种拼接式桥梁模型. tex.holder: 李华 and 王昊 and 康佐
-tex.number: CN202222658126.0</div>
+  <div class="csl-entry">李华, 王昊, 康佐, 2023. 一种拼接式桥梁模型. </div>
   <div class="csl-entry">李妍, 王莹, 2022. 医疗机构保洁人员“一前五后”手卫生干预效果研究. 2</div>
   <div class="csl-entry">李幼平, 王莉, 2010. 循证医学研究方法：附视频. 中华移植杂志（电子版）, 4(3): 225–228.</div>
   <div class="csl-entry">李约瑟, 1991. 题词. In: 苏颂与《本草图经》研究. 长春出版社, 长春. 扉页</div>
@@ -187,8 +181,7 @@ tex.number:  tex.eid: 730570</div>
   <div class="csl-entry">王夫之, eds., 2011. 周易外传：卷5. In: 船山全书. 岳麓书社, 长沙. 983–1029</div>
   <div class="csl-entry">王琦, 2022. 融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究: [博士学位论文]. 武汉大学, 武汉. 87</div>
   <div class="csl-entry">王继民, 罗鹏程, 赵常煜, et al., 2025. 人文社会科学数据集检索方法研究的数据集. tex.doi: 10.18170/DVN/R96MSN</div>
-  <div class="csl-entry">石顺祥, 许海平, 孙艳玲, et al., 2002. 光折变自适应光外差探测方法. tex.holder: 西安电子科技大学
-tex.number: CN01128777.2</div>
+  <div class="csl-entry">石顺祥, 许海平, 孙艳玲, et al., 2002. 光折变自适应光外差探测方法. </div>
   <div class="csl-entry">程根伟, 1999. 1998年长江洪水的成因与减灾对策. In: 许厚泽, 赵其国, eds., 长江流域洪涝灾害与科技对策. 科学出版社, 北京. 32–36</div>
   <div class="csl-entry">童世亨, 1926. 京兆直隶图. tex.entrytype: map</div>
   <div class="csl-entry">肖希明, 石庆功, 刘奕, 2024. 民国图书馆学教育的社会贡献. In: 纪念北京大学图书馆学教育100周年研讨会论文集. 北京大学信息管理系, 北京. 134–147</div>
@@ -198,12 +191,11 @@ tex.number: CN01128777.2</div>
   <div class="csl-entry">谭其骧, 1982. 中国历史地图集. 第2册: 6. tex.entrytype: map</div>
   <div class="csl-entry">贾东琴, 柯平, 2011. 面向数字素养的高校图书馆数字服务体系研究. In: 中国图书馆学会, eds., 中国图书馆学会年会论文集. 国家图书馆出版社, 北京. 45–52</div>
   <div class="csl-entry">赵学功, 2001. 当代美国外交. 社会科学文献出版社, 北京.</div>
-  <div class="csl-entry">邓一刚, 2008. 全智能节电器. (CN200510022322.7 20051216): 8–9. tex.holder: 邓一刚
-tex.number: CN200610171314.3</div>
-  <div class="csl-entry">郑涵, 于贵瑞, 朱先进, et al., 2018. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集. </div>
+  <div class="csl-entry">邓一刚, 2008. 全智能节电器. (CN200510022322.7 20051216): 8–9.</div>
+  <div class="csl-entry">郑涵, 于贵瑞, 朱先进, et al., 2018. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集. <a href="https://doi.org/10.11922/sciencedb.610">https://doi.org/10.11922/sciencedb.610</a> tex.cstr: 31253.11.sciencedb.610</div>
   <div class="csl-entry">金燕萍, 2020. 社交媒体时代的虚假信息研究: [硕士学位论文]. 温州大学, 温州. 16</div>
   <div class="csl-entry">钱学森, 2001. 创建系统学. 山西科学技术出版社, 太原. 序2-3</div>
-  <div class="csl-entry">阿扬, 2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答. In: 《环球科学》杂志社, eds., 认识记忆力：关于学习、思考与遗忘的脑科学. 机械工业出版社, 北京. 15–18</div>
+  <div class="csl-entry">阿扬, 2023. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答. In: 《环球科学》杂志社, eds., 认识记忆力：关于学习、思考与遗忘的脑科学. 机械工业出版社, 北京. 15–18</div>
   <div class="csl-entry">陈建军, 2010. 从数字地球到智慧地球. 国土资源导刊, 7(10): 93. <a href="https://doi.org/10.3969/j.issn.1672-5603.2010.10.038">https://doi.org/10.3969/j.issn.1672-5603.2010.10.038</a></div>
   <div class="csl-entry">陈志勇, eds., 2011. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集. 经济科学出版社, 北京. tex.entrytype: proceedings</div>
   <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, et al., 1980. 蓟县震旦亚界的研究. In: 中国地质科学院天津地质矿产研究所, eds., 中国震旦亚界. 天津科学技术出版社, 天津. 56–114</div>
@@ -217,7 +209,7 @@ tex.number: CN200610171314.3</div>
 tex.location: 武汉
 tex.institution: 武汉大学档案馆</div>
   <div class="csl-entry">1962. 康熙字典. 中华书局, 北京. 50</div>
-  <div class="csl-entry">1979. Public Library Quarterly. 1979，1（1）—. tex.entrytype: periodical</div>
+  <div class="csl-entry">1979. Public Library Quarterly. 1979，1（1）-. tex.entrytype: periodical</div>
   <div class="csl-entry">2015. [《昨日之歌》图书封面]. tex.entrytype: image</div>
   <div class="csl-entry">2020. IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation. </div>
   <div class="csl-entry">2022. 《庄子》读不懂？看完这一篇“导读”就明白了. </div>

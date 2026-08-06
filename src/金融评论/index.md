@@ -67,7 +67,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">阿扬（2023）：《谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答》，载于《认识记忆力：关于学习、思考与遗忘的脑科学》（《环球科学》杂志社主编），姜海伦译，机械工业出版社，第15—18页。</div>
+  <div class="csl-entry">阿扬（2023）：《谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答》，载于《认识记忆力：关于学习、思考与遗忘的脑科学》（《环球科学》杂志社主编），姜海伦译，机械工业出版社，第15—18页。</div>
   <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆）（2021）：《北京鲁迅博物馆志愿服务章程》，<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>，2023年5月2日。</div>
   <div class="csl-entry">博伯尔（2023）：《银行业的未来与人工智能》，徐超译，清华大学出版社。</div>
   <div class="csl-entry">曹凌（2011）：《中国佛教疑伪经综录》，上海古籍出版社。</div>
@@ -82,7 +82,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">方向明、曹迎杰（2023）：《元宇宙在图书馆的应用：理论研究与实践进展》，ChinaXiv。</div>
   <div class="csl-entry">冯友兰（2008）：《冯友兰自选集》（第2版），首都师范大学出版社。</div>
   <div class="csl-entry">高等教育文献保障系统：《馆际互借与文献传递服务》，<a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>，2025年6月21日。</div>
-  <div class="csl-entry">工业和信息化部（2022）：《信息技术  中文编码字符集》。</div>
+  <div class="csl-entry">工业和信息化部（2022）：《信息技术　中文编码字符集》。</div>
   <div class="csl-entry">顾炎武（1980）：《昌平山水记；京东考古录》，北京古籍出版社。</div>
   <div class="csl-entry">国家测绘地理信息局（出版时间不详）：《一带一路经济走廊及其途经城市分布地势图》。</div>
   <div class="csl-entry">国家能源局（2020）：《水电工程水温实时监测系统技术规范》。</div>
@@ -102,7 +102,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">李妍、王莹（2022）：《医疗机构保洁人员“一前五后”手卫生干预效果研究》，“中华预防医学会医院感染控制分会第31次全国医院感染学术年会”论文。</div>
   <div class="csl-entry">李幼平、王莉（2010）：《循证医学研究方法：附视频》，《中华移植杂志（电子版）》，第3期。</div>
   <div class="csl-entry">李约瑟（1991）：《题词》，载于《苏颂与《本草图经》研究》，长春出版社，扉页。</div>
-  <div class="csl-entry">刘时银、郭万钦、许君利（2012）：《中国第二次水川编目科学数据：2006—2011》。</div>
+  <div class="csl-entry">刘时银、郭万钦、许君利（2012）：《中国第二次冰川编目数据集：2006—2011》。</div>
   <div class="csl-entry">刘祥沈（2016）：《沈阳市政区图》，武汉大学出版社。</div>
   <div class="csl-entry">楼梦麟、杨燕（2011）：《汶川地震基岩地震动特征分析》，载于《汶川地震震害研究》（同济大学土木工程防灾国家重点实验室主编），同济大学出版社，第11—12页。</div>
   <div class="csl-entry">马克思（2013）：《政治经济学批判》，载于《马克思恩格斯全集》（第2版）第35卷，人民出版社，第302页。</div>
@@ -110,14 +110,14 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">牛志明、Swingland I. R.、雷光春主编（2012）：《综合湿地管理：综合湿地管理国际研讨会论文集》，海洋出版社。</div>
   <div class="csl-entry">彭守璋（2025）：《1901—2024年中国1km分辨率逐月降水量数据集》。</div>
   <div class="csl-entry">钱学森（2001）：《创建系统学》，山西科学技术出版社。</div>
-  <div class="csl-entry">全国信息技术标准化技术委员会（2016）：《信息技术 先进音视频编码 第16部分：广播电视视频》。</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会（2021）：《信息与文献 资源描述》。</div>
+  <div class="csl-entry">全国信息技术标准化技术委员会（2016）：《信息技术　先进音视频编码　第16部分：广播电视视频》。</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会（2021）：《信息与文献　资源描述》。</div>
   <div class="csl-entry">石顺祥、许海平、孙艳玲、陈利菊、李家立、刘继芳（2002）：《光折变自适应光外差探测方法》。</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, 邢利娜, and 高峰 (2022): 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法.</div>
   <div class="csl-entry">谭其骧（1982）：《中国历史地图集》第2册，地图出版社。</div>
   <div class="csl-entry">汤万金、杨跃翔、刘文、郑建国、王赟松（2013）：《人体安全重要技术标准研制最终报告》。</div>
   <div class="csl-entry">童世亨（1926）：《京兆直隶图》，商务印书馆。</div>
-  <div class="csl-entry">図書館用語辞典編集委員会 (ed.) (2004): 最新図書館用語大辭典, 柏書房株式會社.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会 (ed.) (2004): 最新図書館用語大辞典, 柏書房株式會社.</div>
   <div class="csl-entry">汪学军（2005）：《中国农业转基因生物研发进展与安全管理》，载于《中国国家生物安全框架实施国际合作项目研讨会论文集》（国家环境保护总局生物安全管理办公室主编），中国环境科学出版社。</div>
   <div class="csl-entry">王夫之（1865）：《宋论》（刻本），湘乡曾国荃。</div>
   <div class="csl-entry">王夫之主编（2011）：《周易外传：卷5》，载于《船山全书》（修订版）第1册，岳麓书社，第983—1029页。</div>
@@ -144,13 +144,13 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">中国互联网络信息中心（2012）：《第29次中国互联网络发展状况统计报告》。</div>
   <div class="csl-entry">中国科学院文献情报中心：《中国科学院科技论文预发布平台》，<a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>，2025年3月6日。</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心主编（2012）：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，九州出版社。</div>
-  <div class="csl-entry">中国图书馆学会主编（1957/1990）：《图书馆学通讯》1957（1）—1990（4），北京图书馆。</div>
+  <div class="csl-entry">中国图书馆学会主编（1957/1990）：《图书馆学通讯》1957（1）-1990（4），北京图书馆。</div>
   <div class="csl-entry">中国信息通信研究院、中国电信股份有限公司研究院、中国移动通信研究院、中国联合网络通信有限公司研究院（2023）：《电信业发展白皮书：2023：新时代高质量发展探索》。</div>
   <div class="csl-entry">中国造纸学会（2003）：《中国造纸年鉴：2003》，中国轻工业出版社。</div>
-  <div class="csl-entry">中华医学会湖北分会主编（1984）：《临床内科杂志》1984，1（1）—，中华医学会湖北分会。</div>
-  <div class="csl-entry">周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞（2023）：《天宫二号遥感图像自然景物分类科学数据》。</div>
+  <div class="csl-entry">中华医学会湖北分会主编（1984）：《临床内科杂志》1984，1（1）-，中华医学会湖北分会。</div>
+  <div class="csl-entry">周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞（2023）：《天宫二号遥感图像自然景物分类数据集》。</div>
   <div class="csl-entry">訾冬梅、高秀静（2006）：《内蒙古自治区地图册》（新版），中国地图出版社。</div>
-  <div class="csl-entry">American Association for the Advancement of Science (ed.) (1883): <i>Science</i>, 1883，1（1）—, American Association for the Advancement of Science.</div>
+  <div class="csl-entry">American Association for the Advancement of Science (ed.) (1883): <i>Science</i>, 1883，1（1）-, American Association for the Advancement of Science.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA) (2022): <i>Guide to Lithium Battery Safety for Space Applications</i>.</div>
   <div class="csl-entry">António, M. and L. Pepper (2019): <i>Histórias de Portugal: livros caídos</i>, <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>, January 2, 2025.</div>
   <div class="csl-entry">Babu, B. V., A. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray and U. Gupta (eds.) (2014): <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>, Springer.</div>
@@ -199,8 +199,8 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">Zhong, X., Q. Yan and G. Li (2022): <i>Long Time Series Nighttime Light Dataset of China: 2000–2020</i>.</div>
   <div class="csl-entry">Zotero: <i>[Zotero Download]</i>, <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>, April 8, 2024.</div>
   <div class="csl-entry">（1949）：《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》。</div>
-  <div class="csl-entry">（1962）：《康熙字典》（影印本）巳集上 水部，中华书局。</div>
-  <div class="csl-entry">(1979): <i>Public Library Quarterly</i>, 1979，1（1）—, Taylor &#38; Francis.</div>
+  <div class="csl-entry">（1962）：《康熙字典》（影印本）巳集上：水部，中华书局。</div>
+  <div class="csl-entry">(1979): <i>Public Library Quarterly</i>, 1979，1（1）-, Taylor &#38; Francis.</div>
   <div class="csl-entry">（2015）：《[《昨日之歌》图书封面]》。</div>
   <div class="csl-entry">(2020): <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>, IEEE.</div>
   <div class="csl-entry">（2022）：《《庄子》读不懂？看完这一篇“导读”就明白了》。</div>

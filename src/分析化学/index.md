@@ -69,8 +69,8 @@
   <div class="csl-entry">[7]	冯友兰. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.
     <div class="csl-block">2008: 第1版自序</div>
   </div>
-  <div class="csl-entry">[8]	巳集上 水部. 影印本. 北京: 中华书局, 1962: 50.
-    <div class="csl-block">巳集上 水部. 1962: 50</div>
+  <div class="csl-entry">[8]	巳集上：水部. 影印本. 北京: 中华书局, 1962: 50.
+    <div class="csl-block">巳集上：水部. 1962: 50</div>
   </div>
   <div class="csl-entry">[9]	战德臣, 张丽杰. 3 版. 北京: 高等教育出版社, 2019.
     <div class="csl-block">2019</div>
@@ -133,14 +133,14 @@
   </div>
   <div class="csl-entry">[34]	WEINSTEIN L, SWARTZ M N. Sodeman W A Jr, Sodeman W A. Pathologic physiology: mechanisms of disease. 5th ed. Philadelphia: Saunders, 1974: 457-472.</div>
   <div class="csl-entry">[35]	ROBERSON J A, BURNESON E G. American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
-  <div class="csl-entry">[36]	中华医学会湖北分会. 1984, 1984，1（1）—. 武汉: 中华医学会湖北分会, 1984.
-    <div class="csl-block">1984, 1984，1（1）—. 1984</div>
+  <div class="csl-entry">[36]	中华医学会湖北分会. 1984, 1984，1（1）-. 武汉: 中华医学会湖北分会, 1984.
+    <div class="csl-block">1984, 1984，1（1）-. 1984</div>
   </div>
-  <div class="csl-entry">[37]	中国图书馆学会. 1957/[1990], 1957（1）—1990（4）. 北京: 北京图书馆, 1957/1990.
-    <div class="csl-block">1957/1990, 1957（1）—1990（4）. 1957/1990</div>
+  <div class="csl-entry">[37]	中国图书馆学会. 1957/[1990], 1957（1）-1990（4）. 北京: 北京图书馆, 1957/1990.
+    <div class="csl-block">1957/1990, 1957（1）-1990（4）. 1957/1990</div>
   </div>
-  <div class="csl-entry">[38]	AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">[39]	1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis, 1979.</div>
+  <div class="csl-entry">[38]	AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE. 1883, 1883，1（1）-. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
+  <div class="csl-entry">[39]	1979, 1979，1（1）-. Philadelphia: Taylor &#38; Francis, 1979.</div>
   <div class="csl-entry">[40]	杨洪升. 文献, 2013(1): 56-75.
     <div class="csl-block">2013(1): 56-75</div>
   </div>
@@ -345,8 +345,8 @@
   <div class="csl-entry">[129]	彭守璋. 国家地球系统科学数据中心, 2025. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>.
     <div class="csl-block">(2025-07-07)[2025-07-15]. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a></div>
   </div>
-  <div class="csl-entry">[130]	刘时银, 郭万钦, 许君利. 国家青藏高原科学数据中心, 2012. <a href="https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/">https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/</a>.
-    <div class="csl-block">2012[2025-07-15]. <a href="https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/">https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/</a></div>
+  <div class="csl-entry">[130]	刘时银, 郭万钦, 许君利. 国家青藏高原科学数据中心, 2012. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>.
+    <div class="csl-block">2012[2025-07-15]. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a></div>
   </div>
   <div class="csl-entry">[131]	周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 国家基础学科公共科学数据中心, 2023. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.
     <div class="csl-block">(2023-09-10)[2025-07-15]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a></div>

@@ -93,7 +93,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">3.</div><div class="csl-right-inline">于潇, 刘义, 柴跃廷, 孙宏波. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">4.</div><div class="csl-right-inline">工业和信息化部. 信息技术  中文编码字符集. , 2022.</div>
+    <div class="csl-left-margin">4.</div><div class="csl-right-inline">工业和信息化部. 信息技术　中文编码字符集. , 2022.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">5.</div><div class="csl-right-inline">马克思. 政治经济学批判[M]//马克思恩格斯全集. 北京: 人民出版社, 2013: 302.</div>
@@ -153,13 +153,13 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">23.</div><div class="csl-right-inline">邓一刚. 全智能节电器[P]. 2008-01-16.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">24.</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 信息与文献 资源描述. , 2021.</div>
+    <div class="csl-left-margin">24.</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 信息与文献　资源描述. , 2021.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">25.</div><div class="csl-right-inline">全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频. , 2016.</div>
+    <div class="csl-left-margin">25.</div><div class="csl-right-inline">全国信息技术标准化技术委员会. 信息技术　先进音视频编码　第16部分：广播电视视频. , 2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">26.</div><div class="csl-right-inline">刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006—2011. 国家青藏高原科学数据中心[2025-07-15].</div>
+    <div class="csl-left-margin">26.</div><div class="csl-right-inline">刘时银, 郭万钦, 许君利. 中国第二次冰川编目数据集：2006—2011. 国家青藏高原科学数据中心[2025-07-15].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">27.</div><div class="csl-right-inline">刘祥沈. 沈阳市政区图. 武汉: 武汉大学出版社.</div>
@@ -195,7 +195,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">37.</div><div class="csl-right-inline">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">38.</div><div class="csl-right-inline">佚名. 最新図書館用語大辭典[M]. 東京: 柏書房株式會社, 2004.</div>
+    <div class="csl-left-margin">38.</div><div class="csl-right-inline">佚名. 最新図書館用語大辞典[M]. 東京: 柏書房株式會社, 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">39.</div><div class="csl-right-inline">Anonymous. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
@@ -291,7 +291,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">69.</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究. PSSXiv(2024-07-02).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">70.</div><div class="csl-right-inline">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 天宫二号遥感图像自然景物分类科学数据. 国家基础学科公共科学数据中心(2023-09-10)[2025-07-15].</div>
+    <div class="csl-left-margin">70.</div><div class="csl-right-inline">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 天宫二号遥感图像自然景物分类数据集. 国家基础学科公共科学数据中心(2023-09-10)[2025-07-15].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">71.</div><div class="csl-right-inline">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图.</div>
@@ -303,7 +303,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">73.</div><div class="csl-right-inline">金燕萍. 社交媒体时代的虚假信息研究[D]. 温州: 温州大学, 2020.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">74.</div><div class="csl-right-inline">阿扬. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]//认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, 2023: 15-18.</div>
+    <div class="csl-left-margin">74.</div><div class="csl-right-inline">阿扬. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答[M]//认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, 2023: 15-18.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">75.</div><div class="csl-right-inline">陈建军. 从数字地球到智慧地球[J]. 国土资源导刊, 2010, 7(10): 93.</div>

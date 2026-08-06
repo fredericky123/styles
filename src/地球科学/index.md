@@ -75,7 +75,7 @@ Qian et al. （2009b)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-365 second-field-align-false hangingindent-true">
-  <div class="csl-entry">阿扬，2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答. 见：《环球科学》杂志社 编. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京：机械工业出版社，15～18.
+  <div class="csl-entry">阿扬，2023. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答. 见：《环球科学》杂志社 编. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京：机械工业出版社，15～18.
     <div class="csl-block">2023. 《环球科学》杂志社, 编. 15～18 (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆），2021. 北京鲁迅博物馆志愿服务章程. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>.
@@ -120,7 +120,7 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">高等教育文献保障系统，不详. 馆际互借与文献传递服务. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>.
     <div class="csl-block">不详. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a> (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">工业和信息化部，2022. 信息技术  中文编码字符集. <a href="http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=A1931A578FE14957104988029B0833D3">http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=A1931A578FE14957104988029B0833D3</a>.
+  <div class="csl-entry">工业和信息化部，2022. 信息技术　中文编码字符集. <a href="http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=A1931A578FE14957104988029B0833D3">http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=A1931A578FE14957104988029B0833D3</a>.
     <div class="csl-block">2022. <a href="http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=A1931A578FE14957104988029B0833D3">http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=A1931A578FE14957104988029B0833D3</a> (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">顾炎武，1980. 昌平山水记；京东考古录. 北京：北京古籍出版社.
@@ -183,7 +183,7 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">李约瑟，1991. 题词. 苏颂与《本草图经》研究. 长春：长春出版社，扉页.
     <div class="csl-block">1991. 扉页 (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">刘时银，郭万钦，许君利，2012. 中国第二次水川编目科学数据：2006—2011. doi: <a href="https://doi.org/10.3972/glacier.001.2013.db">10.3972/glacier.001.2013.db</a>.
+  <div class="csl-entry">刘时银，郭万钦，许君利，2012. 中国第二次冰川编目数据集：2006—2011. doi: <a href="https://doi.org/10.3972/glacier.001.2013.db">10.3972/glacier.001.2013.db</a>.
     <div class="csl-block">2012. doi: <a href="https://doi.org/10.3972/glacier.001.2013.db">10.3972/glacier.001.2013.db</a> (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">刘祥沈，2016. 沈阳市政区图.
@@ -207,10 +207,10 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">钱学森，2001. 创建系统学. 太原：山西科学技术出版社，序2-3.
     <div class="csl-block">2001. 序2-3 (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">全国信息技术标准化技术委员会，2016. 信息技术 先进音视频编码 第16部分：广播电视视频.
+  <div class="csl-entry">全国信息技术标准化技术委员会，2016. 信息技术　先进音视频编码　第16部分：广播电视视频.
     <div class="csl-block">2016 (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会，2021. 信息与文献 资源描述.
+  <div class="csl-entry">全国信息与文献标准化技术委员会，2021. 信息与文献　资源描述.
     <div class="csl-block">2021 (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">石顺祥，许海平，孙艳玲，等，2002. 光折变自适应光外差探测方法. <a href="http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0">http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0</a>.
@@ -228,7 +228,7 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">童世亨，1926. 京兆直隶图. <a href="http://gdt-lib-whu-edu-cn.vpn.whu.edu.cn:8118/imginfo.html?ty%3Dmap%26id%3D4861">http://gdt-lib-whu-edu-cn.vpn.whu.edu.cn:8118/imginfo.html?ty%3Dmap%26id%3D4861</a>.
     <div class="csl-block">1926. <a href="http://gdt-lib-whu-edu-cn.vpn.whu.edu.cn:8118/imginfo.html?ty%3Dmap%26id%3D4861">http://gdt-lib-whu-edu-cn.vpn.whu.edu.cn:8118/imginfo.html?ty%3Dmap%26id%3D4861</a> (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">図書館用語辞典編集委員会，2004. 最新図書館用語大辭典. 東京：柏書房株式會社，154.
+  <div class="csl-entry">図書館用語辞典編集委員会，2004. 最新図書館用語大辞典. 東京：柏書房株式會社，154.
     <div class="csl-block">2004. 154 (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">汪学军，2005. 中国农业转基因生物研发进展与安全管理. 见：国家环境保护总局生物安全管理办公室 编. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京：中国环境科学出版社，22～25.
@@ -300,8 +300,8 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">赵学功，2001. 当代美国外交. 北京：社会科学文献出版社. <a href="http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1">http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1</a>.
     <div class="csl-block">2001. <a href="http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1">http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1</a> (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">郑涵，于贵瑞，朱先进，等，2018. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>.
-    <div class="csl-block">2018. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a> (in Chinese with English abstract).</div>
+  <div class="csl-entry">郑涵，于贵瑞，朱先进，等，2018. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集. doi: <a href="https://doi.org/10.11922/sciencedb.610">10.11922/sciencedb.610</a>.
+    <div class="csl-block">2018. doi: <a href="https://doi.org/10.11922/sciencedb.610">10.11922/sciencedb.610</a> (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">中工武大设计研究有限公司，2019. 阳新县标准地名图.
     <div class="csl-block">2019 (in Chinese with English abstract).</div>
@@ -318,8 +318,8 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">中国社会科学院台湾史研究中心，2012. 台湾光复六十五周年暨抗战史实学术研讨会论文集. 北京：九州出版社.
     <div class="csl-block">2012 (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">中国图书馆学会，1957–1990. 图书馆学通讯. 1957（1）—1990（4）.
-    <div class="csl-block">1957–1990. 1957（1）—1990（4） (in Chinese with English abstract).</div>
+  <div class="csl-entry">中国图书馆学会，1957–1990. 图书馆学通讯. 1957（1）-1990（4）.
+    <div class="csl-block">1957–1990. 1957（1）-1990（4） (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">中国信息通信研究院，中国电信股份有限公司研究院，中国移动通信研究院，等，2023. 电信业发展白皮书：2023：新时代高质量发展探索. <a href="http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf">http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf</a>.
     <div class="csl-block">2023. <a href="http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf">http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf</a> (in Chinese with English abstract).</div>
@@ -327,10 +327,10 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">中国造纸学会，2003. 中国造纸年鉴：2003. 北京：中国轻工业出版社. <a href="http://www.cadal.zju.edu.cn/book/view/25010080">http://www.cadal.zju.edu.cn/book/view/25010080</a>.
     <div class="csl-block">2003. <a href="http://www.cadal.zju.edu.cn/book/view/25010080">http://www.cadal.zju.edu.cn/book/view/25010080</a> (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">中华医学会湖北分会，1984. 临床内科杂志. 1984，1（1）—.
-    <div class="csl-block">1984. 1984，1（1）— (in Chinese with English abstract).</div>
+  <div class="csl-entry">中华医学会湖北分会，1984. 临床内科杂志. 1984，1（1）-.
+    <div class="csl-block">1984. 1984，1（1）- (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">周壮，李盛阳，吴薇，等，2023. 天宫二号遥感图像自然景物分类科学数据. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.
+  <div class="csl-entry">周壮，李盛阳，吴薇，等，2023. 天宫二号遥感图像自然景物分类数据集. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.
     <div class="csl-block">2023. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> (in Chinese with English abstract).</div>
   </div>
   <div class="csl-entry">《庄子》读不懂？看完这一篇“导读”就明白了，2022. <a href="https://www.bilibili.com/video/BV1t84y1B7vv/">https://www.bilibili.com/video/BV1t84y1B7vv/</a>.
@@ -342,7 +342,7 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">[《昨日之歌》图书封面]，2015. <a href="http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg">http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg</a>.
     <div class="csl-block">2015. <a href="http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg">http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg</a> (in Chinese with English abstract).</div>
   </div>
-  <div class="csl-entry">American Association for the Advancement of Science, 1883. Science. 1883，1（1）—.</div>
+  <div class="csl-entry">American Association for the Advancement of Science, 1883. Science. 1883，1（1）-.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), 2022. Guide to lithium battery safety for space applications.</div>
   <div class="csl-entry">M. António，L. Pepper，2019. Histórias de Portugal: livros caídos. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>.
     <div class="csl-block">2019. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a> (in Chinese with English abstract).</div>
@@ -379,7 +379,7 @@ Qian et al. （2009b)<br>
   <div class="csl-entry">Park, J.-R., Tosaka, Y., 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. <i>Cataloging &#38; Classification Quarterly</i>, 48(8):696～715. <a href="https://www.tandfonline.com/doi/full/10.1080/01639374.2010.508711">https://www.tandfonline.com/doi/full/10.1080/01639374.2010.508711</a>.</div>
   <div class="csl-entry">Peebles, P.Z., Jr., 2001. Probability, random variables, and random signal principles. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A., 2011. Death by theory: a tale of mystery and archaeological theory. Rowman &#38; Littlefield Publishing Group, Inc., 13. <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a>.</div>
-  <div class="csl-entry">Public library quarterly, 1979. 1979，1（1）—. <a href="http://www.tandfonline.com/loi/wplq">http://www.tandfonline.com/loi/wplq</a>.</div>
+  <div class="csl-entry">Public library quarterly, 1979. 1979，1（1）-. <a href="http://www.tandfonline.com/loi/wplq">http://www.tandfonline.com/loi/wplq</a>.</div>
   <div class="csl-entry">Roberson, J.A., Burneson, E.G., 2011. Drinking water quality standards, regulations and goals. In: American Water Works Association, eds. <i>Water quality &#38; treatment: a handbook on drinking water</i>. New York: McGraw-Hill, 1.1-1.36. <a href="http://lib.myilibrary.com/Open.aspx?id=291430">http://lib.myilibrary.com/Open.aspx?id=291430</a>.</div>
   <div class="csl-entry">Sadock, B.J., Sadock, V.A., Ruiz, P., et al., 2009. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito, M., Miyazaki, K., 2006. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6):169～176.</div>

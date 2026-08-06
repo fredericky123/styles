@@ -67,7 +67,7 @@ Qian et al. (2009a)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">American Association for the Advancement of Science, ed., 1883: Science. <b>1883，1（1）—</b>.</div>
+  <div class="csl-entry">American Association for the Advancement of Science, ed., 1883: Science. <b>1883，1（1）-</b>.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), 2022: Guide to lithium battery safety for space applications.</div>
   <div class="csl-entry">António, M., and L. Pepper, 2019: Histórias de Portugal: livros caídos. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a> (Accessed January 2, 2025).</div>
   <div class="csl-entry">Babu, B. V., A. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray, and U. Gupta, eds., 2014: <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. Springer,.</div>
@@ -116,10 +116,10 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Zhong, X., Q. Yan, and G. Li, 2022: Long time series nighttime light dataset of China: 2000–2020. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a> (Accessed November 25, 2024).</div>
   <div class="csl-entry">Zotero, [Zotero download]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a> (Accessed April 8, 2024).</div>
   <div class="csl-entry">丁文详, 2000: 数字革命与竞争国际化. 中国青年报, November 20.</div>
-  <div class="csl-entry">中华医学会湖北分会, ed., 1984: 临床内科杂志. <b>1984，1（1）—</b>.</div>
+  <div class="csl-entry">中华医学会湖北分会, ed., 1984: 临床内科杂志. <b>1984，1（1）-</b>.</div>
   <div class="csl-entry">中国互联网络信息中心, 2012: <i>第29次中国互联网络发展状况统计报告</i>. <a href="https://www.cnnic.net.cn/NMediaFile/old_attach/P020120612484958777344.pdf">https://www.cnnic.net.cn/NMediaFile/old_attach/P020120612484958777344.pdf</a> (Accessed March 26, 2013).</div>
   <div class="csl-entry">中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, and 中国联合网络通信有限公司研究院, 2023: <i>电信业发展白皮书：2023：新时代高质量发展探索</i>. <a href="http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf">http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf</a> (Accessed February 28, 2025).</div>
-  <div class="csl-entry">中国图书馆学会, ed., 1957–1990: 图书馆学通讯. <b>1957（1）—1990（4）</b>.</div>
+  <div class="csl-entry">中国图书馆学会, ed., 1957–1990: 图书馆学通讯. <b>1957（1）-1990（4）</b>.</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心, ed., 2012: 台湾光复六十五周年暨抗战史实学术研讨会论文集. 九州出版社,.</div>
   <div class="csl-entry">中国科学院文献情报中心, 中国科学院科技论文预发布平台. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a> (Accessed March 6, 2025).</div>
   <div class="csl-entry">中国造纸学会, 2003: <i>中国造纸年鉴：2003</i>. 中国轻工业出版社,.</div>
@@ -130,23 +130,23 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">井丽南, 2022: 支持状态可编程的SDN交换机关键技术研究. 中国科学院大学, <a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289">http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289</a> (Accessed December 2, 2025).</div>
   <div class="csl-entry">仉尚航, 2024: 开放世界中的实体基础模型. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a> (Accessed January 2, 2025).</div>
   <div class="csl-entry">何筱梅, 2016: 新媒体时代原生广告的策略与发展研究. 武汉大学, <a href="http://paperright.lib.whu.edu.cn/read/pdfindex1.jsp?fid=2f1d8c4e156d9863466de341e4790782">http://paperright.lib.whu.edu.cn/read/pdfindex1.jsp?fid=2f1d8c4e156d9863466de341e4790782</a> (Accessed February 28, 2025).</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021: 信息与文献 资源描述.</div>
-  <div class="csl-entry">全国信息技术标准化技术委员会, 2016: 信息技术 先进音视频编码 第16部分：广播电视视频.</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021: 信息与文献　资源描述.</div>
+  <div class="csl-entry">全国信息技术标准化技术委员会, 2016: 信息技术　先进音视频编码　第16部分：广播电视视频.</div>
   <div class="csl-entry">冀超, 2001: 一种荒漠化地区生态植被综合培育种植方法.</div>
   <div class="csl-entry">冯友兰, 2008: 冯友兰自选集. 2nd ed. 首都师范大学出版社,.</div>
-  <div class="csl-entry">刘时银, 郭万钦, and 许君利, 2012: 中国第二次水川编目科学数据：2006—2011. <a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a>.</div>
+  <div class="csl-entry">刘时银, 郭万钦, and 许君利, 2012: 中国第二次冰川编目数据集：2006—2011. <a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a>.</div>
   <div class="csl-entry">刘祥沈, 2016: 沈阳市政区图.</div>
   <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆）, 2021: 北京鲁迅博物馆志愿服务章程. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> (Accessed May 2, 2023).</div>
   <div class="csl-entry">博伯尔, 2023: 银行业的未来与人工智能. 清华大学出版社,.</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, 邢利娜, and 高峰, 2022: 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法.</div>
   <div class="csl-entry">吴自银 and 温珍河, 2019: 中国南部海域海底地形图.</div>
-  <div class="csl-entry">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, and 赵子飞, 2023: 天宫二号遥感图像自然景物分类科学数据. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> (Accessed July 15, 2025).</div>
+  <div class="csl-entry">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, and 赵子飞, 2023: 天宫二号遥感图像自然景物分类数据集. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> (Accessed July 15, 2025).</div>
   <div class="csl-entry">哈里森 and 沃尔德伦, 2012: 经济数学与金融数学. 中国人民大学出版社,.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会, ed., 2004: 最新図書館用語大辭典. 柏書房株式會社,.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会, ed., 2004: 最新図書館用語大辞典. 柏書房株式會社,.</div>
   <div class="csl-entry">国家测绘地理信息局, 一带一路经济走廊及其途经城市分布地势图.</div>
   <div class="csl-entry">国家能源局, 2020: 水电工程水温实时监测系统技术规范.</div>
   <div class="csl-entry">国家药典委员会, ed., 2020: 大黄. 中华人民共和国药典, Vol. 一部 of, 中国医药科技出版社, 24–25.</div>
-  <div class="csl-entry">工业和信息化部, 2022: 信息技术  中文编码字符集.</div>
+  <div class="csl-entry">工业和信息化部, 2022: 信息技术　中文编码字符集.</div>
   <div class="csl-entry">张伯伟, 2002: 全唐五代诗格汇考. 江苏古籍出版社,.</div>
   <div class="csl-entry">张凯军, 赵永杰, and 陈朝岗, 2013: 轨道火车及高速轨道火车紧急安全制动辅助装置.</div>
   <div class="csl-entry">张群, 程志宝, and 石志飞, 2024a: 惯性增强动力吸振器-浮置板轨道低频减振性能研究. 铁道学报,.</div>
@@ -185,10 +185,10 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">贾东琴 and 柯平, 2011: 面向数字素养的高校图书馆数字服务体系研究. 中国图书馆学会年会论文集, 中国图书馆学会, Ed., Vol. 2011年卷 of, 北京, 国家图书馆出版社, 45–52.</div>
   <div class="csl-entry">赵学功, 2001: 当代美国外交. 社会科学文献出版社,.</div>
   <div class="csl-entry">邓一刚, 2008: 全智能节电器. 8–9.</div>
-  <div class="csl-entry">郑涵, et al., 2018: 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a> (Accessed February 14, 2025).</div>
+  <div class="csl-entry">郑涵, et al., 2018: 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集. <a href="https://doi.org/10.11922/sciencedb.610">https://doi.org/10.11922/sciencedb.610</a>.</div>
   <div class="csl-entry">金燕萍, 2020: 社交媒体时代的虚假信息研究. 温州大学, 63 pp. <a href="https://d.wanfangdata.com.cn/thesis/D02216281">https://d.wanfangdata.com.cn/thesis/D02216281</a> (Accessed December 2, 2025).</div>
   <div class="csl-entry">钱学森, 2001: 创建系统学. 山西科学技术出版社,.</div>
-  <div class="csl-entry">阿扬, 2023: 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答. 认识记忆力：关于学习、思考与遗忘的脑科学, 《环球科学》杂志社, Ed., 机械工业出版社, 15–18.</div>
+  <div class="csl-entry">阿扬, 2023: 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答. 认识记忆力：关于学习、思考与遗忘的脑科学, 《环球科学》杂志社, Ed., 机械工业出版社, 15–18.</div>
   <div class="csl-entry">陈建军, 2010: 从数字地球到智慧地球. 国土资源导刊, <b>7</b>, 93, <a href="https://doi.org/10.3969/j.issn.1672-5603.2010.10.038">https://doi.org/10.3969/j.issn.1672-5603.2010.10.038</a>.</div>
   <div class="csl-entry">陈志勇, ed., 2011: 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集. 经济科学出版社,.</div>
   <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, 赵震, and 王振刚, 1980: 蓟县震旦亚界的研究. 中国震旦亚界, 中国地质科学院天津地质矿产研究所, Ed., 天津科学技术出版社, 56–114.</div>
@@ -200,7 +200,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）, 2024: 青海省县域教育、卫生发展指标（2001—2022年）. <a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a>.</div>
   <div class="csl-entry">1949: 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告.</div>
   <div class="csl-entry">1962: 康熙字典. 影印本. 中华书局,.</div>
-  <div class="csl-entry">1979: Public library quarterly. <b>1979，1（1）—</b>.</div>
+  <div class="csl-entry">1979: Public library quarterly. <b>1979，1（1）-</b>.</div>
   <div class="csl-entry">2015: [《昨日之歌》图书封面].</div>
   <div class="csl-entry">2020: IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation.</div>
   <div class="csl-entry">2022: 《庄子》读不懂？看完这一篇“导读”就明白了.</div>

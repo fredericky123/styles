@@ -74,7 +74,7 @@
   <div class="csl-entry">[7]	冯友兰. 冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.
     <div class="csl-block">[M]. 2008: 第1版自序.</div>
   </div>
-  <div class="csl-entry">[8]	康熙字典: <b>巳集上 水部</b>[M]. 影印本. 北京: 中华书局, 1962: 50.
+  <div class="csl-entry">[8]	康熙字典: <b>巳集上：水部</b>[M]. 影印本. 北京: 中华书局, 1962: 50.
     <div class="csl-block">[M]. 1962: 50.</div>
   </div>
   <div class="csl-entry">[9]	战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社, 2019.
@@ -101,7 +101,7 @@
   <div class="csl-entry">[16]	博伯尔. 银行业的未来与人工智能[M]. 徐超, 译. 北京: 清华大学出版社, 2023: 35.
     <div class="csl-block">[M]. 2023: 35.</div>
   </div>
-  <div class="csl-entry">[17]	図書館用語辞典編集委員会. 最新図書館用語大辭典[M]. 東京: 柏書房株式會社, 2004: 154.
+  <div class="csl-entry">[17]	図書館用語辞典編集委員会. 最新図書館用語大辞典[M]. 東京: 柏書房株式會社, 2004: 154.
     <div class="csl-block">[M]. 2004: 154.</div>
   </div>
   <div class="csl-entry">[18]	Peebles P Z Jr. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.</div>
@@ -112,7 +112,7 @@
   <div class="csl-entry">[23]	Torres L, Salisbury F, Yazbeck B, <i>et al.</i> Connecting the library to the curriculum[M]. Singapore: Springer Nature, 2021: 97.</div>
   <div class="csl-entry">[24]	Boobier T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020: 35.</div>
   <div class="csl-entry">[25]	Deverell W, Igler D. A companion to California history[M]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
-  <div class="csl-entry">[26]	阿扬. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]. 姜海伦, 译//《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, 2023: 15-18.
+  <div class="csl-entry">[26]	阿扬. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答[M]. 姜海伦, 译//《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, 2023: 15-18.
     <div class="csl-block">[M]. 2023: 15-18.</div>
   </div>
   <div class="csl-entry">[27]	周易外传：卷5[M]//王夫之. 船山全书: <b>第1册</b>. 修订版. 长沙: 岳麓书社, 2011: 983-1029.
@@ -138,14 +138,14 @@
   </div>
   <div class="csl-entry">[34]	Weinstein L, Swartz M N. Pathogenic properties of invading microorganisms[M]//Sodeman W A Jr, Sodeman W A. Pathologic physiology: mechanisms of disease. 5th ed. Philadelphia: Saunders, 1974: 457-472.</div>
   <div class="csl-entry">[35]	Roberson J A, Burneson E G. Drinking water quality standards, regulations and goals[M]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
-  <div class="csl-entry">[36]	中华医学会湖北分会. 临床内科杂志[J]. 1984, <b>1984，1（1）—</b>. 武汉: 中华医学会湖北分会, 1984.
-    <div class="csl-block">[J]. 1984, <b>1984，1（1）—</b>. 1984.</div>
+  <div class="csl-entry">[36]	中华医学会湖北分会. 临床内科杂志[J]. 1984, <b>1984，1（1）-</b>. 武汉: 中华医学会湖北分会, 1984.
+    <div class="csl-block">[J]. 1984, <b>1984，1（1）-</b>. 1984.</div>
   </div>
-  <div class="csl-entry">[37]	中国图书馆学会. 图书馆学通讯[J]. 1957/[1990], <b>1957（1）—1990（4）</b>. 北京: 北京图书馆, 1957/1990.
-    <div class="csl-block">[J]. 1957/1990, <b>1957（1）—1990（4）</b>. 1957/1990.</div>
+  <div class="csl-entry">[37]	中国图书馆学会. 图书馆学通讯[J]. 1957/[1990], <b>1957（1）-1990（4）</b>. 北京: 北京图书馆, 1957/1990.
+    <div class="csl-block">[J]. 1957/1990, <b>1957（1）-1990（4）</b>. 1957/1990.</div>
   </div>
-  <div class="csl-entry">[38]	American Association for the Advancement of Science. Science[J]. 1883, <b>1883，1（1）—</b>. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">[39]	Public library quarterly[J]. 1979, <b>1979，1（1）—</b>. Philadelphia: Taylor &#38; Francis, 1979.</div>
+  <div class="csl-entry">[38]	American Association for the Advancement of Science. Science[J]. 1883, <b>1883，1（1）-</b>. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
+  <div class="csl-entry">[39]	Public library quarterly[J]. 1979, <b>1979，1（1）-</b>. Philadelphia: Taylor &#38; Francis, 1979.</div>
   <div class="csl-entry">[40]	杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.
     <div class="csl-block">[J]. 2013(1): 56-75.</div>
   </div>
@@ -240,13 +240,13 @@
   <div class="csl-entry">[81]	Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
   <div class="csl-entry">[82]	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing materials: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
   <div class="csl-entry">[83]	United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
-  <div class="csl-entry">[84]	全国信息与文献标准化技术委员会. GB/T 3792—2021 信息与文献 资源描述[S]. 2021.
+  <div class="csl-entry">[84]	全国信息与文献标准化技术委员会. GB/T 3792—2021 信息与文献　资源描述[S]. 2021.
     <div class="csl-block">GB/T 3792—2021[S]. 2021.</div>
   </div>
-  <div class="csl-entry">[85]	全国信息技术标准化技术委员会. GB/T 20090.16—2016 信息技术 先进音视频编码 第16部分：广播电视视频[S]. 2016.
+  <div class="csl-entry">[85]	全国信息技术标准化技术委员会. GB/T 20090.16—2016 信息技术　先进音视频编码　第16部分：广播电视视频[S]. 2016.
     <div class="csl-block">GB/T 20090.16—2016[S]. 2016.</div>
   </div>
-  <div class="csl-entry">[86]	工业和信息化部. GB 18030—2022 信息技术  中文编码字符集[S]. 2022.
+  <div class="csl-entry">[86]	工业和信息化部. GB 18030—2022 信息技术　中文编码字符集[S]. 2022.
     <div class="csl-block">GB 18030—2022[S]. 2022.</div>
   </div>
   <div class="csl-entry">[87]	国家能源局. NB/T 10386—2020 水电工程水温实时监测系统技术规范[S]. 2020.
@@ -350,10 +350,10 @@
   <div class="csl-entry">[129]	彭守璋. 1901—2024年中国1km分辨率逐月降水量数据集[DS/OL]. 国家地球系统科学数据中心, 2025. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>.
     <div class="csl-block">[DS/OL]. (2025-07-07)[2025-07-15]. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>.</div>
   </div>
-  <div class="csl-entry">[130]	刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006—2011[DS/OL]. 国家青藏高原科学数据中心, 2012. <a href="https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/">https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/</a>.
-    <div class="csl-block">[DS/OL]. 2012[2025-07-15]. <a href="https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/">https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/</a>.</div>
+  <div class="csl-entry">[130]	刘时银, 郭万钦, 许君利. 中国第二次冰川编目数据集：2006—2011[DS/OL]. 国家青藏高原科学数据中心, 2012. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>.
+    <div class="csl-block">[DS/OL]. 2012[2025-07-15]. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>.</div>
   </div>
-  <div class="csl-entry">[131]	周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类科学数据[DS/OL]. 国家基础学科公共科学数据中心, 2023. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.
+  <div class="csl-entry">[131]	周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心, 2023. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.
     <div class="csl-block">[DS/OL]. (2023-09-10)[2025-07-15]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
   </div>
   <div class="csl-entry">[132]	郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集[DS/OL]. Science Data Bank, 2018. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>.

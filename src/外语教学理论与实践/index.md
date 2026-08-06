@@ -119,9 +119,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">“Library of Congress”. <a href="https://www.loc.gov/">https://www.loc.gov/</a> (June 12, 2020).</div>
   <div class="csl-entry">ISO. 2016b. <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>.</div>
   <div class="csl-entry">史国华, 樊金宇, 何益 et al. 2022. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法. JP, JP2022539784A.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会 (ed.). 2004. 最新図書館用語大辭典. 東京: 柏書房株式會社.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会 (ed.). 2004. 最新図書館用語大辞典. 東京: 柏書房株式會社.</div>
   <div class="csl-entry">António M. &#38; L. Pepper. 2019. “Histórias de Portugal: livros caídos”. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a> (January 2, 2025).</div>
-  <div class="csl-entry">阿扬，2023，谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答，见《环球科学》杂志社（编），《认识记忆力：关于学习、思考与遗忘的脑科学》，北京：机械工业出版社。</div>
+  <div class="csl-entry">阿扬，2023，谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答，见《环球科学》杂志社（编），《认识记忆力：关于学习、思考与遗忘的脑科学》，北京：机械工业出版社。</div>
   <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆），2021，北京鲁迅博物馆志愿服务章程，<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>（2023.5.2）。</div>
   <div class="csl-entry">博伯尔，2023，《银行业的未来与人工智能》，北京：清华大学出版社。</div>
   <div class="csl-entry">曹凌，2011，《中国佛教疑伪经综录》，上海：上海古籍出版社。</div>
@@ -136,7 +136,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">方向明、曹迎杰，2023，《元宇宙在图书馆的应用：理论研究与实践进展》，ChinaXiv。</div>
   <div class="csl-entry">冯友兰，2008，《冯友兰自选集》（2 版），北京：首都师范大学出版社。</div>
   <div class="csl-entry">高等教育文献保障系统，馆际互借与文献传递服务，<a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>（2025.6.21）。</div>
-  <div class="csl-entry">工业和信息化部，2022，《信息技术  中文编码字符集》。</div>
+  <div class="csl-entry">工业和信息化部，2022，《信息技术　中文编码字符集》。</div>
   <div class="csl-entry">顾炎武，1980，《昌平山水记；京东考古录》，北京：北京古籍出版社。</div>
   <div class="csl-entry">国家测绘地理信息局，《一带一路经济走廊及其途经城市分布地势图》。</div>
   <div class="csl-entry">国家能源局，2020，《水电工程水温实时监测系统技术规范》。</div>
@@ -155,7 +155,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">李妍、王莹，2022，医疗机构保洁人员“一前五后”手卫生干预效果研究，中华预防医学会医院感染控制分会第31次全国医院感染学术年会。</div>
   <div class="csl-entry">李幼平、王莉，2010，循证医学研究方法：附视频，《中华移植杂志（电子版）》第3期。</div>
   <div class="csl-entry">李约瑟，1991，题词，见苏克福，管成学，邓明鲁，《苏颂与《本草图经》研究》，长春：长春出版社。</div>
-  <div class="csl-entry">刘时银、郭万钦、许君利，2012，《中国第二次水川编目科学数据：2006—2011》，国家青藏高原科学数据中心，<a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a>（2025.7.15）。</div>
+  <div class="csl-entry">刘时银、郭万钦、许君利，2012，《中国第二次冰川编目数据集：2006—2011》，国家青藏高原科学数据中心，<a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a>（2025.7.15）。</div>
   <div class="csl-entry">刘祥沈，2016，《沈阳市政区图》，武汉：武汉大学出版社。</div>
   <div class="csl-entry">楼梦麟、杨燕，2011，汶川地震基岩地震动特征分析，见同济大学土木工程防灾国家重点实验室（编），《汶川地震震害研究》，上海：同济大学出版社。</div>
   <div class="csl-entry">马克思，2013，政治经济学批判（2 版），见马克思，恩格斯，《马克思恩格斯全集》（2 版第35卷），北京：人民出版社。</div>
@@ -163,8 +163,8 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">牛志明、Swingland I. R.、雷光春（编），2012，《综合湿地管理：综合湿地管理国际研讨会论文集》，北京：海洋出版社。</div>
   <div class="csl-entry">彭守璋，2025，《1901—2024年中国1km分辨率逐月降水量数据集》，国家地球系统科学数据中心，<a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>（2025.7.15）。</div>
   <div class="csl-entry">钱学森，2001，《创建系统学》，太原：山西科学技术出版社。</div>
-  <div class="csl-entry">全国信息技术标准化技术委员会，2016，《信息技术 先进音视频编码 第16部分：广播电视视频》。</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会，2021，《信息与文献 资源描述》。</div>
+  <div class="csl-entry">全国信息技术标准化技术委员会，2016，《信息技术　先进音视频编码　第16部分：广播电视视频》。</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会，2021，《信息与文献　资源描述》。</div>
   <div class="csl-entry">石顺祥、许海平、孙艳玲等，2002，《光折变自适应光外差探测方法》，中国，CN1338652A。</div>
   <div class="csl-entry">谭其骧，1982，《中国历史地图集》（第2册），北京：地图出版社。</div>
   <div class="csl-entry">汤万金、杨跃翔、刘文等，2013，《人体安全重要技术标准研制最终报告》。</div>
@@ -190,19 +190,19 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">张群、程志宝、石志飞，2024b，惯性增强动力吸振器-浮置板轨道低频减振性能研究，《铁道学报》第8期。</div>
   <div class="csl-entry">仉尚航，2024，开放世界中的实体基础模型，<a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>（2025.1.2）。</div>
   <div class="csl-entry">赵学功，2001，《当代美国外交》，北京：社会科学文献出版社。</div>
-  <div class="csl-entry">郑涵、于贵瑞、朱先进等，2018，《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集》，Science Data Bank，<a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>（2025.2.14）。</div>
+  <div class="csl-entry">郑涵、于贵瑞、朱先进等，2018，《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集》，Science Data Bank，<a href="https://doi.org/10.11922/sciencedb.610">https://doi.org/10.11922/sciencedb.610</a>（2025.2.14）。</div>
   <div class="csl-entry">中工武大设计研究有限公司，2019，《阳新县标准地名图》，武汉：武汉大学出版社。</div>
   <div class="csl-entry">中国互联网络信息中心，2012，《第29次中国互联网络发展状况统计报告》。</div>
   <div class="csl-entry">中国科学院文献情报中心，中国科学院科技论文预发布平台，<a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>（2025.3.6）。</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心（编），2012，《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社。</div>
-  <div class="csl-entry">中国图书馆学会（编），1957/1990，《图书馆学通讯》（1957（1）—1990（4）），北京：北京图书馆。</div>
+  <div class="csl-entry">中国图书馆学会（编），1957/1990，《图书馆学通讯》（1957（1）-1990（4）），北京：北京图书馆。</div>
   <div class="csl-entry">中国信息通信研究院、中国电信股份有限公司研究院、中国移动通信研究院等，2023，《电信业发展白皮书：2023：新时代高质量发展探索》。</div>
   <div class="csl-entry">中国造纸学会，2003，《中国造纸年鉴：2003》，北京：中国轻工业出版社。</div>
-  <div class="csl-entry">中华医学会湖北分会（编），1984，《临床内科杂志》（1984，1（1）—），武汉：中华医学会湖北分会。</div>
-  <div class="csl-entry">周壮、李盛阳、吴薇等，2023，《天宫二号遥感图像自然景物分类科学数据》，国家基础学科公共科学数据中心，<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>（2025.7.15）。</div>
+  <div class="csl-entry">中华医学会湖北分会（编），1984，《临床内科杂志》（1984，1（1）-），武汉：中华医学会湖北分会。</div>
+  <div class="csl-entry">周壮、李盛阳、吴薇等，2023，《天宫二号遥感图像自然景物分类数据集》，国家基础学科公共科学数据中心，<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>（2025.7.15）。</div>
   <div class="csl-entry">訾冬梅、高秀静，2006，《内蒙古自治区地图册》（新版），北京：中国地图出版社。</div>
   <div class="csl-entry">1949，《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》，武汉：武汉大学档案馆。</div>
-  <div class="csl-entry">1962，《康熙字典》（影印本巳集上 水部），北京：中华书局。</div>
+  <div class="csl-entry">1962，《康熙字典》（影印本巳集上：水部），北京：中华书局。</div>
   <div class="csl-entry">2011，周易外传：卷5（修订版），见王夫之（编），《船山全书》（修订版第1册），长沙：岳麓书社。</div>
   <div class="csl-entry">2015，《[《昨日之歌》图书封面]》。</div>
   <div class="csl-entry">2020，大黄（2020版），见国家药典委员会（编），《中华人民共和国药典》（2020版一部），北京：中国医药科技出版社。</div>

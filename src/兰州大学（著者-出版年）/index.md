@@ -230,10 +230,10 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[54]</div><div class="csl-right-inline">何筱梅. 新媒体时代原生广告的策略与发展研究[D]. 武汉: 武汉大学, 2016: 24-25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. GB/T 3792—2021, 信息与文献 资源描述[S].</div>
+    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. GB/T 3792—2021, 信息与文献　资源描述[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">全国信息技术标准化技术委员会. GB/T 20090.16—2016, 信息技术 先进音视频编码 第16部分：广播电视视频[S].</div>
+    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">全国信息技术标准化技术委员会. GB/T 20090.16—2016, 信息技术　先进音视频编码　第16部分：广播电视视频[S].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[57]</div><div class="csl-right-inline">冀超. 一种荒漠化地区生态植被综合培育种植方法: 中国, CN1318281A[P].2001-10-24.</div>
@@ -242,7 +242,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[58]</div><div class="csl-right-inline">冯友兰. 冯友兰自选集[M].第2版 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">刘时银等. 中国第二次水川编目科学数据：2006—2011[J].国家青藏高原科学数据中心, 2012.</div>
+    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">刘时银等. 中国第二次冰川编目数据集：2006—2011[J].国家青藏高原科学数据中心, 2012.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[60]</div><div class="csl-right-inline">刘祥沈. 沈阳市政区图[J]. 武汉: 武汉大学出版社, 2016.</div>
@@ -260,7 +260,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[64]</div><div class="csl-right-inline">吴自银, 温珍河. 中国南部海域海底地形图[J]. 北京: 科学出版社, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">周壮等. 天宫二号遥感图像自然景物分类科学数据[J].国家基础学科公共科学数据中心, 2023.</div>
+    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">周壮等. 天宫二号遥感图像自然景物分类数据集[J].国家基础学科公共科学数据中心, 2023.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[66]</div><div class="csl-right-inline">哈里森, 沃尔德伦. 经济数学与金融数学[M]. 谢远涛. 北京: 中国人民大学出版社, 2012: 235-236.</div>
@@ -272,7 +272,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[68]</div><div class="csl-right-inline">国家能源局. NB/T 10386—2020, 水电工程水温实时监测系统技术规范[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">工业和信息化部. GB 18030—2022, 信息技术  中文编码字符集[S].</div>
+    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">工业和信息化部. GB 18030—2022, 信息技术　中文编码字符集[S].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[70]</div><div class="csl-right-inline">张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社, 2002: 288.</div>
@@ -389,7 +389,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[107]</div><div class="csl-right-inline">钱学森. 创建系统学[M]. 太原: 山西科学技术出版社, 2001: 序2-3.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">阿扬. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[G]// 《环球科学》杂志社姜海伦. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, 2023: 15-18.</div>
+    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">阿扬. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答[G]// 《环球科学》杂志社姜海伦. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, 2023: 15-18.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[109]</div><div class="csl-right-inline">陈建军. 从数字地球到智慧地球[J]. 国土资源导刊. 2010, 7(10): 93.</div>
@@ -416,28 +416,28 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[116]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[J].国家地球系统科学数据中心-黄土高原分中心, 2024.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">Science[J]. American Association for the Advancement of Science. Washington, D.C.: American Association for the Advancement of Science, 1883, 1883，1（1）—.</div>
+    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">Science[J]. American Association for the Advancement of Science. Washington, D.C.: American Association for the Advancement of Science, 1883, 1883，1（1）-.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[118]</div><div class="csl-right-inline">中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[J].1949.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">图书馆学通讯[J]. 中国图书馆学会. 北京: 北京图书馆, 1957–1990, 1957（1）—1990（4）.</div>
+    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">图书馆学通讯[J]. 中国图书馆学会. 北京: 北京图书馆, 1957–1990, 1957（1）-1990（4）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">康熙字典[M].第影印本版 北京: 中华书局, 1962, 巳集上 水部: 50.</div>
+    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">康熙字典[M].第影印本版 北京: 中华书局, 1962, 巳集上：水部: 50.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">Public library quarterly[J]. Philadelphia: Taylor &#38; Francis, 1979, 1979，1（1）—.</div>
+    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">Public library quarterly[J]. Philadelphia: Taylor &#38; Francis, 1979, 1979，1（1）-.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">临床内科杂志[J]. 中华医学会湖北分会. 武汉: 中华医学会湖北分会, 1984, 1984，1（1）—.</div>
+    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">临床内科杂志[J]. 中华医学会湖北分会. 武汉: 中华医学会湖北分会, 1984, 1984，1（1）-.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[123]</div><div class="csl-right-inline">Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Yufin, S.A. Rotterdam: A. A. Balkema, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">最新図書館用語大辭典[M]. 図書館用語辞典編集委員会. 東京: 柏書房株式會社, 2004: 154.</div>
+    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">最新図書館用語大辞典[M]. 図書館用語辞典編集委員会. 東京: 柏書房株式會社, 2004: 154.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[125]</div><div class="csl-right-inline">Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Sadock, B.J. et al. 9 edn. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009, 1.</div>

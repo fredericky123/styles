@@ -55,7 +55,7 @@
 <sup>5</sup> 顾炎武：《昌平山水记；京东考古录》，北京：北京古籍出版社，1980年。<br>
 <sup>6</sup> 钱学森：《创建系统学》，太原：山西科学技术出版社，2001年。<br>
 <sup>7</sup> 冯友兰：《冯友兰自选集》2，北京：首都师范大学出版社，2008年。<br>
-<sup>8</sup> 《康熙字典》影印本第巳集上 水部卷，北京：中华书局，1962年。<br>
+<sup>8</sup> 《康熙字典》影印本第巳集上：水部卷，北京：中华书局，1962年。<br>
 <sup>9</sup> 战德臣、张丽杰：《大学计算机：计算思维与信息素养》3，北京：高等教育出版社，2019年。<br>
 <sup>10</sup> 哈里森、沃尔德伦，《经济数学与金融数学》，谢远涛译，北京：中国人民大学出版社，2012年。<br>
 <sup>11</sup> 牛永敢等主编：《鼻整形应用解剖学》，北京：人民卫生出版社，2019年。<br>
@@ -64,7 +64,7 @@
 <sup>14</sup> 赵学功：《当代美国外交》，北京：社会科学文献出版社，2001年。<br>
 <sup>15</sup> 中国造纸学会：《中国造纸年鉴：2003》，北京：中国轻工业出版社，2003年。<br>
 <sup>16</sup> 博伯尔，《银行业的未来与人工智能》，徐超译，北京：清华大学出版社，2023年。<br>
-<sup>17</sup> 図書館用語辞典編集委員会主编：《最新図書館用語大辭典》，東京：柏書房株式會社，2004年。<br>
+<sup>17</sup> 図書館用語辞典編集委員会主编：《最新図書館用語大辞典》，東京：柏書房株式會社，2004年。<br>
 <sup>18</sup> Peyton Z. Peebles, Jr., <i>Probability, random variables, and random signal principles</i>, New York: McGraw-Hill, 2001.<br>
 <sup>19</sup> Benjamin J. Sadock et al. eds., <i>Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</i>, Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.<br>
 <sup>20</sup> Institute for Art and Architecture, Academy of Fine Arts Vienna, <i>Wiener Hitze: architecture and storytelling in times of heat</i>, Zürich: Park Books, 2023.<br>
@@ -73,7 +73,7 @@
 <sup>23</sup> Lynette Torres et al. eds., <i>Connecting the library to the curriculum</i>, Singapore: Springer Nature, 2021.<br>
 <sup>24</sup> Tony Boobier, <i>AI and the future of banking</i>, Chichester: John Wiley &#38; Sons, 2020.<br>
 <sup>25</sup> William Deverell and David Igler eds., <i>A companion to California history</i>, New York: John Wiley &#38; Sons, 2013.<br>
-<sup>26</sup> 阿扬：《谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答》，《环球科学》杂志社主编：《认识记忆力：关于学习、思考与遗忘的脑科学》，姜海伦译，北京：机械工业出版社，2023年，第15-18页。<br>
+<sup>26</sup> 阿扬：《谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答》，《环球科学》杂志社主编：《认识记忆力：关于学习、思考与遗忘的脑科学》，姜海伦译，北京：机械工业出版社，2023年，第15-18页。<br>
 <sup>27</sup> 《周易外传：卷5》，王夫之主编：《船山全书》修订版第第1册卷，长沙：岳麓书社，2011年，第983-1029页。<br>
 <sup>28</sup> 程根伟：《1998年长江洪水的成因与减灾对策》，许厚泽、赵其国主编：《长江流域洪涝灾害与科技对策》，北京：科学出版社，1999年，第32-36页。<br>
 <sup>29</sup> 李约瑟：《题词》，《苏颂与《本草图经》研究》，长春：长春出版社，1991年，第扉页页。<br>
@@ -83,8 +83,8 @@
 <sup>33</sup> 楼梦麟、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社，2011年，第11-12页。<br>
 <sup>34</sup> L. Weinstein and M. N. Swartz, “Pathogenic properties of invading microorganisms,” in William A. Sodeman Jr. and William A. Sodeman eds., <i>Pathologic physiology: mechanisms of disease</i>, Philadelphia: Saunders, 1974, pp. 457-472.<br>
 <sup>35</sup> J. Alan Roberson and Eric G. Burneson, “Drinking water quality standards, regulations and goals,” in American Water Works Association ed., <i>Water quality &#38; treatment: a handbook on drinking water</i>, New York: McGraw-Hill, 2011, p. 1.1-1.36.<br>
-<sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》，第1984，1（1）—卷，武汉：中华医学会湖北分会，1984年。<br>
-<sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》，第1957（1）—1990（4）卷，北京：北京图书馆，1957—1990年。<br>
+<sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》，第1984，1（1）-卷，武汉：中华医学会湖北分会，1984年。<br>
+<sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》，第1957（1）-1990（4）卷，北京：北京图书馆，1957—1990年。<br>
 <sup>38</sup> American Association for the Advancement of Science ed., <i>Science</i>, Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
 <sup>39</sup> <i>Public library quarterly</i>, Philadelphia: Taylor &#38; Francis, 1979.<br>
 <sup>40</sup> 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期，第56-75页。<br>
@@ -131,9 +131,9 @@
 <sup>81</sup> David E. Calkin, Alan A. Ager and Matthew P. Thompson, <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i>, 2011, pp. 8-9.<br>
 <sup>82</sup> U.S. Department of Transportation Federal Highway Administration, <i>Guidelines for handling excavated acid-producing materials</i>, Springfield: U.S. Department of Commerce National Information Service, 1990, p. 25.<br>
 <sup>83</sup> United Nations Department of Economic and Social Affairs, <i>United Nations e-government survey 2024: accelerating digital transformation for sustainable development</i>, .<br>
-<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献 资源描述》，2021年。<br>
-<sup>85</sup> 全国信息技术标准化技术委员会：《信息技术 先进音视频编码 第16部分：广播电视视频》，2016年。<br>
-<sup>86</sup> 工业和信息化部：《信息技术  中文编码字符集》，2022年。<br>
+<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献　资源描述》，2021年。<br>
+<sup>85</sup> 全国信息技术标准化技术委员会：《信息技术　先进音视频编码　第16部分：广播电视视频》，2016年。<br>
+<sup>86</sup> 工业和信息化部：《信息技术　中文编码字符集》，2022年。<br>
 <sup>87</sup> 国家能源局：《水电工程水温实时监测系统技术规范》，2020年。<br>
 <sup>88</sup> ISO, <i>Audit data collection</i>, 2019.<br>
 <sup>89</sup> International Electrotechnical Commission (IEC), <i>Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)</i>, New York: IEEE, 2021.<br>
@@ -177,8 +177,8 @@
 <sup>127</sup> Robert Cribb, <i>Historical atlas of Indonesia</i>, Abingdon: Routledge, 2015.<br>
 <sup>128</sup> <i>Coastal wetlands map of China continent</i>, Beijing: China Ocean Press, 2024, p. 50.<br>
 <sup>129</sup> 彭守璋：《1901—2024年中国1km分辨率逐月降水量数据集》，国家地球系统科学数据中心，2025年。<br>
-<sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次水川编目科学数据：2006—2011》，国家青藏高原科学数据中心，2012年。<br>
-<sup>131</sup> 周壮等：《天宫二号遥感图像自然景物分类科学数据》，国家基础学科公共科学数据中心，2023年。<br>
+<sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次冰川编目数据集：2006—2011》，国家青藏高原科学数据中心，2012年。<br>
+<sup>131</sup> 周壮等：《天宫二号遥感图像自然景物分类数据集》，国家基础学科公共科学数据中心，2023年。<br>
 <sup>132</sup> 郑涵等：《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集》，Science Data Bank，2018年。<br>
 <sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》，国家地球系统科学数据中心-黄土高原分中心，2024年。<br>
 <sup>134</sup> 王继民等：《人文社会科学数据集检索方法研究的数据集》，北京大学开放研究数据平台，2025年。<br>

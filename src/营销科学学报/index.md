@@ -83,8 +83,8 @@ Qian Y et al. （2009a）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-358 second-field-align-false hangingindent-false">
-  <div class="csl-entry">[1]	阿扬. 2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]. 《环球科学》杂志社, ed. 姜海伦, trans.//认识记忆力：关于学习、思考与遗忘的脑科学北京: 机械工业出版社，2023年.
-    <div class="csl-block">阿扬. 2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]. 《环球科学》杂志社, ed. 姜海伦, trans.//认识记忆力：关于学习、思考与遗忘的脑科学北京: 机械工业出版社，2023年 (In Chinese)</div>
+  <div class="csl-entry">[1]	阿扬. 2023. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答[M]. 《环球科学》杂志社, ed. 姜海伦, trans.//认识记忆力：关于学习、思考与遗忘的脑科学北京: 机械工业出版社，2023年.
+    <div class="csl-block">阿扬. 2023. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答[M]. 《环球科学》杂志社, ed. 姜海伦, trans.//认识记忆力：关于学习、思考与遗忘的脑科学北京: 机械工业出版社，2023年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[2]	北京鲁迅博物馆（北京新文化运动纪念馆）. 2021. 北京鲁迅博物馆志愿服务章程[EB/OL](2021-04-21).
     <div class="csl-block">北京鲁迅博物馆（北京新文化运动纪念馆）. 2021. 北京鲁迅博物馆志愿服务章程[EB/OL](2021-04-21) (In Chinese)</div>
@@ -125,8 +125,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[14]	高等教育文献保障系统. [no date]. 馆际互借与文献传递服务[EB/OL].
     <div class="csl-block">高等教育文献保障系统. [no date]. 馆际互借与文献传递服务[EB/OL] (In Chinese)</div>
   </div>
-  <div class="csl-entry">[15]	工业和信息化部. 2022. 信息技术  中文编码字符集[S]. .
-    <div class="csl-block">工业和信息化部. 2022. 信息技术  中文编码字符集[S].  (In Chinese)</div>
+  <div class="csl-entry">[15]	工业和信息化部. 2022. 信息技术　中文编码字符集[S]. .
+    <div class="csl-block">工业和信息化部. 2022. 信息技术　中文编码字符集[S].  (In Chinese)</div>
   </div>
   <div class="csl-entry">[16]	顾炎武. 1980. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社，1980年.
     <div class="csl-block">顾炎武. 1980. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社，1980年 (In Chinese)</div>
@@ -182,8 +182,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[33]	李约瑟. 1991. 题词[M]//苏克福, 管成学, 邓明鲁. 苏颂与《本草图经》研究长春: 长春出版社，1991年.
     <div class="csl-block">李约瑟. 1991. 题词[M]//苏克福, 管成学, 邓明鲁. 苏颂与《本草图经》研究长春: 长春出版社，1991年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[34]	刘时银, 郭万钦, 许君利. 2012. 中国第二次水川编目科学数据：2006—2011[DS/OL]. 国家青藏高原科学数据中心.
-    <div class="csl-block">刘时银, 郭万钦, 许君利. 2012. 中国第二次水川编目科学数据：2006—2011[DS/OL]. 国家青藏高原科学数据中心 (In Chinese)</div>
+  <div class="csl-entry">[34]	刘时银, 郭万钦, 许君利. 2012. 中国第二次冰川编目数据集：2006—2011[DS/OL]. 国家青藏高原科学数据中心.
+    <div class="csl-block">刘时银, 郭万钦, 许君利. 2012. 中国第二次冰川编目数据集：2006—2011[DS/OL]. 国家青藏高原科学数据中心 (In Chinese)</div>
   </div>
   <div class="csl-entry">[35]	刘祥沈. 2016. 沈阳市政区图[CM]. 武汉: 武汉大学出版社.
     <div class="csl-block">刘祥沈. 2016. 沈阳市政区图[CM]. 武汉: 武汉大学出版社 (In Chinese)</div>
@@ -200,11 +200,11 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[39]	钱学森. 2001. 创建系统学[M]. 太原: 山西科学技术出版社，2001年.
     <div class="csl-block">钱学森. 2001. 创建系统学[M]. 太原: 山西科学技术出版社，2001年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[40]	全国信息技术标准化技术委员会. 2016. 信息技术 先进音视频编码 第16部分：广播电视视频[S]. .
-    <div class="csl-block">全国信息技术标准化技术委员会. 2016. 信息技术 先进音视频编码 第16部分：广播电视视频[S].  (In Chinese)</div>
+  <div class="csl-entry">[40]	全国信息技术标准化技术委员会. 2016. 信息技术　先进音视频编码　第16部分：广播电视视频[S]. .
+    <div class="csl-block">全国信息技术标准化技术委员会. 2016. 信息技术　先进音视频编码　第16部分：广播电视视频[S].  (In Chinese)</div>
   </div>
-  <div class="csl-entry">[41]	全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述[S]. .
-    <div class="csl-block">全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述[S].  (In Chinese)</div>
+  <div class="csl-entry">[41]	全国信息与文献标准化技术委员会. 2021. 信息与文献　资源描述[S]. .
+    <div class="csl-block">全国信息与文献标准化技术委员会. 2021. 信息与文献　资源描述[S].  (In Chinese)</div>
   </div>
   <div class="csl-entry">[42]	石顺祥, 许海平, 孙艳玲, 陈利菊, 李家立, 刘继芳. 2002. 光折变自适应光外差探测方法[P]. 2002-03-06.
     <div class="csl-block">石顺祥, 许海平, 孙艳玲, 陈利菊, 李家立, 刘继芳. 2002. 光折变自适应光外差探测方法[P]. 2002-03-06 (In Chinese)</div>
@@ -299,8 +299,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[72]	中国造纸学会. 2003. 中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社，2003年.
     <div class="csl-block">中国造纸学会. 2003. 中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社，2003年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[73]	周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 2023. 天宫二号遥感图像自然景物分类科学数据[DS/OL]. 国家基础学科公共科学数据中心(2023-09-10).
-    <div class="csl-block">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 2023. 天宫二号遥感图像自然景物分类科学数据[DS/OL]. 国家基础学科公共科学数据中心(2023-09-10) (In Chinese)</div>
+  <div class="csl-entry">[73]	周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 2023. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心(2023-09-10).
+    <div class="csl-block">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 2023. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心(2023-09-10) (In Chinese)</div>
   </div>
   <div class="csl-entry">[74]	訾冬梅, 高秀静. 2006. 内蒙古自治区地图册[CM]. 北京: 中国地图出版社.
     <div class="csl-block">訾冬梅, 高秀静. 2006. 内蒙古自治区地图册[CM]. 北京: 中国地图出版社 (In Chinese)</div>
@@ -329,8 +329,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[82]	Anonymous. 2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema，2000年.
     <div class="csl-block">anonymous. 2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema，2000年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[83]	Anonymous. 2004. 最新図書館用語大辭典[M]. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式會社，2004年.
-    <div class="csl-block">anonymous. 2004. 最新図書館用語大辭典[M]. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式會社，2004年 (In Chinese)</div>
+  <div class="csl-entry">[83]	Anonymous. 2004. 最新図書館用語大辞典[M]. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式會社，2004年.
+    <div class="csl-block">anonymous. 2004. 最新図書館用語大辞典[M]. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式會社，2004年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[84]	Anonymous. 2009. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Sadock B J, Sadock V A, Ruiz P, Kaplan H I, eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins，2009年.
     <div class="csl-block">anonymous. 2009. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Sadock B J, Sadock V A, Ruiz P, Kaplan H I, eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins，2009年 (In Chinese)</div>

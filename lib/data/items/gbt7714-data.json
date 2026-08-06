@@ -142,7 +142,7 @@
 		"publisher": "中华书局",
 		"publisher-place": "北京",
 		"title": "康熙字典",
-		"volume": "巳集上 水部",
+		"volume": "巳集上：水部",
 		"issued": {
 			"date-parts": [["1962"]]
 		}
@@ -368,7 +368,7 @@
 		"note": "page: 154",
 		"publisher": "柏書房株式會社",
 		"publisher-place": "東京",
-		"title": "最新図書館用語大辭典",
+		"title": "最新図書館用語大辞典",
 		"editor": [
 			{
 				"literal": "図書館用語辞典編集委員会"
@@ -605,7 +605,7 @@
 		"page": "15-18",
 		"publisher": "机械工业出版社",
 		"publisher-place": "北京",
-		"title": "谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答",
+		"title": "谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答",
 		"title-short": "谈谈记忆",
 		"author": [
 			{
@@ -909,7 +909,7 @@
 		"publisher": "中华医学会湖北分会",
 		"publisher-place": "武汉",
 		"title": "临床内科杂志",
-		"volume": "1984，1（1）—",
+		"volume": "1984，1（1）-",
 		"editor": [
 			{
 				"literal": "中华医学会湖北分会"
@@ -928,7 +928,7 @@
 		"publisher": "北京图书馆",
 		"publisher-place": "北京",
 		"title": "图书馆学通讯",
-		"volume": "1957（1）—1990（4）",
+		"volume": "1957（1）-1990（4）",
 		"editor": [
 			{
 				"literal": "中国图书馆学会"
@@ -948,7 +948,7 @@
 		"publisher": "American Association for the Advancement of Science",
 		"publisher-place": "Washington, D.C.",
 		"title": "Science",
-		"volume": "1883，1（1）—",
+		"volume": "1883，1（1）-",
 		"editor": [
 			{
 				"literal": "American Association for the Advancement of Science"
@@ -968,7 +968,7 @@
 		"publisher-place": "Philadelphia",
 		"title": "Public library quarterly",
 		"URL": "http://www.tandfonline.com/loi/wplq",
-		"volume": "1979，1（1）—",
+		"volume": "1979，1（1）-",
 		"accessed": {
 			"date-parts": [["2025", 2, 28]]
 		},
@@ -2468,7 +2468,7 @@
 		"language": "zh-CN",
 		"number": "GB/T 3792—2021",
 		"status": "现行",
-		"title": "信息与文献 资源描述",
+		"title": "信息与文献　资源描述",
 		"author": [
 			{
 				"literal": "全国信息与文献标准化技术委员会"
@@ -2486,7 +2486,7 @@
 		"language": "zh-CN",
 		"number": "GB/T 20090.16—2016",
 		"status": "现行",
-		"title": "信息技术 先进音视频编码 第16部分：广播电视视频",
+		"title": "信息技术　先进音视频编码　第16部分：广播电视视频",
 		"author": [
 			{
 				"literal": "全国信息技术标准化技术委员会"
@@ -2504,7 +2504,7 @@
 		"language": "zh-CN",
 		"number": "GB 18030—2022",
 		"status": "现行",
-		"title": "信息技术  中文编码字符集",
+		"title": "信息技术　中文编码字符集",
 		"URL": "http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=A1931A578FE14957104988029B0833D3",
 		"author": [
 			{
@@ -2642,7 +2642,7 @@
 		"citation-key": "gbt7714.b.9:1",
 		"issue": "CN200510022322.7 20051216",
 		"language": "zh-CN",
-		"note": "jurisdiction: 中国\ntex.holder: 邓一刚\ntex.number: CN200610171314.3",
+		"note": "jurisdiction: 中国",
 		"number": "CN101106276A",
 		"page": "8-9",
 		"title": "全智能节电器",
@@ -2665,7 +2665,7 @@
 		"call-number": "CN201220158825.2",
 		"citation-key": "gbt7714.b.9:2",
 		"language": "zh-CN",
-		"note": "jurisdiction: 中国\ntex.holder: 张凯军\ntex.number: CN201220158825.2",
+		"note": "jurisdiction: 中国\ntex.holder: 张凯军",
 		"number": "CN202827616U",
 		"title": "轨道火车及高速轨道火车紧急安全制动辅助装置",
 		"author": [
@@ -2693,7 +2693,7 @@
 		"call-number": "CN202222658126.0",
 		"citation-key": "gbt7714.b.9:3",
 		"language": "zh-CN",
-		"note": "jurisdiction: 中国\ntex.holder: 李华 and 王昊 and 康佐\ntex.number: CN202222658126.0",
+		"note": "jurisdiction: 中国",
 		"number": "CN218214474U",
 		"title": "一种拼接式桥梁模型",
 		"URL": "http://patentscope2.wipo.int/search/en/detail.jsf?docId=CN390029302&_cid=JP1-MAY1P5-04922-1",
@@ -2725,7 +2725,7 @@
 		"call-number": "CN01128777.2",
 		"citation-key": "gbt7714.b.9:4",
 		"language": "zh-CN",
-		"note": "jurisdiction: 中国\ntex.holder: 西安电子科技大学\ntex.number: CN01128777.2",
+		"note": "jurisdiction: 中国",
 		"number": "CN1338652A",
 		"title": "光折变自适应光外差探测方法",
 		"URL": "http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&leixin=0",
@@ -2766,7 +2766,7 @@
 		"call-number": "CN01129210.5",
 		"citation-key": "gbt7714.b.9:5",
 		"language": "zh-CN",
-		"note": "jurisdiction: 中国\ntex.holder: 河北绿洲生态环境科技有限公司\ntex.number: CN01129210.5",
+		"note": "jurisdiction: 中国",
 		"number": "CN1318281A",
 		"title": "一种荒漠化地区生态植被综合培育种植方法",
 		"URL": "http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&leixin=0",
@@ -2791,7 +2791,7 @@
 		"call-number": "JP2021578120A",
 		"citation-key": "gbt7714.b.9:6",
 		"language": "ja-JP",
-		"note": "jurisdiction: JP\ntex.holder: 中国科学院苏州生物医学工程技术研究所\ntex.number: JP2021578120A",
+		"note": "jurisdiction: JP",
 		"number": "JP2022539784A",
 		"title": "光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法",
 		"URL": "https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui",
@@ -2829,7 +2829,7 @@
 		"call-number": "US89404301A",
 		"citation-key": "gbt7714.b.9:7",
 		"language": "en-US",
-		"note": "jurisdiction: U.S.\ntex.holder: IBM\ntex.number: US89404301A",
+		"note": "jurisdiction: U.S.",
 		"number": "US2002061118A1",
 		"title": "Electronic watermarking method and system",
 		"URL": "https://worldwide.espacenet.com/patent/search/family/018694900/publication/US2002061118A1?q=US89404301A",
@@ -2867,7 +2867,7 @@
 		"call-number": "AU2022228203A",
 		"citation-key": "gbt7714.b.9:8",
 		"language": "en-US",
-		"note": "jurisdiction: AU\ntex.holder: Trisco ICAP Pty Ltd\ntex.number: AU2022228203A",
+		"note": "jurisdiction: AU",
 		"number": "AU2022228203A1",
 		"title": "Storage and delivery system",
 		"URL": "https://worldwide.espacenet.com/patent/search/family/061561249/publication/AU2022228203A1?q=AU2022228203A",
@@ -3420,8 +3420,8 @@
 		"DOI": "10.3972/glacier.001.2013.db",
 		"language": "zh-CN",
 		"publisher": "国家青藏高原科学数据中心",
-		"title": "中国第二次水川编目科学数据：2006—2011",
-		"URL": "https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/",
+		"title": "中国第二次冰川编目数据集：2006—2011",
+		"URL": "https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/",
 		"version": "1.0",
 		"author": [
 			{
@@ -3448,7 +3448,7 @@
 		"language": "zh-CN",
 		"note": "tex.cstr: 16666.11.nbsdc.tfpbwtqf",
 		"publisher": "国家基础学科公共科学数据中心",
-		"title": "天宫二号遥感图像自然景物分类科学数据",
+		"title": "天宫二号遥感图像自然景物分类数据集",
 		"URL": "https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf",
 		"version": "1.0",
 		"author": [
@@ -3485,7 +3485,9 @@
 		"id": "gbt7714.b.13:4",
 		"type": "dataset",
 		"citation-key": "gbt7714.b.13:4",
+		"DOI": "10.11922/sciencedb.610",
 		"language": "zh-CN",
+		"note": "tex.cstr: 31253.11.sciencedb.610",
 		"publisher": "Science Data Bank",
 		"title": "2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集",
 		"URL": "https://cstr.cn/31253.11.sciencedb.610",

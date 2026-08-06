@@ -94,7 +94,7 @@
 <sup>14</sup> 赵学功．当代美国外交．北京：社会科学文献出版社，2001<br>
 <sup>15</sup> 中国造纸学会．中国造纸年鉴：2003．北京：中国轻工业出版社，2003<br>
 <sup>16</sup> 博伯尔．银行业的未来与人工智能．徐超译．北京：清华大学出版社，2023，35<br>
-<sup>17</sup> 図書館用語辞典編集委員会．最新図書館用語大辭典．東京：柏書房株式會社，2004，154<br>
+<sup>17</sup> 図書館用語辞典編集委員会．最新図書館用語大辞典．東京：柏書房株式會社，2004，154<br>
 <sup>18</sup> Peebles P Z Jr. Probability, random variables, and random signal principles. 4th ed. New York: McGraw-Hill, 2001<br>
 <sup>19</sup> Sadock B J, Sadock V A, Ruiz P, Kaplan H I. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009<br>
 <sup>20</sup> Institute for Art and Architecture, Academy of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat. Zürich: Park Books, 2023, 78<br>
@@ -103,7 +103,7 @@
 <sup>23</sup> Torres L, Salisbury F, Yazbeck B, Karasmanis S, Pinder J, Ondracek C. Connecting the library to the curriculum. Singapore: Springer Nature, 2021, 97<br>
 <sup>24</sup> Boobier T. AI and the future of banking. Chichester: John Wiley &#38; Sons, 2020, 35<br>
 <sup>25</sup> Deverell W, Igler D. A companion to California history. New York: John Wiley &#38; Sons, 2013, 21-22<br>
-<sup>26</sup> 阿扬．谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答．见：认识记忆力：关于学习、思考与遗忘的脑科学．北京：机械工业出版社，2023，15-18<br>
+<sup>26</sup> 阿扬．谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答．见：认识记忆力：关于学习、思考与遗忘的脑科学．北京：机械工业出版社，2023，15-18<br>
 <sup>27</sup> 周易外传：卷5．见：船山全书．修订版．长沙：岳麓书社，2011，983-1029<br>
 <sup>28</sup> 程根伟．1998年长江洪水的成因与减灾对策．见：长江流域洪涝灾害与科技对策．北京：科学出版社，1999，32-36<br>
 <sup>29</sup> 李约瑟．题词．见：苏颂与《本草图经》研究．长春：长春出版社，1991，扉页<br>
@@ -161,9 +161,9 @@
 <sup>81</sup> Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report. 2011, 8-9<br>
 <sup>82</sup> U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing materials. Springfield: U.S. Department of Commerce National Information Service, 1990, 25<br>
 <sup>83</sup> United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development<br>
-<sup>84</sup> 全国信息与文献标准化技术委员会．信息与文献 资源描述<br>
-<sup>85</sup> 全国信息技术标准化技术委员会．信息技术 先进音视频编码 第16部分：广播电视视频<br>
-<sup>86</sup> 工业和信息化部．信息技术  中文编码字符集<br>
+<sup>84</sup> 全国信息与文献标准化技术委员会．信息与文献　资源描述<br>
+<sup>85</sup> 全国信息技术标准化技术委员会．信息技术　先进音视频编码　第16部分：广播电视视频<br>
+<sup>86</sup> 工业和信息化部．信息技术　中文编码字符集<br>
 <sup>87</sup> 国家能源局．水电工程水温实时监测系统技术规范<br>
 <sup>88</sup> ISO. Audit data collection<br>
 <sup>89</sup> International Electrotechnical Commission (IEC). Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)<br>
@@ -207,8 +207,8 @@
 <sup>127</sup> Cribb R. Historical atlas of Indonesia. Abingdon: Routledge, 2015<br>
 <sup>128</sup> Coastal wetlands map of China continent. Beijing: China Ocean Press, 2024, 50<br>
 <sup>129</sup> 彭守璋．1901—2024年中国1km分辨率逐月降水量数据集．国家地球系统科学数据中心，2025．<a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>, 2025-07-07<br>
-<sup>130</sup> 刘时银，郭万钦，许君利．中国第二次水川编目科学数据：2006—2011．国家青藏高原科学数据中心，2012．<a href="https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/">https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/</a>, 2012<br>
-<sup>131</sup> 周壮，李盛阳，吴薇，郭威龙，李轩，夏桂松，赵子飞．天宫二号遥感图像自然景物分类科学数据．国家基础学科公共科学数据中心，2023．<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>, 2023-09-10<br>
+<sup>130</sup> 刘时银，郭万钦，许君利．中国第二次冰川编目数据集：2006—2011．国家青藏高原科学数据中心，2012．<a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>, 2012<br>
+<sup>131</sup> 周壮，李盛阳，吴薇，郭威龙，李轩，夏桂松，赵子飞．天宫二号遥感图像自然景物分类数据集．国家基础学科公共科学数据中心，2023．<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>, 2023-09-10<br>
 <sup>132</sup> 郑涵，于贵瑞，朱先进，王秋凤，张雷明，陈智，孙晓敏，何洪林，苏文，王艳芬，韩士杰，周国逸，赵新全，王辉民，欧阳竹，张宪洲，张扬建，石培礼，李英年，赵亮，张一平，闫俊华，王安志，张军辉，郝彦斌，赵风华，张法伟，周广胜，林光辉，陈世苹，刘绍民，赵斌，贾根锁，张旭东，张玉翠，古松，刘文兆，李彦，王文杰，杨大文，张劲松，张志强，赵仲辉，周石硚，郭海强，沈彦俊，徐自为，黄辉，孟平．2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集．Science Data Bank，2018．<a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>, 2018-05-26<br>
 <sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）．青海省县域教育、卫生发展指标（2001—2022年）．国家地球系统科学数据中心-黄土高原分中心，2024．<a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>, 2024-12-25<br>
 <sup>134</sup> 王继民，罗鹏程，赵常煜，郭鑫，王世奇，高正．人文社会科学数据集检索方法研究的数据集．北京大学开放研究数据平台，2025．<a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>, 2025-06-11<br>

@@ -75,7 +75,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Fitzwilliam, H. (1570, July 28). <i>[Letter to Bess of Hardwick]</i> [Letter to Bess of Hardwick].</div>
   <div class="csl-entry">Sugarman, L., &#38; Markham, S. (1980). <i>Students in a selective high school: some vocationally oriented data</i> [Dataset]. UK Data Service. <a href="https://doi.org/10.5255/UKDA-SN-996-1">https://doi.org/10.5255/UKDA-SN-996-1</a></div>
-  <div class="csl-entry">American Association for the Advancement of Science (Ed.). (1883). <i>Science</i>. <i>1883，1（1）—</i>.</div>
+  <div class="csl-entry">American Association for the Advancement of Science (Ed.). (1883). <i>Science</i>. <i>1883，1（1）-</i>.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). (2022). <i>Guide to lithium battery safety for space applications</i> (No. AIAA G-136-2022).</div>
   <div class="csl-entry">Babu, B. V., Nagar, A., Deep, K., Pant, M., Bansal, J. C., Ray, K., &#38; Gupta, U. (Eds.). (2014). <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. New Delhi: Springer.</div>
   <div class="csl-entry">Bevington, D., &#38; Brown, J. R. (2025, January 1). <i>William Shakespeare</i>. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a></div>
@@ -105,7 +105,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Park, J.-R., &#38; Tosaka, Y. (2010). Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms. <i>Cataloging &#38; Classification Quarterly</i>, <i>48</i>(8), 696-715.</div>
   <div class="csl-entry">Peebles, P. Z., Jr. (2001). <i>Probability, random variables, and random signal principles</i> (4th ed.). New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A. (2011). <i>Death by theory: a tale of mystery and archaeological theory</i> (Rev. ed., p. 13). Rowman &#38; Littlefield Publishing Group, Inc.</div>
-  <div class="csl-entry"><i>Public library quarterly</i>. (1979). <i>1979，1（1）—</i>.</div>
+  <div class="csl-entry"><i>Public library quarterly</i>. (1979). <i>1979，1（1）-</i>.</div>
   <div class="csl-entry">Roberson, J. A., &#38; Burneson, E. G. (2011). Drinking water quality standards, regulations and goals. In American Water Works Association (Ed.), <i>Water quality &#38; treatment: a handbook on drinking water</i> (6th ed., p. 1.1-1.36). New York: McGraw-Hill.</div>
   <div class="csl-entry">Sadock, B. J., Sadock, V. A., Ruiz, P., &#38; Kaplan, H. I. (Eds.). (2009). <i>Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</i> (9th ed., Vol. 1). Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">Saito, M., &#38; Miyazaki, K. (2006). Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. <i>Bulletin of the Geological Survey of Japan</i>, <i>57</i>(5/6), 169-176.</div>
@@ -125,12 +125,12 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Zotero. (n.d.). <i>[Zotero download]</i>. Retrieved April 8, 2024, from <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a></div>
   <div class="csl-entry">ISO. (2016b). <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i> (No. ISO/IEC 80079-20-2:2016(fr)).</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, 邢利娜, &#38; 高峰. (2022). <i>光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法</i> (Patent No. JP2022539784A).</div>
-  <div class="csl-entry">図書館用語辞典編集委員会 (Ed.). (2004). <i>最新図書館用語大辭典</i> (p. 154). 東京: 柏書房株式會社.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会 (Ed.). (2004). <i>最新図書館用語大辞典</i> (p. 154). 東京: 柏書房株式會社.</div>
   <div class="csl-entry">António, M., &#38; Pepper, L. (2019, July 13). <i>Histórias de Portugal: livros caídos</i>. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a></div>
   <div class="csl-entry">丁文详（2000年11月20日）。数字革命与竞争国际化。<b>中国青年报</b>，15。</div>
   <div class="csl-entry">久保智康（2009）。花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心（顾幼静，译）。<b>东方博物</b>，1，85-92。</div>
   <div class="csl-entry">于潇、刘义、柴跃廷、孙宏波（2012）。互联网药品可信交易环境中主体资质审核备案模式。<b>清华大学学报（自然科学版）</b>，11，1518-1523。</div>
-  <div class="csl-entry">工业和信息化部（2022）。<b>信息技术  中文编码字符集</b>（国家标准 No. GB 18030—2022）。（现行）</div>
+  <div class="csl-entry">工业和信息化部（2022）。<b>信息技术　中文编码字符集</b>（国家标准 No. GB 18030—2022）。（现行）</div>
   <div class="csl-entry">马克思（2013）。政治经济学批判。載於马克思 &#38; 恩格斯，<b>马克思恩格斯全集</b>（2 版，卷 35，頁 302）。北京：人民出版社。</div>
   <div class="csl-entry">中工武大设计研究有限公司（2019）。<b>阳新县标准地名图</b>［地图］。武汉：武汉大学出版社。</div>
   <div class="csl-entry">中华医学会湖北分会（主編）（1984）。<i>临床内科杂志</i>。</div>
@@ -156,9 +156,9 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆）（2021年4月21日）。<i>北京鲁迅博物馆志愿服务章程</i>。<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a></div>
   <div class="csl-entry">石顺祥、许海平、孙艳玲、陈利菊、李家立、刘继芳（2002）。<b>光折变自适应光外差探测方法</b>（国家知识产权局 专利 No. CN1338652A）。</div>
   <div class="csl-entry">邓一刚（2008）。<b>全智能节电器</b>（国家知识产权局 专利 No. CN101106276A）。</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会（2021）。<b>信息与文献 资源描述</b>（国家标准 No. GB/T 3792—2021）。（现行）</div>
-  <div class="csl-entry">全国信息技术标准化技术委员会（2016）。<b>信息技术 先进音视频编码 第16部分：广播电视视频</b>（国家标准 No. GB/T 20090.16—2016）。（现行）</div>
-  <div class="csl-entry">刘时银、郭万钦、许君利（2012）。<b>中国第二次水川编目科学数据：2006—2011</b>（版 1.0）［数据集］。国家青藏高原科学数据中心。<a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a></div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会（2021）。<b>信息与文献　资源描述</b>（国家标准 No. GB/T 3792—2021）。（现行）</div>
+  <div class="csl-entry">全国信息技术标准化技术委员会（2016）。<b>信息技术　先进音视频编码　第16部分：广播电视视频</b>（国家标准 No. GB/T 20090.16—2016）。（现行）</div>
+  <div class="csl-entry">刘时银、郭万钦、许君利（2012）。<b>中国第二次冰川编目数据集：2006—2011</b>（版 1.0）［数据集］。国家青藏高原科学数据中心。<a href="https://doi.org/10.3972/glacier.001.2013.db">https://doi.org/10.3972/glacier.001.2013.db</a></div>
   <div class="csl-entry">刘祥沈（2016）。<b>沈阳市政区图</b>［地图］。武汉：武汉大学出版社。</div>
   <div class="csl-entry">扬奎斯特、萨金特（2010）。<b>递归宏观经济理论</b>（杨斌，王忠玉，陈彦斌，&#38; 严高剑，译；2 版，頁 798）。北京：中国人民大学出版社。</div>
   <div class="csl-entry">汤万金、杨跃翔、刘文、郑建国、王赟松（2013）。<b>人体安全重要技术标准研制最终报告</b>（Nos. 7178999X-2006BAK04A10/10.2013）。</div>
@@ -180,12 +180,12 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">汪学军（2005）。中国农业转基因生物研发进展与安全管理。国家环境保护总局生物安全管理办公室（主編），中国国家生物安全框架实施国际合作项目研讨会论文集（頁 22-25）。北京：中国环境科学出版社。</div>
   <div class="csl-entry">肖希明、石庆功、刘奕（2024）。民国图书馆学教育的社会贡献。纪念北京大学图书馆学教育100周年研讨会论文集（頁 134-147）。北京：北京大学信息管理系。</div>
   <div class="csl-entry">肖玲、张雪、王永（2024）。<b>数据要素的统计测算方法探究</b>（No. PSSXiv:202408.01096）。PSSXiv。</div>
-  <div class="csl-entry">周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞（2023）。<b>天宫二号遥感图像自然景物分类科学数据</b>（版 1.0）［数据集］。国家基础学科公共科学数据中心。<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a></div>
+  <div class="csl-entry">周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞（2023）。<b>天宫二号遥感图像自然景物分类数据集</b>（版 1.0）［数据集］。国家基础学科公共科学数据中心。<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a></div>
   <div class="csl-entry">国家测绘地理信息局（不详）。<b>一带一路经济走廊及其途经城市分布地势图</b>［地图］。</div>
   <div class="csl-entry">国家能源局（2020）。<b>水电工程水温实时监测系统技术规范</b>（行业标准-NB 能源 No. NB/T 10386—2020）。（现行）</div>
   <div class="csl-entry">国家药典委员会（主編）（2020）。大黄。載於<b>中华人民共和国药典：一部</b>（2020版，頁 24-25）。北京：中国医药科技出版社。</div>
   <div class="csl-entry">金燕萍（2020）。<b>社交媒体时代的虚假信息研究</b>（頁 16）。硕士学位论文，温州大学。</div>
-  <div class="csl-entry">阿扬（2023）。谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答（姜海伦，译）。載於《环球科学》杂志社（主編），<b>认识记忆力：关于学习、思考与遗忘的脑科学</b>（頁 15-18）。北京：机械工业出版社。</div>
+  <div class="csl-entry">阿扬（2023）。谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答（姜海伦，译）。載於《环球科学》杂志社（主編），<b>认识记忆力：关于学习、思考与遗忘的脑科学</b>（頁 15-18）。北京：机械工业出版社。</div>
   <div class="csl-entry">陈志勇（主編）（2011）。<b>中国财税文化价值研究：「中国财税文化国际学术研讨会」论文集</b>。北京：经济科学出版社。</div>
   <div class="csl-entry">陈建军（2010）。从数字地球到智慧地球。<b>国土资源导刊</b>，10，93。</div>
   <div class="csl-entry">陈晋镳、张惠民、朱士兴、赵震、王振刚（1980）。蓟县震旦亚界的研究。載於中国地质科学院天津地质矿产研究所（主編），<b>中国震旦亚界</b>（頁 56-114）。天津：天津科学技术出版社。</div>
@@ -196,13 +196,13 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry"><b>[《昨日之歌》图书封面]</b>（2015）。［视觉作品］。</div>
   <div class="csl-entry">胡健民（2021）。<b>东南极拉斯曼丘陵地区地质图</b>［地图］。北京：科学出版社。</div>
   <div class="csl-entry">赵学功（2001）。<b>当代美国外交</b>。北京：社会科学文献出版社。</div>
-  <div class="csl-entry">郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、赵亮、张一平、闫俊华、王安志、张军辉、郝彦斌、赵风华、张法伟、周广胜、林光辉、陈世苹、刘绍民、赵斌、贾根锁、张旭东、张玉翠、古松、刘文兆、李彦、王文杰、杨大文、张劲松、张志强、赵仲辉、周石硚、郭海强、沈彦俊、徐自为、黄辉、孟平（2018）。<b>2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集</b>（版 1）［数据集］。Science Data Bank。<a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a></div>
+  <div class="csl-entry">郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、赵亮、张一平、闫俊华、王安志、张军辉、郝彦斌、赵风华、张法伟、周广胜、林光辉、陈世苹、刘绍民、赵斌、贾根锁、张旭东、张玉翠、古松、刘文兆、李彦、王文杰、杨大文、张劲松、张志强、赵仲辉、周石硚、郭海强、沈彦俊、徐自为、黄辉、孟平（2018）。<b>2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集</b>（版 1）［数据集］。Science Data Bank。<a href="https://doi.org/10.11922/sciencedb.610">https://doi.org/10.11922/sciencedb.610</a></div>
   <div class="csl-entry">徐建委（2025）。历史的起点：《史记》中的时间设置及其意义。<b>北京大学学报（哲学社会科学版）</b>，2，117-127。</div>
   <div class="csl-entry">贾东琴、柯平（2011）。面向数字素养的高校图书馆数字服务体系研究。中国图书馆学会（主編），中国图书馆学会年会论文集：2011年卷（頁 45-52）。北京：国家图书馆出版社。</div>
   <div class="csl-entry">钱学森（2001）。<b>创建系统学</b>（頁 序2-3）。太原：山西科学技术出版社。</div>
   <div class="csl-entry">顾炎武（1980）。<b>昌平山水记；京东考古录</b>。北京：北京古籍出版社。</div>
   <div class="csl-entry">高等教育文献保障系统（不详）。<i>馆际互借与文献传递服务</i>。取读于2025年6月21日，从 <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a></div>
-  <div class="csl-entry"><b>康熙字典：巳集上 水部</b>（影印本，頁 50）（1962）。北京：中华书局。</div>
+  <div class="csl-entry"><b>康熙字典：巳集上：水部</b>（影印本，頁 50）（1962）。北京：中华书局。</div>
   <div class="csl-entry">曹凌（2011）。<b>中国佛教疑伪经综录</b>（頁 19）。上海：上海古籍出版社。</div>
   <div class="csl-entry">博伯尔（2023）。<b>银行业的未来与人工智能</b>（徐超，译；頁 35）。北京：清华大学出版社。</div>
   <div class="csl-entry">彭守璋（2025）。<b>1901—2024年中国1km分辨率逐月降水量数据集</b>［数据集］。国家地球系统科学数据中心。<a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a></div>

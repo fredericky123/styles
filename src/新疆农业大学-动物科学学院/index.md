@@ -240,13 +240,13 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[52]</div><div class="csl-right-inline">史国华, 樊金宇, 何益, 等. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法[P]. . 2022-09-13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">佚名. 最新図書館用語大辭典[M]. 東京: 柏書房株式會社, 2004.</div>
+    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">佚名. 最新図書館用語大辞典[M]. 東京: 柏書房株式會社, 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[54]</div><div class="csl-right-inline">António M, Pepper L. Histórias de Portugal: livros caídos[Z](2019-07-13).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">阿扬. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[A]. 认识记忆力：关于学习、思考与遗忘的脑科学[C]. 北京: 机械工业出版社, 2023: 15-18.</div>
+    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">阿扬. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答[A]. 认识记忆力：关于学习、思考与遗忘的脑科学[C]. 北京: 机械工业出版社, 2023: 15-18.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[56]</div><div class="csl-right-inline">北京鲁迅博物馆（北京新文化运动纪念馆）. 北京鲁迅博物馆志愿服务章程[Z](2021-04-21).</div>
@@ -288,7 +288,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[68]</div><div class="csl-right-inline">高等教育文献保障系统. 馆际互借与文献传递服务[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S]. , 2022.</div>
+    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">工业和信息化部. 信息技术　中文编码字符集: GB 18030—2022[S]. , 2022.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[70]</div><div class="csl-right-inline">顾炎武. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社, 1980.</div>
@@ -345,7 +345,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[87]</div><div class="csl-right-inline">李约瑟. 题词[A]. 苏颂与《本草图经》研究[C]. 长春: 长春出版社, 1991: 扉页.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[88]</div><div class="csl-right-inline">刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006—2011[Z]. 国家青藏高原科学数据中心, 2012.</div>
+    <div class="csl-left-margin">[88]</div><div class="csl-right-inline">刘时银, 郭万钦, 许君利. 中国第二次冰川编目数据集：2006—2011[Z]. 国家青藏高原科学数据中心, 2012.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[89]</div><div class="csl-right-inline">刘祥沈. 沈阳市政区图[Z]. 武汉: 武汉大学出版社, 2016.</div>
@@ -363,10 +363,10 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[93]</div><div class="csl-right-inline">钱学森. 创建系统学[M]. 太原: 山西科学技术出版社, 2001.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[94]</div><div class="csl-right-inline">全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. , 2016.</div>
+    <div class="csl-left-margin">[94]</div><div class="csl-right-inline">全国信息技术标准化技术委员会. 信息技术　先进音视频编码　第16部分：广播电视视频: GB/T 20090.16—2016[S]. , 2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. , 2021.</div>
+    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 信息与文献　资源描述: GB/T 3792—2021[S]. , 2021.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[96]</div><div class="csl-right-inline">石顺祥, 许海平, 孙艳玲, 等. 光折变自适应光外差探测方法[P]. . 2002-03-06.</div>
@@ -501,7 +501,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[139]</div><div class="csl-right-inline">中国造纸学会. 中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社, 2003.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类科学数据[Z]. 国家基础学科公共科学数据中心, 2023(2023-09-10).</div>
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类数据集[Z]. 国家基础学科公共科学数据中心, 2023(2023-09-10).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[141]</div><div class="csl-right-inline">訾冬梅, 高秀静. 内蒙古自治区地图册[Z]. 北京: 中国地图出版社, 2006.</div>

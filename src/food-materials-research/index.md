@@ -78,7 +78,7 @@
     <div class="csl-left-margin">7. </div><div class="csl-right-inline">冯友兰, 2008. 冯友兰自选集. 北京: 首都师范大学出版社. 2nd ed.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">8. </div><div class="csl-right-inline">康熙字典, Vol. 巳集上 水部, 1962. 北京: 中华书局. 影印本 ed.</div>
+    <div class="csl-left-margin">8. </div><div class="csl-right-inline">康熙字典, Vol. 巳集上：水部, 1962. 北京: 中华书局. 影印本 ed.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">9. </div><div class="csl-right-inline">战德臣, 张丽杰, 2019. 大学计算机：计算思维与信息素养. 北京: 高等教育出版社. 3rd ed.</div>
@@ -105,7 +105,7 @@
     <div class="csl-left-margin">16. </div><div class="csl-right-inline">博伯尔, 2023. 银行业的未来与人工智能. 北京: 清华大学出版社</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">17. </div><div class="csl-right-inline">図書館用語辞典編集委員会, ed, 2004. 最新図書館用語大辭典. 東京: 柏書房株式會社</div>
+    <div class="csl-left-margin">17. </div><div class="csl-right-inline">図書館用語辞典編集委員会, ed, 2004. 最新図書館用語大辞典. 東京: 柏書房株式會社</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">18. </div><div class="csl-right-inline">Peebles PZ Jr, 2001. <i>Probability, random variables, and random signal principles</i>. New York: McGraw-Hill. 4th ed.</div>
@@ -132,7 +132,7 @@
     <div class="csl-left-margin">25. </div><div class="csl-right-inline">Deverell W, Igler D, Eds., 2013. <i>A companion to California history</i>. New York: John Wiley &#38; Sons</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">26. </div><div class="csl-right-inline">阿扬, 2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答. In 认识记忆力：关于学习、思考与遗忘的脑科学, ed 《环球科学》杂志社. 北京: 机械工业出版社. pp. 15–18</div>
+    <div class="csl-left-margin">26. </div><div class="csl-right-inline">阿扬, 2023. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答. In 认识记忆力：关于学习、思考与遗忘的脑科学, ed 《环球科学》杂志社. 北京: 机械工业出版社. pp. 15–18</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">27. </div><div class="csl-right-inline">王夫之, ed, 2011. 周易外传：卷5. In 船山全书. 长沙: 岳麓书社. pp. 983–1029</div>
@@ -306,13 +306,13 @@
     <div class="csl-left-margin">83. </div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">84. </div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述</div>
+    <div class="csl-left-margin">84. </div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 2021. 信息与文献　资源描述</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">85. </div><div class="csl-right-inline">全国信息技术标准化技术委员会. 2016. <i>信息技术 先进音视频编码 第16部分：广播电视视频</i></div>
+    <div class="csl-left-margin">85. </div><div class="csl-right-inline">全国信息技术标准化技术委员会. 2016. <i>信息技术　先进音视频编码　第16部分：广播电视视频</i></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">86. </div><div class="csl-right-inline">工业和信息化部. 2022. 信息技术  中文编码字符集</div>
+    <div class="csl-left-margin">86. </div><div class="csl-right-inline">工业和信息化部. 2022. 信息技术　中文编码字符集</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">87. </div><div class="csl-right-inline">国家能源局. 2020. 水电工程水温实时监测系统技术规范</div>
@@ -444,10 +444,10 @@
     <div class="csl-left-margin">129. </div><div class="csl-right-inline">彭守璋. 2025. 1901—2024年中国1km分辨率逐月降水量数据集</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">130. </div><div class="csl-right-inline">刘时银, 郭万钦, 许君利. 2012. 中国第二次水川编目科学数据：2006—2011</div>
+    <div class="csl-left-margin">130. </div><div class="csl-right-inline">刘时银, 郭万钦, 许君利. 2012. 中国第二次冰川编目数据集：2006—2011</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">131. </div><div class="csl-right-inline">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, et al. 2023. 天宫二号遥感图像自然景物分类科学数据</div>
+    <div class="csl-left-margin">131. </div><div class="csl-right-inline">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, et al. 2023. 天宫二号遥感图像自然景物分类数据集</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">132. </div><div class="csl-right-inline">郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, et al. 2018. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集</div>

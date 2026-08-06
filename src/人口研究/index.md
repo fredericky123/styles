@@ -67,7 +67,7 @@ Qian等 (2009a)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">阿扬. 2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答. 《环球科学》杂志社, 编. 姜海伦, 译//认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社: 15-18.</div>
+  <div class="csl-entry">阿扬. 2023. 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答. 《环球科学》杂志社, 编. 姜海伦, 译//认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社: 15-18.</div>
   <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆）. 2021. 北京鲁迅博物馆志愿服务章程(2021-04-21)[2023-05-02].</div>
   <div class="csl-entry">博伯尔. 2023. 银行业的未来与人工智能. 徐超, 译. 北京: 清华大学出版社: 35.</div>
   <div class="csl-entry">曹凌. 2011. 中国佛教疑伪经综录. 上海: 上海古籍出版社: 19.</div>
@@ -81,7 +81,7 @@ Qian等 (2009a)<br>
   <div class="csl-entry">方向明, 曹迎杰. 2023. 元宇宙在图书馆的应用：理论研究与实践进展. ChinaXiv(2023-03-03)[2024-09-30].</div>
   <div class="csl-entry">冯友兰. 2008. 冯友兰自选集. 2 版. 北京: 首都师范大学出版社: 第1版自序.</div>
   <div class="csl-entry">高等教育文献保障系统. [日期不详]. 馆际互借与文献传递服务[2025-06-21].</div>
-  <div class="csl-entry">工业和信息化部. 2022. 信息技术  中文编码字符集: GB 18030—2022. [2025-12-02].</div>
+  <div class="csl-entry">工业和信息化部. 2022. 信息技术　中文编码字符集: GB 18030—2022. [2025-12-02].</div>
   <div class="csl-entry">顾炎武. 1980. 昌平山水记；京东考古录. 北京: 北京古籍出版社.</div>
   <div class="csl-entry">国家测绘地理信息局. [日期不详]. 一带一路经济走廊及其途经城市分布地势图[2025-12-02].</div>
   <div class="csl-entry">国家能源局. 2020. 水电工程水温实时监测系统技术规范: NB/T 10386—2020. .</div>
@@ -100,14 +100,14 @@ Qian等 (2009a)<br>
   <div class="csl-entry">李妍, 王莹. 2022. 医疗机构保洁人员“一前五后”手卫生干预效果研究. .</div>
   <div class="csl-entry">李幼平, 王莉. 2010. 循证医学研究方法：附视频. 中华移植杂志（电子版）, 3: 225-228[2014-06-09].</div>
   <div class="csl-entry">李约瑟. 1991. 题词//苏克福, 管成学, 邓明鲁. 苏颂与《本草图经》研究. 长春: 长春出版社: 扉页.</div>
-  <div class="csl-entry">刘时银, 郭万钦, 许君利. 2012. 中国第二次水川编目科学数据：2006—2011. 国家青藏高原科学数据中心[2025-07-15].</div>
+  <div class="csl-entry">刘时银, 郭万钦, 许君利. 2012. 中国第二次冰川编目数据集：2006—2011. 国家青藏高原科学数据中心[2025-07-15].</div>
   <div class="csl-entry">刘祥沈. 2016. 沈阳市政区图. 武汉: 武汉大学出版社.</div>
   <div class="csl-entry">楼梦麟, 杨燕. 2011. 汶川地震基岩地震动特征分析. 同济大学土木工程防灾国家重点实验室, 编//汶川地震震害研究. 上海: 同济大学出版社: 11-12[2013-05-09].</div>
   <div class="csl-entry">马克思. 2013. 政治经济学批判//马克思, 恩格斯. 马克思恩格斯全集. 2 版. 北京: 人民出版社: 302.</div>
   <div class="csl-entry">彭守璋. 2025. 1901—2024年中国1km分辨率逐月降水量数据集. 国家地球系统科学数据中心(2025-07-07)[2025-07-15].</div>
   <div class="csl-entry">钱学森. 2001. 创建系统学. 太原: 山西科学技术出版社: 序2-3.</div>
-  <div class="csl-entry">全国信息技术标准化技术委员会. 2016. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016. .</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述: GB/T 3792—2021. .</div>
+  <div class="csl-entry">全国信息技术标准化技术委员会. 2016. 信息技术　先进音视频编码　第16部分：广播电视视频: GB/T 20090.16—2016. .</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会. 2021. 信息与文献　资源描述: GB/T 3792—2021. .</div>
   <div class="csl-entry">石顺祥, 许海平, 孙艳玲, 陈利菊, 李家立, 等. 2002. 光折变自适应光外差探测方法: CN1338652A. 2002-03-06[2002-05-28].</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, 邢利娜, 高峰. 2022. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A. 2022-09-13[2025-02-28].</div>
   <div class="csl-entry">谭其骧. 1982. 中国历史地图集. 北京: 地图出版社: 6.</div>
@@ -139,7 +139,7 @@ Qian等 (2009a)<br>
   <div class="csl-entry">中国科学院文献情报中心. [日期不详]. 中国科学院科技论文预发布平台[2025-03-06].</div>
   <div class="csl-entry">中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 中国联合网络通信有限公司研究院. 2023. 电信业发展白皮书：2023：新时代高质量发展探索. [2025-02-28].</div>
   <div class="csl-entry">中国造纸学会. 2003. 中国造纸年鉴：2003. 北京: 中国轻工业出版社[2014-04-25].</div>
-  <div class="csl-entry">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 等. 2023. 天宫二号遥感图像自然景物分类科学数据. 国家基础学科公共科学数据中心(2023-09-10)[2025-07-15].</div>
+  <div class="csl-entry">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 等. 2023. 天宫二号遥感图像自然景物分类数据集. 国家基础学科公共科学数据中心(2023-09-10)[2025-07-15].</div>
   <div class="csl-entry">訾冬梅, 高秀静. 2006. 内蒙古自治区地图册. 北京: 中国地图出版社.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). 2022. Guide to Lithium Battery Safety for Space Applications: AIAA G-136-2022. .</div>
   <div class="csl-entry">Anonymous. 1883. Science. Washington, D.C.: American Association for the Advancement of Science.</div>
@@ -149,7 +149,7 @@ Qian等 (2009a)<br>
   <div class="csl-entry">Anonymous. 1979. Public Library Quarterly. Philadelphia: Taylor &#38; Francis[2025-02-28].</div>
   <div class="csl-entry">佚名. 1984. 临床内科杂志. 武汉: 中华医学会湖北分会.</div>
   <div class="csl-entry">Anonymous. 2000. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. Yufin S. A., ed.. Rotterdam: A. A. Balkema.</div>
-  <div class="csl-entry">Anonymous. 2004. 最新図書館用語大辭典. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式會社: 154.</div>
+  <div class="csl-entry">Anonymous. 2004. 最新図書館用語大辞典. 図書館用語辞典編集委員会, ed.. 東京: 柏書房株式會社: 154.</div>
   <div class="csl-entry">Anonymous. 2009. Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry. Sadock B. J., V. A. Sadock, P. Ruiz, H. I. Kaplan, eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   <div class="csl-entry">佚名. 2011a. 周易外传：卷5. 王夫之, 编//船山全书. 修订版 版. 长沙: 岳麓书社: 983-1029.</div>
   <div class="csl-entry">佚名. 2011b. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集. 陈志勇, 编. 北京: 经济科学出版社[2013-10-14].</div>

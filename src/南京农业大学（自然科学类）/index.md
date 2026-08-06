@@ -72,7 +72,7 @@ Qian et al. （2009b）<br>
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">阿扬．谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答［M］．姜海伦，译//《环球科学》杂志社．认识记忆力：关于学习、思考与遗忘的脑科学．北京：机械工业出版社，2023：15—18．</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">阿扬．谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答［M］．姜海伦，译//《环球科学》杂志社．认识记忆力：关于学习、思考与遗忘的脑科学．北京：机械工业出版社，2023：15—18．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">北京鲁迅博物馆（北京新文化运动纪念馆）．北京鲁迅博物馆志愿服务章程［EB/OL］．（2021-04-21）［2023-05-02］．<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>．</div>
@@ -117,7 +117,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[15]</div><div class="csl-right-inline">高等教育文献保障系统．馆际互借与文献传递服务［EB/OL］．［2025-06-21］．<a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">工业和信息化部．信息技术  中文编码字符集：GB 18030—2022［S］．2022．</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">工业和信息化部．信息技术　中文编码字符集：GB 18030—2022［S］．2022．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[17]</div><div class="csl-right-inline">顾炎武．昌平山水记；京东考古录［M］．北京：北京古籍出版社，1980．</div>
@@ -174,7 +174,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[34]</div><div class="csl-right-inline">李约瑟．题词［M］//苏克福, 管成学, 邓明鲁．苏颂与《本草图经》研究．长春：长春出版社，1991：扉页．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">刘时银，郭万钦，许君利．中国第二次水川编目科学数据：2006—2011［DS/OL］．国家青藏高原科学数据中心，2012［2025-07-15］．<a href="https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/">https://poles.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-26357ccb4246/</a>．</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">刘时银，郭万钦，许君利．中国第二次冰川编目数据集：2006—2011［DS/OL］．国家青藏高原科学数据中心，2012［2025-07-15］．<a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">刘祥沈．沈阳市政区图［CM］．武汉：武汉大学出版社，2016．</div>
@@ -198,10 +198,10 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">钱学森．创建系统学［M］．太原：山西科学技术出版社，2001：序2-3．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">全国信息技术标准化技术委员会．信息技术 先进音视频编码 第16部分：广播电视视频：GB/T 20090.16—2016［S］．2016．</div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">全国信息技术标准化技术委员会．信息技术　先进音视频编码　第16部分：广播电视视频：GB/T 20090.16—2016［S］．2016．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会．信息与文献 资源描述：GB/T 3792—2021［S］．2021．</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会．信息与文献　资源描述：GB/T 3792—2021［S］．2021．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[45]</div><div class="csl-right-inline">石顺祥，许海平，孙艳玲，等．光折变自适应光外差探测方法：CN1338652A［P］．2002-03-06．</div>
@@ -294,7 +294,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[74]</div><div class="csl-right-inline">中国社会科学院台湾史研究中心．台湾光复六十五周年暨抗战史实学术研讨会论文集［M］．北京：九州出版社，2012．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[75]</div><div class="csl-right-inline">中国图书馆学会．图书馆学通讯［J］．1957/1990，1957（1）—1990（4）．北京：北京图书馆，1957/1990．</div>
+    <div class="csl-left-margin">[75]</div><div class="csl-right-inline">中国图书馆学会．图书馆学通讯［J］．1957/1990，1957（1）-1990（4）．北京：北京图书馆，1957/1990．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[76]</div><div class="csl-right-inline">中国信息通信研究院，中国电信股份有限公司研究院，中国移动通信研究院，等．电信业发展白皮书：2023：新时代高质量发展探索［R］．2023．</div>
@@ -303,10 +303,10 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[77]</div><div class="csl-right-inline">中国造纸学会．中国造纸年鉴：2003［M］．北京：中国轻工业出版社，2003．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">中华医学会湖北分会．临床内科杂志［J］．1984，1984，1（1）—．武汉：中华医学会湖北分会，1984．</div>
+    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">中华医学会湖北分会．临床内科杂志［J］．1984，1984，1（1）-．武汉：中华医学会湖北分会，1984．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[79]</div><div class="csl-right-inline">周壮，李盛阳，吴薇，等．天宫二号遥感图像自然景物分类科学数据［DS/OL］．国家基础学科公共科学数据中心，2023［2025-07-15］．<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>．</div>
+    <div class="csl-left-margin">[79]</div><div class="csl-right-inline">周壮，李盛阳，吴薇，等．天宫二号遥感图像自然景物分类数据集［DS/OL］．国家基础学科公共科学数据中心，2023［2025-07-15］．<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[80]</div><div class="csl-right-inline">訾冬梅，高秀静．内蒙古自治区地图册［CM］．新版．北京：中国地图出版社，2006．</div>
@@ -315,7 +315,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">佚名．中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告［Z］．1949．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">佚名．康熙字典：巳集上 水部［M］．影印本．北京：中华书局，1962：50．</div>
+    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">佚名．康熙字典：巳集上：水部［M］．影印本．北京：中华书局，1962：50．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">佚名．周易外传：卷5［M］//王夫之．船山全书：第1册．修订版．长沙：岳麓书社，2011：983—1029．</div>
@@ -339,19 +339,19 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[89]</div><div class="csl-right-inline">史国华, 樊金宇, 何益, et al. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A[P]. 2022-09-13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">図書館用語辞典編集委員会. 最新図書館用語大辭典[M]. 東京: 柏書房株式會社, 2004: 154.</div>
+    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">図書館用語辞典編集委員会. 最新図書館用語大辞典[M]. 東京: 柏書房株式會社, 2004: 154.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[91]</div><div class="csl-right-inline">ISO. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S]. 2016a.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">American Association for the Advancement of Science. Science[J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">American Association for the Advancement of Science. Science[J]. 1883, 1883，1（1）-. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[93]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022[S]. 2022.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[94]</div><div class="csl-right-inline">Anon. Public library quarterly[J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis, 1979.</div>
+    <div class="csl-left-margin">[94]</div><div class="csl-right-inline">Anon. Public library quarterly[J]. 1979, 1979，1（1）-. Philadelphia: Taylor &#38; Francis, 1979.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[95]</div><div class="csl-right-inline">Anon. IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE, 2020.</div>

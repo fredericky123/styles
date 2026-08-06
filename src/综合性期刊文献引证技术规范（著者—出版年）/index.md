@@ -99,7 +99,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">阿扬，2023，《谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答》，见《环球科学》杂志社主编：《认识记忆力：关于学习、思考与遗忘的脑科学》，姜海伦译，北京：机械工业出版社，第15—18页。</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">阿扬，2023，《谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答》，见《环球科学》杂志社主编：《认识记忆力：关于学习、思考与遗忘的脑科学》，姜海伦译，北京：机械工业出版社，第15—18页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">北京鲁迅博物馆（北京新文化运动纪念馆），2021，《北京鲁迅博物馆志愿服务章程》，<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>，2023年5月2日。</div>
@@ -144,7 +144,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[15]</div><div class="csl-right-inline">高等教育文献保障系统，《馆际互借与文献传递服务》，<a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>，2025年6月21日。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">工业和信息化部，2022，《信息技术  中文编码字符集》。</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">工业和信息化部，2022，《信息技术　中文编码字符集》。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[17]</div><div class="csl-right-inline">顾炎武，1980，《昌平山水记；京东考古录》，北京：北京古籍出版社。</div>
@@ -204,7 +204,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[35]</div><div class="csl-right-inline">李约瑟，1991，《题词》，《苏颂与《本草图经》研究》，长春：长春出版社，扉页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">刘时银、郭万钦、许君利，2012，《中国第二次水川编目科学数据：2006—2011》。</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">刘时银、郭万钦、许君利，2012，《中国第二次冰川编目数据集：2006—2011》。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[37]</div><div class="csl-right-inline">刘祥沈，2016，《沈阳市政区图》，武汉：武汉大学出版社。</div>
@@ -228,10 +228,10 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">钱学森，2001，《创建系统学》，太原：山西科学技术出版社。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">全国信息技术标准化技术委员会，2016，《信息技术 先进音视频编码 第16部分：广播电视视频》。</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">全国信息技术标准化技术委员会，2016，《信息技术　先进音视频编码　第16部分：广播电视视频》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会，2021，《信息与文献 资源描述》。</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会，2021，《信息与文献　资源描述》。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">石顺祥、许海平、孙艳玲、陈利菊、李家立、刘继芳，2002，《光折变自适应光外差探测方法》。</div>
@@ -249,7 +249,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[50]</div><div class="csl-right-inline">童世亨，1926，《京兆直隶图》，上海：商务印书馆。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">図書館用語辞典編集委員会 (ed.), 2004, 最新図書館用語大辭典, 東京: 柏書房株式會社.</div>
+    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">図書館用語辞典編集委員会 (ed.), 2004, 最新図書館用語大辞典, 東京: 柏書房株式會社.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[52]</div><div class="csl-right-inline">汪学军，2005，《中国农业转基因生物研发进展与安全管理》，见国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社。</div>
@@ -330,7 +330,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[77]</div><div class="csl-right-inline">中国社会科学院台湾史研究中心主编，2012，《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">中国图书馆学会主编，1957/1990，《图书馆学通讯》1957（1）—1990（4），北京：北京图书馆。</div>
+    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">中国图书馆学会主编，1957/1990，《图书馆学通讯》1957（1）-1990（4），北京：北京图书馆。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">中国信息通信研究院、中国电信股份有限公司研究院、中国移动通信研究院、中国联合网络通信有限公司研究院，2023，《电信业发展白皮书：2023：新时代高质量发展探索》。</div>
@@ -339,16 +339,16 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[80]</div><div class="csl-right-inline">中国造纸学会，2003，《中国造纸年鉴：2003》，北京：中国轻工业出版社。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">中华医学会湖北分会主编，1984，《临床内科杂志》1984，1（1）—，武汉：中华医学会湖北分会。</div>
+    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">中华医学会湖北分会主编，1984，《临床内科杂志》1984，1（1）-，武汉：中华医学会湖北分会。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞，2023，《天宫二号遥感图像自然景物分类科学数据》。</div>
+    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞，2023，《天宫二号遥感图像自然景物分类数据集》。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">訾冬梅、高秀静，2006，《内蒙古自治区地图册》（新版），北京：中国地图出版社。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">American Association for the Advancement of Science (ed.), 1883, <i>Science</i>, 1883，1（1）—, Washington, D.C.: American Association for the Advancement of Science.</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">American Association for the Advancement of Science (ed.), 1883, <i>Science</i>, 1883，1（1）-, Washington, D.C.: American Association for the Advancement of Science.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA), 2022, <i>Guide to Lithium Battery Safety for Space Applications</i>.</div>
@@ -495,10 +495,10 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline">1949，《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">1962，《康熙字典》（影印本）巳集上 水部，北京：中华书局。</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">1962，《康熙字典》（影印本）巳集上：水部，北京：中华书局。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">1979, <i>Public Library Quarterly</i>, 1979，1（1）—, Philadelphia: Taylor &#38; Francis.</div>
+    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">1979, <i>Public Library Quarterly</i>, 1979，1（1）-, Philadelphia: Taylor &#38; Francis.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[135]</div><div class="csl-right-inline">2015，《[《昨日之歌》图书封面]》。</div>

@@ -126,21 +126,21 @@ Qian et al (2009a)<br>
   <div class="csl-entry">井丽南 (2022) p. 43. (in Chinese) [井丽南 (2022) 支持状态可编程的SDN交换机关键技术研究, p. 43. 博士学位论文, 中国科学院大学, 北京.]</div>
   <div class="csl-entry">仉尚航 (2024) <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a> (2025-01-02) (in Chinese) [仉尚航 (2024) 开放世界中的实体基础模型. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a> (2025-01-02)]</div>
   <div class="csl-entry">何筱梅 (2016) pp. 24–25. (in Chinese) [何筱梅 (2016) 新媒体时代原生广告的策略与发展研究, pp. 24–25. 博士学位论文, 武汉大学, 武汉.]</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会 (2021) (in Chinese) [全国信息与文献标准化技术委员会 (2021) 信息与文献 资源描述.]</div>
-  <div class="csl-entry">全国信息技术标准化技术委员会 (2016) (in Chinese) [全国信息技术标准化技术委员会 (2016) 信息技术 先进音视频编码 第16部分：广播电视视频.]</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会 (2021) (in Chinese) [全国信息与文献标准化技术委员会 (2021) 信息与文献　资源描述.]</div>
+  <div class="csl-entry">全国信息技术标准化技术委员会 (2016) (in Chinese) [全国信息技术标准化技术委员会 (2016) 信息技术　先进音视频编码　第16部分：广播电视视频.]</div>
   <div class="csl-entry">冀超 (2001) (in Chinese) [冀超 (2001) 一种荒漠化地区生态植被综合培育种植方法.]</div>
   <div class="csl-entry">冯友兰 (2008) 第1版自序. (in Chinese) [冯友兰 (2008) 冯友兰自选集, 2 版, 第1版自序. 首都师范大学出版社, 北京.]</div>
-  <div class="csl-entry">刘时银, 郭万钦, 许君利 (2012) (in Chinese) [刘时银, 郭万钦, 许君利 (2012) 中国第二次水川编目科学数据：2006—2011. 国家青藏高原科学数据中心.]</div>
+  <div class="csl-entry">刘时银, 郭万钦, 许君利 (2012) (in Chinese) [刘时银, 郭万钦, 许君利 (2012) 中国第二次冰川编目数据集：2006—2011. 国家青藏高原科学数据中心.]</div>
   <div class="csl-entry">刘祥沈 (2016) (in Chinese) [刘祥沈 (2016) 沈阳市政区图. 武汉大学出版社, 武汉.]</div>
   <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆） (2021) <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> (2023-05-02) (in Chinese) [北京鲁迅博物馆（北京新文化运动纪念馆） (2021) 北京鲁迅博物馆志愿服务章程. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> (2023-05-02)]</div>
   <div class="csl-entry">博伯尔 (2023) p. 35. (in Chinese) [徐超 (译) (2023) 银行业的未来与人工智能, p. 35. 清华大学出版社, 北京.]</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, 邢利娜, 高峰 (2022) 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法.</div>
   <div class="csl-entry">吴自银, 温珍河 (2019) (in Chinese) [吴自银, 温珍河 (2019) 中国南部海域海底地形图. 科学出版社, 北京.]</div>
-  <div class="csl-entry">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞 (2023) (in Chinese) [周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞 (2023) 天宫二号遥感图像自然景物分类科学数据. 国家基础学科公共科学数据中心.]</div>
+  <div class="csl-entry">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞 (2023) (in Chinese) [周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞 (2023) 天宫二号遥感图像自然景物分类数据集. 国家基础学科公共科学数据中心.]</div>
   <div class="csl-entry">哈里森, 沃尔德伦 (2012) pp. 235–236. (in Chinese) [谢远涛 (译) (2012) 经济数学与金融数学, pp. 235–236. 中国人民大学出版社, 北京.]</div>
   <div class="csl-entry">国家测绘地理信息局 (不详) (in Chinese) [国家测绘地理信息局 (不详) 一带一路经济走廊及其途经城市分布地势图.]</div>
   <div class="csl-entry">国家能源局 (2020) (in Chinese) [国家能源局 (2020) 水电工程水温实时监测系统技术规范.]</div>
-  <div class="csl-entry">工业和信息化部 (2022) (in Chinese) [工业和信息化部 (2022) 信息技术  中文编码字符集.]</div>
+  <div class="csl-entry">工业和信息化部 (2022) (in Chinese) [工业和信息化部 (2022) 信息技术　中文编码字符集.]</div>
   <div class="csl-entry">张伯伟 (2002) p. 288. (in Chinese) [张伯伟 (2002) 全唐五代诗格汇考, p. 288. 江苏古籍出版社, 南京.]</div>
   <div class="csl-entry">张凯军, 赵永杰, 陈朝岗 (2013) (in Chinese) [张凯军, 赵永杰, 陈朝岗 (2013) 轨道火车及高速轨道火车紧急安全制动辅助装置.]</div>
   <div class="csl-entry">张群, 程志宝, 石志飞 (2024a) (in Chinese) [张群, 程志宝, 石志飞 (2024a) 惯性增强动力吸振器-浮置板轨道低频减振性能研究. 铁道学报.]</div>
@@ -176,7 +176,7 @@ Qian et al (2009a)<br>
   <div class="csl-entry">郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平 (2018) (in Chinese) [郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平 (2018) 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集. Science Data Bank.]</div>
   <div class="csl-entry">金燕萍 (2020) p. 16. (in Chinese) [金燕萍 (2020) 社交媒体时代的虚假信息研究, p. 16. 硕士学位论文, 温州大学, 温州.]</div>
   <div class="csl-entry">钱学森 (2001) 序2-3. (in Chinese) [钱学森 (2001) 创建系统学, 序2-3. 山西科学技术出版社, 太原.]</div>
-  <div class="csl-entry">阿扬 (2023) (in Chinese) [姜海伦 (译) (2023) 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答. 收入: 认识记忆力：关于学习、思考与遗忘的脑科学 (编 《环球科学》杂志社), pp. 15–18. 机械工业出版社, 北京.]</div>
+  <div class="csl-entry">阿扬 (2023) (in Chinese) [姜海伦 (译) (2023) 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答. 收入: 认识记忆力：关于学习、思考与遗忘的脑科学 (编 《环球科学》杂志社), pp. 15–18. 机械工业出版社, 北京.]</div>
   <div class="csl-entry">陈建军 (2010) 7(10), 93. (in Chinese) [陈建军 (2010) 从数字地球到智慧地球. 国土资源导刊, 7(10), 93.]</div>
   <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, 赵震, 王振刚 (1980) (in Chinese) [陈晋镳, 张惠民, 朱士兴, 赵震, 王振刚 (1980) 蓟县震旦亚界的研究. 收入: 中国震旦亚界 (编 中国地质科学院天津地质矿产研究所), pp. 56–114. 天津科学技术出版社, 天津.]</div>
   <div class="csl-entry">陈登原 (2000) p. 29. (in Chinese) [陈登原 (2000) 国史旧闻, p. 29. 中华书局, 北京.]</div>
@@ -192,7 +192,7 @@ Qian et al (2009a)<br>
   <div class="csl-entry">(1979) Public Library Quarterly. Taylor &#38; Francis, Philadelphia.</div>
   <div class="csl-entry">(1984) (in Chinese) [(1984) 临床内科杂志. 中华医学会湖北分会, 武汉.]</div>
   <div class="csl-entry">(2000) Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. A. A. Balkema, Rotterdam.</div>
-  <div class="csl-entry">(2004) 最新図書館用語大辭典, p. 154. 柏書房株式會社, 東京.</div>
+  <div class="csl-entry">(2004) 最新図書館用語大辞典, p. 154. 柏書房株式會社, 東京.</div>
   <div class="csl-entry">(2009) Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry, 9th edn. Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, Philadelphia.</div>
   <div class="csl-entry">(2011a) (in Chinese) [(2011a) 周易外传：卷5. 收入: 船山全书 (编 王夫之), pp. 983–1029. 岳麓书社, 长沙.]</div>
   <div class="csl-entry">(2011b) (in Chinese) [(2011b) 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集. 经济科学出版社, 北京.]</div>

@@ -67,7 +67,7 @@ Qian et al. （2009a）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry"><b>阿扬</b> (2023). 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答. In: 认识记忆力：关于学习、思考与遗忘的脑科学. 机械工业出版社, 北京. pp. 15-18.</div>
+  <div class="csl-entry"><b>阿扬</b> (2023). 谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答. In: 认识记忆力：关于学习、思考与遗忘的脑科学. 机械工业出版社, 北京. pp. 15-18.</div>
   <div class="csl-entry">(2021-04-21).</div>
   <div class="csl-entry"><b>博伯尔</b> (2023). 银行业的未来与人工智能. 清华大学出版社, 北京: 35.</div>
   <div class="csl-entry"><b>曹凌</b> (2011). 中国佛教疑伪经综录. 上海古籍出版社, 上海: 19.</div>
@@ -81,7 +81,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>丁文详</b> (2000). 数字革命与竞争国际化. 中国青年报, 15.</div>
   <div class="csl-entry"><b>方向明, 曹迎杰</b> (2023). 元宇宙在图书馆的应用：理论研究与实践进展. ChinaXiv.</div>
   <div class="csl-entry"><b>冯友兰</b> (2008). 冯友兰自选集. 2. 首都师范大学出版社, 北京: 第1版自序.</div>
-  <div class="csl-entry"><b>工业和信息化部</b> (2022). 信息技术  中文编码字符集.</div>
+  <div class="csl-entry"><b>工业和信息化部</b> (2022). 信息技术　中文编码字符集.</div>
   <div class="csl-entry"><b>顾炎武</b> (1980). 昌平山水记；京东考古录. 北京古籍出版社, 北京.</div>
   <div class="csl-entry"><b>国家能源局</b> (2020). 水电工程水温实时监测系统技术规范.</div>
   <div class="csl-entry"><b>国家药典委员会</b> (2020). 大黄. In: 中华人民共和国药典. 2020版 版. 中国医药科技出版社, 北京. pp. 24-25.</div>
@@ -107,14 +107,14 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>牛志明, Swingland I.R., 雷光春</b> (2012). 综合湿地管理：综合湿地管理国际研讨会论文集. 海洋出版社, 北京.</div>
   <div class="csl-entry">. 国家地球系统科学数据中心(2025-07-07).</div>
   <div class="csl-entry"><b>钱学森</b> (2001). 创建系统学. 山西科学技术出版社, 太原: 序2-3.</div>
-  <div class="csl-entry"><b>全国信息技术标准化技术委员会</b> (2016). 信息技术 先进音视频编码 第16部分：广播电视视频.</div>
-  <div class="csl-entry"><b>全国信息与文献标准化技术委员会</b> (2021). 信息与文献 资源描述.</div>
+  <div class="csl-entry"><b>全国信息技术标准化技术委员会</b> (2016). 信息技术　先进音视频编码　第16部分：广播电视视频.</div>
+  <div class="csl-entry"><b>全国信息与文献标准化技术委员会</b> (2021). 信息与文献　资源描述.</div>
   <div class="csl-entry"><b>石顺祥, 许海平, 孙艳玲, 陈利菊, 李家立, 刘继芳</b> (2002). 光折变自适应光外差探测方法. 2002-03-06.</div>
   <div class="csl-entry"><b>史国华, 樊金宇, 何益, 邢利娜, 高峰</b> (2022). 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法. 2022-09-13.</div>
   <div class="csl-entry">. 地图出版社, 北京: 6.</div>
   <div class="csl-entry"><b>汤万金, 杨跃翔, 刘文, 郑建国, 王赟松</b> (2013). 人体安全重要技术标准研制最终报告.</div>
   <div class="csl-entry">. 商务印书馆, 上海.</div>
-  <div class="csl-entry"><b>図書館用語辞典編集委員会</b> (2004). 最新図書館用語大辭典. 柏書房株式會社, 東京: 154.</div>
+  <div class="csl-entry"><b>図書館用語辞典編集委員会</b> (2004). 最新図書館用語大辞典. 柏書房株式會社, 東京: 154.</div>
   <div class="csl-entry"><b>汪学军</b> (2005). 中国农业转基因生物研发进展与安全管理. .</div>
   <div class="csl-entry"><b>王夫之</b> (1865). 宋论. 刻本 版. 湘乡曾国荃, 金陵.</div>
   <div class="csl-entry"><b>王夫之</b> (2011). 周易外传：卷5. In: 船山全书. 修订版 版. 岳麓书社, 长沙. pp. 983-1029.</div>

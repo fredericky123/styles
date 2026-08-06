@@ -79,7 +79,7 @@ Qian et al. （2009a）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">（1）阿扬：《谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答》，载《环球科学》杂志社主编：《认识记忆力：关于学习、思考与遗忘的脑科学》，机械工业出版社，2023年。</div>
+  <div class="csl-entry">（1）阿扬：《谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答》，载《环球科学》杂志社主编：《认识记忆力：关于学习、思考与遗忘的脑科学》，机械工业出版社，2023年。</div>
   <div class="csl-entry">（2）北京鲁迅博物馆（北京新文化运动纪念馆）：《北京鲁迅博物馆志愿服务章程》，2021年。</div>
   <div class="csl-entry">（3）博伯尔：《银行业的未来与人工智能》，清华大学出版社，2023年。</div>
   <div class="csl-entry">（4）曹凌：《中国佛教疑伪经综录》，上海古籍出版社，2011年。</div>
@@ -94,7 +94,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">（13）方向明、曹迎杰：《元宇宙在图书馆的应用：理论研究与实践进展》，ChinaXiv，2023年。</div>
   <div class="csl-entry">（14）冯友兰：《冯友兰自选集》，首都师范大学出版社，2008年。</div>
   <div class="csl-entry">（15）高等教育文献保障系统：《馆际互借与文献传递服务》。</div>
-  <div class="csl-entry">（16）工业和信息化部：《信息技术  中文编码字符集》，2022年。</div>
+  <div class="csl-entry">（16）工业和信息化部：《信息技术　中文编码字符集》，2022年。</div>
   <div class="csl-entry">（17）顾炎武：《昌平山水记；京东考古录》，北京古籍出版社，1980年。</div>
   <div class="csl-entry">（18）国家测绘地理信息局：《一带一路经济走廊及其途经城市分布地势图》。</div>
   <div class="csl-entry">（19）国家能源局：《水电工程水温实时监测系统技术规范》，2020年。</div>
@@ -114,7 +114,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">（33）李妍、王莹：《医疗机构保洁人员“一前五后”手卫生干预效果研究》，2022年。</div>
   <div class="csl-entry">（34）李幼平、王莉：《循证医学研究方法：附视频》，《中华移植杂志（电子版）》，2010年第3期。</div>
   <div class="csl-entry">（35）李约瑟：《题词》，载《苏颂与《本草图经》研究》，长春出版社，1991年。</div>
-  <div class="csl-entry">（36）刘时银、郭万钦、许君利：《中国第二次水川编目科学数据：2006—2011》，国家青藏高原科学数据中心，2012年。</div>
+  <div class="csl-entry">（36）刘时银、郭万钦、许君利：《中国第二次冰川编目数据集：2006—2011》，国家青藏高原科学数据中心，2012年。</div>
   <div class="csl-entry">（37）刘祥沈：《沈阳市政区图》，武汉大学出版社，2016年。</div>
   <div class="csl-entry">（38）楼梦麟、杨燕：《汶川地震基岩地震动特征分析》，载同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，同济大学出版社，2011年。</div>
   <div class="csl-entry">（39）马克思：《政治经济学批判》，载《马克思恩格斯全集》，人民出版社，2013年。</div>
@@ -122,14 +122,14 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">（41）牛志明、Swingland I. R.、雷光春主编：《综合湿地管理：综合湿地管理国际研讨会论文集》，海洋出版社，2012年。</div>
   <div class="csl-entry">（42）彭守璋：《1901—2024年中国1km分辨率逐月降水量数据集》，国家地球系统科学数据中心，2025年。</div>
   <div class="csl-entry">（43）钱学森：《创建系统学》，山西科学技术出版社，2001年。</div>
-  <div class="csl-entry">（44）全国信息技术标准化技术委员会：《信息技术 先进音视频编码 第16部分：广播电视视频》，2016年。</div>
-  <div class="csl-entry">（45）全国信息与文献标准化技术委员会：《信息与文献 资源描述》，2021年。</div>
+  <div class="csl-entry">（44）全国信息技术标准化技术委员会：《信息技术　先进音视频编码　第16部分：广播电视视频》，2016年。</div>
+  <div class="csl-entry">（45）全国信息与文献标准化技术委员会：《信息与文献　资源描述》，2021年。</div>
   <div class="csl-entry">（46）石顺祥、许海平、孙艳玲、陈利菊、李家立、刘继芳：《光折变自适应光外差探测方法》，2002年。</div>
   <div class="csl-entry">（47）史国华, 樊金宇, 何益, 邢利娜, and 高峰, 2022, 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法.</div>
   <div class="csl-entry">（48）谭其骧：《中国历史地图集》，地图出版社，1982年。</div>
   <div class="csl-entry">（49）汤万金、杨跃翔、刘文、郑建国、王赟松：《人体安全重要技术标准研制最终报告》，2013年。</div>
   <div class="csl-entry">（50）童世亨：《京兆直隶图》，商务印书馆，1926年。</div>
-  <div class="csl-entry">（51）図書館用語辞典編集委員会, ed., 2004, 最新図書館用語大辭典, 東京: 柏書房株式會社.</div>
+  <div class="csl-entry">（51）図書館用語辞典編集委員会, ed., 2004, 最新図書館用語大辞典, 東京: 柏書房株式會社.</div>
   <div class="csl-entry">（52）汪学军：《中国农业转基因生物研发进展与安全管理》，载国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，中国环境科学出版社，2005年。</div>
   <div class="csl-entry">（53）王夫之：《宋论》，湘乡曾国荃，1865年。</div>
   <div class="csl-entry">（54）王夫之主编：《周易外传：卷5》，载《船山全书》，岳麓书社，2011年。</div>
@@ -160,7 +160,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">（79）中国信息通信研究院、中国电信股份有限公司研究院、中国移动通信研究院、中国联合网络通信有限公司研究院：《电信业发展白皮书：2023：新时代高质量发展探索》，2023年。</div>
   <div class="csl-entry">（80）中国造纸学会：《中国造纸年鉴：2003》，中国轻工业出版社，2003年。</div>
   <div class="csl-entry">（81）中华医学会湖北分会主编：《临床内科杂志》，中华医学会湖北分会，1984年。</div>
-  <div class="csl-entry">（82）周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞：《天宫二号遥感图像自然景物分类科学数据》，国家基础学科公共科学数据中心，2023年。</div>
+  <div class="csl-entry">（82）周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞：《天宫二号遥感图像自然景物分类数据集》，国家基础学科公共科学数据中心，2023年。</div>
   <div class="csl-entry">（83）訾冬梅、高秀静：《内蒙古自治区地图册》，中国地图出版社，2006年。</div>
   <div class="csl-entry">（84）American Association for the Advancement of Science, ed., 1883, <i>Science</i>, Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">（85）American Institute of Aeronautics and Astronautics (AIAA), 2022, <i>Guide to Lithium Battery Safety for Space Applications</i>.</div>

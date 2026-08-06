@@ -115,7 +115,7 @@
 <sup>14</sup> 赵学功：《当代美国外交》（北京：社会科学文献出版社，2001年）。<br>
 <sup>15</sup> 中国造纸学会：《中国造纸年鉴：2003》（北京：中国轻工业出版社，2003年）。<br>
 <sup>16</sup> 博伯尔：《银行业的未来与人工智能》（北京：清华大学出版社，2023年）。<br>
-<sup>17</sup> <b>図書館用語辞典編集委員会, ed.</b>, 最新図書館用語大辭典 (東京: 柏書房株式會社, 2004), p.154.<br>
+<sup>17</sup> <b>図書館用語辞典編集委員会, ed.</b>, 最新図書館用語大辞典 (東京: 柏書房株式會社, 2004), p.154.<br>
 <sup>18</sup> <b>Peyton Z. Peebles, Jr.</b>, <i>Probability, Random Variables, and Random Signal Principles</i> (New York: McGraw-Hill, 2001).<br>
 <sup>19</sup> <b>Benjamin J. Sadock, Virginia Alcott Sadock, Pedro Ruiz, and Harold I. Kaplan, eds.</b>, <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i> (Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009).<br>
 <sup>20</sup> <b>Institute for Art and Architecture, Academy of Fine Arts Vienna</b>, <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i> (Zürich: Park Books, 2023), p.78.<br>
@@ -124,7 +124,7 @@
 <sup>23</sup> <b>Lynette Torres, Fiona Salisbury, Barbara Yazbeck, Sharon Karasmanis, Janice Pinder, and Caroline Ondracek, eds.</b>, <i>Connecting the Library to the Curriculum</i> (Singapore: Springer Nature, 2021), p.97.<br>
 <sup>24</sup> <b>Tony Boobier</b>, <i>AI and the Future of Banking</i> (Chichester: John Wiley &#38; Sons, 2020), p.35.<br>
 <sup>25</sup> <b>William Deverell and David Igler, eds.</b>, <i>A Companion to California History</i> (New York: John Wiley &#38; Sons, 2013), pp.21-22.<br>
-<sup>26</sup> 阿扬：〈谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答〉，收錄於《环球科学》杂志社主編：《认识记忆力：关于学习、思考与遗忘的脑科学》（北京：机械工业出版社，2023年），頁15-18。<br>
+<sup>26</sup> 阿扬：〈谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答〉，收錄於《环球科学》杂志社主編：《认识记忆力：关于学习、思考与遗忘的脑科学》（北京：机械工业出版社，2023年），頁15-18。<br>
 <sup>27</sup> 王夫之编辑：〈周易外传：卷5〉，《船山全书》（长沙：岳麓书社，2011年，修订版），第1册，頁983-1029。<br>
 <sup>28</sup> 程根伟：〈1998年长江洪水的成因与减灾对策〉，收錄於许厚泽、赵其国主編：《长江流域洪涝灾害与科技对策》（北京：科学出版社，1999年），頁32-36。<br>
 <sup>29</sup> 李约瑟：〈题词〉，《苏颂与《本草图经》研究》（长春：长春出版社，1991年），頁扉页。<br>
@@ -182,9 +182,9 @@
 <sup>81</sup> <b>David E. Calkin, Alan A. Ager, and Matthew P. Thompson</b>, <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i> (2011), pp.8-9.<br>
 <sup>82</sup> <b>U.S. Department of Transportation Federal Highway Administration</b>, <i>Guidelines for Handling Excavated Acid-Producing Materials</i> (Springfield: U.S. Department of Commerce National Information Service, 1990), p.25.<br>
 <sup>83</sup> <b>United Nations Department of Economic and Social Affairs</b>, <i>United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</i> (no date).<br>
-<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献 资源描述》（2021年3月）。<br>
-<sup>85</sup> 全国信息技术标准化技术委员会：《信息技术 先进音视频编码 第16部分：广播电视视频》（2016年4月）。<br>
-<sup>86</sup> 工业和信息化部：《信息技术  中文编码字符集》（2022年7月）。<br>
+<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献　资源描述》（2021年3月）。<br>
+<sup>85</sup> 全国信息技术标准化技术委员会：《信息技术　先进音视频编码　第16部分：广播电视视频》（2016年4月）。<br>
+<sup>86</sup> 工业和信息化部：《信息技术　中文编码字符集》（2022年7月）。<br>
 <sup>87</sup> 国家能源局：《水电工程水温实时监测系统技术规范》（2020年10月）。<br>
 <sup>88</sup> <b>ISO</b>, <i>Audit Data Collection</i> (2019).<br>
 <sup>89</sup> <b>International Electrotechnical Commission (IEC)</b>, <i>Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML)</i> (New York: IEEE, 2021).<br>
@@ -228,8 +228,8 @@
 <sup>127</sup> <b>Robert Cribb</b>, <i>Historical Atlas of Indonesia</i> (Abingdon: Routledge, 2015).<br>
 <sup>128</sup> <i>Coastal Wetlands Map of China Continent</i> (Beijing: China Ocean Press, 2024), p.50.<br>
 <sup>129</sup> 彭守璋：《1901—2024年中国1km分辨率逐月降水量数据集》（国家地球系统科学数据中心，2025年7月）。<br>
-<sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次水川编目科学数据：2006—2011》（国家青藏高原科学数据中心，2012年）。<br>
-<sup>131</sup> 周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞：《天宫二号遥感图像自然景物分类科学数据》（国家基础学科公共科学数据中心，2023年9月）。<br>
+<sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次冰川编目数据集：2006—2011》（国家青藏高原科学数据中心，2012年）。<br>
+<sup>131</sup> 周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞：《天宫二号遥感图像自然景物分类数据集》（国家基础学科公共科学数据中心，2023年9月）。<br>
 <sup>132</sup> 郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、赵亮、张一平、闫俊华、王安志、张军辉、郝彦斌、赵风华、张法伟、周广胜、林光辉、陈世苹、刘绍民、赵斌、贾根锁、张旭东、张玉翠、古松、刘文兆、李彦、王文杰、杨大文、张劲松、张志强、赵仲辉、周石硚、郭海强、沈彦俊、徐自为、黄辉、孟平：《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集》（Science Data Bank，2018年5月）。<br>
 <sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》（国家地球系统科学数据中心-黄土高原分中心，2024年12月）。<br>
 <sup>134</sup> 王继民、罗鹏程、赵常煜、郭鑫、王世奇、高正：《人文社会科学数据集检索方法研究的数据集》（北京大学开放研究数据平台，2025年6月）。<br>

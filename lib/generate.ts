@@ -151,7 +151,7 @@ export function generateAndWrite(csl_file: string) {
     toDetails("GB/T 7714—2025 示例文献", result.gb_result!),
     toDetails("《心理学报》 示例文献", result.aps_result!),
     toDetails("《中国社会科学》 示例文献", result.ssc_result!),
-    toDetails("《法学引注手册》 示例文献", result.mlc_result!),
+    toDetails("《法学引注手册》（第二版）示例文献", result.mlc_result!),
     toDetails("APA 示例文献", result.apa_result!),
   ].join("\n");
 

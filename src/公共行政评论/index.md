@@ -311,97 +311,232 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
-### 《法学引注手册》 示例文献
+### 《法学引注手册》（第二版）示例文献
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">包郑照诉苍南县人民政府强制拆除房屋案，No.（1988）浙法民上字 7 号（浙江省高级人民法院）．</div>
-  <div class="csl-entry">被告人李宁、张磊贪污案一审开庭（不详）．新华网．<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>．</div>
+  <div class="csl-entry">1996年仲裁法．</div>
+  <div class="csl-entry">1996年仲裁法．</div>
+  <div class="csl-entry">奥本海国际法：卷上卷第1分册（8 版）（不详）．</div>
+  <div class="csl-entry">澳门特别行政区廉政公署组织法，Pub. L. No. 第17/2024号法律修改．</div>
+  <div class="csl-entry">白岩松主持（2020）．新型冠状病毒肺炎，情况如何？［广播］．载《中央电视台“新闻1+1”栏目》．</div>
+  <div class="csl-entry">包郑照等诉苍南县人民政府强制拆除房屋案，No.（1988）浙法民上字7号（浙江省高级人民法院1988年12月26日）．</div>
+  <div class="csl-entry">被告人李宁、张磊贪污案一审开庭（2019）．新华网．<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>．2025年11月8日访问．</div>
+  <div class="csl-entry">［采访 笔者；电话］（2001）．</div>
+  <div class="csl-entry">车某玲诉朱某芳相邻关系纠纷案．</div>
+  <div class="csl-entry">车某玲诉朱某芳相邻关系纠纷案，No.（2022）粤01民终1669号（广东省广州市中级人民法院2022年4月12日）．</div>
+  <div class="csl-entry">车某玲诉朱某芳相邻关系纠纷案，No.（2022）粤01民终1669号（广东省广州市中级人民法院2022年4月12日）．</div>
+  <div class="csl-entry">车丕照（2000a）．论国际条约对私人的效力（会议论文）．国际条约与国内法的关系：中德国际条约与国内法关系研讨会论文集．</div>
+  <div class="csl-entry">车丕照（2000b）．论国际系约对私人的效力（会议论文）．国际条约与国内法的关系：中德国际条约与国内品关系研讨会论文集．</div>
+  <div class="csl-entry">陈辉（化名）诉大庆日月星有限公司劳动争议案．</div>
+  <div class="csl-entry">陈鹏（2022）．基本权利保障中的法律保留：历史变迁与本土建构（会议论文）．苏州大学：第五届中国宪法学青年论坛会议论文集．</div>
+  <div class="csl-entry">陈甦、［芬兰］尤拉·柳库恩主编（2019）．法制改革与法治发展．社会科学文献出版社．</div>
+  <div class="csl-entry">陈卫佐（2024）．拉丁语法律用语手册．法律出版社．</div>
+  <div class="csl-entry">陈兴良主编（2003）．刑法学．复旦大学出版社．</div>
   <div class="csl-entry">崔国斌（2006）．知识产权法官造法批判．中国法学，1，144-164．</div>
-  <div class="csl-entry">[德]莱纳·沃尔夫（2012）．风险法的风险（陈霄，译）．载刘刚主编《风险规制：德国的理论与实践》．法律出版社．</div>
+  <div class="csl-entry">打赢蓝天保卫战三年行动计划，No.国发〔2018］22号．</div>
+  <div class="csl-entry">德国民法典（陈卫佐，译；5 版）（2020a）．法律出版社．</div>
+  <div class="csl-entry">德国民法典（陈卫佐，译；5 版）（2020b）．法律出版社．</div>
   <div class="csl-entry">邓小平（1994）．精简机构是一场革命．载《邓小平文选》（2 版，卷2）．人民出版社．</div>
-  <div class="csl-entry">動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.</div>
-  <div class="csl-entry">法国行政法院网站（不详）．<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>．2016年12月18日访问．</div>
-  <div class="csl-entry">高鸿钧、程汉大主编（2013）．英美法原论．北京大学出版社．</div>
-  <div class="csl-entry">国家质量监督检验检疫总局、中国国家标准化管理委员会（2015）．信息与文献 参考文献著录规则（No.GB/T 7714—2015）．</div>
-  <div class="csl-entry">国务院关于印发打赢蓝天保卫战三年行动计划的通知，No.国发〔2018〕22号（2018）．</div>
+  <div class="csl-entry">邓小平文选（2 版，卷2）（不详）．</div>
+  <div class="csl-entry">狄骥（2013）．公法的变迁（郑戈，译）．商务印书馆．</div>
+  <div class="csl-entry">联合国．</div>
+  <div class="csl-entry">法国最高行政法院网站（不详-a）．<a href="https://conseil-etat.fr/zh">https://conseil-etat.fr/zh</a>．2024年10月8日访问．</div>
+  <div class="csl-entry">法国最高行政法院网站（不详-b）．<a href="https://conseil-etat.fr/zh">https://conseil-etat.fr/zh</a>．2024年10月8日访问．</div>
+  <div class="csl-entry">范扬（2005）．行政法总论．中国方正出版社．</div>
+  <div class="csl-entry">富勒（2005a）．法律的道德性（郑戈，译）．商务印书馆．</div>
+  <div class="csl-entry">富勒（2005b）．法律的道德性（郑戈，译）．商务印书馆．</div>
+  <div class="csl-entry">高鸿钧、程汉大主编（2013a）．英美法原论．北京大学出版社．</div>
+  <div class="csl-entry">高鸿钧、程汉大主编（2013b）．英美法原论．北京大学出版社．</div>
+  <div class="csl-entry">公安机关办理行政案件程序规定（2006）．</div>
+  <div class="csl-entry">公司法（2005）．</div>
+  <div class="csl-entry">公司法（2013）．</div>
+  <div class="csl-entry">顾颉刚（1930）．五德终始说下的政治和历史．清华学报，6（1），71-268．</div>
+  <div class="csl-entry">关于拓展跨境电商出口推进海外仓建设的意见．</div>
+  <div class="csl-entry">国家质量监督检验检疫总局、中国国家标准化管理委员会（不详）．信息与文献参考文献著录规则（No.GB/T 7714—2015）．</div>
   <div class="csl-entry">国务院关于在全国建立农村最低生活保障制度的通知，No.国发〔2007〕19号（2007）．</div>
   <div class="csl-entry">国务院关于在全国建立农村最低生活保障制度的通知，No.国发〔2007〕19号（2007）．</div>
-  <div class="csl-entry">何海波（2000）．判决书上网．法制日报，2．</div>
-  <div class="csl-entry">季卫东（1993）．法律程序的意义：对中国法制建设的另一种思考．中国社会科学，1，83-103．</div>
-  <div class="csl-entry">李松锋（2015）．游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究［博士学位论文］．中国政法大学．</div>
-  <div class="csl-entry">陆红霞诉南通市发改委政府信息公开案，最高人民法院公报___（江苏省南通市中级人民法院2015）．</div>
+  <div class="csl-entry">国务院关于在全国建立农村最低生活保障制度的通知，No.国发〔2007〕19号（2007）．</div>
+  <div class="csl-entry">国务院关于在全国建立农村最低生活保障制度的通知，No.国发〔2007〕19号（2007）．</div>
+  <div class="csl-entry">国务院新闻办公室（2023）．新时代的中国网络法治建设．</div>
+  <div class="csl-entry">哈特穆特·毛雷尔（2000）．行政法学总论（高家伟，译）．法律出版社．</div>
+  <div class="csl-entry">汉斯·J. 沃尔夫、奥托·巴霍夫、罗尔夫·施托贝尔（2002）．行政法（高家伟，译；卷1）．商务印书馆．</div>
+  <div class="csl-entry">何帆主编（2021）．刑法注释书（2 版）．中国民主法制出版社．</div>
+  <div class="csl-entry">何海波（2000a）．判决书上网．法制日报，2．</div>
+  <div class="csl-entry">何海波（2000b）．判决书上网．法制日报，2．</div>
+  <div class="csl-entry"><i>何以合法？——对“二奶继承案”的追问</i>（不详）．</div>
+  <div class="csl-entry">和平纲领：预防性外交、建立和平与维持和平（No.A/47/1277）（1992）．联合国秘书长报告．</div>
+  <div class="csl-entry">胡建淼主编（2007）．行政诉讼法修改研究．浙江大学出版社．</div>
+  <div class="csl-entry">黄晓磊（2012）．再说博客文章被正式引用．科学网博客．<a href="https://blog.sciencenet.cn/blog-111883-550928.html">https://blog.sciencenet.cn/blog-111883-550928.html</a>．2025年11月8日访问．</div>
+  <div class="csl-entry">季卫东（1993）．法律程序的意义——对中国法制建设的另一种思考．中国社会科学，1，83-103．</div>
+  <div class="csl-entry">“夹江打假案”．</div>
+  <div class="csl-entry">驾驶人无过失及情节轻微之肇事逃逸案，No.“司法院大法官”释字第777号（2019）．</div>
+  <div class="csl-entry">江平、陈夏红（2010）．沉浮与枯荣：八十自述．法律出版社．</div>
+  <div class="csl-entry">姜明安（2018）．<i>新时代中国行政法学的转型与使命</i>（会议论文）．行政法学研究会．</div>
+  <div class="csl-entry">科林·斯科特（2018）．规制、治理与法律：前沿问题研究（安永康，译）．清华大学出版社．</div>
+  <div class="csl-entry">莱纳·沃尔夫（2012a）．风险法的风险（陈霄 &#38; 刘刚，译）．载刘刚主编《风险规制：德国的理论与实践》．法律出版社．</div>
+  <div class="csl-entry">莱纳·沃尔夫（2012b）．风险法的风险（陈霄 &#38; 刘刚，译）．载刘刚主编《风险规制：德国的理论与实践》．法律出版社．</div>
+  <div class="csl-entry">劳特派特（1971）．奥本海国际法：卷上卷第1分册（王铁崖 &#38; 陈体强，译；8 版）．商务印书馆．</div>
+  <div class="csl-entry">勒翁狄几（2017）．公法要义（杨肇熉，译）．上海社会科学院出版社．</div>
+  <div class="csl-entry">雷经天（1943）．关于边区司法工作检查情形（15/149）．</div>
+  <div class="csl-entry">李昉（1960）．太平御览：卷卷六九〇（影印本）．中华书局．</div>
+  <div class="csl-entry">李桂茹、孔献之（2003）．七旬律师被判可以执业〈律师法〉赢了司法部文件．中国青年报．</div>
+  <div class="csl-entry">李克强（2023）．政府工作报告．载《国务院公报》（期第8号）．第十四届全国人民代表大会第一次会议．</div>
+  <div class="csl-entry">李松锋（2013a）．游走在上帝与凯撒之间——美国宪法第一修正案中的政教关系研究［博士学位论文］．中国政法大学．</div>
+  <div class="csl-entry">李松锋（2013b）．游走在上帝与凯撒之间一—美国宪法第一修正案中的政教关系研究［博士学位论文］．中国政法大学．</div>
+  <div class="csl-entry">里赞（2010）．晚清州县诉讼中的审断问题：侧重四川南部县的实暇．法律出版社．</div>
+  <div class="csl-entry">理查德·J. 皮尔斯（不详）．</div>
+  <div class="csl-entry">理查德·J. 皮尔斯（2016）．行政法（苏苗罕，译；5 版）．中国人民大学出版社．</div>
+  <div class="csl-entry">梁慧星主编（1994）．载《民商法论丛》（卷1）．法律出版社．</div>
+  <div class="csl-entry">梁秋坪、郝萍（2024a）．全国打击治理农村赌博工作现场会召开．人民网．<a href="http://society.people.com.cn/n1/2024/1012/c1008-40337761.html">http://society.people.com.cn/n1/2024/1012/c1008-40337761.html</a>．2025年10月19日访问．</div>
+  <div class="csl-entry">梁秋坪、郝萍（2024b）．全国打击治理农村赌博工作现场会召开．人民网．<a href="http://society.people.com.cn/n1/2024/1012/c1008-40337761.html">http://society.people.com.cn/n1/2024/1012/c1008-40337761.html</a>．2025年11月8日访问．</div>
+  <div class="csl-entry">刘松山（2019a）．失信惩戒立法的三大问题［微信公众号］．中国法律评论．<a href="https://mp.weixin.qq.com/s/wA3Jj923WNctVATeSkIhCw">https://mp.weixin.qq.com/s/wA3Jj923WNctVATeSkIhCw</a>．2025年10月19日访问．</div>
+  <div class="csl-entry">刘松山（2019b）．失信惩戒立法的三大问题．微信公众号“中国法律评论”．</div>
+  <div class="csl-entry">鲁道夫·冯·耶林（2019）．为权利而斗争（刘权，译）．法律出版社．</div>
+  <div class="csl-entry">陆红霞诉南通市发展和改革委员会政府信息公开答复案，最高人民法院公报___（江苏省南通市中级人民法院2015）．</div>
+  <div class="csl-entry">陆红霞诉南通市发展和改革委员会政府信息公开答复案，最高人民法院公报___（江苏省南通市中级人民法院2015）．</div>
+  <div class="csl-entry">论语·述而（不详-a）．</div>
+  <div class="csl-entry">论语·述而（不详-b）．</div>
+  <div class="csl-entry">论语·述而（不详-c）．</div>
+  <div class="csl-entry">罗豪才主编（1989a）．行政法学．中国政法大学出版社．</div>
+  <div class="csl-entry">罗豪才主编（1989b）．行政法学．中国政法大学出版社．</div>
   <div class="csl-entry">罗豪才、袁曙宏、李文栋（1993）．现代行政法的理论基础——论行政机关与相对一方的权利义务平衡．中国法学，1，52-59．</div>
-  <div class="csl-entry">[美]富勒（2005）．法律的道德性（郑戈，译）．商务印书馆．</div>
-  <div class="csl-entry">民法总则，§第 27 条第 2 款第 3 项．</div>
-  <div class="csl-entry">欧中坦（1994）．千方百计上京城：清朝的京控（谢鹏程，译）．载高道蕴，高鸿钧，&#38; 贺卫方主编《美国学者论中国法律传统》．中国政法大学出版社．</div>
-  <div class="csl-entry"><i>平成26年版犯罪白書</i>. (n.d.).</div>
-  <div class="csl-entry">瞿同祖（2010）．中国法律与中国社会．商务印书馆．</div>
+  <div class="csl-entry">罗·庞德（不详）．通过法律的社会控制 法律的任务．</div>
+  <div class="csl-entry">马怀德主编（2004）．司法改革与行政诉讼制度的完善．中国政法大学出版社．</div>
+  <div class="csl-entry">美国法典·宪法行政法卷（1993）．中国社会科学出版社．</div>
+  <div class="csl-entry">［美］瑞恩·卡洛、迈克尔·弗兰金、［加］伊恩·克尔主编（2018）．人工智能与法律的对话（陈吉栋，董慧敏，&#38; 杭颖颖，译）．上海人民出版社．</div>
+  <div class="csl-entry">民法典．</div>
+  <div class="csl-entry">民法典．</div>
+  <div class="csl-entry">民商法论丛（卷61）（不详）．</div>
+  <div class="csl-entry">民事诉讼法（试行）．</div>
+  <div class="csl-entry">莫纪宏（2024）．论“中国式现代化”的法治保障．“学习强国”App．</div>
+  <div class="csl-entry">莫于川主编（2014）．建设法治政府需要司法更给力．清华大学出版社．</div>
+  <div class="csl-entry">那思陆（2006）．清代州县衙门审判制度．中国政法大学出版社．</div>
+  <div class="csl-entry">宁德市大众影院诉宁德地区工商行政管理局行政处罚案，人民法院案例选（1992—1999年合订本）·行政卷___（2000）．</div>
+  <div class="csl-entry"><i>清华大学学报（哲学社会科学版）</i>（2018）．4．</div>
+  <div class="csl-entry">瞿同祖（2022）．清代地方政府（范忠信，何鹏，&#38; 晏锋，译）．新星出版社．</div>
+  <div class="csl-entry">全国法院民商事审判工作会议纪要，No.法〔2019〕254号．</div>
+  <div class="csl-entry">全国人大常委会法工委行政诉讼法修改座谈会（2009）．</div>
+  <div class="csl-entry">全国人大常委会法制工作委员会行政法室主编（2015）．行政诉讼法立法背景与观点全集．法律出版社．</div>
+  <div class="csl-entry">全国人民代表大会常务委员会关于授权上海市人民代表大会及其常务委员会制定浦东新区法规的决定（2021）．</div>
   <div class="csl-entry">全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定（1991）．</div>
+  <div class="csl-entry">全国人民代表大会常务委员会关于〈中华人民共和国民法通则》第九十九条第一款、〈中华人民共和国婚姻法〉第二十二条的解释．</div>
+  <div class="csl-entry">全球努力打击恐怖主义的宣言（No.A/47/1277）（1992）．联合国安理会决议．</div>
+  <div class="csl-entry">任重远（不详）．镇坪强制引产事件终结 当事人获七万余元补助．财新网．<a href="https://china.caixin.com/2012-07-11/100409832.html">https://china.caixin.com/2012-07-11/100409832.html</a>．2025年11月8日访问．</div>
+  <div class="csl-entry">任重远（2012）．镇坪强制引产事件终结 当事人获七万余元补助．财新网．<a href="https://china.caixin.com/2012-07-11/100409832.html">https://china.caixin.com/2012-07-11/100409832.html</a>．2025年11月8日访问．</div>
   <div class="csl-entry">荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院公报___（江苏省无锡市中级人民法院2013）．</div>
-  <div class="csl-entry">汪波（2004）．哈尔滨市政法机关正对“宝马案”认真调查复查．人民网．<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>．2022年5月3日访问．</div>
-  <div class="csl-entry">王保树（1994）．股份有限公司机关构造中的董事和董事会．载梁慧星主编《民商法论丛》（卷1，页 110）．法律出版社．</div>
-  <div class="csl-entry">王名扬（2007）．美国行政法．北京大学出版社．</div>
-  <div class="csl-entry">温家宝主持国务院会议 研究房地产业健康发展措施（不详）．新华网．<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>．</div>
-  <div class="csl-entry">我妻栄. (1971). <i>新訂担保物権法</i>. 有斐閣.</div>
-  <div class="csl-entry">我妻栄 &#38; 有泉亨. (1950). <i>民法総則物権法</i>. 日本評論社.</div>
-  <div class="csl-entry">夏新华、胡旭晟、刘鄂、甘正气、万利容、刘姗姗（2004）．近代中国宪政历程．中国政法大学出版社．</div>
-  <div class="csl-entry">信春鹰（2013）．关于《中华人民共和国行政诉讼法修正案（草案）》的说明．第十二届全国人民代表大会常务委员会第六次会议．</div>
-  <div class="csl-entry">信玄公旗掛松事件, 25 大審院民事判決録 356 (大審院 1919).</div>
-  <div class="csl-entry">应松年、马怀德主编（2006）．当代中国行政法的源流：王名扬教授九十华诞贺寿文集．中国法制出版社．</div>
-  <div class="csl-entry">[英]劳特派特（1971）．奥本海国际法：卷上卷第一分册（王铁崖 &#38; 陈体强，译；8 版）．商务印书馆．</div>
-  <div class="csl-entry">於保不二雄. (1954). 付加物及び従物と抵当権. 民商法雑誌, 29(5), 1.</div>
-  <div class="csl-entry">榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，No.（2011）民一终字第 81 号（最高人民法院2017年12月16日）．</div>
-  <div class="csl-entry">約束手形金, 36卷6号 最高裁判所民事判例集 1113 (最高裁判所 1982).</div>
-  <div class="csl-entry">张新宝（2016）．侵权责任法（4 版）．中国人民大学出版社．</div>
-  <div class="csl-entry">赵耀彤（2018）．一名基层法官眼里好律师的样子［微信公众号］．中国法律评论．<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>．2022年5月3日访问．</div>
+  <div class="csl-entry"><i>陕西国土厅否决法院判决 施压最高院要求改判</i>（不详）．</div>
+  <div class="csl-entry">上海市浦东新区人民法院行政审判庭（不详）．2001年行政庭工作总结．</div>
+  <div class="csl-entry">沈家本（1985a）．历代刑法考．中华书局．</div>
+  <div class="csl-entry">沈家本（贡献 邓经元、骈宇骞）（1985b）．历代刑法考．中华书局．</div>
+  <div class="csl-entry">沈家本（贡献 邓经元、骈宇骞）（1985c）．历代刑法考．中华书局．</div>
+  <div class="csl-entry">沈岿（2001）．制度变迁与法官的规则选择——立足刘燕文案的初步探索．载《北大法律评论：卷第3卷第2辑》（页 159-203）．法律出版社．</div>
+  <div class="csl-entry">圣经·出埃及记（不详）．</div>
+  <div class="csl-entry">世界人权宣言（No.217A(III)）（1948）．联合国大会决议．</div>
+  <div class="csl-entry">司法部关于可否张贴判决书及应注意事项的批复，No.国发〔2007〕19号，中华人民共和国司法行政历史文件汇编（1950—1985）（1956）．</div>
+  <div class="csl-entry">寺田浩明（2010a）．拥挤列车模式：明清时期的社会认识和秩序建构（阮云星，译）．清华法学，4（6），166-174．</div>
+  <div class="csl-entry">寺田浩明（2010b）．拥挤列车模式：明清时期的社会认识和秩序建构（阮云星，译）．清华法学，4（6），166-174．</div>
+  <div class="csl-entry">苏嘉鸿不服中国证监会行政处罚行政复议案，No.［2017］63号（中国证监会2017年）．</div>
+  <div class="csl-entry">苏嘉鸿内幕交易行政处罚案，No.〔2016〕56号（中国证监会2016年）．</div>
+  <div class="csl-entry">苏嘉鸿诉中国证监会行政处罚案，No.（2018）京行终445号（北京市高级人民法院2018年7月17日）．</div>
+  <div class="csl-entry">苏力（2017）．公民权利论的迷思:历史中国的国人、村民和分配正义．环球法律评论，39（5），5-26．</div>
+  <div class="csl-entry">苏力、于明（2020）．基于中国经验的学术创造——苏力教授访谈．学术月刊，52（3），179-184．</div>
+  <div class="csl-entry">统一买卖法．</div>
+  <div class="csl-entry">统一买卖法（1906）．</div>
+  <div class="csl-entry">王保树（1994）．股份有限公司机关构造中的董事和董事会．载梁慧星主编《民商法论丛》（卷1）．法律出版社．</div>
+  <div class="csl-entry">王和岩（2009）．邓玉娇案尘埃落定．财经，13．</div>
+  <div class="csl-entry">王利明（2020）．迈向权利保护的新时代．中国人民大学学报，34（4），1．</div>
+  <div class="csl-entry">王名扬（1995a）．美国行政法．中国法制出版社．</div>
+  <div class="csl-entry">王名扬（1995b）．美国行政法．中国法制出版社．</div>
+  <div class="csl-entry">王名扬（2016）．美国行政法．北京大学出版社．</div>
+  <div class="csl-entry">王名扬教授（2002）．［电子邮件受函 笔者］．</div>
+  <div class="csl-entry">王溥（2006a）．唐会要：卷卷三十九．定格令．上海古籍出版社．</div>
+  <div class="csl-entry">王溥（2006b）．唐会要：卷卷三十九．定格令．上海古籍出版社．</div>
+  <div class="csl-entry">王泽鉴（2020）．民法总则（修订自版）．</div>
+  <div class="csl-entry">韦宗、阿江（1988）．行政诉讼立法要论．中国法学，6，11-20．</div>
+  <div class="csl-entry">维护国家安全（中央人民政府驻香港特别行政区维护国家安全公署）规例，Pub. L. No. 77（2025）．</div>
+  <div class="csl-entry">魏振瀛主编（2021）．民法（8 版）．北京大学出版社、高等教育出版社．</div>
+  <div class="csl-entry">翁岳生主编（2020）．行政法：卷上．元照出版有限公司．</div>
+  <div class="csl-entry">我国台湾地区“民法”．</div>
+  <div class="csl-entry">我妻栄. (1971). <i>新訂担保物権法（民法講義III）</i>. 有斐閣.</div>
+  <div class="csl-entry">伍跃（2019）．传统中国行政诉讼的一个场景：民告官．载［日］夫马进，范愉，&#38; 赵晶主编《中国诉讼社会史研究》．浙江大学出版社．</div>
+  <div class="csl-entry">习超（2017a）．<i>证券监管有偏私吗？</i>（会议论文）．北京：“迈向数据法学”研讨会．</div>
+  <div class="csl-entry">习超（2017b）．<i>证券监管有偏私吗？</i>（会议论文）．北京：“迈向数据法学”研讨会．</div>
+  <div class="csl-entry">夏新华、胡旭晟、刘鄂、甘正气、万利容、刘姗姗（2004）．近代中国宪政历程：史料荟萃．中国政法大学出版社．</div>
+  <div class="csl-entry">宪法．</div>
+  <div class="csl-entry">《宪法学》编写组主编（2020）．宪法学（2 版）．高等教育出版社；人民出版社．</div>
+  <div class="csl-entry">香港的刑事责任年龄（2000）．</div>
+  <div class="csl-entry">谢文彬诉广东省司法厅案．</div>
+  <div class="csl-entry">新浪微博 xiaolwl（2020）．<a href="https://weibo.com/1139098205/4466768535861595">https://weibo.com/1139098205/4466768535861595</a>．</div>
+  <div class="csl-entry">信春鹰（2013）．关于〈中华人民共和国行政诉讼法修正案（草案）〉的说明．</div>
+  <div class="csl-entry">刑法．</div>
+  <div class="csl-entry">刑法．</div>
+  <div class="csl-entry">刑法修正案（十）．</div>
+  <div class="csl-entry">刑事上诉规则，221A香港法例．</div>
+  <div class="csl-entry">行政处罚法．</div>
+  <div class="csl-entry">行政复议法（修订草案），全国人大常委会第一次审议稿（2022）．</div>
+  <div class="csl-entry">行政复议法（修订草案），全国人大宪法和法律委员会、全国人大常委会法工委评估会讨论稿（2023）．</div>
+  <div class="csl-entry">行政诉讼法（1989）．</div>
+  <div class="csl-entry"><i>行政诉讼证据规则：原理与规范</i>（不详）．</div>
+  <div class="csl-entry">熊元翰主编（1914）．京师地方审判厅法曹会判牍汇编：卷第一集民事·下编．商务印书馆天津印刷局．</div>
+  <div class="csl-entry">“许霆恶意取款案”．</div>
+  <div class="csl-entry">盐野宏（不详）．行政法II：行政救济法．</div>
+  <div class="csl-entry">杨小君（2007）．行政诉讼问题研究及制度改革．中国人民公安大学出版社．</div>
+  <div class="csl-entry">姚际恒（1924a）．古今伪书考（活字本（江氏聚珍板印））．苏州江氏文学山房．</div>
+  <div class="csl-entry">姚际恒（1924b）．古今伪书考：卷卷三（活字本（江氏聚珍板印））．苏州江氏文学山房．</div>
+  <div class="csl-entry">姚际恒（贡献 顾颉刚校点）（1933）．古今伪书考．朴社．</div>
+  <div class="csl-entry">英国2006年公司法（葛伟军，译）（2008）．法律出版社．</div>
+  <div class="csl-entry">榆林市凯奇莱能源投资有限公司与西安地质矿产勘查开发院合作勘查合同纠纷上诉案，No.（2011）民一终字第81号（最高人民法院2017年12月16日）．</div>
+  <div class="csl-entry">元典章：卷卷一九．户部五·田宅·家财（不详）．</div>
+  <div class="csl-entry">张文显、于宁（2001）．当代中国法哲学研究范式的转换——从阶级斗争范式到权利本位范式．中国法学，1，63-79．</div>
+  <div class="csl-entry">张新宝（2006）．侵权责任法．中国人民大学出版社．</div>
+  <div class="csl-entry">张新宝（2020a）．侵权责任法（5 版）．中国人民大学出版社．</div>
+  <div class="csl-entry">张新宝（2020b）．侵权责任法（5 版）．中国人民大学出版社．</div>
+  <div class="csl-entry"><i>执行难，难于上青天？</i>（不详）．</div>
   <div class="csl-entry">中共中央关于全面推进依法治国若干重大问题的决定（2014）．</div>
-  <div class="csl-entry">中华人民共和国公司法（2005）．</div>
-  <div class="csl-entry">中华人民共和国公司法（2013）．</div>
-  <div class="csl-entry">中华人民共和国刑法修正案（十），Pub. L. No. 中华人民共和国主席令第80号（2017）．</div>
-  <div class="csl-entry">最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释，No.法释〔2018〕1号，§100（2018）．</div>
-  <div class="csl-entry">最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知，No.法发〔1993〕36号（1993）（已废止）．</div>
-  <div class="csl-entry">佐藤英明. (2014). 一時所得の要件に関する覚書. In 金子宏, 中里実, &#38; J.マーク・ラムザイヤー (Eds.), <i>租税法と市場</i> (p. 220). 有斐閣.</div>
-  <div class="csl-entry">Administrative Procedure Act § 6, 5 U.S.C. § 555 (2006).</div>
-  <div class="csl-entry">Alford, W. (1995). <i>To steal a book is an elegant offense: Intellectual property law in Chinese civilization</i>. Stanford University Press.</div>
-  <div class="csl-entry">Badiou-Monferran, C. (1997). La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle. <i>La Licorne</i>, 43, 75-94.</div>
-  <div class="csl-entry">Barbara Ward. (1979). Progress for a small planet. <i>Harvard Business Review</i>, Sep.-Oct., 89.</div>
-  <div class="csl-entry">Brandeis, L. D. (1913, December 20). What publicity can do. <i>Harper’s Weekly</i>, 10.</div>
-  <div class="csl-entry">Canaris, C.-W. (1990). <i>Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen</i>.</div>
-  <div class="csl-entry">Chevallier, M. (2003). <i>L’État de droit</i> (4th ed.). Paris: Montchrestien.</div>
-  <div class="csl-entry">Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council, 467 U.S. 837 (1984).</div>
-  <div class="csl-entry">Department of Transportation Act, Pub. L. No. 89-670, 80 Stat. 931 (1966).</div>
-  <div class="csl-entry">Dreier, R., &#38; Paulson, S. (Eds.). (2003). <i>Rechtsphilosophie Studienausgabe</i> (2nd ed.). Heidelberg: UTB Uni-Taschenbücher Verlag.</div>
-  <div class="csl-entry">Fischer, T. (2015, September 29). Absurdes Spektakel um den Tod. <i>Die Zeit</i>.</div>
-  <div class="csl-entry">GG, § Art. 2 II.</div>
-  <div class="csl-entry">Habermas, J. (1996). <i>Between facts and norms: contributions to a discourse theory of law and democracy</i> (W. Rehg, Trans.). MIT Press.</div>
-  <div class="csl-entry">Horsley, J. (2006). Rule of law in China: incremental progress. In C. F. Bergsten, B. Gill, N. R. Lardy, &#38; D. Mitchell (Eds.), <i>China: The balance sheet</i>. Public Affairs Press.</div>
-  <div class="csl-entry">Joyeux-Prunel, B. (n.d.). <i>L’histoire de l’art et le quantitatif</i>. Histoire &#38; mesure, vol. XXIII, n° 2, 2008. Retrieved March 17, 2010, from <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a></div>
-  <div class="csl-entry">Kaufmann, A. (1972). Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht. In J. Baumann (Ed.), <i>Das Abtreibungsverbot des § 218 StGB</i> (2nd ed.).</div>
-  <div class="csl-entry">McDonell, S. (2016, September 30). <i>When China began streaming trials online</i>. BBC News. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a></div>
-  <div class="csl-entry">Meidenbauer, M. (n.d.). <i>Wissenschaftliches Publizieren</i>. Retrieved October 10, 2017, from <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a></div>
-  <div class="csl-entry">Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).</div>
-  <div class="csl-entry">Poisson, M. (2015a). Le droit de la mer. <i>RGDIP</i>, 15-47.</div>
-  <div class="csl-entry">Poisson, M. (2015b). Le droit de la mer. In R. Lapieuvre (Ed.), <i>Le droit des Océans</i> (Éditions de la mer, pp. 12-48).</div>
-  <div class="csl-entry">Poisson, M. (2016a). <i>Le droit de la mer appliqué à la Méditerranée</i> [Thèse de doctorat]. l’Université de Marseille.</div>
-  <div class="csl-entry">Poisson, M. (2016b). <i>Le droit de la mer en Méditerranée</i> (pp. 228-229). Congrès de Marseille.</div>
-  <div class="csl-entry">Poisson, M. (2016c). <i>Le droit de la mer en Méditerranée</i> (Rapport de recherche de l’IFREMER No. 1202).</div>
-  <div class="csl-entry">R. v. Panel on Take-Overs and Mergers, 815 QB ___ (1987).</div>
-  <div class="csl-entry">Reich, C. A. (1964). The new property. <i>Yale Law Journal</i>, 73(5), 733-787.</div>
-  <div class="csl-entry">Roe <i>v.</i> Wade, 410 U.S. 113 (1973).</div>
-  <div class="csl-entry">Rosenthal, A. (1990, June 15). White House tutors Kremlin in how a presidency works. <i>New York Times</i>, A1.</div>
-  <div class="csl-entry">Roxin, C. (2006). <i>Strafrecht Allgemeiner Teil</i> (4th ed., Vol. 1). C. H. Beck.</div>
-  <div class="csl-entry">Schwab, M. (2013). In <i>Münchener Kommentar BGB</i> (6th ed., Vol. 5).</div>
-  <div class="csl-entry">StGB, § § 32 II.</div>
-  <div class="csl-entry">StPO, § § 58a I Nr. 2.</div>
-  <div class="csl-entry">Strauß-Karikatur, Kunstfreiheit, 75 BVerfGE 369.</div>
-  <div class="csl-entry">United States <i>v.</i> Dino Nastasi et Al., No. 3:15-cr-00213-FDW-DCK (W.D. North Carolina).</div>
-  <div class="csl-entry">Vogel, B. (2017). Rechtsgüterschutz und Normgeltung. <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, 129(3), 629-649.</div>
-  <div class="csl-entry">Würdinger, M. (2012). Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts. <i>Juristische Schulung</i>, 3, 234-240.</div>
-  <div class="csl-entry"><i>ジュリスト</i>. (n.d.). Retrieved September 1, 2022, from <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a></div>
-  <div class="csl-entry">NStZ-RR 185 (BGH 1999).</div>
-  <div class="csl-entry">NJW 1560 (BGH 2000).</div>
+  <div class="csl-entry">中共中央关于全面推进依法治国若干重大问题的决定（2014）．</div>
+  <div class="csl-entry">中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议（2020）．</div>
+  <div class="csl-entry">中共中央、国务院关于加快建设全国统一大市场的意见．</div>
+  <div class="csl-entry">中共中央、国务院关于实施就业优先战略促进高质量充分就业的意见（2024）．</div>
+  <div class="csl-entry">中国大百科全书·法学（不详）．</div>
+  <div class="csl-entry">中国大百科全书·法学（1984a）．中国大百科全书出版社．</div>
+  <div class="csl-entry">中国大百科全书·法学（1984b）．中国大百科全书出版社．</div>
+  <div class="csl-entry">中国大百科全书·法学（1984c）．中国大百科全书出版社．</div>
+  <div class="csl-entry">中国人大网“已结束的征求意见”栏目（不详）．<a href="http://www.npc.gov.cn/flcaw/more.html">http://www.npc.gov.cn/flcaw/more.html</a>．2020年2月28日访问．</div>
+  <div class="csl-entry">中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要（2021）．</div>
+  <div class="csl-entry">中华人民共和国民事诉讼法（试行）．</div>
+  <div class="csl-entry">中华人民共和国刑法修正案（十）．</div>
+  <div class="csl-entry">中华人民共和国增值税条例（草案）（1984）．</div>
+  <div class="csl-entry">周强（最高人民法院院长）（2022）．关于〈中华人民共和国民事诉讼法（修正草案）〉的说明．</div>
+  <div class="csl-entry">朱苏力（1998）．制度是如何形成的?——关于马歇尔诉麦迪逊案的故事．比较法研究，1．</div>
+  <div class="csl-entry"><i>抓实抓好公正与效率 为大局服务为人民司法</i>（不详）．</div>
+  <div class="csl-entry">最高人民法院（2023）．中国法院的司法改革（2013-2022）．人民法院出版社．</div>
+  <div class="csl-entry">最高人民法院关于雇工合同“工伤概不负责”是否有效的批复，No.［88］民他字第1号（1988）．</div>
+  <div class="csl-entry">最高人民法院关于适用刑法第六十四条有关问题的批复．</div>
+  <div class="csl-entry">最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释，No.法释〔2018〕1号．</div>
+  <div class="csl-entry">最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释，No.法释［2018］1号．</div>
+  <div class="csl-entry">最高人民法院关于适用〈中华人民共和国用事环资法〉的解释．</div>
+  <div class="csl-entry">最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知，No.法发〔1993〕36号（已废止）．</div>
+  <div class="csl-entry">Alford, W. P. (1995). <i>To steal a book is an elegant offense: intellectual property law in chinese civilization</i>. Stanford University Press.</div>
+  <div class="csl-entry">Brandeis, L. D. (1913, December 20). What publicity can do. <i>Harper’s Weekly</i>, 10-13.</div>
+  <div class="csl-entry">Chevallier, J. (2003). <i>L’Etat de droit</i> (4th ed.). Paris: Montchrestien.</div>
+  <div class="csl-entry">Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council, Inc., 467 U.S. 837 (1984).</div>
+  <div class="csl-entry">Cohen, J. E. (1986). The Dynamics of the “Revolving Door” on the FCC. <i>American Journal of Political Science</i>, 30(4), 689-708.</div>
+  <div class="csl-entry">Falzea, A. (1947). <i>L’offerta reale e la liberazione coattiva del debitore</i>. Giuffrè.</div>
+  <div class="csl-entry">Kellogg, T. E. (2007). “Courageous Explorers”? Education Litigation and Judicial Innovation in China. <i>Harvard Human Rights Journal</i>, 20, 141.</div>
+  <div class="csl-entry">Quirk, P. J. (1981). <i>Industry Influence in Federal Regulatory Agencies</i>. Princeton University Press.</div>
+  <div class="csl-entry">R. <i>v.</i> Panel on Take-Overs and Mergers, <i>Ex Parte</i> Datafin Plc, QB 815 (1987).</div>
+  <div class="csl-entry">R. <i>v.</i> Panel on Take-Overs and Mergers, <i>Ex Parte</i> Datafin Plc, QB 815 (1987).</div>
+  <div class="csl-entry">Reich, C. A. (1964). The new property. <i>The Yale Law Journal</i>, 73(5), 733-787.</div>
+  <div class="csl-entry">Roxin, C. (2005). <i>Strafrecht Allgemeiner Teil</i> (4th ed., Vol. 1).</div>
+  <div class="csl-entry">xxx（2000）．［采访 笔者］．《最高人民法院公报》编辑部．</div>
+  <div class="csl-entry">Дубовицкая, Е. А. (2008). <i>Европейское корпоративное право</i>. Волтерс Клувер Россия.</div>
+  <div class="csl-entry">No.（1998）海行初字第142号（北京市海淀区人民法院）．</div>
+  <div class="csl-entry">No.（2018）京0108民初142号（北京市海淀区人民法院）．</div>
+  <div class="csl-entry">（2002）．载《北大法律评论：卷第4卷第2辑》．法律出版社．</div>
+  <div class="csl-entry">（2013）．政大法学评论，132．</div>
+  <div class="csl-entry">（2018）．台大法学论丛，47（4）．</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

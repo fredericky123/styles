@@ -96,7 +96,7 @@
 <sup>34</sup> Weinstein L，Swartz M N. Pathogenic properties of invading microorganisms[M]//Sodeman W A Jr，Sodeman W A. Pathologic physiology: mechanisms of disease. 5th ed. Philadelphia：Saunders，1974：457-472.<br>
 <sup>35</sup> Roberson J A，Burneson E G. Drinking water quality standards, regulations and goals[M]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York：McGraw-Hill，2011：1.1-1.36.<br>
 <sup>36</sup> 中华医学会湖北分会. 临床内科杂志[J]. 1984，1（1）-. 武汉：中华医学会湖北分会，1984.<br>
-<sup>37</sup> 中国图书馆学会. 图书馆学通讯[J]. 1957（1）-1990（4）. 北京：北京图书馆，1957—1990.<br>
+<sup>37</sup> 中国图书馆学会. 图书馆学通讯[J]. 1957（1）-1990（4）. 北京：北京图书馆，1957-1990.<br>
 <sup>38</sup> American Association for the Advancement of Science. Science[J]. 1883，1（1）-. Washington, D.C.：American Association for the Advancement of Science，1883.<br>
 <sup>39</sup> Public library quarterly[J]. 1979，1（1）-. Philadelphia：Taylor &#38; Francis，1979.<br>
 <sup>40</sup> 杨洪升. 四库馆私家抄校书考略[J]. 文献，2013（1）：56-75.<br>
@@ -479,7 +479,7 @@
 <sup>77</sup> American Counseling Association. 2014 ACA code of ethics[R]. 2014.<br>
 <sup>78</sup> American Nurses Association. Code of ethics for nurses with interpretive statements[R]. 2015.<br>
 <sup>79</sup> American Psychological Association. Ethical principles of psychologists and code of conduct[R]. 2017.<br>
-<sup>80</sup> Blair C B. Stress, self-regulation and psychopathology in middle childhood：5R01HD081252-04[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development，2015—2020.<br>
+<sup>80</sup> Blair C B. Stress, self-regulation and psychopathology in middle childhood：5R01HD081252-04[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development，2015-2020.<br>
 <sup>81</sup> Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses：1[R]. U.S. Small Business Administration, Office of Advocacy，2013.<br>
 <sup>82</sup> Harwell M. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change[R]. National Education Policy Center，2018.<br>
 <sup>83</sup> U.S. Food and Drug Administration. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices[R]. U.S. Food and Drug Administration，2019.<br>
@@ -520,7 +520,7 @@
 <sup>118</sup> Levenson H. Accelerated experiental dynamic psychotherapy (AEDP) supervision[EB/educational DVD]. American Pychological Association，2017. <a href="http://www.apa.org/pubs/videos/4310958.aspx">http://www.apa.org/pubs/videos/4310958.aspx</a>.<br>
 <sup>119</sup> Jackson P. The lord of the rings: The fellowship of the ring[Z/four-disc special extended ed. on DVD]. WingNut Films; The Saul Zaentz Company，2001.<br>
 <sup>120</sup> Malle L. Goodbye children[Z]. Nouvelles Éditions de Films，1987.<br>
-<sup>121</sup> The wire[Z]. Blown Deadline Productions; HBO，2002—2008.<br>
+<sup>121</sup> The wire[Z]. Blown Deadline Productions; HBO，2002-2008.<br>
 <sup>122</sup> Barris K. Lemons：Season 3, Episode 12[Z]//Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios，2017.<br>
 <sup>123</sup> Lynch J. Who shot Mr. Burns? (Part One)：Season 6, Episode 25[Z]//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation，1995.<br>
 <sup>124</sup> Giertz S. Why you should make useless things[EB/OL]. TED Conferences，2018. <a href="https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things">https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things</a>.<br>

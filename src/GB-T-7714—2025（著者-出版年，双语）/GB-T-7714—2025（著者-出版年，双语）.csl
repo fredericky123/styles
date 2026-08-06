@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>GB/T 7714—2025 信息与文献 参考文献著录规则（2026-07-01实施）</summary>
-    <updated>2026-05-10T09:25:44+08:00</updated>
+    <updated>2026-08-06T20:53:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -118,19 +118,19 @@
         <choose>
           <if variable="volume issue" match="any">
             <date variable="issued">
-              <date-part name="year" range-delimiter="&#8212;"/>
+              <date-part name="year" range-delimiter="-"/>
             </date>
             <text variable="year-suffix"/>
           </if>
           <else-if variable="available-date">
             <date variable="available-date">
-              <date-part name="year" range-delimiter="&#8212;"/>
+              <date-part name="year" range-delimiter="-"/>
             </date>
             <text variable="year-suffix"/>
           </else-if>
           <else>
             <date variable="issued">
-              <date-part name="year" range-delimiter="&#8212;"/>
+              <date-part name="year" range-delimiter="-"/>
             </date>
             <text variable="year-suffix"/>
           </else>
@@ -138,14 +138,14 @@
       </if>
       <else-if variable="issued">
         <date variable="issued">
-          <date-part name="year" range-delimiter="&#8212;"/>
+          <date-part name="year" range-delimiter="-"/>
         </date>
         <text variable="year-suffix"/>
       </else-if>
       <else-if variable="accessed">
         <group prefix="[" suffix="]">
           <date variable="accessed">
-            <date-part name="year" range-delimiter="&#8212;"/>
+            <date-part name="year" range-delimiter="-"/>
           </date>
           <text variable="year-suffix"/>
         </group>

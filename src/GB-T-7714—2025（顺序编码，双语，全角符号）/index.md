@@ -165,7 +165,7 @@
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">中华医学会湖北分会．临床内科杂志[J]．1984，1（1）-．武汉：中华医学会湖北分会，1984．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">中国图书馆学会．图书馆学通讯[J]．1957（1）-1990（4）．北京：北京图书馆，1957—[1990]．</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">中国图书馆学会．图书馆学通讯[J]．1957（1）-1990（4）．北京：北京图书馆，1957-[1990]．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">American Association for the Advancement of Science. Science[J]. 1883，1（1）-. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
@@ -1254,7 +1254,7 @@
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">American Psychological Association. Ethical principles of psychologists and code of conduct[R/OL]. 2017. <a href="https://www.apa.org/ethics/code/index.aspx">https://www.apa.org/ethics/code/index.aspx</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Blair C B. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04[R/OL]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015—2020. <a href="https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311">https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311</a>.</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Blair C B. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04[R/OL]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015-2020. <a href="https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311">https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1[R/OL]. U.S. Small Business Administration, Office of Advocacy, 2013. <a href="https://www.sba.org/sites/default/files/Issue%20Brief%201,%20Veteran%20Business%20Owners.pdf">https://www.sba.org/sites/default/files/Issue%20Brief%201,%20Veteran%20Business%20Owners.pdf</a>.</div>
@@ -1377,7 +1377,7 @@
     <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Malle L. Goodbye children[Z]. Nouvelles Éditions de Films, 1987.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">The wire[Z]. Blown Deadline Productions; HBO, 2002—2008.</div>
+    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">The wire[Z]. Blown Deadline Productions; HBO, 2002-2008.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[122]</div><div class="csl-right-inline">Barris K. Lemons: Season 3, Episode 12[Z]//Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017.</div>

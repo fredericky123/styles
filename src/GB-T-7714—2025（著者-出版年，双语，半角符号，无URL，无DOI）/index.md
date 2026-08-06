@@ -154,7 +154,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">中国互联网络信息中心, 2012. 第29次中国互联网络发展状况统计报告[R]. 2012-01-16.</div>
   <div class="csl-entry">中国科学院文献情报中心, [2025]. 中国科学院科技论文预发布平台[EB/OL]. [2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心, 2012. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 北京: 九州出版社.</div>
-  <div class="csl-entry">中国图书馆学会, 1957—1990. 图书馆学通讯[J]. 1957（1）-1990（4）. 北京: 北京图书馆.</div>
+  <div class="csl-entry">中国图书馆学会, 1957-1990. 图书馆学通讯[J]. 1957（1）-1990（4）. 北京: 北京图书馆.</div>
   <div class="csl-entry">中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 等, 2023. 电信业发展白皮书：2023：新时代高质量发展探索[R]. 2023-12-28.</div>
   <div class="csl-entry">中国造纸学会, 2003. 中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社.</div>
   <div class="csl-entry">中华医学会湖北分会, 1984. 临床内科杂志[J]. 1984，1（1）-. 武汉: 中华医学会湖北分会.</div>
@@ -422,7 +422,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anon, 1991. Daubert v. Merrell Dow Pharmaceuticals, Inc.[EB/OL]//F.2d: v.951. <a href="https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals">https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals</a>.</div>
   <div class="csl-entry">Anon, 1992. Texas v. Morales[EB/OL]//S.W.2d: v.826. <a href="https://www.leagle.com/decision/19921027826sw2d20111010">https://www.leagle.com/decision/19921027826sw2d20111010</a>.</div>
   <div class="csl-entry">Anon, 2001. Burriola v. Greater Toledo YMCA[EB/OL]//F.Supp.2d: v.133. <a href="https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/">https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/</a>.</div>
-  <div class="csl-entry">Anon, 2002—2008. The wire[Z]. Blown Deadline Productions; HBO.</div>
+  <div class="csl-entry">Anon, 2002-2008. The wire[Z]. Blown Deadline Productions; HBO.</div>
   <div class="csl-entry">Anon, 2004. The Qur’an[M]. Abdel Haleem M A S, trans. Oxford University Press.</div>
   <div class="csl-entry">Anon, 2009a. Lilly Leadbetter Fair Play Act of 2009: 111-2[EB/OL]//Stat.: v.123. <a href="https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf">https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf</a>.</div>
   <div class="csl-entry">Anon, 2009b. Florida Mental Health Act[EB/OL]//Fla. Stat. <a href="http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html">http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html</a>.</div>
@@ -469,7 +469,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Bergeson S, 2019. Really cool neutral plasmas[J]. Science, 363(6422): 33-34.</div>
   <div class="csl-entry">Beyoncé, 2016. Formation[Z]//Lemonade. Parkwood; Columbia.</div>
   <div class="csl-entry">Blackwell D L, Lucas J W, Clarke T C, 2014. Summary health statistics for U.S. adults: National Health Interview Survey, 2012[R]. Centers for Disease Control and Prevention.</div>
-  <div class="csl-entry">Blair C B, 2015—2020. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development.</div>
+  <div class="csl-entry">Blair C B, 2015-2020. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development.</div>
   <div class="csl-entry">Boddy J, Neumann T, Jennings S, et al., n.d. Ethics principles[EB/OL]. <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.</div>
   <div class="csl-entry">Bologna C, 2018. What happens to your mind and body when you feel homesick?[EB/OL]. (2018-06-27). <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>.</div>
   <div class="csl-entry">Borenstein M, Hedges L, Higgins J, et al., 2014. Comprehensive meta-analysis[CP/OL]. Biostat. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>.</div>
@@ -496,7 +496,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">de Beauvoir S, 1960. Simone de Beauvoir discusses the art of writing[A]. Studs Terkel Radio Archive; The Chicago History Museum, 1960-05-04.</div>
   <div class="csl-entry">De Boer D, LaFavor T, 2018. The art and significance of successfully identifying resilient individuals A person-focused approach[Z]//Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States.</div>
   <div class="csl-entry">De Vries R, Nieuwenhuijze M, Buitendijk S E, et al., 2013. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J]. Midwifery, 29(10): 1122-1128.</div>
-  <div class="csl-entry">Delacroix E, 1826—1827. Faust attempts to seduce Marguerite[A]. Paris, France: The Louvre, 1826/1827.</div>
+  <div class="csl-entry">Delacroix E, 1826-1827. Faust attempts to seduce Marguerite[A]. Paris, France: The Louvre, 1826/1827.</div>
   <div class="csl-entry">D’Souza A, Wiseheart M, 2018. Cognitive effects of music and dance training in children: ICPSR 37080[DS]. VV1. ICPSR (2018).</div>
   <div class="csl-entry">Epocrates, 2019a. Epocrates medical references[CP/OL]. App Store. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
   <div class="csl-entry">Epocrates, 2019b. Interaction Check: Aspirin + Sertraline[EB/OL]//Epocrates medical references. Google Play Store. <a href="https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US">https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US</a>.</div>

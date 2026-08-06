@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>GB/T 7714—2025 信息与文献 参考文献著录规则</summary>
-    <updated>2026-07-20T20:40:58+08:00</updated>
+    <updated>2026-08-06T20:53:38+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -526,7 +526,7 @@
           <if type="report" variable="publisher" match="all">
             <!-- 以图书、图书中的析出文献形式出现的报告 -->
             <date variable="issued">
-              <date-part name="year" range-delimiter="&#8212;"/>
+              <date-part name="year" range-delimiter="-"/>
             </date>
           </if>
           <else-if type="article-newspaper collection patent manuscript personal_communication report" variable="archive" match="any">
@@ -534,14 +534,14 @@
           </else-if>
           <else>
             <date variable="issued">
-              <date-part name="year" range-delimiter="&#8212;"/>
+              <date-part name="year" range-delimiter="-"/>
             </date>
           </else>
         </choose>
       </if>
       <else-if variable="accessed">
         <date variable="accessed" prefix="[" suffix="]">
-          <date-part name="year" range-delimiter="&#8212;"/>
+          <date-part name="year" range-delimiter="-"/>
         </date>
       </else-if>
     </choose>

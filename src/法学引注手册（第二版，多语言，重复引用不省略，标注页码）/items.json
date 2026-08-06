@@ -2798,9 +2798,9 @@
 		"id": "molc2.62:2",
 		"type": "speech",
 		"citation-key": "molc2.62:2",
+		"event-place": "河南大厦（北京）",
 		"language": "zh-CN",
 		"note": "type: event",
-		"publisher-place": "河南大厦（北京）",
 		"title": "全国人大常委会法工委行政诉讼法修改座谈会",
 		"issued": {
 			"date-parts": [["2009", 1, 21]]
@@ -3069,7 +3069,7 @@
 		"citation-key": "molc2.70.1:3",
 		"language": "zh-CN",
 		"note": "type: regulation",
-		"title": "最高人民法院关于适用〈中华人民共和国用事环资法》的解释"
+		"title": "最高人民法院关于适用〈中华人民共和国用事环资法〉的解释"
 	},
 	{
 		"id": "molc2.70.2:1",

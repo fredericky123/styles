@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US">
   <info>
-    <title>社会科学（上海）</title>
-    <id>https://www.zotero-chinese.com/styles/社会科学（上海）</id>
-    <link href="https://www.zotero-chinese.com/styles/社会科学（上海）" rel="self"/>
+    <title>社会科学</title>
+    <id>https://www.zotero-chinese.com/styles/社会科学</id>
+    <link href="https://www.zotero-chinese.com/styles/社会科学" rel="self"/>
     <link href="https://zotero-chinese.com/styles/中国社会科学" rel="template"/>
     <link href="https://shkx.cbpt.cnki.net/WKG/WebPublication/index.aspx" rel="documentation"/>
     <link href="https://mp.weixin.qq.com/s/nUN9aV-Ct5SkFJbAIc_KVw" rel="documentation"/>
@@ -15,7 +15,7 @@
     <category field="social_science"/>
     <issn>0257-5833</issn>
     <summary>《社会科学》编辑体例规范（2022年6月21日）。页下注（注释体例，中国社会科学派生）：期刊文章《刊名》年份第X期；专著 出版地：出版社，出版年，第X页；重复引注简写为 作者：《短题名》，第X页。</summary>
-    <updated>2026-08-06T20:15:53+08:00</updated>
+    <updated>2026-08-06T20:48:14+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

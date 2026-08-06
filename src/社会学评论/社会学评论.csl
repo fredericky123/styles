@@ -5,14 +5,16 @@
     <id>https://www.zotero-chinese.com/styles/社会学评论</id>
     <link href="https://www.zotero-chinese.com/styles/社会学评论" rel="self"/>
     <link href="http://www.zotero.org/styles/chicago-author-date" rel="template"/>
+    <link href="http://src.ruc.edu.cn/CN/news/news14.shtml" rel="documentation"/>
     <author>
       <name>杨家风子</name>
       <email>denghanqing@whu.edu.cn</email>
     </author>
     <category citation-format="author-date"/>
     <category field="sociology"/>
-    <summary>著者-出版年（夹注+文末参考文献）：正文夹注（作者，年份：页码），括号及其中标点中英文统一全角；中文文献以《》包题名、译者后接“译”、编者为“主编”，网页条目附访问日期；英文第一作者姓前名后、期刊卷期连排。依据：《社会学评论》投稿指南（官网 2013-06-01 发布；注释体例说明 2024-01-27 更新）。</summary>
-    <updated>2026-08-05T10:00:00+08:00</updated>
+    <issn>2095-5154</issn>
+    <summary>《社会学评论》注释体例说明（发布日期: 2024-01-27）。著者-出版年（夹注+文末参考文献）：正文夹注（作者，年份：页码），括号及其中标点中英文统一全角；中文文献以《》包题名、译者后接“译”、编者为“主编”，网页条目附访问日期；英文第一作者姓前名后、期刊卷期连排。</summary>
+    <updated>2026-08-06T20:15:52+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -23,7 +25,7 @@
       <term name="collection-editor" form="short">主编</term>
       <term name="editor" form="short">主编</term>
       <term name="editorial-director" form="short">主编</term>
-      <term name="translator" form="short">译</term> 
+      <term name="translator" form="short">译</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>

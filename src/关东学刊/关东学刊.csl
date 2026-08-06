@@ -5,22 +5,16 @@
     <id>https://www.zotero-chinese.com/styles/关东学刊</id>
     <link href="https://www.zotero-chinese.com/styles/关东学刊" rel="self"/>
     <link href="https://zotero-chinese.com/styles/中国社会科学" rel="template"/>
+    <link href="https://gdxk.ccut.edu.cn/info/1007/1004.htm" rel="documentation"/>
     <author>
       <name>杨家风子</name>
       <email>denghanqing@whu.edu.cn</email>
     </author>
-    <contributor>
-      <name>Edward Zhou</name>
-      <email>edwardzhoujiaxi@gmail.com</email>
-    </contributor>
-    <contributor>
-      <name>Zeping Lee</name>
-      <email>zepinglee@gmail.com</email>
-    </contributor>
     <category citation-format="note"/>
     <category field="social_science"/>
-    <summary>页下注（注释体例，中国社会科学派生）：期刊文章《刊名》年份第X期（或 第X卷第X期）；专著 出版地：出版社，出版年，第X页；重复引注保留译者。依据《关东学刊》引文注释编辑规范（官网 2017-11-10 发布）。</summary>
-    <updated>2026-08-05T10:00:00+08:00</updated>
+    <issn>2096-2258</issn>
+    <summary>《关东学刊》引文注释编辑规范（发布时间：2017-11-10）。页下注（注释体例，中国社会科学派生）：期刊文章《刊名》年份第X期（或 第X卷第X期）；专著 出版地：出版社，出版年，第X页；重复引注保留译者。</summary>
+    <updated>2026-08-06T20:15:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
